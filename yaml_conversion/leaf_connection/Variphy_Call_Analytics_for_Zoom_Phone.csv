@@ -1,0 +1,47 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,application provider,
+UNSPECIFIED_DATA,content provider,
+UNSPECIFIED_DATA,online activity over time,advertising
+UNSPECIFIED_DATA,server,
+UNSPECIFIED_DATA,we,"advertising, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, services"
+browser type,we,"advertising, services, analytics"
+communication datum,we,"advertising, services, analytics"
+company name,we,"advertising, services, analytics, legal"
+cookie / pixel tag,advertiser,
+cookie / pixel tag,application provider,
+cookie / pixel tag,content provider,
+cookie / pixel tag,feature of website,
+cookie / pixel tag,server,
+detail of transaction you carry through website,we,"advertising, services"
+email address,we,"advertising, services"
+email address,we,"advertising, services, analytics, legal"
+equipment you use,we,"advertising, services, analytics, legal"
+geolocation,we,"advertising, services, analytics"
+identifier by contact,we,"advertising, services, analytics, legal"
+information about preference,feature of website,
+information about you,advertiser,
+information about you,application provider,
+information about you,content provider,
+information about you,server,
+information you provide by,we,"advertising, services, analytics, legal"
+ip address,we,"advertising, services, analytics"
+local store object,feature of website,
+non-personal information,we,"advertising, services, analytics, legal"
+operating system,we,"advertising, services, analytics"
+person name,we,"advertising, services, analytics, legal"
+personal information,UNSPECIFIED_ACTOR,
+personal information,advertiser,
+personal information,application provider,
+personal information,content provider,
+personal information,contractor,
+personal information,server,
+personal information,service provider,
+personal information,we,"advertising, services, analytics, legal"
+phone number,we,"advertising, services, analytics, legal"
+postal address,we,"advertising, services, analytics, legal"
+record,we,"advertising, services, analytics, legal"
+response to survey we ask you,we,"advertising, services, analytics, legal"
+traffic datum,we,"advertising, services, analytics"
+usage detail,we,"advertising, services, analytics, legal"

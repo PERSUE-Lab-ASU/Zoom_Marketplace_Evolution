@@ -1,0 +1,64 @@
+data_type,collector,purpose
+Facebook,social media,
+Twitter,social media,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advisor,legal
+UNSPECIFIED_DATA,representative,legal
+UNSPECIFIED_DATA,we,"analytics, legal, security"
+accountant,advisor,legal
+action you take within application,we,"analytics, legal, security, advertising"
+attorney,advisor,legal
+browser,we,"analytics, legal, security"
+browser type,we,"analytics, legal, security, advertising, services"
+browser use,we,"analytics, legal, security, advertising"
+browsing / search history,we,"analytics, legal, security"
+browsing / search history,we,"analytics, legal, security, advertising, services"
+content delivery service,service providers,
+cookie / pixel tag,UNSPECIFIED_ACTOR,"advertising, analytics"
+cookie / pixel tag,we,"analytics, legal, security, advertising"
+date,we,"analytics, legal, security, advertising"
+date,we,"analytics, legal, security, advertising, services"
+datum about,we,"analytics, legal, security, advertising"
+demographic information,we,"analytics, legal, security, advertising, services"
+device identifier,we,"analytics, legal, security, advertising, services"
+email address,we,"analytics, legal, security, advertising"
+email address,we,"analytics, legal, security, advertising, services"
+email client type,we,"analytics, legal, security, advertising"
+feedback,we,"analytics, legal, security, advertising"
+gender,we,"analytics, legal, security, advertising, services"
+geolocation,we,"analytics, legal, security, advertising, services"
+hosting service,service providers,
+information about you,we,"analytics, legal, security, advertising"
+information in customer list,we,"analytics, legal, security, advertising"
+information in email,we,"analytics, legal, security, advertising"
+information provide,UNSPECIFIED_ACTOR,"advertising, analytics"
+information provide,service providers,
+information provide,we,"analytics, legal, security, advertising, services"
+information we source from third party partner,we,"analytics, legal, security, advertising, services"
+internet activity,UNSPECIFIED_ACTOR,"advertising, analytics"
+internet activity,we,"analytics, legal, security, advertising, services"
+ip address,social media,
+ip address,we,"analytics, legal, security, advertising"
+ip address,we,"analytics, legal, security, advertising, services"
+language preference,we,"analytics, legal, security, advertising, services"
+link,we,"analytics, legal, security, advertising, services"
+log information,we,"analytics, legal, security, advertising, services"
+mobile network information,we,"analytics, legal, security, advertising, services"
+occupation,we,"analytics, legal, security, advertising, services"
+operating system,we,"analytics, legal, security, advertising, services"
+page view information,we,"analytics, legal, security, advertising, services"
+payment processor,service providers,
+person name,we,"analytics, legal, security, advertising, services"
+personal information,advertiser,advertising
+personal information,company help,
+personal information,service provider,
+personal information,we,"analytics, legal, security, advertising, services"
+personal information we process on behalf of client,we,"analytics, legal, security, advertising, services"
+phone number,we,"analytics, legal, security, advertising, services"
+postal address,we,"analytics, legal, security, advertising, services"
+presence,we,"analytics, legal, security, advertising, services"
+purchase history,we,"analytics, legal, security, advertising, services"
+report,we,"analytics, legal, security, advertising, services"
+search result,we,"analytics, legal, security, advertising, services"
+time,we,"analytics, legal, security, advertising"
+web beacons,we,"analytics, legal, security, advertising, services"

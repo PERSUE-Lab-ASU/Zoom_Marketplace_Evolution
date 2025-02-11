@@ -1,0 +1,11 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+acquire personal information,we,"advertising, analytics"
+browsing / search history,we,"advertising, analytics"
+browsing / search history,we,"advertising, analytics, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,"analytics, services"
+cookie / pixel tag,we,"advertising, analytics"
+preference,we,"advertising, analytics"
+purchase history,we,"advertising, analytics, services"
+retain personal datum,we,"advertising, analytics, services"
+user interest,we,"advertising, analytics"

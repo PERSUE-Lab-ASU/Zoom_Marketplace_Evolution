@@ -1,0 +1,37 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,"legal, security, services"
+biometric information,sub,
+biometric information,timely,"services, advertising, legal"
+biometric information,timely as,
+datum concern health,sub,
+datum concern health,timely,"services, advertising, legal"
+datum concern health,timely as,
+datum concern sex life,sub,
+datum concern sex life,timely,"services, advertising, legal"
+datum concern sex life,timely as,
+genetic datum,sub,
+genetic datum,timely,"services, advertising, legal"
+genetic datum,timely as,
+information about interaction with service,we,
+information about user,UNSPECIFIED_ACTOR,"legal, security, services"
+information about user,karvesvingen,
+information about user,timely as,
+information about you require,we,
+information provide through connection,we,
+personal datum necessary,timely,services
+political opinion,sub,
+political opinion,timely,"services, advertising, legal"
+political opinion,timely as,
+racial origin,sub,
+racial origin,timely,"services, advertising, legal"
+racial origin,timely as,
+religious belief,sub,
+religious belief,timely,"services, advertising, legal"
+religious belief,timely as,
+special category,sub,
+special category,timely,"services, advertising, legal"
+special category,timely as,
+special category of personal datum,timely,"services, advertising, legal"
+trade union membership,sub,
+trade union membership,timely,"services, advertising, legal"
+trade union membership,timely as,

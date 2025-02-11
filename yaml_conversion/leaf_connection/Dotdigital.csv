@@ -1,0 +1,60 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,dotdigital,
+UNSPECIFIED_DATA,we,
+activity,we,"services, analytics, security"
+behavioural datum,we,"services, analytics, security"
+browser,we,"services, analytics, security"
+call,we,services
+cookie / pixel tag,UNSPECIFIED_ACTOR,advertising
+cookie / pixel tag,we,services
+customer contract,we,services
+date,we,"services, analytics, security"
+demographic information,we,"services, analytics, security"
+detail about organisation,we,services
+detail of visitor behaviour pattern,we,services
+email address,UNSPECIFIED_ACTOR,"advertising, services"
+email address,advertiser,advertising
+email address,exchange,advertising
+email address,network,advertising
+email address,we,services
+email address,we,"services, analytics, security, advertising, legal"
+gender,UNSPECIFIED_ACTOR,"advertising, services"
+gender,we,services
+geolocation,we,services
+geolocation,we,"services, analytics, security"
+hose datum,UNSPECIFIED_ACTOR,"advertising, services"
+information about web browsing of site,we,"services, analytics, security"
+information about you,dotdigital,
+information of demographic nature,we,"services, analytics, security"
+information supply to we,we,"services, analytics, security"
+information we collect,we,"services, analytics, security"
+insight,we,"services, analytics, security"
+internet log information,we,"services, analytics, security"
+ip address,we,"services, analytics, security"
+job title,UNSPECIFIED_ACTOR,"advertising, services"
+job title,we,services
+occupation,we,"services, analytics, security"
+person name,UNSPECIFIED_ACTOR,"advertising, services"
+person name,advertiser,advertising
+person name,exchange,advertising
+person name,network,advertising
+person name,we,services
+person name,we,"services, analytics, security"
+person name,we,"services, analytics, security, advertising, legal"
+phone number,we,services
+phone number,we,"services, analytics, security, advertising, legal"
+photo,UNSPECIFIED_ACTOR,"advertising, services"
+position,we,services
+postal address,UNSPECIFIED_ACTOR,"advertising, services"
+postal address,advertiser,advertising
+postal address,exchange,advertising
+postal address,network,advertising
+postal address,we,services
+postal address,we,"services, analytics, security, advertising, legal"
+presence,we,"services, analytics, security, advertising, legal"
+publicly available contact,UNSPECIFIED_ACTOR,"advertising, services"
+record of enquiry on zendesk,we,"services, analytics, security, advertising, legal"
+related personal information,we,"services, analytics, security, advertising, legal"
+social network handle,UNSPECIFIED_ACTOR,"advertising, services"
+website url,UNSPECIFIED_ACTOR,"advertising, services"

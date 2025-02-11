@@ -1,0 +1,8 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Google,
+UNSPECIFIED_DATA,advertiser,advertising
+UNSPECIFIED_DATA,analytic provider,
+device identifier,analytic provider,analytics
+geolocation,we,
+ip address,analytic provider,analytics
+precise geolocation,we,services

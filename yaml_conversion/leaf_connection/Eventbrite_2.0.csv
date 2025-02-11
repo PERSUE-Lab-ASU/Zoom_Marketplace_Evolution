@@ -1,0 +1,84 @@
+data_type,collector,purpose
+2nd floor,we,"advertising, analytics, legal, security, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,"analytics, legal"
+UNSPECIFIED_DATA,we,"advertising, analytics, legal"
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+address send check,we,"advertising, analytics, legal, security, services"
+audio recording of you,sale team,
+bank account information,we,"advertising, analytics, legal, security, services"
+brand sponsor,legal sponsor of contest,
+contact information,UNSPECIFIED_ACTOR,"analytics, legal, services"
+contact information,contractor,
+contact information,function,
+contact information,legal sponsor of contest,
+contact information,organizer,
+contact information,organizer,"advertising, services"
+contact information,organizer charity of fundraising page,
+contact information,organizer of event to link,
+contact information,organizer promote contest,
+contact information,service provider,
+contact information,we,"advertising, analytics, legal, security, services"
+email address,UNSPECIFIED_ACTOR,"analytics, legal, services"
+email address,contractor,
+email address,function,
+email address,legal sponsor of contest,
+email address,organizer,
+email address,organizer,"advertising, services"
+email address,organizer charity of fundraising page,
+email address,organizer of event to link,
+email address,organizer promote contest,
+email address,service provider,
+email address,we,"advertising, analytics, legal, security, services"
+expiration date,we,"advertising, analytics, legal, security, services"
+facebook id,we,"advertising, analytics, legal, security, services"
+friend list,we,"advertising, analytics, legal, security, services"
+geolocation,we,"advertising, analytics, legal, security, services"
+inference,we,"advertising, analytics, legal, security, services"
+information about browser,Facebook,
+information about information practice,we,"advertising, analytics, legal, security, services"
+information about processing of personal datum,organizer,
+information about processing of personal datum,we,"advertising, analytics, legal, security, services"
+information you choose,UNSPECIFIED_ACTOR,"analytics, legal, services"
+information you choose,contractor,
+information you choose,function,
+information you choose,legal sponsor of contest,
+information you choose,organizer,
+information you choose,organizer,"advertising, services"
+information you choose,organizer charity of fundraising page,
+information you choose,organizer of event to link,
+information you choose,organizer promote contest,
+information you choose,service provider,
+information you choose,we,"advertising, analytics, legal, security, services"
+ip address,UNSPECIFIED_ACTOR,"analytics, legal"
+non-personal information,we,"advertising, analytics, legal, security, services"
+nvite,we,"advertising, analytics, legal, security, services"
+person name,UNSPECIFIED_ACTOR,"analytics, legal, services"
+person name,contractor,
+person name,function,
+person name,legal sponsor of contest,
+person name,organizer,
+person name,organizer,"advertising, services"
+person name,organizer charity of fundraising page,
+person name,organizer of event to link,
+person name,organizer promote contest,
+person name,service provider,
+person name,we,"advertising, analytics, legal, security, services"
+personal data of transferee,organizer,
+phone number,we,"advertising, analytics, legal, security, services"
+postal address,UNSPECIFIED_ACTOR,"analytics, legal, services"
+postal address,contractor,
+postal address,function,
+postal address,legal sponsor of contest,
+postal address,organizer,
+postal address,organizer,"advertising, services"
+postal address,organizer charity of fundraising page,
+postal address,organizer of event to link,
+postal address,organizer promote contest,
+postal address,service provider,
+postal address,we,"advertising, analytics, legal, security, services"
+profile picture,we,"advertising, analytics, legal, security, services"
+rally,we,"advertising, analytics, legal, security, services"
+technical datum send to we from computer through you access services,we,"advertising, analytics, legal, security, services"
+third street,we,"advertising, analytics, legal, security, services"
+ticketea,we,"advertising, analytics, legal, security, services"
+ticketfly,we,"advertising, analytics, legal, security, services"

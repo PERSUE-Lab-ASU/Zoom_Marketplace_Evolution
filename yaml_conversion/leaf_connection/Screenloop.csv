@@ -1,0 +1,19 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,provider base in us,
+UNSPECIFIED_DATA,we,
+communication preference,we,
+datum about you,UNSPECIFIED_ACTOR,
+detail of product you purchase from we,we,advertising
+different kind,UNSPECIFIED_ACTOR,
+different kind,we,advertising
+different kind,we,"advertising, legal"
+email address,we,advertising
+personal datum in structured use machine readable format,UNSPECIFIED_ACTOR,
+personal datum in structured use machine readable format,we,advertising
+phone number,we,advertising
+postal address,we,advertising
+preference in,we,"advertising, legal"
+specific information,we,"advertising, legal, security"
+statistical datum,UNSPECIFIED_ACTOR,
+statistical datum,we,
+technical datum about equipment,we,"advertising, legal, security"

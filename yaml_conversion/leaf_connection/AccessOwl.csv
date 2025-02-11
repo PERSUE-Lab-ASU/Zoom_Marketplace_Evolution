@@ -1,0 +1,31 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,services
+basic user information about team member,accessowl,
+chat information send to it via direct message,accessowl,
+cookie / pixel tag,Google,"analytics, services"
+cookie / pixel tag,accessowl,
+cookie / pixel tag,we,"services, advertising, analytics"
+datum about device,we,"services, advertising, analytics"
+datum about error,we,"services, advertising, analytics"
+full detail of allege breach,we,"services, advertising, analytics"
+geolocation,we,"services, advertising, analytics, legal, security"
+information provide,accessowl,
+information you provide,we,"services, advertising, analytics"
+interest,we,"services, advertising, analytics, legal, security"
+ip address,accessowl,
+navigation action,accessowl,
+notification,we,"services, advertising, analytics"
+omni owl gmbh,we,"services, advertising, analytics, legal, security"
+personal information be,we,"services, advertising, analytics, legal, security"
+personal information we hold about you,we,"services, advertising, analytics, legal, security"
+photo,UNSPECIFIED_ACTOR,"analytics, services"
+photo,we,services
+photo,we,"services, advertising, analytics, legal, security"
+pylon tigris data,UNSPECIFIED_ACTOR,"analytics, services"
+pylon tigris data,we,"services, advertising, analytics, legal, security"
+specific information,we,"services, advertising, analytics, legal, security"
+specific piece of personal information we collect about you,UNSPECIFIED_ACTOR,"analytics, services"
+specific piece of personal information we collect about you,we,"services, advertising, analytics, legal, security"
+standard datum provide,we,"services, advertising, analytics, legal, security"
+target group targeting,we,"services, advertising, analytics, legal, security"
+user pattern on website,Google,"analytics, services, advertising"

@@ -1,0 +1,32 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"analytics, services"
+address book contact,we,"analytics, services"
+calendar event,we,"analytics, services"
+chat comment,we,"analytics, services, security"
+company name,UNSPECIFIED_ACTOR,"security, services"
+company name,we,"analytics, services, security"
+cookie / pixel tag,we,"analytics, services, security"
+credit / debit card number,UNSPECIFIED_ACTOR,
+credit / debit card number,we,"analytics, services"
+datum collect from user of missive application,missive,
+device manufacturer,we,"analytics, services"
+email address,UNSPECIFIED_ACTOR,
+email address,we,"analytics, services"
+email address,we,"analytics, services, security"
+heliom,missive,
+internet activity,we,"analytics, services"
+ip address,we,"analytics, services, security"
+message send to external channel,we,"analytics, services, security"
+messaging datum,we,"analytics, services, security"
+operating system name,we,"analytics, services"
+password,we,"analytics, services"
+person name,UNSPECIFIED_ACTOR,
+person name,UNSPECIFIED_ACTOR,"security, services"
+person name,we,"analytics, services"
+person name,we,"analytics, services, security"
+phone number,we,"analytics, services"
+postal address,we,"analytics, services"
+screen dimension,we,"analytics, services"
+sms,we,"analytics, services, security"
+third party login token,we,"analytics, services"
+upload file,we,"analytics, services, security"

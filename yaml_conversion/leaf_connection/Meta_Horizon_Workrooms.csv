@@ -1,0 +1,134 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Luxottica Group,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,distributor,
+UNSPECIFIED_DATA,luxottica,"legal, services"
+UNSPECIFIED_DATA,manufacturer,
+UNSPECIFIED_DATA,meta,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+abstract facial expression datum,we,"advertising, analytics, legal, services"
+abstract fit adjustment datum,we,"advertising, analytics, legal, services"
+abstract gaze datum,we,"advertising, analytics, legal, services"
+abstract hand datum,we,"advertising, analytics, legal, services"
+abstracted gaze datum,UNSPECIFIED_ACTOR,services
+achievement,we,"advertising, analytics, legal, services, security"
+additional data,meta,
+age,we,"advertising, analytics, legal, services"
+aggregate / deidentified / pseudonymized information,luxottica,"legal, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, legal, services"
+amount of time it take,we,"advertising, analytics, legal, services, security"
+app invite,app developer,
+app invite,we,"advertising, analytics, legal, services, security"
+authorization token,we,"advertising, analytics, legal, services"
+authorization token,we,"advertising, analytics, legal, services, security"
+avatar in app profile information,we,"advertising, analytics, legal, services, security"
+block user,app developer,
+block user,we,"advertising, analytics, legal, services, security"
+choose language,we,"advertising, analytics, legal, services"
+cookie / pixel tag,we,"advertising, analytics, legal, services"
+crash log information,we,"advertising, analytics, legal, services, security"
+credit / debit card number,we,"advertising, analytics, legal, services, security"
+date,we,"advertising, analytics, legal, services, security"
+date of birth,app developer,
+date of birth,we,"advertising, analytics, legal, services, security"
+datum about interaction with fit adjustment,we,"advertising, analytics, legal, services, security"
+datum about interaction with natural facial expressions,we,"advertising, analytics, legal, services, security"
+datum relate to voice interaction,we,"advertising, analytics, legal, services, security"
+destination,app developer,
+destination,we,"advertising, analytics, legal, services, security"
+device performance datum,we,"advertising, analytics, legal, services, security"
+device performance information,we,"advertising, analytics, legal, services, security"
+dimension,we,"advertising, analytics, legal, services, security"
+email address,luxottica,"legal, services"
+email address,we,"advertising, analytics, legal, services, security"
+environmental information,we,"advertising, analytics, legal, services, security"
+essential data,meta,
+essential data,we,"advertising, analytics, legal, services, security"
+eye tracking,we,"advertising, analytics, legal, services, security"
+fit adjustment,we,"advertising, analytics, legal, services, security"
+fitness information,we,"advertising, analytics, legal, services, security"
+follower,app developer,
+follower,we,"advertising, analytics, legal, services, security"
+hand tracking,we,"advertising, analytics, legal, services, security"
+hardware version of device,UNSPECIFIED_ACTOR,"services, legal, security"
+hardware version of device,service provider,
+hardware version of device,we,"advertising, analytics, legal, services, security"
+headset adjustment tip,we,"advertising, analytics, legal, services, security"
+information about account,UNSPECIFIED_ACTOR,"services, legal, security"
+information about account,we,"advertising, analytics, legal, services, security"
+information about connection to user as,we,"advertising, analytics, legal, services, security"
+information about gameplay activity as,we,"advertising, analytics, legal, services, security"
+information about physical environment,we,"advertising, analytics, legal, services, security"
+information about smart glasses purchase through own channel,we,"advertising, analytics, legal, services, security"
+information about store voice conversation,we,"advertising, analytics, legal, services, security"
+information about voice interaction,we,"advertising, analytics, legal, services, security"
+information about you,UNSPECIFIED_ACTOR,"services, legal, security"
+information about you,we,"advertising, analytics, legal, services, security"
+information from meta vr products,we,"advertising, analytics, legal, services, security"
+information help,we,"advertising, analytics, legal, services, security"
+information regard,we,"advertising, analytics, legal, services, security"
+information relate to,we,"advertising, analytics, legal, services, security"
+information relate to profile,we,"advertising, analytics, legal, services, security"
+insight,luxottica,"legal, services"
+insight,we,"advertising, analytics, legal, services, security"
+internet activity,we,"advertising, analytics, legal, services, security"
+list of follower,we,"advertising, analytics, legal, services, security"
+local storage,we,"advertising, analytics, legal, services, security"
+medium,meta ai,services
+medium,we,"advertising, analytics, legal, services, security"
+meta horizon profile datum,app developer,
+meta horizon profile datum,we,"advertising, analytics, legal, services, security"
+meta horizon profile information,app you use,
+meta horizon profile information,we,"advertising, analytics, legal, services, security"
+mobile device setting,we,"advertising, analytics, legal, services, security"
+movement,we,"advertising, analytics, legal, services, security"
+natural facial expressions,we,"advertising, analytics, legal, services, security"
+number of calorie you burn be,we,"advertising, analytics, legal, services, security"
+number of gesture you make,we,"advertising, analytics, legal, services, security"
+object you build,we,"advertising, analytics, legal, services"
+performance attribute,we,"advertising, analytics, legal, services, security"
+person name,luxottica,"legal, services"
+person name,we,"advertising, analytics, legal, services, security"
+personal characteristic,we,"advertising, analytics, legal, services, security"
+personal identifier,app developer,
+personal identifier,we,"advertising, analytics, legal, services, security"
+personal information,meta,
+personal information,we,"advertising, analytics, legal, services, security"
+photo,we,"advertising, analytics, legal, services"
+photo,we,"advertising, analytics, legal, services, security"
+photo you take,UNSPECIFIED_ACTOR,"services, legal, security"
+photo you take,we,"advertising, analytics, legal, services, security"
+picture,we,"advertising, analytics, legal, services, security"
+picture you post,we,"advertising, analytics, legal, services"
+pixel,we,"advertising, analytics, legal, services, security"
+precise geolocation,we,"advertising, analytics, legal, services, security"
+profile name,we,"advertising, analytics, legal, services, security"
+profile name profile picture,we,"advertising, analytics, legal, services, security"
+prompt you use,UNSPECIFIED_ACTOR,"services, legal, security"
+prompt you use,we,"advertising, analytics, legal, services, security"
+raw image of surrounding,sensor on meta quest,
+record audio,we,"advertising, analytics, legal, services, security"
+recording,UNSPECIFIED_ACTOR,"services, legal, security"
+recording,service provider,
+recording,we,"advertising, analytics, legal, services, security"
+setting,we,"advertising, analytics, legal, services, security"
+smart glasses sensor relate to content,we,"advertising, analytics, legal, services, security"
+statistic,we,"advertising, analytics, legal, services, security"
+subscription,app developer,
+subscription,we,"advertising, analytics, legal, services, security"
+system log,we,"advertising, analytics, legal, services, security"
+technical system information about device you use,we,"advertising, analytics, legal, services, security"
+third party service usage,we,"advertising, analytics, legal, services, security"
+time,we,"advertising, analytics, legal, services, security"
+tracking quality,we,"advertising, analytics, legal, services, security"
+transcript,UNSPECIFIED_ACTOR,"services, legal, security"
+transcript,service provider,
+transcript,we,"advertising, analytics, legal, services, security"
+transcript of voice interaction,we,"advertising, analytics, legal, services, security"
+voice,we,"advertising, analytics, legal, services, security"
+voice storage,UNSPECIFIED_ACTOR,"services, legal, security"
+voice storage,service provider,services
+voice storage,we,"advertising, analytics, legal, services, security"
+voiceprint,UNSPECIFIED_ACTOR,"services, legal, security"
+voiceprint,service provider,services
+voiceprint,we,"advertising, analytics, legal, services, security"

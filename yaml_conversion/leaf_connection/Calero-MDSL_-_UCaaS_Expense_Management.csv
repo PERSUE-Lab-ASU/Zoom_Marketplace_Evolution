@@ -1,0 +1,34 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,employee,
+UNSPECIFIED_DATA,we,"advertising, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, services"
+browser plug in type,we,"advertising, services"
+browser plug in type,we,"advertising, services, legal, analytics, security"
+browser type,we,"advertising, services"
+browser type,we,"advertising, services, legal, analytics, security"
+cookie / pixel tag,we,"advertising, services, legal"
+corporate website,we,"advertising, services, legal, analytics, security"
+datum about you,UNSPECIFIED_ACTOR,
+different kind,UNSPECIFIED_ACTOR,
+different kind,employee,
+different kind,host solution,
+different kind,party set,
+different kind,we,"advertising, services, legal"
+different kind,we,"advertising, services, legal, analytics, security"
+different method,we,"advertising, services, legal"
+geolocation,we,"advertising, services, legal"
+geolocation,we,"advertising, services, legal, analytics, security"
+ip address,we,"advertising, services, legal"
+ip address,we,"advertising, services, legal, analytics, security"
+login datum,we,"advertising, services, legal"
+login datum,we,"advertising, services, legal, analytics, security"
+manage service,we,"advertising, services, legal, analytics, security"
+personal datum in structured use machine readable format,UNSPECIFIED_ACTOR,
+personal datum in structured use machine readable format,we,"advertising, services, legal"
+professional service,we,"advertising, services, legal, analytics, security"
+specific information,we,"advertising, services, legal, analytics, security"
+staff,party set,
+subscription service,we,"advertising, services, legal, analytics, security"
+support service,we,"advertising, services, legal, analytics, security"
+time zone setting,we,"advertising, services, legal, analytics, security"
+training,we,"advertising, services, legal, analytics, security"

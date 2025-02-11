@@ -1,0 +1,73 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,corporate affiliate,
+UNSPECIFIED_DATA,vanta,"security, services"
+UNSPECIFIED_DATA,we,
+account datum,vanta,"security, services"
+account detail,vanta,"security, services"
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,analytics
+aggregate / deidentified / pseudonymized information,prospect,analytics
+aggregate / deidentified / pseudonymized information,vanta,"security, services, analytics"
+aggregate service datum,vanta,"security, services, analytics"
+applicable mobile application,we,
+applicant datum,we,
+application id,vanta,"security, services, analytics"
+banking information,payment processor,
+banking information,vanta,"security, services, analytics"
+browser configuration,we,
+browser type,we,
+business address submit,vanta,"security, services, analytics"
+cookie / pixel tag,UNSPECIFIED_ACTOR,"analytics, advertising"
+cookie / pixel tag,advertiser,
+cookie / pixel tag,analytic provider,
+cookie / pixel tag,marketing provider,
+cookie / pixel tag,vanta,"security, services, analytics"
+cookie / pixel tag,vanta,"security, services, analytics, advertising"
+cookie / pixel tag,we,
+crash datum,vanta,"security, services, analytics"
+credential,we,
+credit / debit card number,payment processor,
+credit / debit card number,vanta,"security, services, analytics"
+customer datum,we,
+date,we,
+datum about organization,vanta,"security, services, analytics"
+device identifier,vanta,"security, services, analytics"
+device setting,vanta,"security, services, analytics"
+domain,vanta,"security, services, analytics"
+email address,law enforcement agency,
+email address,vanta,"security, services, analytics"
+geolocation,vanta,"security, services, analytics"
+information constitute personal datum,vanta,"security, services, analytics, advertising"
+information make,vanta,"security, services, analytics, advertising"
+internal analytic,we,
+internet activity,UNSPECIFIED_ACTOR,"analytics, advertising"
+ip address,vanta,"security, services, analytics, advertising"
+ip address,we,
+language preference,we,
+operate system,vanta,"security, services, analytics"
+other information,vanta,"security, services, analytics, advertising"
+password,vanta,"security, services, analytics, advertising"
+personal information vanta collect over last month,vanta,"security, services, analytics, advertising"
+phone number,vanta,"security, services, analytics, advertising"
+postal address,payment processor,
+postal address,vanta,"security, services, analytics"
+postal address,we,
+product development,we,
+service data,vanta,"security, services, analytics, advertising"
+setting,we,
+specific piece,advertiser,
+specific piece,analytic provider,
+specific piece,marketing provider,
+specific piece,vanta,"security, services, analytics, advertising"
+specific piece,we,
+time,we,
+usage information,advertiser,
+usage information,analytic provider,
+usage information,marketing provider,
+usage information,vanta,"security, services, analytics, advertising"
+usage information,we,
+user conference,we,
+username,vanta,"security, services, analytics, advertising"
+vanta website,we,
+vanta.com,we,
+website visitor information,we,

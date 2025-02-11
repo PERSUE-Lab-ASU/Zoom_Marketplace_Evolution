@@ -1,0 +1,128 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,security
+browser,UNSPECIFIED_ACTOR,
+browser,business partner,
+browser,competent law enforcement body,
+browser,smarsh,"advertising, services"
+browser,smarsh employee,
+browser,supplier,
+browser,we,"security, advertising, services"
+browser,we,"security, advertising, services, analytics"
+browser,we,"security, advertising, services, analytics, legal"
+browser,website intake form,services
+browser type,smarsh,"advertising, services"
+coarse geolocation,UNSPECIFIED_ACTOR,
+coarse geolocation,business partner,
+coarse geolocation,competent law enforcement body,
+coarse geolocation,smarsh,"advertising, services"
+coarse geolocation,smarsh employee,
+coarse geolocation,supplier,
+coarse geolocation,we,"security, advertising, services"
+coarse geolocation,we,"security, advertising, services, analytics"
+coarse geolocation,we,"security, advertising, services, analytics, legal"
+coarse geolocation,website intake form,services
+company name,we,"security, advertising, services, analytics, legal"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,advertiser,
+cookie / pixel tag,business partner,
+cookie / pixel tag,competent law enforcement body,
+cookie / pixel tag,smarsh,
+cookie / pixel tag,smarsh,"advertising, services"
+cookie / pixel tag,smarsh employee,
+cookie / pixel tag,supplier,
+cookie / pixel tag,we,"security, advertising, services, analytics"
+cookie / pixel tag,website intake form,services
+date of arrival,we,"security, advertising, services, analytics, legal"
+detail about software environment,UNSPECIFIED_ACTOR,
+detail about software environment,business partner,
+detail about software environment,competent law enforcement body,
+detail about software environment,smarsh,"advertising, services"
+detail about software environment,smarsh employee,
+detail about software environment,supplier,
+detail about software environment,we,"security, advertising, services"
+detail about software environment,we,"security, advertising, services, analytics"
+detail about software environment,website intake form,services
+device type,UNSPECIFIED_ACTOR,
+device type,business partner,
+device type,competent law enforcement body,
+device type,smarsh,"advertising, services"
+device type,smarsh employee,
+device type,supplier,
+device type,we,"security, advertising, services"
+device type,we,"security, advertising, services, analytics"
+device type,we,"security, advertising, services, analytics, legal"
+device type,website intake form,services
+email address,UNSPECIFIED_ACTOR,
+email address,business partner,
+email address,competent law enforcement body,
+email address,smarsh,"advertising, services"
+email address,smarsh employee,
+email address,supplier,
+email address,we,"security, advertising, services"
+email address,we,"security, advertising, services, analytics"
+email address,we,"security, advertising, services, analytics, legal"
+email address,website intake form,services
+information about interaction with website,we,"security, advertising, services"
+information about you,smarsh,"advertising, services"
+information regard investigation of complaint,smarsh,"advertising, services"
+internet activity,service provider operate on behalf,
+internet activity,we,"security, advertising, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,business partner,
+ip address,competent law enforcement body,
+ip address,smarsh,"advertising, services"
+ip address,smarsh employee,
+ip address,supplier,
+ip address,we,"security, advertising, services"
+ip address,we,"security, advertising, services, analytics"
+ip address,we,"security, advertising, services, analytics, legal"
+ip address,website intake form,services
+job title,UNSPECIFIED_ACTOR,
+job title,business partner,
+job title,competent law enforcement body,
+job title,smarsh,"advertising, services"
+job title,smarsh employee,
+job title,supplier,
+job title,we,"security, advertising, services"
+job title,we,"security, advertising, services, analytics"
+job title,we,"security, advertising, services, analytics, legal"
+job title,website intake form,services
+language of browser,smarsh,"advertising, services"
+non-personal information,advertiser,advertising
+payment information,we,"security, advertising, services"
+person name,we,"security, advertising, services, analytics, legal"
+phone number,UNSPECIFIED_ACTOR,
+phone number,business partner,
+phone number,competent law enforcement body,
+phone number,smarsh,"advertising, services"
+phone number,smarsh employee,
+phone number,supplier,
+phone number,we,"security, advertising, services"
+phone number,we,"security, advertising, services, analytics"
+phone number,we,"security, advertising, services, analytics, legal"
+phone number,website intake form,services
+photograph,we,"security, advertising, services, analytics, legal"
+postal address,UNSPECIFIED_ACTOR,
+postal address,business partner,
+postal address,competent law enforcement body,
+postal address,smarsh,"advertising, services"
+postal address,smarsh employee,
+postal address,supplier,
+postal address,we,"security, advertising, services"
+postal address,we,"security, advertising, services, analytics"
+postal address,we,"security, advertising, services, analytics, legal"
+postal address,website intake form,services
+recur automate promotional marketing text message,UNSPECIFIED_ACTOR,
+recur automate promotional marketing text message,smarsh,"advertising, services"
+technical information,UNSPECIFIED_ACTOR,
+technical information,business partner,
+technical information,competent law enforcement body,
+technical information,smarsh,"advertising, services"
+technical information,smarsh employee,
+technical information,supplier,
+technical information,we,"security, advertising, services"
+technical information,we,"security, advertising, services, analytics"
+technical information,we,"security, advertising, services, analytics, legal"
+technical information,website intake form,services
+time,we,"security, advertising, services, analytics, legal"
+verifiable consumer request,we,"security, advertising, services, analytics, legal"

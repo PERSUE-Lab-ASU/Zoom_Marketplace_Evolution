@@ -1,0 +1,42 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,business partner,advertising
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+activity,we,"advertising, analytics, legal, services"
+browser plug in type,we,"advertising, analytics, legal, services"
+browser type,UNSPECIFIED_ACTOR,
+browser type,we,"advertising, analytics, legal, services"
+browser version,UNSPECIFIED_ACTOR,
+browser version,we,"advertising, analytics, legal, services"
+collect datum,Google,advertising
+contact list associate with account,we,"advertising, analytics, legal, services"
+credit / debit card number,third party payment processor govern,
+date,UNSPECIFIED_ACTOR,
+date,we,"advertising, analytics, legal, services"
+datum collect,Google,"advertising, analytics"
+device identifier,UNSPECIFIED_ACTOR,
+device identifier,we,"advertising, analytics, legal, services"
+diagnostic datum,UNSPECIFIED_ACTOR,
+diagnostic datum,we,"advertising, analytics, legal, services"
+email address,we,"advertising, analytics, legal, services"
+geolocation,we,"advertising, analytics, legal, services"
+information about,UNSPECIFIED_ACTOR,
+information about,we,"advertising, analytics, legal, services"
+information browser send,we,"advertising, analytics, legal, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,we,"advertising, analytics, legal, services"
+login datum,we,"advertising, analytics, legal, services"
+person name,we,"advertising, analytics, legal, services"
+personal datum in structured use machine readable format,UNSPECIFIED_ACTOR,
+personal datum in structured use machine readable format,we,"advertising, analytics, legal, services"
+personal information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+personal information,business partner,"advertising, analytics, services"
+personal information,service provider,"advertising, analytics, services"
+personal information,service provider we use,
+personal information,we,"advertising, analytics, legal, services"
+phone number,we,"advertising, analytics, legal, services"
+postal address,we,"advertising, analytics, legal, services"
+time,UNSPECIFIED_ACTOR,
+time,we,"advertising, analytics, legal, services"
+time zone setting,we,"advertising, analytics, legal, services"
+version,we,"advertising, analytics, legal, services"

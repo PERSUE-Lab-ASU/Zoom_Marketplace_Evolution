@@ -1,0 +1,61 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,pipedream,
+UNSPECIFIED_DATA,subprocessor,
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services"
+api response,pipedream,
+biography,pipedream,services
+biography,service provider who process it on behalf,
+biography,we,"advertising, analytics, security, services, legal"
+browser type,we,"advertising, analytics, security, services"
+cookie / pixel tag,pipedream,services
+cookie / pixel tag,service provider who process it on behalf,
+cookie / pixel tag,we,"advertising, analytics, security, services"
+cookie / pixel tag,we,"advertising, analytics, security, services, legal"
+credit / debit card number,pipedream,services
+customer record,we,"advertising, analytics, security, services, legal"
+date,we,"advertising, analytics, security, services, legal"
+datum element,we,"advertising, analytics, security, services, legal"
+email address,pipedream,
+email address,we,"advertising, analytics, security, services, legal"
+geolocation,pipedream,services
+geolocation,service provider who process it on behalf,
+geolocation,we,"advertising, analytics, security, services, legal"
+information connect to,pipedream,services
+information connect to,service provider who process it on behalf,
+information connect to,we,"advertising, analytics, security, services, legal"
+information customer provide to we,we,"advertising, analytics, security, services, legal"
+information we collect about you,pipedream,services
+information we collect in united states,we,"advertising, analytics, security, services, legal"
+information we use in own corporate capacity,we,"advertising, analytics, security, services, legal"
+ip address,pipedream,services
+ip address,service provider who process it on behalf,
+ip address,we,"advertising, analytics, security, services, legal"
+language preference,we,"advertising, analytics, security, services, legal"
+log,pipedream,services
+non-personal information,UNSPECIFIED_ACTOR,
+non-personal information,we,"advertising, analytics, security, services, legal"
+number,we,"advertising, analytics, security, services, legal"
+number of star on pipeline template,we,"advertising, analytics, security, services, legal"
+number of time access,we,"advertising, analytics, security, services, legal"
+page view,pipedream,services
+page view,service provider who process it on behalf,
+page view,we,"advertising, analytics, security, services, legal"
+person name,pipedream,services
+person name,service provider who process it on behalf,
+person name,we,"advertising, analytics, security, services, legal"
+photograph,pipedream,services
+photograph,service provider who process it on behalf,
+photograph,we,"advertising, analytics, security, services, legal"
+same basic information most website collect,we,"advertising, analytics, security, services, legal"
+time stamp,pipedream,services
+time stamp,service provider who process it on behalf,
+time stamp,we,"advertising, analytics, security, services, legal"
+url to third party website,pipedream,services
+url to third party website,service provider who process it on behalf,
+url to third party website,we,"advertising, analytics, security, services, legal"
+user account identifier,pipedream,services
+user account identifier,service provider who process it on behalf,
+user account identifier,we,"advertising, analytics, security, services, legal"
+user name,pipedream,services
+user name,service provider who process it on behalf,
+user name,we,"advertising, analytics, security, services, legal"

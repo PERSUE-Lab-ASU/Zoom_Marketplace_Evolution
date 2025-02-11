@@ -1,0 +1,20 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,services
+access,we,"services, analytics"
+anonymous identifier,we,"services, analytics, advertising, security"
+browser type,we,"services, analytics, advertising, security"
+browser version,we,"services, analytics, advertising, security"
+collect datum,we,"services, analytics, advertising, security"
+contact information,we,"services, analytics, advertising, security"
+date,we,"services, analytics, advertising, security"
+device identifier,we,"services, analytics, advertising, security"
+diagnostic datum,we,"services, analytics, advertising, security"
+email address,we,"services, analytics, advertising, security"
+information on,we,"services, analytics, advertising, security"
+ip address,we,"services, analytics, advertising, security"
+person name,we,"services, analytics, advertising, security"
+personal information,UNSPECIFIED_ACTOR,services
+personal information,trelica limited,legal
+personal information,we,"services, analytics, advertising, security"
+several different type,we,"services, analytics, advertising, security"
+time,we,"services, analytics, advertising, security"

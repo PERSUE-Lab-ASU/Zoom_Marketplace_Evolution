@@ -1,0 +1,58 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,propensity,
+UNSPECIFIED_DATA,we,
+access time,calendly,
+access time,propensity,
+access time,wing,"advertising, analytics"
+activity on services,UNSPECIFIED_ACTOR,"advertising, analytics"
+activity on services,relevant national law enforcement authority,
+activity on services,user,security
+activity on services,we,"analytics, services, security"
+activity on services,wing,"advertising, analytics"
+amount,Intercom,
+amount,wing,
+beacon,HubSpot,"advertising, analytics"
+browser information,Hotjar,
+communication send,we,
+cookie / pixel tag,Hotjar,
+cookie / pixel tag,HubSpot,"advertising, analytics"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,user,
+cookie / pixel tag,we,"analytics, services"
+data user provide company with via service,we,"analytics, services"
+datum on behavior,Hotjar,
+email address,Auth0,
+email address,Intercom,services
+email address,UNSPECIFIED_ACTOR,"advertising, analytics"
+email address,calendly,
+email address,relevant national law enforcement authority,
+email address,user,security
+email address,we,"analytics, services, security"
+email address,wing,"advertising, analytics"
+gender,Intercom,services
+gender,calendly,
+information about use of service,wing,"advertising, analytics"
+information about user,UNSPECIFIED_ACTOR,"advertising, analytics"
+information about user,wing,"advertising, analytics"
+information company collect,we,"analytics, services"
+job title,Intercom,services
+job title,calendly,
+name address,calendly,
+person name,Auth0,
+phone number,Intercom,services
+phone number,calendly,
+photo,Intercom,services
+photo,calendly,
+postal address,Intercom,services
+postal address,calendly,
+social network handle,Intercom,services
+social network handle,calendly,
+user datum,we,"analytics, services, security"
+web datum,propensity,
+web datum,wing,"advertising, analytics"
+web page visit,calendly,
+web page visit,propensity,
+web page visit,wing,"advertising, analytics"
+website url,Intercom,services
+website url,calendly,

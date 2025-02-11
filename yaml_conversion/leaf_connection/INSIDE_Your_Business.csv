@@ -1,0 +1,13 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"legal, security"
+business email,we,"legal, security"
+cookie / pixel tag,advertiser,advertising
+cookie / pixel tag,we,"legal, security, services"
+identifier,we,"legal, security, services"
+information about your,we,"legal, security, services"
+internet activity,we,"legal, security, services"
+nickname,we,"legal, security, services"
+person name,we,"legal, security, services"
+postal address,we,"legal, security, services"
+powerfront inc,we,"legal, security, services"
+zoom account datum,UNSPECIFIED_ACTOR,

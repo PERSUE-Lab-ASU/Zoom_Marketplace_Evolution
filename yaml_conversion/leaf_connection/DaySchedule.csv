@@ -1,0 +1,10 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+UNSPECIFIED_DATA,we,"services, advertising, analytics, security, legal"
+contact information,we,services
+cookie / pixel tag,we,"services, advertising, analytics, security"
+datum storage,we,"services, advertising, analytics, security, legal"
+information apply to software,we,"services, advertising, analytics, security"
+internet activity,we,"services, advertising, analytics, security"
+personal information,we,"services, advertising, analytics, security"
+user information,we,"services, advertising, analytics, security, legal"

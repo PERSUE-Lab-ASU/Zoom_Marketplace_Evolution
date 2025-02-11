@@ -1,0 +1,94 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,service provider,"analytics, legal, security, services"
+UNSPECIFIED_DATA,we,
+UNSPECIFIED_DATA,we,"analytics, services, advertising, security, legal"
+access to personal information we hold about you,we,
+advertiser,service provider,"analytics, legal, security, services, advertising"
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+analytic provider,service provider,"analytics, legal, security, services, advertising"
+cookie / pixel tag,service provider,"analytics, legal, security, services, advertising"
+cookie / pixel tag,we,"analytics, services, advertising, security, legal"
+copy,we,"analytics, services"
+crm software provider,service provider,"analytics, legal, security, services, advertising"
+customer record identify,UNSPECIFIED_ACTOR,
+customer record identify,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+customer record identify,employer,"advertising, services"
+customer record identify,employer who post job opening you apply to,services
+customer record identify,service provider,
+customer record identify,service provider,"analytics, legal, security, services"
+customer record identify,service provider,"analytics, legal, security, services, advertising"
+customer record identify,we,"analytics, services"
+customer record identify,we,"analytics, services, advertising, security, legal"
+customer service software provider,service provider,"analytics, legal, security, services, advertising"
+d. internet,UNSPECIFIED_ACTOR,
+d. internet,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+d. internet,employer,"advertising, services"
+d. internet,employer who post job opening you apply to,services
+d. internet,service provider,
+d. internet,service provider,"analytics, legal, security, services"
+d. internet,service provider,"analytics, legal, security, services, advertising"
+d. internet,we,"analytics, services"
+d. internet,we,"analytics, services, advertising, security, legal"
+detail of action you carry through website,we,"analytics, services"
+driving license,we,"analytics, services"
+email service provider,service provider,"analytics, legal, security, services, advertising"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+geolocation,employer,"advertising, services"
+geolocation,employer who post job opening you apply to,services
+geolocation,service provider,
+geolocation,service provider,"analytics, legal, security, services"
+geolocation,service provider,"analytics, legal, security, services, advertising"
+geolocation,we,"analytics, services"
+geolocation,we,"analytics, services, advertising, security, legal"
+hosting,service provider,"analytics, legal, security, services, advertising"
+individual opt choice,we,"analytics, services"
+information about you,we,"analytics, services"
+information hold about you,we,"analytics, services, advertising"
+information you provide by,we,"analytics, services, advertising"
+logging service provider,service provider,"analytics, legal, security, services, advertising"
+passport,we,"analytics, services"
+payment processor,service provider,"analytics, legal, security, services, advertising"
+person name,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+person name,employer,"advertising, services"
+person name,employer who post job opening you apply to,services
+person name,service provider,"analytics, legal, security, services"
+person name,service provider,"analytics, legal, security, services, advertising"
+person name,we,"analytics, services, advertising, security, legal"
+personal data collect,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+personal data collect,employer,"advertising, services"
+personal data collect,employer who post job opening you apply to,services
+personal data collect,service provider,"analytics, legal, security, services"
+personal data collect,service provider,"analytics, legal, security, services, advertising"
+personal data collect,we,"analytics, services, advertising, security, legal"
+personal data of job applicant,we,"analytics, services, advertising"
+personal datum provide in valid request,we,"analytics, services, advertising, security"
+personal identifier,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+personal identifier,employer,"advertising, services"
+personal identifier,employer who post job opening you apply to,services
+personal identifier,service provider,"analytics, legal, security, services"
+personal identifier,service provider,"analytics, legal, security, services, advertising"
+personal identifier,we,"analytics, services, advertising, security, legal"
+phone number,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+phone number,employer,"advertising, services"
+phone number,employer who post job opening you apply to,services
+phone number,service provider,"analytics, legal, security, services"
+phone number,service provider,"analytics, legal, security, services, advertising"
+phone number,we,"analytics, services, advertising, security, legal"
+postal address,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+postal address,employer,"advertising, services"
+postal address,employer who post job opening you apply to,services
+postal address,service provider,"analytics, legal, security, services"
+postal address,service provider,"analytics, legal, security, services, advertising"
+postal address,we,"analytics, services, advertising, security, legal"
+recent utility bill,we,"analytics, services"
+record,we,"analytics, services, advertising, security, legal"
+record of correspondence,we,"analytics, services, advertising, security, legal"
+security consultant,service provider,"analytics, legal, security, services, advertising"
+signature,UNSPECIFIED_ACTOR,"analytics, legal, security, services"
+signature,employer,"advertising, services"
+signature,employer who post job opening you apply to,services
+signature,service provider,"analytics, legal, security, services"
+signature,service provider,"analytics, legal, security, services, advertising"
+signature,we,"analytics, services, advertising, security, legal"
+specific piece of personal data we collect about you,we,"analytics, services, advertising, security, legal"

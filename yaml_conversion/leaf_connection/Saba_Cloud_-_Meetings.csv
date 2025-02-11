@@ -1,0 +1,25 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,affiliated parties,
+UNSPECIFIED_DATA,we,services
+UNSPECIFIED_DATA,we,"services, advertising, analytics, security"
+anonymous identifier,cornerstone,
+anonymous identifier,we,"services, advertising, analytics, security"
+datum log,we,"services, advertising, analytics, security"
+email address,UNSPECIFIED_ACTOR,
+email address,we,"services, advertising, analytics, security"
+functionality,cornerstone,
+functionality,we,"services, advertising, analytics, security"
+information necessary,cornerstone,
+information necessary,we,"services, advertising, analytics, security"
+information regard visit,we,"services, advertising, analytics, security"
+ip address,UNSPECIFIED_ACTOR,
+ip address,we,"services, advertising, analytics, security"
+many different type,cornerstone,
+many different type,we,"services, advertising, analytics, security"
+person name,UNSPECIFIED_ACTOR,
+person name,we,"services, advertising, analytics, security"
+personal identifier,we,"services, advertising, analytics, security"
+personally identifiable aggregate statistic regard user behavior,we,"services, advertising, analytics, security"
+secure sockets layer encryption,we,"services, advertising, analytics, security"
+top talent,UNSPECIFIED_ACTOR,
+web usage activity,we,"services, advertising, analytics, security"

@@ -1,0 +1,39 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,legal
+business,we,"legal, analytics, services"
+business decision making,contractor,analytics
+business decision making,we,"legal, analytics"
+clickstream data,contractor,analytics
+clickstream data,we,"legal, analytics"
+clickstream datum,UNSPECIFIED_ACTOR,advertising
+clickstream datum,we,"legal, analytics"
+clickstream datum,we,"legal, analytics, services"
+cookie / pixel tag,we,"legal, analytics, services"
+credit / debit card number,we,"legal, analytics, services"
+customer information relate to transaction with affiliated business,affiliated business,
+customer personal information,we,"legal, analytics, services"
+email address,we,"legal, analytics, services"
+facsimile number,we,"legal, analytics, services"
+http protocol element,we,"legal, analytics, services"
+information about customer,UNSPECIFIED_ACTOR,advertising
+information enter on barraiser website,we,"legal, analytics, services"
+information necessary,we,"legal, analytics, services"
+information provide,we,"legal, analytics, services"
+method of payment,we,"legal, analytics, services"
+password,we,"legal, analytics, services"
+person name,client account administrator,
+person name,we,legal
+person name,we,"legal, analytics, services"
+personal identifiable information,we,"legal, analytics, services"
+personal information regard customer,we,"legal, analytics, services"
+phone number,we,"legal, analytics, services"
+postal address,client account administrator,
+postal address,we,legal
+postal address,we,"legal, analytics, services"
+screen name,we,"legal, analytics, services"
+statistic garner,UNSPECIFIED_ACTOR,advertising
+track number of visitor,contractor,analytics
+track number of visitor,we,"legal, analytics, services"
+user analysis,contractor,analytics
+user analysis,we,"legal, analytics, services"
+web site access log,technical support staff,analytics

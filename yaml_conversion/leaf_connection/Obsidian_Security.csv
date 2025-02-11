@@ -1,0 +1,221 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,operator of website app,
+UNSPECIFIED_DATA,technology,analytics
+UNSPECIFIED_DATA,we,security
+UNSPECIFIED_DATA,we,"security, advertising, analytics, services, legal"
+activity describe in policy,we,"security, advertising, analytics, services, legal"
+advertising id,business partner,
+advertising id,service provider,
+advertising id,we,"security, advertising, analytics, services"
+applicant datum,we,security
+base saas cybersecurity platform,we,"security, advertising, analytics, services, legal"
+browser type,business partner,
+browser type,service provider,
+browser type,we,"security, advertising, analytics, services"
+city,business partner,
+city,service provider,
+city,we,"security, advertising, analytics, services"
+cookie / pixel tag,New Relic,"analytics, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,services
+cookie / pixel tag,advertiser,"advertising, analytics"
+cookie / pixel tag,we,"security, advertising, analytics, services"
+cookie / pixel tag,youtube,"analytics, services"
+cpu usage,business partner,
+cpu usage,service provider,
+cpu usage,we,"security, advertising, analytics, services"
+datum about you,we,"security, advertising, analytics, services"
+datum not list,UNSPECIFIED_ACTOR,services
+datum not list,acquirer,
+datum not list,background check vendor,
+datum not list,business partner,
+datum not list,government authority,
+datum not list,information technology vendor,
+datum not list,law enforcement,
+datum not list,outside legal counsel,
+datum not list,previous employer,services
+datum not list,private party,
+datum not list,relevant participant in business transaction,
+datum not list,service provider,advertising
+datum not list,state governmental agency,
+datum not list,we,"security, advertising, analytics, services, legal"
+detail about engagement with they,UNSPECIFIED_ACTOR,services
+detail about engagement with they,acquirer,
+detail about engagement with they,background check vendor,
+detail about engagement with they,business partner,
+detail about engagement with they,government authority,
+detail about engagement with they,information technology vendor,
+detail about engagement with they,law enforcement,
+detail about engagement with they,outside legal counsel,
+detail about engagement with they,previous employer,services
+detail about engagement with they,private party,
+detail about engagement with they,relevant participant in business transaction,
+detail about engagement with they,service provider,advertising
+detail about engagement with they,state governmental agency,
+detail about engagement with they,we,"security, advertising, analytics, services, legal"
+device type,business partner,
+device type,service provider,
+device type,we,"security, advertising, analytics, services"
+email address,UNSPECIFIED_ACTOR,
+email address,UNSPECIFIED_ACTOR,services
+email address,acquirer,
+email address,advertiser,
+email address,background check vendor,
+email address,business partner,
+email address,government authority,
+email address,information technology vendor,
+email address,law enforcement,
+email address,outside legal counsel,
+email address,previous employer,services
+email address,private party,
+email address,relevant participant in business transaction,
+email address,service provider,
+email address,service provider,advertising
+email address,state governmental agency,
+email address,we,"security, advertising, analytics, services"
+email address,we,"security, advertising, analytics, services, legal"
+geographic area,business partner,
+geographic area,service provider,
+geographic area,we,"security, advertising, analytics, services"
+information about use of website,advertiser,"advertising, analytics"
+ip address,business partner,
+ip address,service provider,
+ip address,we,"security, advertising, analytics, services"
+job title,UNSPECIFIED_ACTOR,services
+job title,acquirer,
+job title,background check vendor,
+job title,business partner,
+job title,government authority,
+job title,information technology vendor,
+job title,law enforcement,
+job title,outside legal counsel,
+job title,previous employer,services
+job title,private party,
+job title,relevant participant in business transaction,
+job title,service provider,advertising
+job title,state governmental agency,
+job title,we,"security, advertising, analytics, services, legal"
+language setting,business partner,
+language setting,service provider,
+language setting,we,"security, advertising, analytics, services"
+live event,we,"security, advertising, analytics, services, legal"
+local browser storage technology,technology,analytics
+manufacturer,business partner,
+manufacturer,service provider,
+manufacturer,we,"security, advertising, analytics, services"
+marketing activity,we,"security, advertising, analytics, services, legal"
+model,business partner,
+model,service provider,
+model,we,"security, advertising, analytics, services"
+navigation path,UNSPECIFIED_ACTOR,
+navigation path,advertiser,
+navigation path,business partner,
+navigation path,service provider,
+navigation path,we,"security, advertising, analytics, services"
+navigation path,we,"security, advertising, analytics, services, legal"
+obsidian technologies inc.,we,"security, advertising, analytics, services, legal"
+operating system type,business partner,
+operating system type,service provider,
+operating system type,we,"security, advertising, analytics, services"
+order number,UNSPECIFIED_ACTOR,services
+order number,acquirer,
+order number,background check vendor,
+order number,business partner,
+order number,government authority,
+order number,information technology vendor,
+order number,law enforcement,
+order number,outside legal counsel,
+order number,previous employer,services
+order number,private party,
+order number,relevant participant in business transaction,
+order number,service provider,advertising
+order number,state governmental agency,
+order number,we,"security, advertising, analytics, services, legal"
+person name,UNSPECIFIED_ACTOR,services
+person name,acquirer,
+person name,background check vendor,
+person name,business partner,
+person name,government authority,
+person name,information technology vendor,
+person name,law enforcement,
+person name,outside legal counsel,
+person name,previous employer,services
+person name,private party,
+person name,relevant participant in business transaction,
+person name,service provider,advertising
+person name,state governmental agency,
+person name,we,"security, advertising, analytics, services, legal"
+personal datum from visitor to face website,UNSPECIFIED_ACTOR,services
+phone number,UNSPECIFIED_ACTOR,services
+phone number,acquirer,
+phone number,background check vendor,
+phone number,business partner,
+phone number,government authority,
+phone number,information technology vendor,
+phone number,law enforcement,
+phone number,outside legal counsel,
+phone number,previous employer,services
+phone number,private party,
+phone number,relevant participant in business transaction,
+phone number,service provider,advertising
+phone number,state governmental agency,
+phone number,we,"security, advertising, analytics, services, legal"
+platform,we,"security, advertising, analytics, services, legal"
+preference for,UNSPECIFIED_ACTOR,services
+preference for,acquirer,
+preference for,background check vendor,
+preference for,business partner,
+preference for,government authority,
+preference for,information technology vendor,
+preference for,law enforcement,
+preference for,outside legal counsel,
+preference for,previous employer,services
+preference for,private party,
+preference for,relevant participant in business transaction,
+preference for,service provider,advertising
+preference for,state governmental agency,
+preference for,we,"security, advertising, analytics, services, legal"
+radio network information,business partner,
+radio network information,service provider,
+radio network information,we,"security, advertising, analytics, services"
+ram disk size,business partner,
+ram disk size,service provider,
+ram disk size,we,"security, advertising, analytics, services"
+screen resolution,business partner,
+screen resolution,service provider,
+screen resolution,we,"security, advertising, analytics, services"
+sdk,technology,analytics
+sensitive personal information,UNSPECIFIED_ACTOR,services
+sensitive personal information,acquirer,
+sensitive personal information,background check vendor,
+sensitive personal information,business partner,
+sensitive personal information,government authority,
+sensitive personal information,information technology vendor,
+sensitive personal information,law enforcement,
+sensitive personal information,outside legal counsel,
+sensitive personal information,previous employer,services
+sensitive personal information,private party,
+sensitive personal information,relevant participant in business transaction,
+sensitive personal information,service provider,advertising
+sensitive personal information,state governmental agency,
+sensitive personal information,we,"security, advertising, analytics, services, legal"
+software development kit,technology,analytics
+transaction history,UNSPECIFIED_ACTOR,services
+transaction history,acquirer,
+transaction history,background check vendor,
+transaction history,business partner,
+transaction history,government authority,
+transaction history,information technology vendor,
+transaction history,law enforcement,
+transaction history,outside legal counsel,
+transaction history,previous employer,services
+transaction history,private party,
+transaction history,relevant participant in business transaction,
+transaction history,service provider,advertising
+transaction history,state governmental agency,
+transaction history,we,"security, advertising, analytics, services, legal"
+version,business partner,
+version,service provider,
+version,we,"security, advertising, analytics, services"
+website at obsidiansecurity.com,we,"security, advertising, analytics, services, legal"
+website we operate,we,"security, advertising, analytics, services, legal"

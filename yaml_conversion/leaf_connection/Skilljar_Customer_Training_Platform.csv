@@ -1,0 +1,45 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,security
+coarse geolocation,UNSPECIFIED_ACTOR,
+coarse geolocation,we,"security, services"
+cookie / pixel tag,Google,
+cookie / pixel tag,we,"security, services"
+domain name of internet service provider,UNSPECIFIED_ACTOR,
+domain name of internet service provider,we,"security, services"
+email address,we,"security, services"
+government identification,we,"security, services"
+information necessary,we,"security, services"
+information we collect,we,"security, services, analytics, legal"
+information you contact we,we,"security, services, analytics, legal"
+information you provide in,we,"security, services, analytics, legal"
+information you provide we within,we,"security, services, analytics, legal"
+ip address,Google,
+ip address,UNSPECIFIED_ACTOR,
+ip address,we,"security, services"
+ip address,we,"security, services, analytics, legal"
+non-personal information,UNSPECIFIED_ACTOR,
+non-personal information,we,"security, services"
+non-personal information,we,"security, services, analytics, legal"
+person name,company with whom you form business relationship for personal purpose,
+person name,we,"security, services, analytics, legal"
+personal information,LINE,
+personal information,UNSPECIFIED_ACTOR,advertising
+personal information,business change,
+personal information,investigation,
+personal information,marketing partner,advertising
+personal information,marketing partners,
+personal information,service provider,advertising
+personal information,skilljar,advertising
+personal information,we,"security, services, analytics, legal, advertising"
+personal information of individual user,skilljar,advertising
+personal information submit to we in connection with host material,marketing partner,advertising
+personal information submit to we in connection with host material,we,"security, services, analytics, legal, advertising"
+skilljar inc.,we,"security, services, analytics, legal, advertising"
+storage,we,"security, services, analytics, legal, advertising"
+time of visit,UNSPECIFIED_ACTOR,
+time of visit,we,"security, services"
+time spend on site page,Google,
+time spend on site page,UNSPECIFIED_ACTOR,
+time spend on site page,we,"security, services"
+written confirmation you give authorize agent permission submit request,we,"security, services, analytics, legal, advertising"

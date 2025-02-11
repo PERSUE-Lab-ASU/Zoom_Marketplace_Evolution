@@ -1,0 +1,22 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,revenue.io,
+UNSPECIFIED_DATA,we,
+aggregate / deidentified / pseudonymized information,we,
+cookie / pixel tag,revenue.io,"analytics, services"
+cookie / pixel tag,we,
+datum collect,service provider,services
+datum collect,we,services
+datum you provide to we on frontend,we,services
+email address,we,"services, legal, security"
+factor authentication,we,services
+internet activity,we,"services, legal, security"
+non-personal information,we,"services, legal"
+person name,we,"services, legal, security"
+personal information,subprocessor,
+personal information,we,"services, legal"
+personal property,we,"services, legal, security"
+phone number,we,"services, legal, security"
+postal address,we,"services, legal, security"
+range of technical control,we,"services, legal, security"
+record,we,"services, legal, security"

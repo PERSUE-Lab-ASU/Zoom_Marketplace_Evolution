@@ -1,0 +1,26 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,client from,
+UNSPECIFIED_DATA,officespace,
+UNSPECIFIED_DATA,party who adopt appropriate confidentiality measure,
+UNSPECIFIED_DATA,we,services
+browser type,officespace,services
+contact information,we,services
+date,officespace,services
+datum collect,officespace,services
+email address,officespace,services
+email address,we,services
+information about you,we,services
+information we need,officespace,services
+ip address,officespace,services
+language preference,officespace,services
+mobile device manufacturer,officespace,services
+mobile network information,officespace,services
+other data,officespace,services
+person name,officespace,services
+person name,we,services
+personal datum provide,officespace,services
+personal information,officespace,services
+refer url,officespace,services
+time zone,officespace,services
+title,officespace,services

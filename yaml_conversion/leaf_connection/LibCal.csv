@@ -1,0 +1,33 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,business partner,services
+UNSPECIFIED_DATA,springshare,
+UNSPECIFIED_DATA,springshare services,services
+UNSPECIFIED_DATA,we,"analytics, legal, security, services"
+communication preference,we,"analytics, legal, security, services"
+complaint,UNSPECIFIED_ACTOR,
+complaint,privacy trust,
+customer data,springshare,services
+device identifier,we,"analytics, legal, security, services"
+educational background,we,"analytics, legal, security, services"
+email address,we,"analytics, legal, security, services"
+geolocation,we,"analytics, legal, security, services"
+information about user,page you view,
+information about user,we,"analytics, legal, security, services"
+information about you provide,we,"analytics, legal, security, services"
+information collect use technological mean,we,"analytics, legal, security, services"
+information you choose,we,"analytics, legal, security, services"
+information you provide we,we,"analytics, legal, security, services"
+institutional affiliation,we,"analytics, legal, security, services"
+ip address,UNSPECIFIED_ACTOR,"legal, services"
+ip address,springshare services,services
+ip address,we,"analytics, legal, security, services"
+login information use,we,"analytics, legal, security, services"
+person name,we,"analytics, legal, security, services"
+phone number,we,"analytics, legal, security, services"
+postal address,we,"analytics, legal, security, services"
+professional interest,we,"analytics, legal, security, services"
+prospect,springshare,services
+said datum,springshare,services
+social medium handle,we,"analytics, legal, security, services"
+status,we,"analytics, legal, security, services"

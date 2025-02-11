@@ -1,0 +1,29 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,business partner,advertising
+UNSPECIFIED_DATA,we,advertising
+browser type,we,"advertising, services, analytics"
+browser version,we,"advertising, services, analytics"
+company name,we,"advertising, services, analytics"
+contact information,we,advertising
+credit / debit card number,third party payment processor govern,
+credit card,we,"advertising, services, analytics"
+date,we,"advertising, services, analytics"
+device identifier,we,"advertising, services, analytics"
+diagnostic datum,we,"advertising, services, analytics"
+email address,we,"advertising, services, analytics"
+information browser send,we,advertising
+information collect,we,"advertising, services"
+invoice address,we,"advertising, services, analytics"
+ip address,we,"advertising, services, analytics"
+person name,we,"advertising, services, analytics"
+personal datum in structured use machine readable format,UNSPECIFIED_ACTOR,
+personal datum in structured use machine readable format,we,"advertising, services, analytics"
+personal information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+personal information,business partner,"advertising, analytics, services"
+personal information,service provider,"advertising, analytics, services"
+personal information,we,"advertising, services, analytics, legal"
+postal address,we,"advertising, services, analytics"
+required information,we,"advertising, services, analytics, legal"
+slack account,we,"advertising, services, analytics"
+time,we,"advertising, services, analytics"

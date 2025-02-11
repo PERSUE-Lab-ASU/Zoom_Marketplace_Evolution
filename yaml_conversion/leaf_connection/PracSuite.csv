@@ -1,0 +1,51 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+automate decision making,UNSPECIFIED_ACTOR,services
+automate decision making,service provider,services
+automate decision making,we,services
+available information as,UNSPECIFIED_ACTOR,services
+available information as,service provider,services
+available information as,we,services
+client datum,overseas entity,
+client datum,subscriber,
+contact information,we,services
+email address,UNSPECIFIED_ACTOR,services
+email address,service provider,services
+email address,we,services
+for information technology contractor,service provider,services
+health information,we,
+information about,we,services
+information about individual web page you view,we,services
+information allow,UNSPECIFIED_ACTOR,services
+information allow,service provider,services
+information allow,we,services
+information as,UNSPECIFIED_ACTOR,services
+information as,service provider,services
+information as,we,services
+information provide to we,UNSPECIFIED_ACTOR,services
+information provide to we,service provider,services
+information provide to we,we,services
+information require under article,we,services
+ip address,Google,analytics
+ip address,UNSPECIFIED_ACTOR,
+ip address,we,services
+meaningful information as,UNSPECIFIED_ACTOR,services
+meaningful information as,service provider,services
+meaningful information as,we,services
+medicare detail,we,
+medication use,we,
+person name,UNSPECIFIED_ACTOR,services
+person name,service provider,services
+person name,we,services
+personal information collect as part of business operation,we,services
+phone number,UNSPECIFIED_ACTOR,services
+phone number,service provider,services
+phone number,we,services
+postal address,UNSPECIFIED_ACTOR,services
+postal address,service provider,services
+postal address,we,services
+privacy officer,we,services
+regular payment,we,services
+sensitive information,we,services
+sensitive personal information,we,services
+time zone,we,services

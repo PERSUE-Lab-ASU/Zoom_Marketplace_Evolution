@@ -1,0 +1,34 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"security, services"
+ad delivery,advertiser,advertising
+analytic provider,advertiser,advertising
+attribution,advertiser,advertising
+browser type,we,"security, services"
+coarse geolocation,we,"security, services"
+contact information,we,"security, services, advertising"
+data tool,we,"security, services, advertising, analytics"
+device type,we,"security, services, advertising"
+email address,we,"security, services, advertising, analytics"
+html5,we,"security, services, advertising, analytics"
+information about,we,"security, services, advertising, analytics"
+ip address,social media,
+ip address,we,"security, services, advertising, analytics"
+multiple personal datum point,we,"security, services, advertising, analytics"
+non-personal information,advertiser,advertising
+personal information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+personal information,adviser,"advertising, analytics, services"
+personal information,competent law enforcement body,"advertising, analytics, services"
+personal information,court,"advertising, analytics, services"
+personal information,government agency,"advertising, analytics, services"
+personal information,part of website,"advertising, services"
+personal information,regulator,"advertising, analytics, services"
+personal information,we,"security, services, advertising, analytics"
+report base on use of technology by service provider on individual basis,we,"security, services, advertising, analytics"
+reporting,advertiser,advertising
+script,we,"security, services, advertising, analytics"
+sensitive personal datum,we,"security, services, advertising, analytics"
+specific type,we,"security, services, advertising"
+specific type,we,"security, services, advertising, analytics"
+tag,we,"security, services, advertising, analytics"
+technical information,we,"security, services, advertising, analytics"
+unique device identification number,we,"security, services, advertising, analytics"

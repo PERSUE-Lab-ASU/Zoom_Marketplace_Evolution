@@ -1,0 +1,104 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,
+aggregate / deidentified / pseudonymized information,country provide adequate level of protection,
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"analytics, services, advertising, legal, security"
+bookwhen ltd,we,"analytics, services, advertising, legal, security"
+browser plug in type,UNSPECIFIED_ACTOR,
+browser plug in type,country provide adequate level of protection,
+browser plug in type,we,"analytics, services, advertising, legal, security"
+browser type,UNSPECIFIED_ACTOR,
+browser type,country provide adequate level of protection,
+browser type,we,"analytics, services, advertising, legal, security"
+browsing action,UNSPECIFIED_ACTOR,
+browsing action,country provide adequate level of protection,
+browsing action,we,"analytics, services"
+browsing action,we,"analytics, services, advertising, legal, security"
+cookie / pixel tag,we,"analytics, services, advertising"
+credit / debit card number,we,"analytics, services, advertising"
+date,UNSPECIFIED_ACTOR,
+date,country provide adequate level of protection,
+date,we,"analytics, services, advertising"
+date,we,"analytics, services, advertising, legal, security"
+different kind,UNSPECIFIED_ACTOR,
+different kind,country provide adequate level of protection,
+different kind,we,"analytics, services, advertising"
+different kind,we,"analytics, services, advertising, legal, security"
+different method,we,"analytics, services, advertising"
+download error,UNSPECIFIED_ACTOR,
+download error,country provide adequate level of protection,
+download error,we,"analytics, services, advertising"
+download error,we,"analytics, services, advertising, legal, security"
+email address,UNSPECIFIED_ACTOR,
+email address,country provide adequate level of protection,
+email address,we,"analytics, services, advertising"
+email address,we,"analytics, services, advertising, legal, security"
+feedback,we,"analytics, services, advertising"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,country provide adequate level of protection,
+geolocation,we,"analytics, services, advertising"
+geolocation,we,"analytics, services, advertising, legal, security"
+identity,UNSPECIFIED_ACTOR,
+identity,country provide adequate level of protection,
+identity,we,"analytics, services, advertising"
+identity,we,"analytics, services, advertising, legal, security"
+interest,UNSPECIFIED_ACTOR,
+interest,country provide adequate level of protection,
+interest,we,"analytics, services, advertising, legal, security"
+ip address,UNSPECIFIED_ACTOR,
+ip address,country provide adequate level of protection,
+ip address,we,"analytics, services, advertising"
+ip address,we,"analytics, services, advertising, legal, security"
+length of visit to page,UNSPECIFIED_ACTOR,
+length of visit to page,country provide adequate level of protection,
+length of visit to page,we,"analytics, services, advertising"
+length of visit to page,we,"analytics, services, advertising, legal, security"
+login datum,UNSPECIFIED_ACTOR,
+login datum,country provide adequate level of protection,
+login datum,we,"analytics, services, advertising, legal, security"
+method use,UNSPECIFIED_ACTOR,
+method use,country provide adequate level of protection,
+method use,we,"analytics, services, advertising"
+method use,we,"analytics, services, advertising, legal, security"
+page interaction information,UNSPECIFIED_ACTOR,
+page interaction information,country provide adequate level of protection,
+page interaction information,we,"analytics, services, advertising"
+page interaction information,we,"analytics, services, advertising, legal, security"
+page response time,UNSPECIFIED_ACTOR,
+page response time,country provide adequate level of protection,
+page response time,we,"analytics, services, advertising"
+page response time,we,"analytics, services, advertising, legal, security"
+password,UNSPECIFIED_ACTOR,
+password,country provide adequate level of protection,
+password,we,"analytics, services, advertising, legal, security"
+pattern,UNSPECIFIED_ACTOR,
+pattern,country provide adequate level of protection,
+pattern,we,"analytics, services, advertising"
+pattern,we,"analytics, services, advertising, legal, security"
+phone number,UNSPECIFIED_ACTOR,
+phone number,country provide adequate level of protection,
+phone number,we,"analytics, services, advertising"
+phone number,we,"analytics, services, advertising, legal, security"
+postal address,UNSPECIFIED_ACTOR,
+postal address,country provide adequate level of protection,
+postal address,we,"analytics, services, advertising"
+postal address,we,"analytics, services, advertising, legal, security"
+preference,UNSPECIFIED_ACTOR,
+preference,country provide adequate level of protection,
+preference,we,"analytics, services, advertising, legal, security"
+specific information,we,"analytics, services, advertising, legal, security"
+statistical datum,we,"analytics, services, advertising, legal, security"
+time,UNSPECIFIED_ACTOR,
+time,country provide adequate level of protection,
+time,we,"analytics, services, advertising"
+time,we,"analytics, services, advertising, legal, security"
+time zone setting,UNSPECIFIED_ACTOR,
+time zone setting,country provide adequate level of protection,
+time zone setting,we,"analytics, services, advertising, legal, security"
+username,UNSPECIFIED_ACTOR,
+username,country provide adequate level of protection,
+username,we,"analytics, services, advertising, legal, security"
+version,UNSPECIFIED_ACTOR,
+version,country provide adequate level of protection,
+version,we,"analytics, services, advertising, legal, security"

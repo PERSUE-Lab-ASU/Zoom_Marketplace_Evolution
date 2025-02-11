@@ -1,0 +1,103 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,counterpartie,
+UNSPECIFIED_DATA,successor,
+UNSPECIFIED_DATA,we,services
+aggregate / deidentified / pseudonymized information,we,"services, analytics"
+app data,UNSPECIFIED_ACTOR,services
+app data,counterpartie,
+app data,service provider,services
+app data,successor,
+app data,we,"services, analytics, advertising"
+app datum,UNSPECIFIED_ACTOR,services
+app datum,counterpartie,
+app datum,service provider,services
+app datum,successor,
+app datum,we,"services, analytics"
+app datum,we,"services, analytics, advertising"
+calendar,we,"services, analytics"
+calendar data,UNSPECIFIED_ACTOR,services
+calendar data,counterpartie,
+calendar data,service provider,services
+calendar data,successor,
+calendar data,we,"services, analytics, advertising"
+calendar metadata,UNSPECIFIED_ACTOR,services
+calendar metadata,counterpartie,
+calendar metadata,service provider,services
+calendar metadata,successor,
+calendar metadata,we,"services, analytics, advertising"
+characteristic,we,"services, analytics"
+contact information,UNSPECIFIED_ACTOR,services
+contact information,counterpartie,
+contact information,service provider,services
+contact information,successor,
+contact information,we,"services, analytics, advertising"
+cookie / pixel tag,we,"services, analytics"
+date,we,"services, analytics"
+description,UNSPECIFIED_ACTOR,services
+description,counterpartie,
+description,service provider,services
+description,successor,
+description,we,"services, analytics, advertising"
+email address,UNSPECIFIED_ACTOR,services
+email address,counterpartie,
+email address,service provider,services
+email address,successor,
+email address,we,"services, analytics, advertising"
+email of invitee on event,UNSPECIFIED_ACTOR,services
+email of invitee on event,counterpartie,
+email of invitee on event,service provider,services
+email of invitee on event,successor,
+email of invitee on event,we,"services, analytics, advertising"
+event detail,UNSPECIFIED_ACTOR,services
+event detail,counterpartie,
+event detail,service provider,services
+event detail,successor,
+event detail,we,"services, analytics, advertising"
+event title,UNSPECIFIED_ACTOR,services
+event title,counterpartie,
+event title,service provider,services
+event title,successor,
+event title,we,"services, analytics, advertising"
+general behavior,we,"services, analytics, advertising"
+geolocation,UNSPECIFIED_ACTOR,services
+geolocation,counterpartie,
+geolocation,service provider,services
+geolocation,successor,
+geolocation,we,"services, analytics, advertising"
+google account,UNSPECIFIED_ACTOR,services
+google account,counterpartie,
+google account,service provider,services
+google account,successor,
+google account,we,"services, analytics, advertising"
+habit,UNSPECIFIED_ACTOR,services
+habit,counterpartie,
+habit,service provider,services
+habit,successor,
+habit,we,"services, analytics, advertising"
+information about visit,we,"services, analytics, advertising"
+information available,we,"services, analytics, advertising"
+ip address,we,"services, analytics, advertising"
+metadata,UNSPECIFIED_ACTOR,services
+metadata,counterpartie,
+metadata,service provider,services
+metadata,successor,
+metadata,we,"services, analytics, advertising"
+metadata specific,we,"services, analytics, advertising"
+necessary google calendar data,we,"services, analytics, advertising"
+person name,UNSPECIFIED_ACTOR,services
+person name,counterpartie,
+person name,service provider,services
+person name,successor,
+person name,we,"services, analytics, advertising"
+personal data we share,we,"services, analytics, advertising"
+personal identifier,we,"services, analytics, advertising"
+pixel,we,"services, analytics, advertising"
+reclaim,we,"services, analytics, advertising"
+task,UNSPECIFIED_ACTOR,services
+task,counterpartie,
+task,service provider,services
+task,successor,
+task,we,"services, analytics, advertising"
+type of content,we,"services, analytics, advertising"
+work calendar information,we,"services, analytics, advertising"

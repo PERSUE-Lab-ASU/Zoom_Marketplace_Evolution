@@ -1,0 +1,113 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Google,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,"legal, security, services"
+UNSPECIFIED_DATA,advertiser,"advertising, services"
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+advanced generative pre - train transformer language model,ai tools,services
+billing detail,we,"advertising, analytics, legal, security, services"
+browser information,we,"advertising, analytics, legal, security, services"
+business address,we,"advertising, analytics, legal, security, services"
+candidate personal information,UNSPECIFIED_ACTOR,"legal, security, services"
+candidate personal information,advertiser,"advertising, services"
+candidate personal information,business partner,services
+candidate personal information,licensee,
+candidate personal information,reseller,
+candidate personal information,service provider,
+candidate personal information,we,"advertising, analytics, legal, security, services"
+coarse geolocation,we,"advertising, analytics, legal, security, services"
+communication with we,UNSPECIFIED_ACTOR,"legal, security, services"
+communication with we,advertiser,"advertising, services"
+communication with we,business partner,services
+communication with we,licensee,
+communication with we,reseller,
+communication with we,service provider,
+communication with we,we,"advertising, analytics, legal, security, services"
+company name,UNSPECIFIED_ACTOR,"legal, security, services"
+company name,advertiser,"advertising, services"
+company name,business partner,services
+company name,licensee,
+company name,reseller,
+company name,service provider,
+company name,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,advertiser,"advertising, services"
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+email address,UNSPECIFIED_ACTOR,"legal, security, services"
+email address,advertiser,"advertising, services"
+email address,business partner,services
+email address,licensee,
+email address,reseller,
+email address,service provider,
+email address,we,"advertising, analytics, legal, security, services"
+identifier,we,"advertising, analytics, legal, security, services"
+information about,we,"advertising, analytics, legal, security, services"
+information about link you click,we,"advertising, analytics, legal, security, services"
+information about use of service on goodtime website,goodtime,
+information about you,we,"advertising, analytics, legal, security, services"
+information collect from service,advertiser,"advertising, services"
+information collect through use of google analytics,Google,analytics
+information collect through use of google analytics,UNSPECIFIED_ACTOR,"legal, security, services"
+information we get from google analytics,we,"advertising, analytics, legal, security, services"
+information we obtain,we,"advertising, analytics, legal, security, services"
+information we store associate with you,UNSPECIFIED_ACTOR,"legal, security, services"
+information we store associate with you,we,"advertising, analytics, legal, security, services"
+information you provide to we,we,"advertising, analytics, legal, security, services"
+ip address,Google,analytics
+ip address,feature,
+ip address,we,"advertising, analytics, legal, security, services"
+job role,UNSPECIFIED_ACTOR,"legal, security, services"
+job role,advertiser,"advertising, services"
+job role,business partner,services
+job role,licensee,
+job role,reseller,
+job role,service provider,
+job role,we,"advertising, analytics, legal, security, services"
+job title,we,"advertising, analytics, legal, security, services"
+language models,ai tools,services
+local storage,advertiser,"advertising, services"
+local storage,we,"advertising, analytics, legal, security, services"
+mac address,we,"advertising, analytics, legal, security, services"
+number of employee at company,UNSPECIFIED_ACTOR,"legal, security, services"
+number of employee at company,advertiser,"advertising, services"
+number of employee at company,business partner,services
+number of employee at company,licensee,
+number of employee at company,reseller,
+number of employee at company,service provider,
+number of employee at company,we,"advertising, analytics, legal, security, services"
+payment make via service,third party payment processor,
+person name,UNSPECIFIED_ACTOR,"legal, security, services"
+person name,advertiser,"advertising, services"
+person name,business partner,services
+person name,licensee,
+person name,reseller,
+person name,service provider,
+person name,we,"advertising, analytics, legal, security, services"
+personal information we process,we,"advertising, analytics, legal, security, services"
+phone number,UNSPECIFIED_ACTOR,"legal, security, services"
+phone number,advertiser,"advertising, services"
+phone number,business partner,services
+phone number,licensee,
+phone number,reseller,
+phone number,service provider,
+phone number,we,"advertising, analytics, legal, security, services"
+postal address,UNSPECIFIED_ACTOR,"legal, security, services"
+postal address,advertiser,"advertising, services"
+postal address,business partner,services
+postal address,licensee,
+postal address,reseller,
+postal address,service provider,
+postal address,we,"advertising, analytics, legal, security, services"
+profile photo,we,"advertising, analytics, legal, security, services"
+request,we,"advertising, analytics, legal, security, services"
+subcontractor,business partner,services
+sufficient information allow,we,"advertising, analytics, legal, security, services"
+text you input,we,"advertising, analytics, legal, security, services"
+title,UNSPECIFIED_ACTOR,"legal, security, services"
+title,advertiser,"advertising, services"
+title,business partner,services
+title,licensee,
+title,reseller,
+title,service provider,
+title,we,"advertising, analytics, legal, security, services"
+user input,language model,"analytics, services"
+user input,we,"advertising, analytics, legal, security, services"
+user setting,we,"advertising, analytics, legal, security, services"

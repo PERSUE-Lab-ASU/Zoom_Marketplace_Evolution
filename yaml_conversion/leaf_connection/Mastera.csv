@@ -1,0 +1,49 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"analytics, legal, security, services"
+account information for services,we,"analytics, legal, security, services"
+aggregate report,UNSPECIFIED_ACTOR,analytics
+aggregate report,we,"analytics, legal, security, services"
+clickstream,we,"analytics, legal, security, services"
+contact information,we,"analytics, legal, security, services"
+content,we,"analytics, legal, security, services"
+cookie / pixel tag,we,"analytics, legal, security, services"
+country of residence,we,"analytics, legal, security, services"
+crash datum,we,"analytics, legal, security, services"
+customer name,UNSPECIFIED_ACTOR,analytics
+customer name,we,"analytics, legal, security, services, advertising"
+demographic information about user base,we,"analytics, legal, security, services, advertising"
+device datum,we,"analytics, legal, security, services, advertising"
+device datum collect,we,"analytics, legal, security, services, advertising"
+email address,UNSPECIFIED_ACTOR,analytics
+email address,we,"analytics, legal, security, services, advertising"
+event datum,we,"analytics, legal, security, services, advertising"
+information about device,advertiser,
+information about device,service provider,
+information about device,we,"analytics, legal, security, services, advertising"
+information about you,we,"analytics, legal, security, services, advertising"
+information collect,we,"analytics, legal, security, services, advertising"
+information on prior activity,we,"analytics, legal, security, services, advertising"
+information you provide we,we,"analytics, legal, security, services, advertising"
+internet activity,we,"analytics, legal, security, services"
+ip address,social media,
+ip address,we,"analytics, legal, security, services, advertising"
+job title,we,"analytics, legal, security, services, advertising"
+log,we,"analytics, legal, security, services, advertising"
+manage website,we,"analytics, legal, security, services, advertising"
+metric,we,"analytics, legal, security, services, advertising"
+non-personal information,we,"analytics, legal, security, services, advertising"
+number of click,we,"analytics, legal, security, services"
+page,we,"analytics, legal, security, services, advertising"
+password,we,"analytics, legal, security, services, advertising"
+person name,we,"analytics, legal, security, services, advertising"
+platform type,we,"analytics, legal, security, services"
+share in company,we,"analytics, legal, security, services, advertising"
+technical datum,we,"analytics, legal, security, services, advertising"
+transaction information you provide,we,"analytics, legal, security, services, advertising"
+trend,we,"analytics, legal, security, services, advertising"
+url,we,"analytics, legal, security, services"
+usage,we,"analytics, legal, security, services, advertising"
+user information relate to service,UNSPECIFIED_ACTOR,analytics
+user information relate to service,we,"analytics, legal, security, services, advertising"
+username,we,"analytics, legal, security, services, advertising"

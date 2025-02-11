@@ -1,0 +1,26 @@
+data_type,collector,purpose
+Google,analytic provider,"analytics, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+audio pronunciation of name,candidate,
+cookie / pixel tag,analytic provider,"analytics, services"
+cookie / pixel tag,we,"analytics, services"
+email address,candidate,
+email address,candidate schedule,
+email address,we,"analytics, services"
+gender pronoun,candidate,
+geolocation,analytic provider,"analytics, services"
+information about,we,"analytics, services"
+internet activity,analytic provider,"analytics, services"
+ip address,analytic provider,"analytics, services"
+local storage,we,"analytics, services"
+permission grant from email system,we,"analytics, services"
+person name,candidate,
+person name,candidate schedule,
+person name,we,"analytics, services"
+personal information,UNSPECIFIED_ACTOR,
+personal information,member of organization,
+personal information,we,"analytics, services"
+phone number,we,"analytics, services"
+postal address,we,"analytics, services"
+small text file send to,we,"analytics, services"

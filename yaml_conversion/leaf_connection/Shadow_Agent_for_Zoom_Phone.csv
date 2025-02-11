@@ -1,0 +1,26 @@
+data_type,collector,purpose
+Facebook,social media,
+Twitter,social media,
+UNSPECIFIED_DATA,service providers,
+UNSPECIFIED_DATA,we,services
+access time,we,services
+aggregate / deidentified / pseudonymized information,we,services
+browser type,we,services
+contract company,service providers,
+date,we,services
+evidence,we,services
+information send via email,we,services
+information you search for on website,we,services
+ip address,social media,
+ip address,we,services
+joint venture partner,service providers,
+language preference,we,services
+operating system type,we,services
+service provider,service providers,
+share this button,social media,
+specific piece,we,"services, analytics, legal"
+statistic,we,services
+submit personal information,we,"services, analytics, legal"
+sufficient information allow,request,
+telecost.com website,we,"services, analytics, legal"
+version,we,services

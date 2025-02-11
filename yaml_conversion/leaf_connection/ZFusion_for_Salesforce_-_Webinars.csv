@@ -1,0 +1,41 @@
+data_type,collector,purpose
+Eventbrite,we,"legal, advertising, security"
+UNSPECIFIED_DATA,we,legal
+cookie / pixel tag,we,legal
+device identifier,we,legal
+device setting,we,legal
+device type,we,legal
+email address,UNSPECIFIED_ACTOR,
+email address,contractor,
+email address,court,
+email address,credit reporting agency,
+email address,regulatory authority,
+email address,related entity,
+email address,tribunal,
+email address,we,"legal, advertising, security"
+full detail of allege breach,we,legal
+geolocation,we,legal
+information about you,we,legal
+operating system,we,legal
+payment information,UNSPECIFIED_ACTOR,
+payment information,contractor,
+payment information,court,
+payment information,credit reporting agency,
+payment information,regulatory authority,
+payment information,related entity,
+payment information,tribunal,
+payment information,we,"legal, advertising, security"
+person name,UNSPECIFIED_ACTOR,
+person name,contractor,
+person name,court,
+person name,credit reporting agency,
+person name,regulatory authority,
+person name,related entity,
+person name,tribunal,
+person name,we,"legal, advertising, security"
+personal information we hold,UNSPECIFIED_ACTOR,
+personal information we hold,we,"legal, advertising, security"
+personal information we hold about you,we,"legal, advertising, security"
+predictive marketing,we,"legal, advertising, security"
+standard datum provide,we,"legal, advertising, security"
+zfusion,we,"legal, advertising, security"

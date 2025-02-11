@@ -1,0 +1,24 @@
+data_type,collector,purpose
+email address,contractor,services
+email address,support staff,services
+email address,we,
+observation,contractor,services
+observation,support staff,services
+observation,we,
+opinion,contractor,services
+opinion,support staff,services
+opinion,we,
+patient health history information,contractor,services
+patient health history information,support staff,services
+patient health history information,we,
+person name,contractor,services
+person name,support staff,services
+person name,we,
+personal information about patient,we,
+phone number,contractor,services
+phone number,support staff,services
+phone number,we,
+postal address,contractor,services
+postal address,support staff,services
+postal address,we,
+sensitive information about patient,we,

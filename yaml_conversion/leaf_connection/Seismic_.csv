@@ -1,0 +1,113 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,seismic,
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, services"
+company name,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+company name,advertiser,
+company name,advertising partners,
+company name,analytic provider,
+company name,datum broker,
+company name,marketing provider,
+company name,seismic,
+company name,social media,
+company name,we,"advertising, analytics, services"
+company name,we,"advertising, analytics, services, legal, security"
+cookie / pixel tag,UNSPECIFIED_ACTOR,advertising
+cookie / pixel tag,we,"advertising, analytics, services"
+device type,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+device type,advertiser,
+device type,advertising partners,
+device type,analytic provider,
+device type,datum broker,
+device type,marketing provider,
+device type,seismic,
+device type,social media,
+device type,we,"advertising, analytics, services"
+device type,we,"advertising, analytics, services, legal, security"
+email address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+email address,advertiser,
+email address,advertising partners,
+email address,analytic provider,
+email address,datum broker,
+email address,marketing provider,
+email address,seismic,
+email address,social media,
+email address,we,"advertising, analytics, services"
+email address,we,"advertising, analytics, services, legal, security"
+employment datum,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+employment datum,advertiser,
+employment datum,advertising partners,
+employment datum,analytic provider,
+employment datum,datum broker,
+employment datum,marketing provider,
+employment datum,seismic,
+employment datum,social media,
+employment datum,we,"advertising, analytics, services"
+employment datum,we,"advertising, analytics, services, legal, security"
+geolocation,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+geolocation,advertiser,
+geolocation,advertising partners,
+geolocation,analytic provider,
+geolocation,datum broker,
+geolocation,marketing provider,
+geolocation,seismic,
+geolocation,social media,
+geolocation,we,"advertising, analytics, services"
+geolocation,we,"advertising, analytics, services, legal, security"
+identifying information you choose,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+identifying information you choose,advertiser,
+identifying information you choose,advertising partners,
+identifying information you choose,analytic provider,
+identifying information you choose,datum broker,
+identifying information you choose,marketing provider,
+identifying information you choose,seismic,
+identifying information you choose,social media,
+identifying information you choose,we,"advertising, analytics, services"
+identifying information you choose,we,"advertising, analytics, services, legal, security"
+information about you,we,"advertising, analytics, services"
+internet activity,UNSPECIFIED_ACTOR,advertising
+ip address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+ip address,advertiser,
+ip address,advertising partners,
+ip address,analytic provider,
+ip address,datum broker,
+ip address,marketing provider,
+ip address,seismic,
+ip address,social media,
+ip address,we,"advertising, analytics, services"
+ip address,we,"advertising, analytics, services, legal, security"
+mobile os,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+mobile os,advertiser,
+mobile os,advertising partners,
+mobile os,analytic provider,
+mobile os,datum broker,
+mobile os,marketing provider,
+mobile os,seismic,
+mobile os,social media,
+mobile os,we,"advertising, analytics, services"
+mobile os,we,"advertising, analytics, services, legal, security"
+person name,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+person name,advertiser,
+person name,advertising partners,
+person name,analytic provider,
+person name,datum broker,
+person name,marketing provider,
+person name,seismic,
+person name,social media,
+person name,we,"advertising, analytics, services"
+person name,we,"advertising, analytics, services, legal, security"
+personal data of end user,we,"advertising, analytics, services"
+personal information of end user,we,"advertising, analytics, services, legal, security"
+personal information provide in valid request,we,"advertising, analytics, services, legal, security"
+phone number,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+phone number,advertiser,
+phone number,advertising partners,
+phone number,analytic provider,
+phone number,datum broker,
+phone number,marketing provider,
+phone number,seismic,
+phone number,social media,
+phone number,we,"advertising, analytics, services, legal, security"
+specific piece of personal information we collect about you,we,"advertising, analytics, services, legal, security"
+user behavior,we,"advertising, analytics, services, legal, security"

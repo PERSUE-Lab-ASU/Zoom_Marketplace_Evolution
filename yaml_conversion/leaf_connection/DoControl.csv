@@ -1,0 +1,28 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advisor,security
+UNSPECIFIED_DATA,competent authority,security
+UNSPECIFIED_DATA,docontrol,
+UNSPECIFIED_DATA,docontrol inc.,
+UNSPECIFIED_DATA,legal counsel,security
+UNSPECIFIED_DATA,we,security
+analytic information,we,"security, services"
+analytic information about use of website,we,"security, services"
+cookie / pixel tag,docontrol,"services, advertising, analytics"
+email address,we,"security, services"
+file name,docontrol,services
+information associate with use of service,we,"security, services"
+information relate to engagement between we,we,"security, services"
+ip address,we,"security, services"
+person name,we,"security, services"
+personal datum regard usage behavior in relation to saas application user use,we,"security, services"
+personal identifier,we,"security, services"
+personal information,UNSPECIFIED_ACTOR,"advertising, services"
+personal information,we,"security, services, legal"
+risk assessment information,we,"security, services, legal"
+risk assessment information associate with account,representative of business you work at,
+risk assessment information associate with account,we,"security, services, legal"
+sender information,docontrol,services
+time,we,"security, services"
+usage information,we,"security, services, legal"
+website analytic information,we,"security, services, legal"

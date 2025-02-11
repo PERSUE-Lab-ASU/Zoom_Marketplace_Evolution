@@ -1,0 +1,326 @@
+data_type,collector,purpose
+Facebook,social media,
+Microsoft,social media,
+Twitter,social media,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,tracking technologies,
+UNSPECIFIED_DATA,we,
+account name,we,
+advertising id,tracking technologies,
+analytic datum,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+analytic datum,advertiser,"advertising, analytics"
+analytic datum,advisor,legal
+analytic datum,company help,
+analytic datum,flexera group company,"advertising, legal, services"
+analytic datum,law enforcement,"legal, security, services"
+analytic datum,promotional partner,legal
+analytic datum,purchaser,legal
+analytic datum,regulator,legal
+analytic datum,service provider,legal
+analytic datum,social media,
+analytic datum,we,"advertising, analytics, services, security, legal"
+calculate user,we,
+clickstream datum,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+clickstream datum,advertiser,"advertising, analytics"
+clickstream datum,advisor,legal
+clickstream datum,company help,
+clickstream datum,flexera group company,"advertising, legal, services"
+clickstream datum,law enforcement,"legal, security, services"
+clickstream datum,promotional partner,legal
+clickstream datum,purchaser,legal
+clickstream datum,regulator,legal
+clickstream datum,service provider,legal
+clickstream datum,social media,
+clickstream datum,we,"advertising, analytics, services, security, legal"
+commercial information,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+commercial information,advertiser,"advertising, analytics"
+commercial information,advisor,legal
+commercial information,company help,
+commercial information,flexera group company,"advertising, legal, services"
+commercial information,law enforcement,"legal, security, services"
+commercial information,promotional partner,legal
+commercial information,purchaser,legal
+commercial information,regulator,legal
+commercial information,service provider,legal
+commercial information,social media,
+commercial information,we,"advertising, analytics, services, security, legal"
+company name,we,
+computer device name,we,
+cookie / pixel tag,Google,analytics
+cookie / pixel tag,UNSPECIFIED_ACTOR,analytics
+date of last interaction with customer service,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+date of last interaction with customer service,advertiser,"advertising, analytics"
+date of last interaction with customer service,advisor,legal
+date of last interaction with customer service,company help,
+date of last interaction with customer service,flexera group company,"advertising, legal, services"
+date of last interaction with customer service,law enforcement,"legal, security, services"
+date of last interaction with customer service,promotional partner,legal
+date of last interaction with customer service,purchaser,legal
+date of last interaction with customer service,regulator,legal
+date of last interaction with customer service,service provider,legal
+date of last interaction with customer service,social media,
+date of last interaction with customer service,we,"advertising, analytics, services, security, legal"
+datum collect through track technology,we,"advertising, analytics, services"
+device identifier,tracking technologies,
+device information,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+device information,advertiser,"advertising, analytics"
+device information,advisor,legal
+device information,company help,
+device information,flexera group company,"advertising, legal, services"
+device information,law enforcement,"legal, security, services"
+device information,promotional partner,legal
+device information,purchaser,legal
+device information,regulator,legal
+device information,service provider,legal
+device information,social media,
+device information,we,"advertising, analytics, services, security, legal"
+device type,tracking technologies,
+email address,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+email address,advertiser,"advertising, analytics"
+email address,advisor,legal
+email address,company help,
+email address,flexera group company,"advertising, legal, services"
+email address,law enforcement,"legal, security, services"
+email address,promotional partner,legal
+email address,purchaser,legal
+email address,regulator,legal
+email address,reseller partner,
+email address,service provider,legal
+email address,social media,
+email address,we,
+email address,we,"advertising, analytics, services, security"
+email address,we,"advertising, analytics, services, security, legal"
+employee id,we,"advertising, analytics, services, security"
+employment status,we,"advertising, analytics, services, security"
+fqdn,we,
+hardware dongleid,we,
+host name,we,
+information about,we,"advertising, analytics, services, security, legal"
+information about consumer,advertiser,"advertising, analytics"
+information enable download of service,we,"advertising, analytics, services, security"
+information for invoicing,we,"advertising, analytics, services, security"
+information for order fulfilment of request material,we,"advertising, analytics, services, security"
+information manage account,we,"advertising, analytics, services, security"
+information on defect,we,"advertising, analytics, services, security"
+information on request service,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+information on request service,advertiser,"advertising, analytics"
+information on request service,advisor,legal
+information on request service,company help,
+information on request service,flexera group company,"advertising, legal, services"
+information on request service,law enforcement,"legal, security, services"
+information on request service,promotional partner,legal
+information on request service,purchaser,legal
+information on request service,regulator,legal
+information on request service,service provider,legal
+information on request service,social media,
+information on request service,we,"advertising, analytics, services, security, legal"
+information we need contact you,we,"advertising, analytics, services, security"
+information you post on social medium page,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+information you post on social medium page,advertiser,"advertising, analytics"
+information you post on social medium page,advisor,legal
+information you post on social medium page,company help,
+information you post on social medium page,flexera group company,"advertising, legal, services"
+information you post on social medium page,law enforcement,"legal, security, services"
+information you post on social medium page,promotional partner,legal
+information you post on social medium page,purchaser,legal
+information you post on social medium page,regulator,legal
+information you post on social medium page,service provider,legal
+information you post on social medium page,social media,
+information you post on social medium page,we,"advertising, analytics, services, security, legal"
+interest,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+interest,advertiser,"advertising, analytics"
+interest,advisor,legal
+interest,company help,
+interest,flexera group company,"advertising, legal, services"
+interest,law enforcement,"legal, security, services"
+interest,promotional partner,legal
+interest,purchaser,legal
+interest,regulator,legal
+interest,service provider,legal
+interest,social media,
+interest,we,"advertising, analytics, services, security, legal"
+ip address,Google,analytics
+ip address,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+ip address,advertiser,"advertising, analytics"
+ip address,advisor,legal
+ip address,company help,
+ip address,flexera group company,"advertising, legal, services"
+ip address,law enforcement,"legal, security, services"
+ip address,promotional partner,legal
+ip address,purchaser,legal
+ip address,regulator,legal
+ip address,service provider,legal
+ip address,social media,
+ip address,tracking technologies,
+ip address,we,"advertising, analytics, services, security"
+ip address,we,"advertising, analytics, services, security, legal"
+log datum,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+log datum,advertiser,"advertising, analytics"
+log datum,advisor,legal
+log datum,company help,
+log datum,flexera group company,"advertising, legal, services"
+log datum,law enforcement,"legal, security, services"
+log datum,promotional partner,legal
+log datum,purchaser,legal
+log datum,regulator,legal
+log datum,service provider,legal
+log datum,social media,
+log datum,we,"advertising, analytics, services, security, legal"
+log id,we,"advertising, analytics, services, security"
+log information,we,"advertising, analytics, services, security"
+mac address,we,
+manager,we,"advertising, analytics, services, security"
+manufacturer,tracking technologies,
+model,tracking technologies,
+operating system brand,tracking technologies,
+password,we,"advertising, analytics, services, security"
+payment information,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+payment information,advertiser,"advertising, analytics"
+payment information,advisor,legal
+payment information,company help,
+payment information,flexera group company,"advertising, legal, services"
+payment information,law enforcement,"legal, security, services"
+payment information,promotional partner,legal
+payment information,purchaser,legal
+payment information,regulator,legal
+payment information,service provider,legal
+payment information,social media,
+payment information,we,"advertising, analytics, services, security, legal"
+person name,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+person name,advertiser,"advertising, analytics"
+person name,advisor,legal
+person name,company help,
+person name,flexera group company,"advertising, legal, services"
+person name,law enforcement,"legal, security, services"
+person name,promotional partner,legal
+person name,purchaser,legal
+person name,regulator,legal
+person name,reseller partner,
+person name,service provider,legal
+person name,social media,
+person name,we,
+person name,we,"advertising, analytics, services, security"
+person name,we,"advertising, analytics, services, security, legal"
+personal identifier,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+personal identifier,advertiser,"advertising, analytics"
+personal identifier,advisor,legal
+personal identifier,company help,
+personal identifier,flexera group company,"advertising, legal, services"
+personal identifier,law enforcement,"legal, security, services"
+personal identifier,promotional partner,legal
+personal identifier,purchaser,legal
+personal identifier,regulator,legal
+personal identifier,service provider,legal
+personal identifier,social media,
+personal identifier,we,"advertising, analytics, services, security"
+personal identifier,we,"advertising, analytics, services, security, legal"
+personal information provide in connection with consumer rights request,we,"advertising, analytics, services, security, legal"
+personal information we hold,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+personal information we hold,advertiser,"advertising, analytics"
+personal information we hold,advisor,legal
+personal information we hold,company help,
+personal information we hold,flexera group company,"advertising, legal, services"
+personal information we hold,law enforcement,"legal, security, services"
+personal information we hold,promotional partner,legal
+personal information we hold,purchaser,legal
+personal information we hold,regulator,legal
+personal information we hold,service provider,legal
+personal information we hold,social media,
+personal information we hold,we,"advertising, analytics, services, security, legal"
+phone,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+phone,advertiser,"advertising, analytics"
+phone,advisor,legal
+phone,company help,
+phone,flexera group company,"advertising, legal, services"
+phone,law enforcement,"legal, security, services"
+phone,promotional partner,legal
+phone,purchaser,legal
+phone,regulator,legal
+phone,reseller partner,
+phone,service provider,legal
+phone,social media,
+phone,we,
+phone,we,"advertising, analytics, services, security, legal"
+phone number,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+phone number,advertiser,"advertising, analytics"
+phone number,advisor,legal
+phone number,company help,
+phone number,flexera group company,"advertising, legal, services"
+phone number,law enforcement,"legal, security, services"
+phone number,promotional partner,legal
+phone number,purchaser,legal
+phone number,regulator,legal
+phone number,reseller partner,
+phone number,service provider,legal
+phone number,social media,
+phone number,we,
+phone number,we,"advertising, analytics, services, security, legal"
+position,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+position,advertiser,"advertising, analytics"
+position,advisor,legal
+position,company help,
+position,flexera group company,"advertising, legal, services"
+position,law enforcement,"legal, security, services"
+position,promotional partner,legal
+position,purchaser,legal
+position,regulator,legal
+position,reseller partner,
+position,service provider,legal
+position,social media,
+position,we,
+position,we,"advertising, analytics, services, security, legal"
+postal address,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+postal address,advertiser,"advertising, analytics"
+postal address,advisor,legal
+postal address,company help,
+postal address,flexera group company,"advertising, legal, services"
+postal address,law enforcement,"legal, security, services"
+postal address,promotional partner,legal
+postal address,purchaser,legal
+postal address,regulator,legal
+postal address,service provider,legal
+postal address,social media,
+postal address,we,"advertising, analytics, services, security, legal"
+precise geolocation,tracking technologies,
+prediction,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+prediction,advertiser,"advertising, analytics"
+prediction,advisor,legal
+prediction,company help,
+prediction,flexera group company,"advertising, legal, services"
+prediction,law enforcement,"legal, security, services"
+prediction,promotional partner,legal
+prediction,purchaser,legal
+prediction,regulator,legal
+prediction,service provider,legal
+prediction,social media,
+prediction,we,"advertising, analytics, services, security, legal"
+preference,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+preference,advertiser,"advertising, analytics"
+preference,advisor,legal
+preference,company help,
+preference,flexera group company,"advertising, legal, services"
+preference,law enforcement,"legal, security, services"
+preference,promotional partner,legal
+preference,purchaser,legal
+preference,regulator,legal
+preference,service provider,legal
+preference,social media,
+preference,we,"advertising, analytics, services, security, legal"
+quote we offer you,we,"advertising, analytics, services, security, legal"
+specific piece,UNSPECIFIED_ACTOR,"analytics, advertising, legal"
+specific piece,advertiser,"advertising, analytics"
+specific piece,advisor,legal
+specific piece,company help,
+specific piece,flexera group company,"advertising, legal, services"
+specific piece,law enforcement,"legal, security, services"
+specific piece,promotional partner,legal
+specific piece,purchaser,legal
+specific piece,regulator,legal
+specific piece,service provider,legal
+specific piece,social media,
+specific piece,we,"advertising, analytics, services, security, legal"
+technology,tracking technologies,
+unique id for advertisers,tracking technologies,
+username,we,"advertising, analytics, services, security, legal"
+uuid,we,
+youtube,social media,

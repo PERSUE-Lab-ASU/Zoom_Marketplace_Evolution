@@ -1,0 +1,41 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,smartrecruiter,
+UNSPECIFIED_DATA,we,
+ccpa identifier,UNSPECIFIED_ACTOR,services
+ccpa identifier,smartrecruiters,
+ccpa identifier,we,"services, security, legal, advertising"
+commercial information,UNSPECIFIED_ACTOR,services
+commercial information,smartrecruiters,
+commercial information,we,
+commercial information,we,"services, security, legal, advertising"
+datum collect,Google,"advertising, analytics"
+datum concern date view,UNSPECIFIED_ACTOR,
+email address,we,services
+file record interaction with application,UNSPECIFIED_ACTOR,services
+file record interaction with application,we,services
+identifier,UNSPECIFIED_ACTOR,services
+identifier,smartrecruiters,
+identifier,we,services
+identifier,we,"services, security, legal, advertising"
+information about,we,services
+information concern particular service,we,services
+internet information,UNSPECIFIED_ACTOR,services
+internet information,smartrecruiters,
+internet information,we,services
+internet information,we,"services, security, legal, advertising"
+ip address,UNSPECIFIED_ACTOR,services
+ip address,smartrecruiters,
+ip address,we,"services, security, legal, advertising"
+personal datum collect from you in connection with request,we,"services, security"
+personal datum collect from you in connection with submission of opt request,we,"services, security, legal"
+personal information collect from you,we,"services, security, legal, advertising, analytics"
+personal information collect from you in connection with submission of opt request,we,"services, security, legal, advertising, analytics"
+preference relate to collection of personal information,we,"services, security, legal, advertising, analytics"
+request,we,"services, security, legal, advertising, analytics"
+source from collect,UNSPECIFIED_ACTOR,services
+source from collect,smartrecruiters,
+source from collect,we,"services, security, legal, advertising"
+system log,UNSPECIFIED_ACTOR,services
+system log,we,"services, security, legal, advertising, analytics"
+verifiable request,we,"services, security, legal, advertising, analytics"

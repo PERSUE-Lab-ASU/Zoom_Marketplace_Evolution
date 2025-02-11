@@ -1,0 +1,56 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Google,
+UNSPECIFIED_DATA,we,
+browser type,we,"analytics, legal, services, security"
+browsing / search history,we,
+contact information,we,
+content for user in connection with service as article,we,
+cookie / pixel tag,we,"analytics, legal, services"
+cookie / pixel tag,zendesk,"analytics, services"
+course history,we,"analytics, legal, services, security"
+customer id,UNSPECIFIED_ACTOR,services
+customer id,novoed,services
+customer id,we,"analytics, legal, services, security"
+date time of access,we,"analytics, legal, services, security"
+email address,UNSPECIFIED_ACTOR,services
+email address,novoed,services
+email address,we,"analytics, legal, services, security"
+embed script,we,"analytics, legal, services, security"
+employer name,we,"analytics, legal, services, security"
+geolocation,we,"analytics, legal, services, security"
+history,we,"analytics, legal, services, security"
+history of access,we,"analytics, legal, services, security"
+identifying information,Google,analytics
+identifying information,UNSPECIFIED_ACTOR,
+information about use of service on website,Google,analytics
+information we get from google analytics,we,"analytics, legal, services, security"
+ip address,Google,analytics
+ip address,UNSPECIFIED_ACTOR,services
+ip address,novoed,services
+ip address,we,"analytics, legal, services, security"
+learner program course information history,we,"analytics, legal, services, security"
+name of entity they represent,UNSPECIFIED_ACTOR,services
+name of entity they represent,novoed,services
+name of entity they represent,we,"analytics, legal, services, security"
+notification,we,"analytics, legal, services, security"
+person name,UNSPECIFIED_ACTOR,services
+person name,novoed,services
+person name,we,"analytics, legal, services, security"
+personal datum tie to course,we,"analytics, legal, services, security"
+phone number,UNSPECIFIED_ACTOR,services
+phone number,novoed,services
+phone number,we,"analytics, legal, services, security"
+related datum,we,"analytics, legal, services, security"
+report,Google,"analytics, services"
+report,we,"analytics, legal, services, security"
+school name,we,"analytics, legal, services, security"
+session length,we,"analytics, legal, services, security"
+time,we,"analytics, legal, services, security"
+track user clicking behavior,we,"analytics, legal, services, security"
+tracking datum,we,"analytics, legal, services, security"
+tracking information,we,"analytics, legal, services, security"
+tracking information about use of site,UNSPECIFIED_ACTOR,services
+tracking information about use of site,we,"analytics, legal, services, security"
+username,UNSPECIFIED_ACTOR,services
+username,novoed,services
+username,we,"analytics, legal, services, security"

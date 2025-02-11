@@ -1,0 +1,26 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Freestar Capital,advertising
+UNSPECIFIED_DATA,LiveRamp,"advertising, security, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,security
+UNSPECIFIED_DATA,doodle,security
+UNSPECIFIED_DATA,we,
+calendar datum,doodle,"security, services"
+cookie / pixel tag,doodle,"security, services, advertising, analytics"
+cookie / pixel tag,we,
+datum you provide,we,"advertising, analytics, services"
+email address,LiveRamp,"advertising, security, services"
+email address,group company,
+email address,we,"advertising, analytics, services"
+google contact,doodle,"security, services, advertising, analytics"
+ip address,LiveRamp,"advertising, security, services"
+ip address,group company,
+ip address,we,"advertising, analytics, services"
+large language model,openai,
+log file,UNSPECIFIED_ACTOR,"security, services"
+log file,we,"advertising, analytics, services"
+personal information,UNSPECIFIED_ACTOR,"security, services"
+personal information,doodle,"security, services, advertising, analytics"
+personal information,we,"advertising, analytics, services"
+request,UNSPECIFIED_ACTOR,"security, services"
+request,doodle,"security, services, advertising, analytics"
+request,we,"advertising, analytics, services"

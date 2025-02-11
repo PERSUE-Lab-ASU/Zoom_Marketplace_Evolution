@@ -1,0 +1,10 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"legal, security, services"
+information in specific situation describe in section,UNSPECIFIED_ACTOR,
+information in specific situation describe in section,we,"legal, security, services"
+personal information,UNSPECIFIED_ACTOR,
+personal information,service provider,
+personal information,we,"legal, security, services, analytics"
+personal information provide in request,we,"legal, security, services, analytics"
+verification method,we,"legal, security, services, analytics"

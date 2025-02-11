@@ -1,0 +1,17 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,ntl,services
+address change information,we,"services, analytics"
+contact information,we,services
+cookie / pixel tag,related technology,"analytics, services"
+email address,we,services
+file on google drive,ntl,services
+geolocation,ntl,services
+information provide to we in accordance with irs regulation,we,"services, analytics"
+person name,ntl,services
+personal information,ntl,services
+personal information,we,"services, analytics"
+postal address,ntl,services
+relate information,ntl,services
+shared objects,related technology,"analytics, services"
+tax id number,ntl,services
+tax resolution information,we,"services, analytics, legal"

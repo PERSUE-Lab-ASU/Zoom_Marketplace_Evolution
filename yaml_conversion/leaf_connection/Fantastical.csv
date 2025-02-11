@@ -1,0 +1,54 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,flexibit,
+UNSPECIFIED_DATA,we,services
+aggregate / deidentified / pseudonymized information,we,services
+analytic information about use of application,we,"services, analytics"
+attachment to support ticket,UNSPECIFIED_ACTOR,
+attachment to support ticket,government official,
+attachment to support ticket,private party,
+attachment to support ticket,server locate in usa,
+attachment to support ticket,service provider,
+attachment to support ticket,service providers,
+attachment to support ticket,we,"services, analytics"
+calendar name,we,"services, analytics"
+card type,we,"services, analytics"
+chat,we,"services, analytics"
+coarse geolocation,accuweather,
+coarse geolocation,we,"services, analytics"
+contact,we,"services, analytics"
+cookie / pixel tag,we,"services, analytics"
+crash report,we,"services, analytics"
+customer satisfaction survey,we,"services, analytics"
+date,we,"services, analytics"
+datum about use of flexibits service,flexibits,services
+device identifier,we,"services, analytics"
+email address,we,"services, analytics"
+geolocation,flexibits,"services, analytics"
+geolocation,we,"services, analytics"
+information about service provider we use to we disclose personal information,we,"services, analytics"
+information about you,government official,
+information about you,private party,
+information about you,we,"services, analytics"
+information in connection with action you take on sites,we,"services, analytics"
+invoice,we,"services, analytics"
+ip address,we,"services, analytics"
+last digit of card number,we,"services, analytics"
+meeting proposal,we,"services, analytics"
+meeting template,we,"services, analytics"
+note,we,"services, analytics"
+number,we,"services, analytics"
+option choose between mail,we,"services, analytics"
+payment method information,we,"services, analytics"
+person name,we,"services, analytics"
+phone number,we,"services, analytics"
+postal address,we,"services, analytics"
+reminder,we,"services, analytics"
+specific piece,UNSPECIFIED_ACTOR,
+specific piece,government official,
+specific piece,private party,
+specific piece,server locate in usa,
+specific piece,service provider,
+specific piece,service providers,
+specific piece,we,"services, analytics"
+text message,we,"services, analytics"
+transaction history,we,"services, analytics"

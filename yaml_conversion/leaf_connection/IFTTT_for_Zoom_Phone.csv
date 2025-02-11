@@ -1,0 +1,56 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Google,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,disclosing party,
+UNSPECIFIED_DATA,site you visit from link on site,
+UNSPECIFIED_DATA,we,"analytics, services"
+UNSPECIFIED_DATA,we,"analytics, services, security, advertising, legal"
+action field,we,"analytics, services"
+administrative password,we,"analytics, services, security, advertising, legal"
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"analytics, services, security, advertising, legal"
+aggregate customer data,we,"analytics, services"
+aggregate usage information,UNSPECIFIED_ACTOR,
+aggregate usage information,we,"analytics, services"
+applet trigger field,we,"analytics, services"
+applicable processing activity,UNSPECIFIED_ACTOR,
+applicable processing activity,business partner,
+applicable processing activity,joint venture,
+applicable processing activity,member of corporate family,
+applicable processing activity,party acquire asset,
+applicable processing activity,service provider,
+applicable processing activity,site you visit from link on site,
+applicable processing activity,we,"analytics, services, security, advertising, legal"
+browsing / search history,we,"analytics, services"
+computer browser information,we,"analytics, services, security, advertising, legal"
+contact,we,"analytics, services"
+cookie / pixel tag,Google,
+cookie / pixel tag,we,"analytics, services, security"
+customer data,UNSPECIFIED_ACTOR,
+customer data,we,"analytics, services, security"
+demographic information,we,"analytics, services, security"
+email address,we,"analytics, services, security, advertising, legal"
+identifier,we,"analytics, services, security"
+information from public profile,UNSPECIFIED_ACTOR,
+information from public profile,we,"analytics, services, security"
+information it collect from you,we,"analytics, services, security, advertising, legal"
+information we get from google analytics,we,"analytics, services, security, advertising"
+information you enter on service,we,"analytics, services, security, advertising"
+ingredient,we,"analytics, services, security, advertising"
+internet activity,we,"analytics, services, security, advertising"
+internet address assign to computer,we,"analytics, services, security, advertising, legal"
+ip address,Google,
+ip address,we,"analytics, services, security"
+number,we,"analytics, services, security, advertising, legal"
+provision of customer support,UNSPECIFIED_ACTOR,
+provision of customer support,business partner,
+provision of customer support,joint venture,
+provision of customer support,member of corporate family,
+provision of customer support,party acquire asset,
+provision of customer support,service provider,
+provision of customer support,site you visit from link on site,
+provision of customer support,we,"analytics, services, security, advertising, legal"
+registration information for mobile phone,we,"analytics, services, security, advertising, legal"
+url you come from,we,"analytics, services, security, advertising, legal"
+zip code,we,"analytics, services, security"

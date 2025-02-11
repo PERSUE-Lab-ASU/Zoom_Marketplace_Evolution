@@ -1,0 +1,278 @@
+data_type,collector,purpose
+Google,analytic provider,"advertising, analytics, security, services"
+Microsoft,analytic provider,"advertising, analytics, security, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,legal
+account information,we,legal
+action take through services,we,"legal, analytics"
+aggregation,we,"legal, analytics"
+analytic datum about service,we,"legal, analytics"
+attachment you send to we,we,"legal, analytics"
+backup,we,"legal, analytics"
+browsing / search history,advertiser,
+browsing / search history,analytic provider,
+cache copy of information,we,"legal, analytics"
+commercial information,we,"legal, analytics"
+communication,UNSPECIFIED_ACTOR,
+company size,we,"legal, analytics, services, advertising"
+content of message,we,"legal, analytics"
+cookie / pixel tag,we,"legal, analytics"
+course completion datum,we,"legal, analytics"
+credit / debit card number,Lucid Software,
+credit / debit card number,UNSPECIFIED_ACTOR,
+credit / debit card number,advertising partners,"advertising, analytics, security, services"
+credit / debit card number,advisor,
+credit / debit card number,analytic provider,"advertising, analytics, security, services"
+credit / debit card number,employer,"advertising, analytics, security, services"
+credit / debit card number,integration,"advertising, analytics, security, services"
+credit / debit card number,lucid,
+credit / debit card number,marketing services,"advertising, analytics, security, services"
+credit / debit card number,potential transactional partner,
+credit / debit card number,service provider,"advertising, analytics, security, services"
+credit / debit card number,social media,"advertising, analytics, security, services"
+credit / debit card number,we,"legal, analytics, services, advertising, security"
+credit card,third party payment processor,
+date,we,"legal, analytics"
+description,Lucid Software,
+description,UNSPECIFIED_ACTOR,
+description,advertising partners,"advertising, analytics, security, services"
+description,advisor,
+description,analytic provider,"advertising, analytics, security, services"
+description,employer,"advertising, analytics, security, services"
+description,integration,"advertising, analytics, security, services"
+description,lucid,
+description,marketing services,"advertising, analytics, security, services"
+description,potential transactional partner,
+description,service provider,"advertising, analytics, security, services"
+description,social media,"advertising, analytics, security, services"
+description,we,"legal, analytics, services, advertising, security"
+document,we,"legal, analytics"
+document you create,we,"legal, analytics, services"
+email address,Lucid Software,
+email address,UNSPECIFIED_ACTOR,
+email address,advertising partners,"advertising, analytics, security, services"
+email address,advisor,
+email address,analytic provider,"advertising, analytics, security, services"
+email address,employer,"advertising, analytics, security, services"
+email address,integration,"advertising, analytics, security, services"
+email address,lucid,
+email address,marketing services,"advertising, analytics, security, services"
+email address,potential transactional partner,
+email address,representative of organization,
+email address,service provider,"advertising, analytics, security, services"
+email address,social media,"advertising, analytics, security, services"
+email address,we,"legal, analytics"
+email address,we,"legal, analytics, services, advertising"
+email address,we,"legal, analytics, services, advertising, security"
+employment,Lucid Software,
+employment,UNSPECIFIED_ACTOR,
+employment,advertising partners,"advertising, analytics, security, services"
+employment,advisor,
+employment,analytic provider,"advertising, analytics, security, services"
+employment,employer,"advertising, analytics, security, services"
+employment,integration,"advertising, analytics, security, services"
+employment,lucid,
+employment,marketing services,"advertising, analytics, security, services"
+employment,potential transactional partner,
+employment,service provider,"advertising, analytics, security, services"
+employment,social media,"advertising, analytics, security, services"
+employment,we,"legal, analytics, services, advertising, security"
+employment history,Lucid Software,
+employment history,UNSPECIFIED_ACTOR,
+employment history,advertising partners,"advertising, analytics, security, services"
+employment history,advisor,
+employment history,analytic provider,"advertising, analytics, security, services"
+employment history,employer,"advertising, analytics, security, services"
+employment history,integration,"advertising, analytics, security, services"
+employment history,lucid,
+employment history,marketing services,"advertising, analytics, security, services"
+employment history,potential transactional partner,
+employment history,service provider,"advertising, analytics, security, services"
+employment history,social media,"advertising, analytics, security, services"
+employment history,we,"legal, analytics, services, advertising, security"
+error report,we,"legal, analytics, services, advertising"
+financial information,Lucid Software,
+financial information,UNSPECIFIED_ACTOR,
+financial information,advertising partners,"advertising, analytics, security, services"
+financial information,advisor,
+financial information,analytic provider,"advertising, analytics, security, services"
+financial information,employer,"advertising, analytics, security, services"
+financial information,integration,"advertising, analytics, security, services"
+financial information,lucid,
+financial information,marketing services,"advertising, analytics, security, services"
+financial information,potential transactional partner,
+financial information,service provider,"advertising, analytics, security, services"
+financial information,social media,"advertising, analytics, security, services"
+financial information,third party payment processor,
+financial information,we,"legal, analytics, services, advertising, security"
+identifier,we,"legal, analytics"
+identifier,we,"legal, analytics, services, advertising"
+identity verification,we,"legal, analytics"
+identity verification,we,"legal, analytics, services, advertising"
+inference draw from personal information,we,"legal, analytics"
+inference draw from personal information,we,"legal, analytics, services, advertising"
+information about use of website,analytic provider,
+information request through online application question,we,"legal, analytics, services, advertising, security"
+information we collect,we,"legal, analytics, services, advertising, security"
+information we collect about you,we,"legal, analytics, services, advertising, security"
+information we receive,UNSPECIFIED_ACTOR,
+information we receive,corporate affiliate,
+information we receive,service provider,
+information we receive,we,"legal, analytics, services, advertising, security"
+information you make,we,"legal, analytics, services, advertising, security"
+information you provide,we,"legal, analytics, services, advertising, security"
+internet activity,advertiser,
+internet activity,analytic provider,
+internet electronic activity information,we,"legal, analytics"
+internet information,we,"legal, analytics"
+internet information,we,"legal, analytics, services, advertising, security"
+ip address,we,"legal, analytics, services, advertising"
+job level,we,"legal, analytics, services, advertising"
+job title,we,"legal, analytics, services, advertising"
+link,we,"legal, analytics"
+message,we,"legal, analytics"
+mobile application,we,"legal, analytics, services, advertising, security"
+non - public education information,we,"legal, analytics"
+non - public education information,we,"legal, analytics, services, advertising, security"
+number,we,"legal, analytics, services, advertising, security"
+online product,we,"legal, analytics, services, advertising, security"
+operating system version,we,"legal, analytics, services, advertising"
+person name,Lucid Software,
+person name,UNSPECIFIED_ACTOR,
+person name,advertising partners,"advertising, analytics, security, services"
+person name,advisor,
+person name,analytic provider,"advertising, analytics, security, services"
+person name,employer,"advertising, analytics, security, services"
+person name,integration,"advertising, analytics, security, services"
+person name,lucid,
+person name,marketing services,"advertising, analytics, security, services"
+person name,potential transactional partner,
+person name,representative of organization,
+person name,service provider,"advertising, analytics, security, services"
+person name,social media,"advertising, analytics, security, services"
+person name,we,"legal, analytics, services, advertising"
+person name,we,"legal, analytics, services, advertising, security"
+personal characteristic,Lucid Software,
+personal characteristic,UNSPECIFIED_ACTOR,
+personal characteristic,advertising partners,"advertising, analytics, security, services"
+personal characteristic,advisor,
+personal characteristic,analytic provider,"advertising, analytics, security, services"
+personal characteristic,employer,"advertising, analytics, security, services"
+personal characteristic,integration,"advertising, analytics, security, services"
+personal characteristic,lucid,
+personal characteristic,marketing services,"advertising, analytics, security, services"
+personal characteristic,potential transactional partner,
+personal characteristic,service provider,"advertising, analytics, security, services"
+personal characteristic,social media,"advertising, analytics, security, services"
+personal characteristic,we,"legal, analytics, services, advertising, security"
+personal information from,we,"legal, analytics, services, advertising, security"
+personal information we disclose,we,"legal, analytics"
+personal information we disclose,we,"legal, analytics, services, advertising, security"
+personalization,we,"legal, analytics, services, advertising, security"
+phone number,Lucid Software,
+phone number,UNSPECIFIED_ACTOR,
+phone number,advertising partners,"advertising, analytics, security, services"
+phone number,advisor,
+phone number,analytic provider,"advertising, analytics, security, services"
+phone number,employer,"advertising, analytics, security, services"
+phone number,integration,"advertising, analytics, security, services"
+phone number,lucid,
+phone number,marketing services,"advertising, analytics, security, services"
+phone number,potential transactional partner,
+phone number,service provider,"advertising, analytics, security, services"
+phone number,social media,"advertising, analytics, security, services"
+phone number,we,"legal, analytics"
+phone number,we,"legal, analytics, services, advertising, security"
+photo,we,"legal, analytics, services, advertising"
+political opinion,Lucid Software,
+political opinion,UNSPECIFIED_ACTOR,
+political opinion,advertising partners,"advertising, analytics, security, services"
+political opinion,advisor,
+political opinion,analytic provider,"advertising, analytics, security, services"
+political opinion,employer,"advertising, analytics, security, services"
+political opinion,integration,"advertising, analytics, security, services"
+political opinion,lucid,
+political opinion,marketing services,"advertising, analytics, security, services"
+political opinion,potential transactional partner,
+political opinion,service provider,"advertising, analytics, security, services"
+political opinion,social media,"advertising, analytics, security, services"
+political opinion,we,"legal, analytics, services, advertising, security"
+possible re,we,"legal, analytics, services, advertising, security"
+postal address,Lucid Software,
+postal address,UNSPECIFIED_ACTOR,
+postal address,advertising partners,"advertising, analytics, security, services"
+postal address,advisor,
+postal address,analytic provider,"advertising, analytics, security, services"
+postal address,employer,"advertising, analytics, security, services"
+postal address,integration,"advertising, analytics, security, services"
+postal address,lucid,
+postal address,marketing services,"advertising, analytics, security, services"
+postal address,potential transactional partner,
+postal address,service provider,"advertising, analytics, security, services"
+postal address,social media,"advertising, analytics, security, services"
+postal address,we,"legal, analytics, services, advertising, security"
+professional information,we,"legal, analytics"
+professional information,we,"legal, analytics, services, advertising, security"
+profile information,we,"legal, analytics, services, advertising"
+protected classification,we,"legal, analytics"
+racial origin,Lucid Software,
+racial origin,UNSPECIFIED_ACTOR,
+racial origin,advertising partners,"advertising, analytics, security, services"
+racial origin,advisor,
+racial origin,analytic provider,"advertising, analytics, security, services"
+racial origin,employer,"advertising, analytics, security, services"
+racial origin,integration,"advertising, analytics, security, services"
+racial origin,lucid,
+racial origin,marketing services,"advertising, analytics, security, services"
+racial origin,potential transactional partner,
+racial origin,service provider,"advertising, analytics, security, services"
+racial origin,social media,"advertising, analytics, security, services"
+racial origin,we,"legal, analytics, services, advertising, security"
+reasonable information verify identity,we,"legal, analytics, services, advertising, security"
+referrer url,we,"legal, analytics, services, advertising, security"
+relationship with you,we,"legal, analytics, services, advertising, security"
+religious belief,Lucid Software,
+religious belief,UNSPECIFIED_ACTOR,
+religious belief,advertising partners,"advertising, analytics, security, services"
+religious belief,advisor,
+religious belief,analytic provider,"advertising, analytics, security, services"
+religious belief,employer,"advertising, analytics, security, services"
+religious belief,integration,"advertising, analytics, security, services"
+religious belief,lucid,
+religious belief,marketing services,"advertising, analytics, security, services"
+religious belief,potential transactional partner,
+religious belief,service provider,"advertising, analytics, security, services"
+religious belief,social media,"advertising, analytics, security, services"
+religious belief,we,"legal, analytics, services, advertising, security"
+sensory information,we,"legal, analytics"
+sensory information,we,"legal, analytics, services, advertising, security"
+signature,Lucid Software,
+signature,UNSPECIFIED_ACTOR,
+signature,advertising partners,"advertising, analytics, security, services"
+signature,advisor,
+signature,analytic provider,"advertising, analytics, security, services"
+signature,employer,"advertising, analytics, security, services"
+signature,integration,"advertising, analytics, security, services"
+signature,lucid,
+signature,marketing services,"advertising, analytics, security, services"
+signature,potential transactional partner,
+signature,service provider,"advertising, analytics, security, services"
+signature,social media,"advertising, analytics, security, services"
+signature,we,"legal, analytics, services, advertising, security"
+specific type,Lucid Software,
+specific type,UNSPECIFIED_ACTOR,
+specific type,advertising partners,"advertising, analytics, security, services"
+specific type,advisor,
+specific type,analytic provider,"advertising, analytics, security, services"
+specific type,employer,"advertising, analytics, security, services"
+specific type,integration,"advertising, analytics, security, services"
+specific type,lucid,
+specific type,marketing services,"advertising, analytics, security, services"
+specific type,potential transactional partner,
+specific type,service provider,"advertising, analytics, security, services"
+specific type,social media,"advertising, analytics, security, services"
+specific type,we,"legal, analytics, services, advertising, security"
+time,we,"legal, analytics, services, advertising, security"
+transactional communication,we,"legal, analytics, services, advertising, security"
+ui element,we,"legal, analytics"
+web browser type,we,"legal, analytics, services, advertising"

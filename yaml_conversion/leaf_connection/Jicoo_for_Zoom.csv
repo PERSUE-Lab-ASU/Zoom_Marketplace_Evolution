@@ -1,0 +1,47 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,"advertising, analytics"
+UNSPECIFIED_DATA,current affiliate,"advertising, analytics"
+UNSPECIFIED_DATA,government entity,"legal, security"
+UNSPECIFIED_DATA,invitee,
+UNSPECIFIED_DATA,service providers,"legal, security"
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+appointment information,jicoo,
+billing information,jicoo,
+calendar information,jicoo,
+contact information,bank,security
+contact information,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,service providers,"legal, security, analytics, services"
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+cookies,we,"advertising, analytics, legal, security, services"
+cost estimate,we,"advertising, analytics, legal, security, services"
+credit / debit card number,third party payment processor,
+credit / debit card number,we,"advertising, analytics, legal, security, services"
+date,we,"advertising, analytics, legal, security, services"
+email address,Personal Information Privacy and Security Association (Vancouver),
+email address,UNSPECIFIED_ACTOR,"advertising, analytics, legal, security, services"
+email address,contractor,"advertising, analytics, legal, security, services"
+email address,government entity,"legal, security, advertising, analytics, services"
+email address,government representative,
+email address,jicoo,
+email address,service provider,
+email address,service providers,"legal, security, analytics, services"
+email address,we,"advertising, analytics, legal, security, services"
+identifier,we,"advertising, analytics, legal, security, services"
+information about you,we,"advertising, analytics, legal, security, services"
+information browser send,we,"advertising, analytics, legal, security, services"
+information identify,jicoo,
+internet,we,"advertising, analytics, legal, security, services"
+ip address,we,"advertising, analytics, legal, security, services"
+log datum,we,"advertising, analytics, legal, security, services"
+payment information you provide to we,we,"advertising, analytics, legal, security, services"
+person name,we,"advertising, analytics, legal, security, services"
+personal datum submit via european union standard contractual clauses,we,"advertising, analytics, legal, security, services"
+personal information category list in cal . civ . code sec .,we,"advertising, analytics, legal, security, services"
+personal information provide in verifiable consumer request,jicoo,security
+postal address,third party payment processor,
+small text file send,we,"advertising, analytics, legal, security, services"
+specific piece of personal information we collect about you,we,"advertising, analytics, legal, security, services"
+time,we,"advertising, analytics, legal, security, services"
+type of information,service providers,"legal, security, analytics, services"
+type of information,we,"advertising, analytics, legal, security, services"
+verifiable consumer request,we,"advertising, analytics, legal, security, services"

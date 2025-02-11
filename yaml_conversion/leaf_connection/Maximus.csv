@@ -1,0 +1,70 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+account name,we,"services, advertising, analytics, legal, security"
+calendar datum,we,"services, advertising, analytics, legal, security"
+click id,we,"services, advertising, analytics"
+company name,we,"services, advertising, analytics, legal, security"
+cookie / pixel tag,we,
+cost estimate,we,
+credit limit,service provider,
+credit limit,u.s. office,
+credit limit,usemaximus.com,
+credit limit,we,"services, advertising, analytics, legal, security"
+credit registration,service provider,
+credit registration,u.s. office,
+credit registration,usemaximus.com,
+credit registration,we,"services, advertising, analytics, legal, security"
+derivative of datum,we,"services, advertising, analytics, legal, security"
+device datum,we,
+device model,we,"services, advertising, analytics"
+device time zone,we,"services, advertising, analytics"
+email address,service provider,
+email address,u.s. office,
+email address,usemaximus.com,
+email address,we,services
+email address,we,"services, advertising, analytics, legal, security"
+geolocation,we,"services, advertising"
+identifier,we,"services, advertising, analytics"
+information collect,we,"services, advertising, analytics"
+information you decide,we,"services, advertising, analytics, legal, security"
+internet activity,we,"services, advertising, analytics"
+internet activity,we,"services, advertising, analytics, legal, security"
+ip address,Google,
+ip address,we,"services, advertising, analytics"
+language,we,"services, advertising, analytics"
+mac address,we,"services, advertising, analytics"
+meeting datum,we,"services, advertising, analytics, legal, security"
+network information,we,"services, advertising, analytics, legal, security"
+operating system,we,"services, advertising, analytics"
+order detail,service provider,
+order detail,u.s. office,
+order detail,usemaximus.com,
+order detail,we,"services, advertising, analytics, legal, security"
+password,we,"services, advertising, analytics, legal, security"
+payment processor,service provider,
+payment processor,we,"services, advertising, analytics, legal, security"
+person name,service provider,
+person name,u.s. office,
+person name,usemaximus.com,
+person name,we,"services, advertising, analytics, legal, security"
+personal information relate to recruitment job application,we,"services, advertising, analytics, legal, security"
+phone number,service provider,
+phone number,u.s. office,
+phone number,usemaximus.com,
+phone number,we,"services, advertising, analytics, legal, security"
+postal address,service provider,
+postal address,u.s. office,
+postal address,usemaximus.com,
+postal address,we,"services, advertising, analytics, legal, security"
+privacy,we,"services, advertising, analytics, legal, security"
+region,we,"services, advertising, analytics"
+search preference,track technology,
+time of visit,Google,
+time spend on page of site,Google,
+title,service provider,
+title,u.s. office,
+title,usemaximus.com,
+title,we,"services, advertising, analytics, legal, security"
+transaction non - pci payment datum,we,"services, advertising, analytics, legal, security"
+variety of industry standard security technology,usemaximus.com,security
+web hosting provider,service provider,

@@ -1,0 +1,92 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"analytics, services"
+account credential,employer,services
+account credential,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+billing information,employer,services
+billing information,we,"analytics, services"
+browser id,UNSPECIFIED_ACTOR,
+browser id,advertiser,advertising
+browser id,brighthire,"advertising, analytics, legal, security, services"
+browser id,law enforcement,"legal, security"
+browser id,legal advisor,"legal, security"
+browser id,service provider,services
+browser id,we,"analytics, services, advertising, legal, security"
+browser type,UNSPECIFIED_ACTOR,
+browser type,advertiser,advertising
+browser type,brighthire,"advertising, analytics, legal, security, services"
+browser type,law enforcement,"legal, security"
+browser type,legal advisor,"legal, security"
+browser type,service provider,services
+browser type,we,"analytics, services, advertising, legal, security"
+date time of visit,UNSPECIFIED_ACTOR,
+date time of visit,advertiser,advertising
+date time of visit,brighthire,"advertising, analytics, legal, security, services"
+date time of visit,law enforcement,"legal, security"
+date time of visit,legal advisor,"legal, security"
+date time of visit,service provider,services
+date time of visit,we,"analytics, services, advertising, legal, security"
+email address,UNSPECIFIED_ACTOR,
+email address,advertiser,advertising
+email address,brighthire,"advertising, analytics, legal, security, services"
+email address,employer,services
+email address,law enforcement,"legal, security"
+email address,legal advisor,"legal, security"
+email address,service provider,services
+email address,we,"analytics, services"
+email address,we,"analytics, services, advertising, legal, security"
+information about you,UNSPECIFIED_ACTOR,
+information about you,we,"analytics, services"
+information use,employer,services
+information use,we,"analytics, services"
+information you provide,we,"analytics, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,advertiser,advertising
+ip address,brighthire,"advertising, analytics, legal, security, services"
+ip address,law enforcement,"legal, security"
+ip address,legal advisor,"legal, security"
+ip address,service provider,services
+ip address,we,"analytics, services, advertising, legal, security"
+operating system,UNSPECIFIED_ACTOR,
+operating system,advertiser,advertising
+operating system,brighthire,"advertising, analytics, legal, security, services"
+operating system,law enforcement,"legal, security"
+operating system,legal advisor,"legal, security"
+operating system,service provider,services
+operating system,we,"analytics, services, advertising, legal, security"
+payment information,employer,services
+payment information,we,"analytics, services"
+person name,UNSPECIFIED_ACTOR,
+person name,advertiser,advertising
+person name,brighthire,"advertising, analytics, legal, security, services"
+person name,employer,services
+person name,law enforcement,"legal, security"
+person name,legal advisor,"legal, security"
+person name,service provider,services
+person name,we,"analytics, services"
+person name,we,"analytics, services, advertising, legal, security"
+personal identifier,we,"analytics, services"
+personal information about employee of customer who participate in interview for role at customer,we,"analytics, services, advertising, legal, security"
+personal information about job applicant we process on behalf of customer,we,"analytics, services, advertising, legal, security"
+personal information you choose,we,"analytics, services, advertising, legal, security"
+phone number,UNSPECIFIED_ACTOR,
+phone number,advertiser,advertising
+phone number,brighthire,"advertising, analytics, legal, security, services"
+phone number,employer,services
+phone number,law enforcement,"legal, security"
+phone number,legal advisor,"legal, security"
+phone number,service provider,services
+phone number,we,"analytics, services"
+phone number,we,"analytics, services, advertising, legal, security"
+postal address,UNSPECIFIED_ACTOR,
+postal address,advertiser,advertising
+postal address,brighthire,"advertising, analytics, legal, security, services"
+postal address,employer,services
+postal address,law enforcement,"legal, security"
+postal address,legal advisor,"legal, security"
+postal address,service provider,services
+postal address,we,"analytics, services"
+postal address,we,"analytics, services, advertising, legal, security"
+related service,we,"analytics, services, advertising, legal, security"
+service delivery,we,"analytics, services, advertising, legal, security"
+specific information,we,"analytics, services, advertising, legal, security"

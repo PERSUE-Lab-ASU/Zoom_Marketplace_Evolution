@@ -1,0 +1,55 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,business partner,services
+UNSPECIFIED_DATA,service provider,services
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+account,we,"advertising, analytics, legal, security, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, legal, security, services"
+analytic information,analytic provider,
+analytic information,we,"advertising, analytics, legal, security, services"
+base tool,we,"advertising, analytics, legal, security, services"
+browser type,we,"advertising, analytics, legal, security, services"
+browsing / search history,analytic provider,
+business address,we,"advertising, analytics, legal, security, services"
+business affiliation,we,"advertising, analytics, legal, security, services"
+communication,we,"advertising, analytics, legal, security, services"
+company,we,"advertising, analytics, legal, security, services"
+company name,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+date time stamp,we,"advertising, analytics, legal, security, services"
+datum you submit to service,we,"advertising, analytics, legal, security, services"
+device address,we,"advertising, analytics, legal, security, services"
+email address,we,"advertising, analytics, legal, security, services"
+eu personal datum,we,"advertising, analytics, legal, security, services"
+hipaa protect health information,we,"advertising, analytics, legal, security, services"
+id number,we,"advertising, analytics, legal, security, services"
+information about you,we,"advertising, analytics, legal, security, services"
+information it contain,we,"advertising, analytics, legal, security, services"
+information you search for,we,"advertising, analytics, legal, security, services"
+internet protocol,we,"advertising, analytics, legal, security, services"
+ip address,we,"advertising, analytics, legal, security, services"
+job title,we,"advertising, analytics, legal, security, services"
+locale preference,we,"advertising, analytics, legal, security, services"
+non-personal information,we,"advertising, analytics, legal, security, services"
+person name,we,"advertising, analytics, legal, security, services"
+personal information,UNSPECIFIED_ACTOR,"services, legal, security"
+personal information,eea,
+personal information,eu,
+personal information,european economic area,
+personal information,european union,
+personal information,skedulo,
+personal information,united kingdom,
+personal information,we,"advertising, analytics, legal, security, services"
+phone number,we,"advertising, analytics, legal, security, services"
+playback detail,analytic provider,
+postal address,we,"advertising, analytics, legal, security, services"
+regulate data,we,"advertising, analytics, legal, security, services"
+regulatory compliance material,we,"advertising, analytics, legal, security, services"
+skedulo event,we,"advertising, analytics, legal, security, services"
+skedulo product,we,"advertising, analytics, legal, security, services"
+social media,we,"advertising, analytics, legal, security, services"
+source code,we,"advertising, analytics, legal, security, services"
+system configuration information,we,"advertising, analytics, legal, security, services"
+title,we,"advertising, analytics, legal, security, services"
+url,we,"advertising, analytics, legal, security, services"
+username,we,"advertising, analytics, legal, security, services"

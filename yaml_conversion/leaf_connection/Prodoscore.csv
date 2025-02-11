@@ -1,0 +1,20 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,advertiser,advertising
+UNSPECIFIED_DATA,subcontractor,
+UNSPECIFIED_DATA,we,"advertising, services"
+UNSPECIFIED_DATA,we,"advertising, services, analytics, security"
+anonymous datum,UNSPECIFIED_ACTOR,"services, analytics"
+anonymous datum,we,"advertising, services, analytics, security"
+datum you provide to we,office,
+datum you provide to we,service provider locate in united states,
+email address,we,"advertising, services"
+geolocation,we,"advertising, services"
+information we get from google analytics,we,"advertising, services"
+person name,we,"advertising, services"
+personal information business sell about consumer,UNSPECIFIED_ACTOR,"services, analytics"
+personal information business sell about consumer,we,"advertising, services, analytics, security"
+personal information we handle under privacy shield,we,"advertising, services, analytics, security"
+phone number,we,"advertising, services"
+postal address,we,"advertising, services"
+privacy request form,we,"advertising, services"

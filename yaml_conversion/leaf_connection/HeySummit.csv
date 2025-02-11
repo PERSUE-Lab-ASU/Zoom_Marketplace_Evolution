@@ -1,0 +1,239 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,provider base in us,
+UNSPECIFIED_DATA,we,services
+auth provider,we,"services, advertising, analytics, legal"
+browser plug in type,UNSPECIFIED_ACTOR,
+browser plug in type,country deem,
+browser plug in type,employee,
+browser plug in type,party set,analytics
+browser plug in type,we,"services, advertising, analytics, legal"
+browser type,UNSPECIFIED_ACTOR,
+browser type,country deem,
+browser type,employee,
+browser type,party set,analytics
+browser type,we,"services, advertising, analytics, legal"
+communication preference,UNSPECIFIED_ACTOR,
+communication preference,country deem,
+communication preference,employee,
+communication preference,party set,analytics
+communication preference,we,"services, advertising"
+communication preference,we,"services, advertising, analytics, legal"
+contact,we,services
+conversion information,UNSPECIFIED_ACTOR,
+conversion information,heysummit,"advertising, analytics"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+credit payment,Stripe,
+date,UNSPECIFIED_ACTOR,
+date,country deem,
+date,employee,
+date,party set,analytics
+date,we,"services, advertising, analytics, legal"
+date of birth,UNSPECIFIED_ACTOR,
+date of birth,country deem,
+date of birth,employee,
+date of birth,party set,analytics
+date of birth,we,"services, advertising"
+date of birth,we,"services, advertising, analytics, legal"
+datum about you,UNSPECIFIED_ACTOR,
+datum about you,we,"services, advertising"
+datum analysis,we,"services, advertising, analytics, legal"
+datum you provide we at heysummit.com,we,"services, advertising"
+detail of product you access,UNSPECIFIED_ACTOR,
+detail of product you access,country deem,
+detail of product you access,employee,
+detail of product you access,party set,analytics
+detail of product you access,we,"services, advertising, analytics, legal"
+different kind,UNSPECIFIED_ACTOR,
+different kind,country deem,
+different kind,employee,
+different kind,party set,analytics
+different kind,we,"services, advertising"
+different kind,we,"services, advertising, analytics, legal"
+different method,we,"services, advertising"
+email address,UNSPECIFIED_ACTOR,
+email address,country deem,
+email address,employee,
+email address,party set,analytics
+email address,we,"services, advertising"
+email address,we,"services, advertising, analytics, legal"
+event name,UNSPECIFIED_ACTOR,
+event name,country deem,
+event name,employee,
+event name,party set,analytics
+event name,we,"services, advertising, analytics, legal"
+feedback,UNSPECIFIED_ACTOR,
+feedback,country deem,
+feedback,employee,
+feedback,party set,analytics
+feedback,we,"services, advertising, analytics, legal"
+gender,UNSPECIFIED_ACTOR,
+gender,country deem,
+gender,employee,
+gender,party set,analytics
+gender,we,"services, advertising"
+gender,we,"services, advertising, analytics, legal"
+generate content,UNSPECIFIED_ACTOR,
+generate content,country deem,
+generate content,employee,
+generate content,party set,analytics
+generate content,we,"services, advertising"
+generate content,we,"services, advertising, analytics, legal"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,country deem,
+geolocation,employee,
+geolocation,party set,analytics
+geolocation,we,"services, advertising, analytics, legal"
+hardware information,UNSPECIFIED_ACTOR,
+hardware information,country deem,
+hardware information,employee,
+hardware information,party set,analytics
+hardware information,we,"services, advertising, analytics, legal"
+identifier,UNSPECIFIED_ACTOR,
+identifier,country deem,
+identifier,employee,
+identifier,party set,analytics
+identifier,we,"services, advertising"
+identifier,we,"services, advertising, analytics, legal"
+identity,we,"services, advertising"
+image,UNSPECIFIED_ACTOR,
+image,country deem,
+image,employee,
+image,party set,analytics
+image,we,"services, advertising"
+image,we,"services, advertising, analytics, legal"
+information about,UNSPECIFIED_ACTOR,
+information about,country deem,
+information about,employee,
+information about,party set,analytics
+information about,we,"services, advertising"
+information about,we,"services, advertising, analytics, legal"
+interest,UNSPECIFIED_ACTOR,
+interest,country deem,
+interest,employee,
+interest,party set,analytics
+interest,we,"services, advertising, analytics, legal"
+ip address,UNSPECIFIED_ACTOR,
+ip address,country deem,
+ip address,employee,
+ip address,heysummit,"advertising, analytics"
+ip address,party set,analytics
+ip address,we,"services, advertising, analytics, legal"
+length of visit,UNSPECIFIED_ACTOR,
+length of visit,country deem,
+length of visit,employee,
+length of visit,party set,analytics
+length of visit,we,"services, advertising"
+length of visit,we,"services, advertising, analytics, legal"
+link click,UNSPECIFIED_ACTOR,
+link click,heysummit,"advertising, analytics"
+login datum,UNSPECIFIED_ACTOR,
+login datum,country deem,
+login datum,employee,
+login datum,party set,analytics
+login datum,we,"services, advertising, analytics, legal"
+marital status,UNSPECIFIED_ACTOR,
+marital status,country deem,
+marital status,employee,
+marital status,party set,analytics
+marital status,we,"services, advertising"
+marital status,we,"services, advertising, analytics, legal"
+mouse over,UNSPECIFIED_ACTOR,
+mouse over,country deem,
+mouse over,employee,
+mouse over,party set,analytics
+mouse over,we,"services, advertising"
+mouse over,we,"services, advertising, analytics, legal"
+mouse tracking,UNSPECIFIED_ACTOR,
+mouse tracking,country deem,
+mouse tracking,employee,
+mouse tracking,party set,analytics
+mouse tracking,we,"services, advertising"
+mouse tracking,we,"services, advertising, analytics, legal"
+navigation path,UNSPECIFIED_ACTOR,
+navigation path,country deem,
+navigation path,employee,
+navigation path,party set,analytics
+navigation path,we,"services, advertising"
+navigation path,we,"services, advertising, analytics, legal"
+page view,UNSPECIFIED_ACTOR,
+page view,country deem,
+page view,employee,
+page view,party set,analytics
+page view,we,"services, advertising"
+page view,we,"services, advertising, analytics, legal"
+password,UNSPECIFIED_ACTOR,
+password,country deem,
+password,employee,
+password,party set,analytics
+password,we,"services, advertising, analytics, legal"
+person name,UNSPECIFIED_ACTOR,
+person name,country deem,
+person name,employee,
+person name,party set,analytics
+person name,we,"services, advertising"
+person name,we,"services, advertising, analytics, legal"
+personal datum in structured use machine readable format,UNSPECIFIED_ACTOR,
+personal datum in structured use machine readable format,we,"services, advertising"
+phone number,UNSPECIFIED_ACTOR,
+phone number,country deem,
+phone number,employee,
+phone number,party set,analytics
+phone number,we,"services, advertising"
+phone number,we,"services, advertising, analytics, legal"
+postal address,UNSPECIFIED_ACTOR,
+postal address,country deem,
+postal address,employee,
+postal address,party set,analytics
+postal address,we,"services, advertising"
+postal address,we,"services, advertising, analytics, legal"
+preference,UNSPECIFIED_ACTOR,
+preference,country deem,
+preference,employee,
+preference,party set,analytics
+preference,we,"services, advertising, analytics, legal"
+preference in,UNSPECIFIED_ACTOR,
+preference in,country deem,
+preference in,employee,
+preference in,party set,analytics
+preference in,we,"services, advertising"
+preference in,we,"services, advertising, analytics, legal"
+sensitive personal datum,we,"services, advertising, analytics, legal"
+statistical datum,we,services
+support,we,"services, advertising, analytics, legal"
+technical data about equipment,we,"services, advertising, analytics, legal"
+time,UNSPECIFIED_ACTOR,
+time,country deem,
+time,employee,
+time,party set,analytics
+time,we,"services, advertising, analytics, legal"
+time spend on page,UNSPECIFIED_ACTOR,
+time spend on page,heysummit,"advertising, analytics"
+time zone setting,UNSPECIFIED_ACTOR,
+time zone setting,country deem,
+time zone setting,employee,
+time zone setting,party set,analytics
+time zone setting,we,"services, advertising, analytics, legal"
+timing,UNSPECIFIED_ACTOR,
+timing,country deem,
+timing,employee,
+timing,party set,analytics
+timing,we,"services, advertising"
+timing,we,"services, advertising, analytics, legal"
+title,UNSPECIFIED_ACTOR,
+title,country deem,
+title,employee,
+title,party set,analytics
+title,we,"services, advertising"
+title,we,"services, advertising, analytics, legal"
+username,UNSPECIFIED_ACTOR,
+username,country deem,
+username,employee,
+username,party set,analytics
+username,we,"services, advertising"
+username,we,"services, advertising, analytics, legal"
+volunteer record,UNSPECIFIED_ACTOR,
+volunteer record,country deem,
+volunteer record,employee,
+volunteer record,party set,analytics
+volunteer record,we,"services, advertising, analytics, legal"

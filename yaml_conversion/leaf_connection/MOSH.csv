@@ -1,0 +1,14 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+access log,we,
+advertisement page view,we,
+cookie / pixel tag,Google,
+history,we,
+information obtain,we,services
+ip address,we,services
+log not include personally identifiable information,Google,
+personal information,UNSPECIFIED_ACTOR,
+personal information,we,services
+personal information obtain from user,we,services
+usage environment,we,services

@@ -1,0 +1,7 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+information we request,we,
+personal identifier,we,services
+personal information,UNSPECIFIED_ACTOR,
+personal information,we,services
+third party code,we,services

@@ -1,0 +1,35 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,enterprise version of onna,services
+UNSPECIFIED_DATA,onna,services
+UNSPECIFIED_DATA,we,"security, services"
+access,we,"security, services"
+aggregate / deidentified / pseudonymized information,we,"security, services"
+analytic information,we,"security, services, analytics"
+attachment,UNSPECIFIED_ACTOR,services
+content,onna,services
+cookie / pixel tag,enterprise version of onna,services
+cookie / pixel tag,we,"security, services, analytics"
+current city,we,"security, services, analytics"
+datum collect about interaction with website,enterprise version of onna,services
+datum collect about interaction with website,we,"security, services, analytics"
+datum regard interaction with website,we,"security, services, analytics"
+email address,we,"security, services, analytics"
+file,UNSPECIFIED_ACTOR,services
+file store in google drive service,UNSPECIFIED_ACTOR,services
+geolocation,we,"security, services, analytics"
+information from,we,"security, services, analytics"
+information in audits service,UNSPECIFIED_ACTOR,services
+information third party service make,we,"security, services, analytics"
+information we collect,we,"security, services, analytics"
+label,UNSPECIFIED_ACTOR,services
+message,UNSPECIFIED_ACTOR,services
+metadata,UNSPECIFIED_ACTOR,services
+metadata,we,"security, services, analytics"
+non-personal information,we,"security, services, analytics"
+payment info,we,"security, services, analytics"
+person name,we,"security, services, analytics"
+personal information,we,"security, services, analytics"
+phone number,we,"security, services, analytics"
+postal address,we,"security, services, analytics"
+profile picture url,we,"security, services, analytics"

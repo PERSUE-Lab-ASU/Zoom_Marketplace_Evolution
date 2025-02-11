@@ -1,0 +1,51 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,legal
+access to personal information,we,legal
+advertising id,we,"legal, advertising"
+aggregate / deidentified / pseudonymized information,advertiser,
+aggregate / deidentified / pseudonymized information,we,legal
+aggregate knowledge,we,legal
+analytic datum supply,we,"legal, advertising"
+business name,we,"legal, advertising, security, services, analytics"
+calendar information,we,"legal, advertising, security, services, analytics"
+commercial information,we,"legal, advertising"
+credit / debit card number,we,"legal, advertising, security, services, analytics"
+device identifier,we,"legal, advertising"
+different type,we,"legal, advertising"
+email address,we,"legal, advertising"
+file name,we,"legal, advertising"
+hardware model,we,"legal, advertising"
+identifiable information about individual,we,"legal, advertising"
+identifier,we,"legal, advertising"
+information about communication,we,"legal, advertising"
+information about content you view on service,UNSPECIFIED_ACTOR,advertising
+information about data processing practice,we,"legal, advertising"
+information about you,we,"legal, advertising, security"
+information relate to business,we,"legal, advertising, security, services, analytics"
+information you choose,we,"legal, advertising, security"
+information you provide,we,"legal, advertising, security"
+insurance information,we,"legal, advertising, security, services"
+internet activity,we,"legal, advertising, security, services"
+ip address,we,"legal, advertising"
+license number,we,"legal, advertising, security, services, analytics"
+login name,we,"legal, advertising"
+main type,UNSPECIFIED_ACTOR,advertising
+main type,we,"legal, advertising, security, services, analytics"
+mobile network information,we,"legal, advertising"
+non-personal information,we,"legal, advertising, security, services"
+password,we,"legal, advertising"
+personal information fall within scope of privacy policy,cloud hosting service provider,
+personal information fall within scope of privacy policy,we,"legal, advertising, security, services, analytics"
+personal information provide in verification process,we,"legal, advertising, security, services, analytics"
+personal information we consider,we,"legal, advertising, security, services, analytics"
+personal information we use for own business purpose,we,"legal, advertising, security, services, analytics"
+phone number,we,"legal, advertising"
+postal address,we,"legal, advertising"
+preferred language,we,"legal, advertising"
+record of personal information,new business owner,
+serial number,we,"legal, advertising"
+specific piece,UNSPECIFIED_ACTOR,advertising
+specific piece,we,"legal, advertising, security, services, analytics"
+tax id,we,"legal, advertising, security, services, analytics"
+version,we,"legal, advertising"
+write reason for refusal,we,"legal, advertising, security, services, analytics"

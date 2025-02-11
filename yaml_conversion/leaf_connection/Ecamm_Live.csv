@@ -1,0 +1,44 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,services
+access token,we,services
+access token allow,we,services
+anonymous identifier,we,"services, analytics"
+browser type,ecamm network llc,"advertising, analytics, security, services"
+browser type,we,"services, analytics"
+browser version,ecamm network llc,"advertising, analytics, security, services"
+browser version,we,"services, analytics"
+collect datum,Google,advertising
+collect datum,ecamm network llc,"advertising, analytics, security, services"
+contact information,we,services
+credit / debit card number,third party payment processor govern,
+date,ecamm network llc,"advertising, analytics, security, services"
+date,we,"services, analytics"
+date of schedule live stream,ecamm live service,services
+datum collect,Google,"advertising, analytics"
+device identifier,ecamm network llc,"advertising, analytics, security, services"
+device identifier,we,"services, analytics"
+diagnostic datum,ecamm network llc,"advertising, analytics, security, services"
+diagnostic datum,we,"services, analytics"
+diagnostic datum relate to accessing of platform datum,ecamm live service,services
+ecamm network,we,"services, analytics, advertising"
+email address,we,"services, analytics"
+facebook group name,ecamm live service,services
+facebook platform datum consistent,ecamm live service,services
+information access,we,"services, analytics"
+ip address,ecamm network llc,"advertising, analytics, security, services"
+ip address,we,"services, analytics"
+list of schedule live broadcast,ecamm live application,
+permalink,ecamm live service,services
+person name,ecamm live service,services
+person name,we,"services, analytics"
+personal information,UNSPECIFIED_ACTOR,services
+personal information,ecamm network llc,"advertising, analytics, security, services, legal"
+personal information,we,"services, analytics, advertising"
+phone number,we,"services, analytics"
+post description,ecamm live service,services
+postal address,we,"services, analytics"
+several different type,we,"services, analytics, advertising"
+time,ecamm live service,services
+time,ecamm network llc,"advertising, analytics, security, services"
+time,we,"services, analytics"
+viewer reaction,ecamm live service,services

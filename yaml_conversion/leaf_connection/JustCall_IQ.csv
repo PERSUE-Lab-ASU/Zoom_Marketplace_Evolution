@@ -1,0 +1,54 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,country,
+UNSPECIFIED_DATA,eea,
+UNSPECIFIED_DATA,trust justcall partners who assist in,
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services"
+client data,UNSPECIFIED_ACTOR,
+client data,acquirer,
+client data,we,"advertising, analytics, security, services"
+collect information,we,"advertising, analytics, security, services"
+communication with individual through from written mean as email,we,"advertising, analytics, security, services, legal"
+credit card billing information,UNSPECIFIED_ACTOR,
+credit card billing information,acquirer,
+credit card billing information,we,"advertising, analytics, security, services, legal"
+date,we,"advertising, analytics, security, services"
+device address,we,"advertising, analytics, security, services"
+device type,we,"advertising, analytics, security, services"
+different type,we,"advertising, analytics, security, services"
+email address,UNSPECIFIED_ACTOR,
+email address,acquirer,
+email address,we,"advertising, analytics, security, services"
+email address,we,"advertising, analytics, security, services, legal"
+factor authentication,we,"advertising, analytics, security, services"
+geographic area,UNSPECIFIED_ACTOR,
+geographic area,acquirer,
+geographic area,we,"advertising, analytics, security, services, legal"
+identifier,we,"advertising, analytics, security, services"
+information collect through google analytics,Google,analytics
+information integrated service make,we,"advertising, analytics, security, services"
+information regard interaction with email message as,we,"advertising, analytics, security, services"
+information you provide on third party site,operator of service,
+information you submit,we,"advertising, analytics, security, services, legal"
+ip address,UNSPECIFIED_ACTOR,
+ip address,we,"advertising, analytics, security, services, legal"
+justcall,we,"advertising, analytics, security, services, legal"
+mac address,UNSPECIFIED_ACTOR,
+person name,UNSPECIFIED_ACTOR,
+person name,acquirer,
+person name,we,"advertising, analytics, security, services, legal"
+personal data collect from user,we,"advertising, analytics, security, services, legal"
+personal datum we store,UNSPECIFIED_ACTOR,
+personal datum we store,acquirer,
+personal datum we store,we,"advertising, analytics, security, services, legal"
+phone number,UNSPECIFIED_ACTOR,
+phone number,acquirer,
+phone number,we,"advertising, analytics, security, services, legal"
+preference,UNSPECIFIED_ACTOR,
+preference,acquirer,
+preference,we,"advertising, analytics, security, services, legal"
+profile picture url,we,"advertising, analytics, security, services, legal"
+small amount of information about profile,advertiser,
+small amount of information about profile,business partner,
+web site at https://justcall.io,we,"advertising, analytics, security, services, legal"

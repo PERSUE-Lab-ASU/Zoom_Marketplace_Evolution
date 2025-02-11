@@ -1,0 +1,136 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,controller,
+UNSPECIFIED_DATA,service provider in ukraine,
+UNSPECIFIED_DATA,we,"advertising, services"
+access,we,"advertising, services, legal"
+access email message,we,"advertising, services, legal"
+account datum,we,"advertising, services, legal"
+accountant,subcontractor,
+alarm system,we,"advertising, services, legal, security"
+analytic on feedback,we,"advertising, services, legal, security, analytics"
+apns device token,we,"advertising, services, legal, security, analytics"
+app token we assign to you,we,"advertising, services, legal, security, analytics"
+app version,we,"advertising, services, legal, security, analytics"
+aspect of personal datum,we,"advertising, services, legal, security, analytics"
+associate datum,we,"advertising, services, legal, security, analytics"
+attachment,we,"advertising, services, legal, security, analytics"
+audio stream,ai provider,
+auditor,subcontractor,
+backend datum,we,"advertising, services, legal, security, analytics"
+backup,we,"advertising, services, legal, security, analytics"
+base technology company maintain,we,"advertising, services, legal, security, analytics"
+braze id,we,"advertising, services, legal, security, analytics"
+browsing / search history,UNSPECIFIED_ACTOR,
+connection,we,"advertising, services, legal, security, analytics"
+corporate vpn,we,"advertising, services, legal, security, analytics"
+corresponding datum mention,we,"advertising, services, legal, security, analytics"
+data sharing with third party,we,"advertising, services, legal, security, analytics"
+database,we,"advertising, services, legal, security, analytics"
+date,UNSPECIFIED_ACTOR,"services, security"
+date,ai providers,services
+date,consultant,
+date,contractor,
+date,subcontractor,
+date,we,"advertising, services, legal, security, analytics"
+date of installation,we,"advertising, services, legal, security, analytics"
+datum about on market purchase,app store,
+datum of child under age of 16,UNSPECIFIED_ACTOR,
+datum process through feature,ai provider,
+datum process through feature,spark,
+datum you provide to we through website,we,"advertising, services, legal, security, analytics"
+detail on device you use,server host app,
+device information,we,"advertising, services, legal, security, analytics"
+device setting,we,"advertising, services, legal, security, analytics"
+email address,UNSPECIFIED_ACTOR,services
+email address,spark service,
+email address,we,"advertising, services, legal, security, analytics"
+email opening rate,we,"advertising, services, legal, security, analytics"
+encryption,we,"advertising, services, legal, security, analytics"
+expert,subcontractor,
+feedback,we,"advertising, services, legal, security, analytics"
+feedback you provide to we,we,"advertising, services, legal, security, analytics"
+file,we,"advertising, services, legal, security, analytics"
+full control over it,we,"advertising, services, legal, security, analytics"
+general statistic,we,"advertising, services, legal, security, analytics"
+history,we,"advertising, services, legal, security, analytics"
+history of request make on app,we,"advertising, services, legal, security, analytics"
+incremental auth,we,"advertising, services, legal, security, analytics"
+information about,we,"advertising, services, legal, security, analytics"
+information about relevant legislation,we,"advertising, services, legal, security, analytics"
+information about setting,we,"advertising, services, legal, security, analytics"
+information about you,we,"advertising, services, legal, security, analytics"
+information concern person,operator,
+information necessary,we,"advertising, services, legal, security, analytics"
+information request,controller,
+information you provide in form,we,"advertising, services, legal, security, analytics"
+interaction data,we,"advertising, services, legal, security, analytics"
+internet activity,UNSPECIFIED_ACTOR,services
+internet activity,spark,analytics
+internet activity,we,"advertising, services, legal, security, analytics"
+ip address,UNSPECIFIED_ACTOR,"services, security"
+ip address,server host app,
+ip address,we,"advertising, services, legal, security, analytics"
+lawyer,subcontractor,
+log,we,"advertising, services, legal, security, analytics"
+log data contain on device,we,"advertising, services, legal, security, analytics"
+logically separate database,we,"advertising, services, legal, security, analytics"
+mail server credential,we,"advertising, services, legal, security, analytics"
+metric on marketing campaign,we,"advertising, services, legal, security, analytics"
+oauth login credential,we,"advertising, services, legal, security, analytics"
+payment history,we,"advertising, services, legal, security, analytics"
+payment processor id,we,"advertising, services, legal, security, analytics"
+payment status,we,"advertising, services, legal, security, analytics"
+person name,UNSPECIFIED_ACTOR,"services, security"
+person name,ai providers,services
+person name,consultant,
+person name,contractor,
+person name,subcontractor,
+person name,we,"advertising, services, legal, security, analytics"
+phone number,UNSPECIFIED_ACTOR,"services, security"
+platform,we,"advertising, services, legal, security, analytics"
+rating,UNSPECIFIED_ACTOR,"services, security"
+rating,ai providers,services
+rating,consultant,
+rating,contractor,
+rating,subcontractor,
+rating,we,"advertising, services, legal, security, analytics"
+request,we,"advertising, services, legal, security, analytics"
+sample,ai provider,
+sample,spark,analytics
+sample,we,"advertising, services, legal, security, analytics"
+select sample,ai provider,
+select sample,we,"advertising, services, legal, security, analytics"
+send email,we,"advertising, services, legal, security, analytics"
+several type,we,"advertising, services, legal, security, analytics"
+share inboxe,we,"advertising, services, legal, security, analytics"
+snapshot of email draft,we,"advertising, services, legal, security, analytics"
+software engineer,subcontractor,
+source of collection,we,"advertising, services, legal, security, analytics"
+spark id,we,"advertising, services, legal, security, analytics"
+spark mail limited,we,"advertising, services, legal, security, analytics"
+specialist,subcontractor,
+specific piece,we,"advertising, services, legal, security, analytics"
+sufficient information verify you as person we collect personal datum,we,"advertising, services, legal, security, analytics"
+team identity,we,"advertising, services, legal, security, analytics"
+technical datum about ios system,we,"advertising, services, legal, security, analytics"
+technical datum you provide to we,we,"advertising, services, legal, security, analytics"
+technical information,we,"advertising, services, legal, security, analytics"
+telemetry,we,"advertising, services, legal, security, analytics"
+text of feedback,UNSPECIFIED_ACTOR,"services, security"
+text of feedback,ai providers,services
+text of feedback,consultant,
+text of feedback,contractor,
+text of feedback,subcontractor,
+text of feedback,we,"advertising, services, legal, security, analytics"
+textual context of email,Microsoft,services
+textual context of email,we,"advertising, services, legal, security, analytics"
+username,UNSPECIFIED_ACTOR,"services, security"
+username,ai providers,services
+username,consultant,
+username,contractor,
+username,subcontractor,
+username,we,"advertising, services, legal, security, analytics"
+whitelist,we,"advertising, services, legal, security, analytics"
+writing style description,ai provider,services
+writing style description,spark,analytics
+writing style description,we,"advertising, services, legal, security, analytics"

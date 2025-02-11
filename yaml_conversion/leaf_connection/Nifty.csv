@@ -1,0 +1,20 @@
+data_type,collector,purpose
+Dropbox,we,"legal, services, security, advertising, analytics"
+Google,we,"legal, services, security, advertising, analytics"
+Slack,we,"legal, services, security, advertising, analytics"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,nifty,
+UNSPECIFIED_DATA,we,legal
+browser use,we,legal
+credit / debit card number,we,"legal, services"
+information about nature of breach,we,"legal, services, security"
+information about you require,we,"legal, services, security"
+information browser send,we,"legal, services, security"
+information discuss,we,"legal, services, security"
+information we collect,we,"legal, services, security, advertising, analytics"
+integration use,we,"legal, services, security, advertising, analytics"
+latency to remote vm,we,"legal, services, security, advertising, analytics"
+local performance number,we,"legal, services, security, advertising, analytics"
+personal information,we,"legal, services, security, advertising, analytics"
+plan information,we,"legal, services, security, advertising, analytics"
+statistic about usage of website,nifty,

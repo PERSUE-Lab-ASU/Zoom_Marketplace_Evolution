@@ -1,0 +1,45 @@
+data_type,collector,purpose
+Facebook,we,"advertising, analytics, legal, security, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+action you take,we,"advertising, analytics, legal, security, services"
+browser characteristic,we,"advertising, analytics, legal, security, services"
+browser setting,Google,
+browser type,we,"advertising, analytics, legal, security, services"
+coarse geolocation,we,"advertising, analytics, legal, security, services"
+company name,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+date time stamp associate with usage,we,"advertising, analytics, legal, security, services"
+device characteristic,Google,
+device name,we,"advertising, analytics, legal, security, services"
+email address,we,"advertising, analytics, legal, security, services"
+error report,we,"advertising, analytics, legal, security, services"
+file,we,"advertising, analytics, legal, security, services"
+hardware setting,we,"advertising, analytics, legal, security, services"
+information about,Google,
+information about,we,"advertising, analytics, legal, security, services"
+information we collect,we,"advertising, analytics, legal, security, services"
+internet activity,Google,
+internet activity,we,"advertising, analytics, legal, security, services"
+ip address,Google,
+ip address,we,"advertising, analytics, legal, security, services"
+job title,we,"advertising, analytics, legal, security, services"
+language preference,we,"advertising, analytics, legal, security, services"
+operating system,Google,
+operating system,we,"advertising, analytics, legal, security, services"
+person name,we,"advertising, analytics, legal, security, services"
+personal datum we hold,we,"advertising, analytics, legal, security, services"
+personal information collect via service,we,"advertising, analytics, legal, security, services"
+personal information provide,UNSPECIFIED_ACTOR,
+personal information provide,service provider,
+personal information provide,we,"advertising, analytics, legal, security, services"
+personal information provide in request,we,"advertising, analytics, legal, security, services"
+phone number,we,"advertising, analytics, legal, security, services"
+refer url,Google,
+refer url,we,"advertising, analytics, legal, security, services"
+related information,we,"advertising, analytics, legal, security, services"
+setting,we,"advertising, analytics, legal, security, services"
+staircase,gainsight,
+technical assistance,we,"advertising, analytics, legal, security, services"
+technical information,we,"advertising, analytics, legal, security, services"
+verification method,we,"advertising, analytics, legal, security, services"

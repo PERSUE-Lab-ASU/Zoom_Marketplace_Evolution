@@ -1,0 +1,22 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,business partner,advertising
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+browser type,we,"advertising, analytics, legal, services"
+browser version,we,"advertising, analytics, legal, services"
+contact information,we,"advertising, analytics, legal, services"
+cookie / pixel tag,we,"advertising, analytics, legal, services"
+date,we,"advertising, analytics, legal, services"
+device identifier,we,"advertising, analytics, legal, services"
+diagnostic datum,we,"advertising, analytics, legal, services"
+email address,we,"advertising, analytics, legal, services"
+information browser send,we,"advertising, analytics, legal, services"
+ip address,we,"advertising, analytics, legal, services"
+person name,we,"advertising, analytics, legal, services"
+personal information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+personal information,business partner,"advertising, analytics, services"
+personal information,service provider,"advertising, analytics, services"
+personal information,we,"advertising, analytics, legal, services"
+phone number,we,"advertising, analytics, legal, services"
+postal address,we,"advertising, analytics, legal, services"
+time,we,"advertising, analytics, legal, services"

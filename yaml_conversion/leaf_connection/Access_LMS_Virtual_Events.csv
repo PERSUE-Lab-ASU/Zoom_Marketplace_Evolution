@@ -1,0 +1,35 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,advertising
+amount of personal datum,we,advertising
+contact information,UNSPECIFIED_ACTOR,
+contact information,member of access group,
+contact information,we,"advertising, legal, services"
+contact make,we,advertising
+cookie / pixel tag,we,advertising
+cv,recruitment agency,
+email address,UNSPECIFIED_ACTOR,
+email address,member of access group,
+email address,we,"advertising, legal, services"
+employer,UNSPECIFIED_ACTOR,
+employer,member of access group,
+employer,we,"advertising, legal, services"
+feedback,we,advertising
+idea,we,advertising
+information about you,we,advertising
+job title,UNSPECIFIED_ACTOR,
+job title,member of access group,
+job title,we,"advertising, legal, services"
+necessary detail of interaction on system,we,advertising
+number of solution process in capacity as independent controller,we,advertising
+person name,UNSPECIFIED_ACTOR,
+person name,member of access group,
+person name,we,"advertising, legal, services"
+personal datum collect via method,we,advertising
+phone number,UNSPECIFIED_ACTOR,
+phone number,member of access group,
+phone number,we,"advertising, legal, services"
+photograph,we,"advertising, legal, services"
+postal address,UNSPECIFIED_ACTOR,
+postal address,member of access group,
+postal address,we,"advertising, legal, services"
+video footage,we,"advertising, legal, services"

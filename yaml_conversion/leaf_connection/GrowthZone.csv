@@ -1,0 +1,110 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+account data,insurer,"legal, security"
+account data,professional adviser,"legal, security"
+account data,we,
+account data,we,"analytics, services, advertising, security, legal"
+advertising id,advertiser,advertising
+advertising id,we,"analytics, services, advertising"
+browser type,insurer,"legal, security"
+browser type,professional adviser,"legal, security"
+browser type,we,"analytics, services, advertising"
+browser type,we,"analytics, services, advertising, security, legal"
+card detail,payment service provider,
+card detail,we,"analytics, services, advertising, security, legal"
+commercial information,advertiser,advertising
+commercial information,we,"analytics, services, advertising"
+communication content,we,"analytics, services"
+contact information,payment service provider,
+contact information,we,"analytics, services, advertising, security, legal"
+cookie / pixel tag,power website,services
+cookie / pixel tag,service provider,
+cookie / pixel tag,we,"analytics, services"
+cookie / pixel tag,web browser,
+correspondence data,insurer,"legal, security"
+correspondence data,professional adviser,"legal, security"
+correspondence data,we,"analytics, services"
+correspondence data,we,"analytics, services, advertising, security, legal"
+datum about use of website,we,"analytics, services"
+email address,we,
+email address,we,"analytics, services, advertising, security, legal"
+geolocation,advertiser,advertising
+geolocation,insurer,"legal, security"
+geolocation,professional adviser,"legal, security"
+geolocation,we,"analytics, services, advertising"
+geolocation,we,"analytics, services, advertising, security, legal"
+inference,advertiser,advertising
+inference,we,"analytics, services, advertising"
+information about website use,Google,
+information about you,micronet,
+information contain in,we,"analytics, services, advertising"
+information contain in inquiry you submit to we regard good,we,"analytics, services, advertising"
+information include in personal profile,we,"analytics, services, advertising"
+information relate to transaction include purchase of good you enter into with we,we,"analytics, services, advertising"
+information you provide to we,we,"analytics, services, advertising"
+inquiry data,insurer,"legal, security"
+inquiry data,professional adviser,"legal, security"
+inquiry data,we,"analytics, services, advertising"
+inquiry data,we,"analytics, services, advertising, security, legal"
+interaction with ad,advertiser,advertising
+interaction with ad,we,"analytics, services, advertising"
+ip address,advertiser,advertising
+ip address,financial institution issue credit card with place,
+ip address,insurer,"legal, security"
+ip address,law enforcement authority,
+ip address,professional adviser,"legal, security"
+ip address,we,"analytics, services, advertising"
+ip address,we,"analytics, services, advertising, security"
+ip address,we,"analytics, services, advertising, security, legal"
+length of visit,insurer,"legal, security"
+length of visit,professional adviser,"legal, security"
+length of visit,we,"analytics, services, advertising"
+length of visit,we,"analytics, services, advertising, security, legal"
+metadata,we,"analytics, services"
+notification data,insurer,"legal, security"
+notification data,professional adviser,"legal, security"
+notification data,we,"analytics, services, advertising, security"
+notification data,we,"analytics, services, advertising, security, legal"
+page view,insurer,"legal, security"
+page view,professional adviser,"legal, security"
+page view,we,"analytics, services, advertising"
+page view,we,"analytics, services, advertising, security, legal"
+pattern,insurer,"legal, security"
+pattern,professional adviser,"legal, security"
+pattern,we,"analytics, services, advertising"
+pattern,we,"analytics, services, advertising, security, legal"
+person name,we,
+person name,we,"analytics, services, advertising, security, legal"
+personal information in connection with transfer to acquirer upon,we,"analytics, services, advertising, security, legal"
+phone number,we,"analytics, services, advertising, security, legal"
+postal address,we,"analytics, services, advertising, security, legal"
+professional bio,we,"analytics, services, advertising, security, legal"
+profile data,insurer,"legal, security"
+profile data,professional adviser,"legal, security"
+profile data,we,"analytics, services, advertising, security, legal"
+profile picture,we,"analytics, services, advertising, security, legal"
+publication data,insurer,"legal, security"
+publication data,professional adviser,"legal, security"
+publication data,we,"analytics, services, advertising, security, legal"
+referral source,insurer,"legal, security"
+referral source,professional adviser,"legal, security"
+referral source,we,"analytics, services, advertising"
+referral source,we,"analytics, services, advertising, security, legal"
+specific information,we,"analytics, services, advertising, security, legal"
+timing,insurer,"legal, security"
+timing,professional adviser,"legal, security"
+timing,we,"analytics, services, advertising"
+timing,we,"analytics, services, advertising, security, legal"
+transaction data,insurer,"legal, security"
+transaction data,professional adviser,"legal, security"
+transaction data,we,"analytics, services, advertising, security, legal"
+transaction detail,payment service provider,
+transaction detail,we,"analytics, services, advertising, security, legal"
+version,insurer,"legal, security"
+version,professional adviser,"legal, security"
+version,we,"analytics, services, advertising"
+version,we,"analytics, services, advertising, security, legal"
+website navigation path,insurer,"legal, security"
+website navigation path,professional adviser,"legal, security"
+website navigation path,we,"analytics, services, advertising"
+website navigation path,we,"analytics, services, advertising, security, legal"

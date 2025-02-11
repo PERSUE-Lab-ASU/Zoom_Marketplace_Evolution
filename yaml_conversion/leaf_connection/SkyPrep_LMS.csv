@@ -1,0 +1,20 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+contact information,we,
+cookie / pixel tag,we,services
+customer support query,we,services
+email address,we,services
+ip address,we,services
+item description,we,services
+member of technical team,support staff,"legal, security"
+payment agent detail,we,services
+person name,we,services
+personal information,government authority,"legal, security"
+personal information,professional adviser,"legal, security"
+personal information,regulator,"legal, security"
+personal information,support staff,"legal, security"
+personal information,we,"services, legal, security"
+personal information regard visitor of site,we,"services, legal, security"
+photo,we,"services, legal, security"
+transactional detail,we,"services, legal, security"
+web analytic datum,we,"services, legal, security"

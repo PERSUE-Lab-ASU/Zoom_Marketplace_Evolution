@@ -1,0 +1,33 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Google,
+UNSPECIFIED_DATA,we,legal
+article,we,legal
+contact information,UNSPECIFIED_ACTOR,"analytics, services"
+contact information,we,"legal, security, services, advertising, analytics"
+data from website visitor request for information,we,legal
+device information,we,legal
+device information we collect in online advertising,we,legal
+email address,UNSPECIFIED_ACTOR,"analytics, services"
+email address,we,legal
+email address,we,"legal, security, services, advertising, analytics"
+geolocation,we,"legal, security"
+information about,we,"legal, security"
+information about individual web page you view,we,"legal, security"
+information about use of website,we,"legal, security"
+information we get from google analytics,we,"legal, security, services"
+ip address,we,"legal, security"
+ip address,we,"legal, security, services"
+occupation detail,UNSPECIFIED_ACTOR,"analytics, services"
+occupation detail,we,"legal, security, services, advertising, analytics"
+package dump,we,"legal, security, services"
+person name,UNSPECIFIED_ACTOR,"analytics, services"
+person name,we,"legal, security, services, advertising, analytics"
+personal identifier,cynet,
+personal identifier,we,"legal, security, services, advertising, analytics"
+phone number,UNSPECIFIED_ACTOR,"analytics, services"
+phone number,we,"legal, security, services, advertising, analytics"
+postal address,UNSPECIFIED_ACTOR,"analytics, services"
+postal address,we,"legal, security, services, advertising, analytics"
+regular malware scanning,we,"legal, security, services, advertising, analytics"
+required information mandate,we,"legal, security, services, advertising, analytics"
+time zone,we,"legal, security"

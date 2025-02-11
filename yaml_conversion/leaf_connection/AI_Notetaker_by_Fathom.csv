@@ -1,0 +1,108 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,analytics
+advertise position,corporate service provider,"analytics, services"
+advertise position,related body,"analytics, services"
+attendee identifier,we,"analytics, services, advertising"
+calendar datum,we,"analytics, services"
+content of message you send to we,we,"analytics, services"
+cookie / pixel tag,HubSpot,
+cookie / pixel tag,we,"analytics, services, advertising"
+date,UNSPECIFIED_ACTOR,services
+date,advisor,
+date,potential transactional partner,
+date,we,"analytics, services, advertising"
+date,we,"analytics, services, advertising, legal"
+device identifier,we,"analytics, services, advertising"
+email address,UNSPECIFIED_ACTOR,services
+email address,advisor,
+email address,potential transactional partner,
+email address,we,"analytics, services, advertising"
+email address,we,"analytics, services, advertising, legal"
+geolocation,UNSPECIFIED_ACTOR,services
+geolocation,advisor,
+geolocation,potential transactional partner,
+geolocation,we,"analytics, services, advertising, legal"
+information we collect,we,"analytics, services, advertising"
+information we receive,UNSPECIFIED_ACTOR,
+information we receive,service provider,
+information we receive,we,"analytics, services, advertising"
+information you choose,we,"analytics, services, advertising"
+internet activity,we,"analytics, services, advertising"
+ip address,we,"analytics, services, advertising"
+meeting,we,"analytics, services, advertising"
+meeting audio,UNSPECIFIED_ACTOR,services
+meeting audio,advisor,
+meeting audio,potential transactional partner,
+meeting audio,we,"analytics, services, advertising"
+meeting audio,we,"analytics, services, advertising, legal"
+meeting content,UNSPECIFIED_ACTOR,services
+meeting content,advisor,
+meeting content,potential transactional partner,
+meeting content,we,"analytics, services, advertising, legal"
+meeting content information,UNSPECIFIED_ACTOR,services
+meeting content information,advisor,
+meeting content information,potential transactional partner,
+meeting content information,we,"analytics, services, advertising"
+meeting content information,we,"analytics, services, advertising, legal"
+meeting information on google calendar,UNSPECIFIED_ACTOR,services
+meeting information on google calendar,advisor,
+meeting information on google calendar,potential transactional partner,
+meeting information on google calendar,we,"analytics, services, advertising, legal"
+meeting join url,UNSPECIFIED_ACTOR,services
+meeting join url,advisor,
+meeting join url,potential transactional partner,
+meeting join url,we,"analytics, services, advertising, legal"
+meeting note,UNSPECIFIED_ACTOR,
+meeting note,UNSPECIFIED_ACTOR,services
+meeting note,advisor,
+meeting note,potential transactional partner,
+meeting note,we,"analytics, services, advertising"
+meeting note,we,"analytics, services, advertising, legal"
+meeting recording,UNSPECIFIED_ACTOR,services
+meeting recording,advisor,
+meeting recording,potential transactional partner,
+meeting recording,we,"analytics, services, advertising, legal"
+meeting title,UNSPECIFIED_ACTOR,services
+meeting title,advisor,
+meeting title,potential transactional partner,
+meeting title,we,"analytics, services, advertising, legal"
+meeting transcript,UNSPECIFIED_ACTOR,services
+meeting transcript,advisor,
+meeting transcript,potential transactional partner,
+meeting transcript,we,"analytics, services, advertising, legal"
+operating system version,we,"analytics, services, advertising"
+person name,UNSPECIFIED_ACTOR,services
+person name,advisor,
+person name,potential transactional partner,
+person name,we,"analytics, services, advertising"
+person name,we,"analytics, services, advertising, legal"
+personal information contain in content of action,we,"analytics, services, advertising, legal"
+personal information contain in content of meeting,we,"analytics, services, advertising, legal"
+photo,UNSPECIFIED_ACTOR,services
+photo,advisor,
+photo,potential transactional partner,
+photo,we,"analytics, services, advertising, legal"
+profile information,UNSPECIFIED_ACTOR,services
+profile information,advisor,
+profile information,potential transactional partner,
+profile information,we,"analytics, services, advertising, legal"
+registration information,UNSPECIFIED_ACTOR,services
+registration information,advisor,
+registration information,potential transactional partner,
+registration information,we,"analytics, services, advertising, legal"
+related service,we,"analytics, services, advertising, legal, security"
+source,UNSPECIFIED_ACTOR,services
+source,advisor,
+source,potential transactional partner,
+source,we,"analytics, services, advertising, legal"
+speaker identification,UNSPECIFIED_ACTOR,services
+speaker identification,advisor,
+speaker identification,potential transactional partner,
+speaker identification,we,"analytics, services, advertising"
+speaker identification,we,"analytics, services, advertising, legal"
+sufficient information verify identity,we,"analytics, services, advertising, legal, security"
+time,UNSPECIFIED_ACTOR,services
+time,advisor,
+time,potential transactional partner,
+time,we,"analytics, services, advertising, legal"
+web browser type,we,"analytics, services, advertising"

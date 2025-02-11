@@ -1,0 +1,21 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+current address,UNSPECIFIED_ACTOR,services
+current address,company acquire business,
+current address,we,services
+email address,UNSPECIFIED_ACTOR,services
+email address,company acquire business,
+email address,gutenberg certs,
+email address,we,services
+person name,UNSPECIFIED_ACTOR,services
+person name,company acquire business,
+person name,we,services
+personal datum contain in content upload,UNSPECIFIED_ACTOR,services
+personal datum contain in content upload,company acquire business,
+personal datum contain in content upload,we,services
+phone number,UNSPECIFIED_ACTOR,services
+phone number,company acquire business,
+phone number,we,services
+registration datum,UNSPECIFIED_ACTOR,services
+registration datum,company acquire business,
+registration datum,we,services

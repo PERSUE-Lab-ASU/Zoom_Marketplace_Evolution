@@ -1,0 +1,88 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,advertising
+UNSPECIFIED_DATA,we,security
+browser type,we,"security, analytics, advertising, legal, services"
+clickstream datum,we,"security, analytics, advertising, legal, services"
+company name,authorized channel partner,
+company name,we,"security, analytics, advertising, legal, services"
+company size,authorized channel partner,
+company size,we,"security, analytics, advertising, legal, services"
+cookie / pixel tag,Proofpoint,
+cookie / pixel tag,UNSPECIFIED_ACTOR,"advertising, analytics"
+cookie / pixel tag,analytic provider,
+cookie / pixel tag,service provider,
+cookie / pixel tag,we,"security, analytics, advertising, legal, services"
+customize information about,we,"security, analytics, advertising, legal, services"
+data we collect through manual method,Proofpoint,security
+date time stamp,we,"security, analytics, advertising, legal, services"
+department,Proofpoint,security
+department,government official,
+department,private party,
+department,service providers,services
+department,we,"security, analytics, advertising, legal, services"
+email address,Proofpoint,security
+email address,authorized channel partner,
+email address,government official,
+email address,private party,
+email address,service providers,services
+email address,we,"security, analytics, advertising, legal, services"
+geolocation,Proofpoint,security
+geolocation,government official,
+geolocation,private party,
+geolocation,service providers,services
+geolocation,we,"security, analytics, advertising, legal, services"
+industry type,authorized channel partner,
+industry type,we,"security, analytics, advertising, legal, services"
+information about,Proofpoint,security
+information about mailbox size,we,"security, analytics, advertising, legal, services"
+information we collect from proofpoint user,UNSPECIFIED_ACTOR,"advertising, analytics"
+information we collect from proofpoint user,we,"security, analytics"
+ip address,Proofpoint,security
+ip address,government official,
+ip address,private party,
+ip address,service providers,services
+ip address,social media,
+ip address,we,"security, analytics, advertising, legal, services"
+job position,Proofpoint,security
+job position,government official,
+job position,private party,
+job position,service providers,services
+job position,we,"security, analytics, advertising, legal, services"
+log data,we,"security, analytics, advertising, legal, services"
+log datum,we,"security, analytics, advertising, legal, services"
+message content,Proofpoint,security
+message content,government official,
+message content,private party,
+message content,service providers,services
+message content,we,"security, analytics, advertising, legal, services"
+message report as spam,Proofpoint,security
+message report as spam,government official,
+message report as spam,private party,
+message report as spam,service providers,services
+message report as spam,we,"security, analytics, advertising, legal, services"
+person name,authorized channel partner,
+person name,we,"security, analytics, advertising, legal, services"
+personal identifier,UNSPECIFIED_ACTOR,"advertising, analytics"
+personal information it collect from you we have ongoing legitimate business need do,Proofpoint,security
+personal network information,we,"security, analytics, advertising, legal, services"
+phone number,Proofpoint,security
+phone number,authorized channel partner,
+phone number,government official,
+phone number,private party,
+phone number,service providers,services
+phone number,we,"security, analytics, advertising, legal, services"
+postal address,authorized channel partner,
+postal address,we,"security, analytics, advertising, legal, services"
+report,we,"security, analytics, advertising, legal, services"
+social medium account login credential,Proofpoint,security
+social medium account login credential,government official,
+social medium account login credential,private party,
+social medium account login credential,service providers,services
+social medium account login credential,we,"security, analytics, advertising, legal, services"
+title,authorized channel partner,
+title,we,"security, analytics, advertising, legal, services"
+user name,Proofpoint,security
+user name,government official,
+user name,private party,
+user name,service providers,services
+user name,we,"security, analytics, advertising, legal, services"

@@ -1,0 +1,58 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,form,
+UNSPECIFIED_DATA,form creator,
+UNSPECIFIED_DATA,jotform,services
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services"
+account detail,billing contact,
+account detail,we,"advertising, analytics, security, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, security, services"
+aggregate demographic information,business partner,
+aggregate demographic information,we,"advertising, analytics, security, services"
+australian resident personal information,cloud provider base in united states of america,
+browser type,we,"advertising, analytics, security, services"
+cookie / pixel tag,advertiser,
+cookie / pixel tag,we,"advertising, analytics, security, services, legal"
+customer,we,"advertising, analytics, security, services"
+customer account information,feature of service,
+customer datum,we,"advertising, analytics, security, services, legal"
+device datum,we,"advertising, analytics, security, services, legal"
+device type,we,"advertising, analytics, security, services"
+email address,UNSPECIFIED_ACTOR,analytics
+email address,we,"advertising, analytics, security, services"
+financial information,we,"advertising, analytics, security, services"
+form datum,we,"advertising, analytics, security, services"
+form datum,we,"advertising, analytics, security, services, legal"
+form metadata,we,"advertising, analytics, security, services"
+form responder,we,"advertising, analytics, security, services, legal"
+form response,we,"advertising, analytics, security, services, legal"
+identity,billing contact,
+identity,we,"advertising, analytics, security, services, legal"
+information about source refer you to we,we,"advertising, analytics, security, services, legal"
+information from page tag,we,"advertising, analytics, security, services, legal"
+information gather from,we,"advertising, analytics, security, services, legal"
+information relate to you,we,"advertising, analytics, security, services, legal"
+information you allow,jotform,services
+information you allow,we,"advertising, analytics, security, services, legal"
+internet activity,we,"advertising, analytics, security, services, legal"
+ip address,we,"advertising, analytics, security, services, legal"
+jotform canada inc.,jotform,services
+jotform ltd,jotform,services
+jotform pty ltd,jotform,services
+list,form,
+log file,web server,
+non-personal information,advertiser,advertising
+operate system version,we,"advertising, analytics, security, services, legal"
+page tag,advertiser,advertising
+password,we,"advertising, analytics, security, services, legal"
+person name,we,"advertising, analytics, security, services"
+personal information,form,
+personal information,we,"advertising, analytics, security, services, legal"
+personal unsolicited information,we,"advertising, analytics, security, services, legal"
+postal address,we,"advertising, analytics, security, services"
+question,we,"advertising, analytics, security, services, legal"
+referral datum,we,"advertising, analytics, security, services, legal"
+response,we,"advertising, analytics, security, services, legal"
+system information,we,"advertising, analytics, security, services, legal"
+username,we,"advertising, analytics, security, services, legal"
+website visitor,we,"advertising, analytics, security, services, legal"

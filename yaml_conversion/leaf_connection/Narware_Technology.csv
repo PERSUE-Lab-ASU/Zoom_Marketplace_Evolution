@@ -1,0 +1,39 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,online activity,advertising
+UNSPECIFIED_DATA,we,"advertising, services"
+activity,we,"advertising, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, services"
+browsing / search history,we,"advertising, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,feature of website,
+cookie / pixel tag,we,"advertising, services"
+demographic data,we,"advertising, services"
+detail of transaction you carry through website,we,"advertising, services"
+domain from you visit,we,"advertising, services"
+email address,we,"advertising, services"
+email address,we,"advertising, services, analytics, legal"
+identifier by contact,we,"advertising, services, analytics, legal"
+information about equipment,we,"advertising, services"
+information about preference,feature of website,
+information about preference,we,"advertising, services, analytics"
+information about you,UNSPECIFIED_ACTOR,
+information we collect from you,we,"advertising, services, analytics, legal"
+information you provide by,we,"advertising, services, analytics, legal"
+internet activity,we,"advertising, services, analytics, legal"
+ip address,we,"advertising, services, analytics, legal"
+link on webpage,we,"advertising, services, analytics, legal"
+local store object,feature of website,
+non-personal information,we,"advertising, services, analytics, legal"
+person name,we,"advertising, services, analytics, legal"
+personal information,UNSPECIFIED_ACTOR,
+personal information,business partner,
+personal information,business partner under contract with narware,"advertising, services"
+personal information,contractor,
+personal information,service provider,
+personal information,sponsor,
+personal information,third party market product to you,
+personal information,we,"advertising, services, analytics, legal"
+phone number,we,"advertising, services, analytics, legal"
+postal address,we,"advertising, services, analytics, legal"
+record,we,"advertising, services, analytics, legal"

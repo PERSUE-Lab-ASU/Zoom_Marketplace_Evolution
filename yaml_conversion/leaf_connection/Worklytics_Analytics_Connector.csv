@@ -1,0 +1,37 @@
+data_type,collector,purpose
+GitHub,auth provider,
+Google,auth provider,
+Microsoft,auth provider,
+UNSPECIFIED_DATA,auth provider,
+UNSPECIFIED_DATA,we,services
+anonymous identifier,help feature on most browser,
+anonymous identifier,we,"services, advertising, analytics"
+associate metadata,we,"services, advertising, analytics, security, legal"
+browser type,we,"services, advertising, analytics"
+browser version,we,"services, advertising, analytics"
+calendar information,we,"services, advertising, analytics"
+contact information,we,"services, advertising"
+device information,we,"services, advertising, analytics"
+employee record,we,"services, advertising, analytics"
+information about device you use,we,"services, advertising, analytics"
+information necessary,UNSPECIFIED_ACTOR,services
+information necessary,we,"services, advertising, analytics, security, legal"
+information necessary,worklytics,
+ip address,we,"services, advertising, analytics"
+job information,we,"services, advertising, analytics"
+log information,we,"services, advertising, analytics, security"
+login information,we,"services, advertising, analytics, security"
+metadata,we,"services, advertising, analytics"
+metadata about work perform in tool,we,"services, advertising, analytics"
+personal identifier,we,"services, advertising, analytics, security"
+personal information of customer employee,we,"services, advertising, analytics, security, legal"
+personal information provide in application,we,"services, advertising, analytics, security, legal"
+relate information attributable,we,"services, advertising, analytics"
+statistic,we,"services, advertising, analytics"
+survey information,we,"services, advertising, analytics, security, legal"
+text,we,"services, advertising, analytics, security, legal"
+time,we,"services, advertising, analytics"
+user content,we,"services, advertising, analytics, security, legal"
+work information,UNSPECIFIED_ACTOR,services
+work information,we,"services, advertising, analytics, security, legal"
+work information,worklytics,

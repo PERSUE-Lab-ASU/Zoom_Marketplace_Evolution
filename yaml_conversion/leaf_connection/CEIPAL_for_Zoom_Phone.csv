@@ -1,0 +1,76 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,ceipal,
+UNSPECIFIED_DATA,we,"legal, services"
+advertiser,service provider,
+aggregate / deidentified / pseudonymized information,we,"legal, services"
+analytic provider,service provider,
+company name,UNSPECIFIED_ACTOR,"advertising, services"
+company name,ceipal,"analytics, services, legal"
+company name,ceipal system,
+company name,service provider,
+company name,we,"legal, services"
+company name,we,"legal, services, analytics, security, advertising"
+cookie / pixel tag,Google,
+cookie / pixel tag,we,"legal, services, analytics"
+device type,UNSPECIFIED_ACTOR,"advertising, services"
+device type,ceipal,"analytics, services, legal"
+device type,ceipal system,
+device type,service provider,
+device type,we,"legal, services, analytics"
+device type,we,"legal, services, analytics, security, advertising"
+hosting provider,service provider,
+industry standard metric,ceipal,"analytics, services"
+information about you,we,"legal, services, analytics"
+information from company,UNSPECIFIED_ACTOR,"advertising, services"
+information from company,ceipal,"analytics, services, legal"
+information from company,ceipal system,
+information from company,service provider,
+information from company,we,"legal, services, analytics"
+information from company,we,"legal, services, analytics, security, advertising"
+internet activity,system,analytics
+non-personal information,UNSPECIFIED_ACTOR,advertising
+person name,UNSPECIFIED_ACTOR,"advertising, services"
+person name,ceipal,"analytics, services, legal"
+person name,ceipal system,
+person name,service provider,
+person name,we,"legal, services, analytics"
+person name,we,"legal, services, analytics, security, advertising"
+personal data of end user,we,"legal, services, analytics"
+personal datum provide in valid request,we,"legal, services, analytics, security"
+personal datum we hold about you,UNSPECIFIED_ACTOR,"advertising, services"
+personal datum we hold about you,ceipal,"analytics, services, legal"
+personal datum we hold about you,ceipal system,
+personal datum we hold about you,service provider,
+personal datum we hold about you,we,"legal, services, analytics, security, advertising"
+personal datum we process on behalf of customer,ceipal,"analytics, services"
+personal datum we receive,ceipal,"analytics, services"
+phone number,UNSPECIFIED_ACTOR,"advertising, services"
+phone number,ceipal,"analytics, services, legal"
+phone number,ceipal system,
+phone number,service provider,
+phone number,we,"legal, services, analytics, security, advertising"
+postal address,UNSPECIFIED_ACTOR,"advertising, services"
+postal address,ceipal,"analytics, services, legal"
+postal address,ceipal system,
+postal address,service provider,
+postal address,we,"legal, services, analytics"
+postal address,we,"legal, services, analytics, security, advertising"
+proper identification of commercial nature,UNSPECIFIED_ACTOR,"advertising, services"
+proper identification of commercial nature,ceipal,"analytics, services, legal"
+proper identification of commercial nature,ceipal system,
+proper identification of commercial nature,service provider,
+proper identification of commercial nature,we,"legal, services, analytics"
+proper identification of commercial nature,we,"legal, services, analytics, security, advertising"
+security provider,service provider,
+sms,we,"legal, services, analytics, security, advertising"
+specific piece of personal data we collect about you,we,"legal, services, analytics, security, advertising"
+staff augmentation personnel,service provider,
+text message,we,"legal, services, analytics, security, advertising"
+type of personal datum,UNSPECIFIED_ACTOR,"advertising, services"
+type of personal datum,we,"legal, services, analytics, security, advertising"
+work opt link,UNSPECIFIED_ACTOR,"advertising, services"
+work opt link,ceipal,"analytics, services, legal"
+work opt link,ceipal system,
+work opt link,service provider,
+work opt link,we,"legal, services, analytics"
+work opt link,we,"legal, services, analytics, security, advertising"

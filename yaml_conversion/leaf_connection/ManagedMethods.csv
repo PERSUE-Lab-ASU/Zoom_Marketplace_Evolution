@@ -1,0 +1,46 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,"security, services"
+UNSPECIFIED_DATA,managedmethods,"security, services"
+UNSPECIFIED_DATA,trusted organization,"security, services"
+UNSPECIFIED_DATA,we,"advertising, services"
+annual revenue,UNSPECIFIED_ACTOR,"security, services"
+annual revenue,set,
+annual revenue,we,"advertising, services"
+average number of file change per time period,managedmethods,"security, services, analytics"
+company name,we,"advertising, services"
+cpu utilization over time,managedmethods,"security, services, analytics"
+database hosting,we,"advertising, services"
+department name,UNSPECIFIED_ACTOR,"security, services"
+department name,set,
+department name,we,"advertising, services"
+email address,UNSPECIFIED_ACTOR,"security, services"
+email address,set,
+email address,we,"advertising, services"
+identifiable information,managedmethods,"security, services, analytics"
+information disclose to,successor,
+information disclose to it,managedmethods,"security, services, analytics"
+internet activity,UNSPECIFIED_ACTOR,"security, services"
+internet activity,managedmethods,"security, services, analytics"
+internet activity,set,
+internet activity,we,"advertising, services"
+ip address,we,"advertising, services"
+number of employee,UNSPECIFIED_ACTOR,"security, services"
+number of employee,set,
+number of employee,we,"advertising, services"
+person name,UNSPECIFIED_ACTOR,"security, services"
+person name,set,
+person name,we,"advertising, services"
+phone number,UNSPECIFIED_ACTOR,"security, services"
+phone number,set,
+phone number,we,"advertising, services"
+postal address,we,"advertising, services"
+student datum,managed methods,services
+system health,managedmethods,"security, services, analytics"
+title,UNSPECIFIED_ACTOR,"security, services"
+title,set,
+title,we,"advertising, services"
+total amount of datum store,managedmethods,"security, services, analytics"
+total number of file,managedmethods,"security, services, analytics"
+total number of user,managedmethods,"security, services, analytics"
+usage statistical information,UNSPECIFIED_ACTOR,"security, services"
+usage statistical information,managed methods,services

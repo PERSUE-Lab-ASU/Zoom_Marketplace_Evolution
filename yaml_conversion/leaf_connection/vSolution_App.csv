@@ -1,0 +1,432 @@
+data_type,collector,purpose
+Spotify,platform,
+UNSPECIFIED_DATA,Broadcom,
+UNSPECIFIED_DATA,Cloudflare,
+UNSPECIFIED_DATA,Cybot,
+UNSPECIFIED_DATA,DocuSign,
+UNSPECIFIED_DATA,Reddit,
+UNSPECIFIED_DATA,SmugMug,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,addthis,
+UNSPECIFIED_DATA,analytic provider,
+UNSPECIFIED_DATA,analytic provider,"analytics, services"
+UNSPECIFIED_DATA,cloud service,
+UNSPECIFIED_DATA,company run website on special computer,
+UNSPECIFIED_DATA,computer,
+UNSPECIFIED_DATA,external system,
+UNSPECIFIED_DATA,font,"analytics, services"
+UNSPECIFIED_DATA,network,
+UNSPECIFIED_DATA,platform,services
+UNSPECIFIED_DATA,representative,
+UNSPECIFIED_DATA,salesforce,
+UNSPECIFIED_DATA,security program,
+UNSPECIFIED_DATA,server use,
+UNSPECIFIED_DATA,social media,
+UNSPECIFIED_DATA,social media,analytics
+UNSPECIFIED_DATA,social media,"analytics, advertising, security"
+UNSPECIFIED_DATA,subcontractor,
+UNSPECIFIED_DATA,tiktok,
+UNSPECIFIED_DATA,tool,
+UNSPECIFIED_DATA,tool use,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services, security"
+UNSPECIFIED_DATA,web design element integrate into page,
+UNSPECIFIED_DATA,web server,services
+UNSPECIFIED_DATA,wordpress,
+UNSPECIFIED_DATA,x,
+UNSPECIFIED_DATA,xing,
+Vimeo,platform,
+account,analytic provider,"analytics, services"
+account,font,"analytics, services"
+account,we,"advertising, analytics, legal, services, security"
+account statement,we,"advertising, analytics, legal, services"
+accounting record,we,"advertising, analytics, legal, services"
+aggregate / deidentified / pseudonymized information,analytic provider,"analytics, services"
+aggregate / deidentified / pseudonymized information,dv,
+aggregate / deidentified / pseudonymized information,font,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, legal, services, security"
+aid,Cloudflare,security
+aid,Cybot,
+aid,UNSPECIFIED_ACTOR,"analytics, services"
+aid,addthis,
+aid,analytic provider,"analytics, services, advertising"
+aid,browser,
+aid,font,"analytics, services, advertising"
+aid,recaptcha,
+aid,service provider,
+aid,tiktok,
+aid,tool,
+aid,we,"advertising, analytics, legal, services"
+aid,we,"advertising, analytics, legal, services, security"
+aid,web browser,
+analysis,platform,"services, advertising"
+appropriate information,UNSPECIFIED_ACTOR,
+bank detail,we,"advertising, analytics, legal, services"
+base model,ga4,
+browser datum,UNSPECIFIED_ACTOR,"analytics, services"
+browser datum,analytic provider,"analytics, services"
+browser datum,analytic provider,"analytics, services, advertising"
+browser datum,font,"analytics, services"
+browser datum,font,"analytics, services, advertising"
+browser datum,platform,
+browser datum,relevant service,
+browser datum,service provider,
+browser datum,we,"advertising, analytics, legal, services, security"
+browser datum,xing,
+browser device information,Cloudflare,security
+browser device information,Cybot,
+browser device information,UNSPECIFIED_ACTOR,"analytics, services"
+browser device information,addthis,
+browser device information,analytic provider,"analytics, services, advertising"
+browser device information,browser,
+browser device information,font,"analytics, services, advertising"
+browser device information,recaptcha,
+browser device information,service provider,
+browser device information,tiktok,
+browser device information,tool,
+browser device information,we,"advertising, analytics, legal, services"
+browser device information,we,"advertising, analytics, legal, services, security"
+browser device information,web browser,
+browser identifier,addthis,
+browser name,analytic provider,"analytics, services"
+browser name,font,
+browser name,font,"analytics, services"
+browser name,we,"advertising, analytics, legal, services, security"
+browser screen resolution,analytic provider,"analytics, services"
+browser screen resolution,font,
+browser screen resolution,font,"analytics, services"
+browser screen resolution,we,"advertising, analytics, legal, services, security"
+browser type,cdn,
+browser type,we,"advertising, analytics, legal, services, security"
+browser version,analytic provider,"analytics, services"
+browser version,cdn,
+browser version,font,
+browser version,font,"analytics, services"
+browser version,we,"advertising, analytics, legal, services, security"
+browser version,web server,services
+browsing / search history,wp statistics,
+call captcha score,analytic provider,"analytics, services"
+call captcha score,font,"analytics, services"
+call captcha score,we,"advertising, analytics, legal, services, security"
+call log datum,social media,"analytics, advertising, security"
+campaign information,analytics.j,
+cascading style sheets,analytic provider,"analytics, services"
+cascading style sheets,font,"analytics, services"
+cascading style sheets,we,"advertising, analytics, legal, services, security"
+chrome,web browser,
+cloud provider,service provider,
+coarse geolocation,platform,"services, advertising"
+collect datum,analytic provider,"analytics, services"
+collect datum,font,"analytics, services"
+collect datum,social media,"analytics, advertising"
+collect datum,social media,"analytics, advertising, security"
+collect datum,we,"advertising, analytics, legal, services, security"
+collect datum,x,
+collect information,UNSPECIFIED_ACTOR,
+collect information,addthis,
+company name,we,"advertising, analytics, legal, services"
+comprehensive information about,we,"advertising, analytics, legal, services"
+computername,web server,services
+computing power,cloud service,
+computing power,we,"advertising, analytics, legal, services"
+contact,Cloudflare,
+content,social plugin,
+content of website,Oracle,
+contract datum,we,"advertising, analytics, legal, services"
+contract detail,we,"advertising, analytics, legal, services"
+contract document,we,"advertising, analytics, legal, services"
+conversion,analytic provider,"analytics, services"
+conversion,font,"analytics, services"
+conversion,we,"advertising, analytics, legal, services, security"
+conversion tracking of google llc,we,"advertising, analytics, legal, services"
+country,we,"advertising, analytics, legal, services"
+css request,analytic provider,"analytics, services, advertising"
+css request,font,"analytics, services, advertising"
+css request,we,"advertising, analytics, legal, services, security"
+date,Cybot,
+date,UNSPECIFIED_ACTOR,"analytics, services"
+date,analytic provider,"analytics, services, advertising"
+date,cdn,
+date,font,"analytics, services, advertising"
+date,platform,
+date,relevant service,
+date,service provider,
+date,we,"advertising, analytics, legal, services, security"
+date,web server,services
+date,xing,
+datum about,wp statistics,
+datum about action on website,analytic provider,"analytics, services, advertising"
+datum about action on website,font,"analytics, services, advertising"
+datum about action on website,we,"advertising, analytics, legal, services, security"
+datum about action on website,wp statistics,
+datum about behaviour on website,web analysis program e.,
+datum about visitor behaviour,addthis,
+datum cloudflare receive instruction for,Cloudflare,security
+datum control,Cloudflare,security
+datum create,we,"advertising, analytics, legal, services"
+datum for personalised advertising in,x,
+datum google store for day,analytic provider,"analytics, services, advertising"
+datum google store for day,font,"analytics, services, advertising"
+datum google store for day,we,"advertising, analytics, legal, services, security"
+datum log,Cloudflare,security
+datum they receive from we,DocuSign,
+datum we send,Cloudflare,security
+datum you provide for employment relationship,we,"advertising, analytics, legal, services"
+device recognition,we,"advertising, analytics, legal, services, security"
+different datum,UNSPECIFIED_ACTOR,"analytics, services"
+different type,Cloudflare,security
+different type,Cybot,
+different type,UNSPECIFIED_ACTOR,"analytics, services"
+different type,addthis,
+different type,analytic provider,"analytics, services, advertising"
+different type,browser,
+different type,font,"analytics, services, advertising"
+different type,recaptcha,
+different type,service provider,
+different type,tiktok,
+different type,tool,
+different type,we,"advertising, analytics, legal, services"
+different type,we,"advertising, analytics, legal, services, security"
+different type,web browser,
+different user datum,online map service,
+display tag,we,"advertising, analytics, legal, services, security"
+document,we,"advertising, analytics, legal, services"
+dsid,Cloudflare,security
+dsid,Cybot,
+dsid,UNSPECIFIED_ACTOR,"analytics, services"
+dsid,addthis,
+dsid,analytic provider,"analytics, services, advertising"
+dsid,browser,
+dsid,font,"analytics, services, advertising"
+dsid,recaptcha,
+dsid,service provider,
+dsid,tiktok,
+dsid,tool,
+dsid,we,"advertising, analytics, legal, services"
+dsid,we,"advertising, analytics, legal, services, security"
+dsid,web browser,
+email address,UNSPECIFIED_ACTOR,"analytics, services"
+email address,analytic provider,"analytics, services, advertising"
+email address,font,"analytics, services, advertising"
+email address,platform,
+email address,relevant service,
+email address,service provider,
+email address,social media,"analytics, advertising"
+email address,we,"advertising, analytics, legal, services"
+email address,we,"advertising, analytics, legal, services, security"
+email address,xing,
+embed social medium element,we,"advertising, analytics, legal, services"
+encrypted anonymous key,Cybot,
+enter datum,we,"advertising, analytics, legal, services"
+event datum,social media,"analytics, advertising, security"
+exact data,social media,"analytics, advertising, security"
+fingerprint,Cloudflare,security
+flc,Cloudflare,security
+flc,Cybot,
+flc,UNSPECIFIED_ACTOR,"analytics, services"
+flc,addthis,
+flc,analytic provider,"analytics, services, advertising"
+flc,browser,
+flc,font,"analytics, services, advertising"
+flc,recaptcha,
+flc,service provider,
+flc,tiktok,
+flc,tool,
+flc,we,"advertising, analytics, legal, services"
+flc,we,"advertising, analytics, legal, services, security"
+flc,web browser,
+full address,web server,services
+gather datum,social media,"analytics, advertising, security"
+gdpr compliant information,we,"advertising, analytics, legal, services"
+geolocation,UNSPECIFIED_ACTOR,"analytics, services"
+geolocation,advertiser,
+geolocation,analytic provider,"analytics, services, advertising"
+geolocation,font,"analytics, services, advertising"
+geolocation,platform,
+geolocation,provider of web analysis tool,
+geolocation,relevant service,
+geolocation,service provider,
+geolocation,we,"advertising, analytics, legal, services, security"
+geolocation,wp statistics,
+geolocation,xing,
+google account detail,analytic provider,"analytics, services, advertising"
+google account detail,font,"analytics, services, advertising"
+google account detail,we,"advertising, analytics, legal, services, security"
+host name,web server,services
+hosting provider,we,"advertising, analytics, legal, services, security"
+http header,addthis,
+important information,we,"advertising, analytics, legal, services"
+improved advertising report,we,"advertising, analytics, legal, services"
+individual datum,us government authority,
+information about interaction on site,we,"advertising, analytics, legal, services"
+information about tracking tool,we,"advertising, analytics, legal, services"
+information about use of website,Cloudflare,security
+information describe,Cloudflare,security
+information obtain within facebook business,external partner,
+information obtain within facebook business,social media,"analytics, advertising, security"
+information on web activity,most provider,
+informed consent,we,"advertising, analytics, legal, services"
+interesting video,we,"advertising, analytics, legal, services, security"
+internet activity,tiktok,
+internet activity,we,"advertising, analytics, legal, services"
+invoice,we,"advertising, analytics, legal, services"
+ip address,Cloudflare,security
+ip address,UNSPECIFIED_ACTOR,"analytics, services"
+ip address,analytic provider,"analytics, services, advertising"
+ip address,cdn,
+ip address,font,
+ip address,font,"analytics, services, advertising"
+ip address,platform,
+ip address,relevant service,
+ip address,respective provider,
+ip address,service provider,
+ip address,social media,"analytics, advertising"
+ip address,social media,"analytics, advertising, security"
+ip address,we,"advertising, analytics, legal, services, security"
+ip address,web server,services
+ip address,xing,
+language setting,analytic provider,"analytics, services, advertising"
+language setting,font,
+language setting,font,"analytics, services, advertising"
+language setting,we,"advertising, analytics, legal, services, security"
+most datum,we,"advertising, analytics, legal, services, security"
+most important information about datum processing by pinterest,we,"advertising, analytics, legal, services, security"
+most important information about datum processing by wp analytics,we,"advertising, analytics, legal, services, security"
+most important information regard datum processing by google analytics,we,"advertising, analytics, legal, services, security"
+most important information regard datum processing by salesforce,we,"advertising, analytics, legal, services, security"
+operating system,we,"advertising, analytics, legal, services, security"
+operating system use,web server,services
+option of,we,"advertising, analytics, legal, services, security"
+order,we,"advertising, analytics, legal, services, security"
+password,we,"advertising, analytics, legal, services"
+payment detail,we,"advertising, analytics, legal, services, security"
+payment provider,we,"advertising, analytics, legal, services, security"
+performance datum,Cloudflare,security
+person name,Cloudflare,security
+person name,Cybot,
+person name,UNSPECIFIED_ACTOR,"analytics, services"
+person name,addthis,
+person name,analytic provider,"analytics, services, advertising"
+person name,browser,
+person name,font,"analytics, services, advertising"
+person name,platform,
+person name,recaptcha,
+person name,relevant service,
+person name,service provider,
+person name,social media,"analytics, advertising"
+person name,tiktok,
+person name,tool,
+person name,we,"advertising, analytics, legal, services"
+person name,we,"advertising, analytics, legal, services, security"
+person name,web browser,
+person name,xing,
+personal characteristic,we,"advertising, analytics, legal, services, security"
+personal datum for processing,we,"advertising, analytics, legal, services, security"
+personal user datum,recaptcha,analytics
+phone number,social media,"analytics, advertising"
+pixel,addthis,
+plugin,social media,"analytics, advertising, security"
+postal address,Cloudflare,security
+postal address,Cybot,
+postal address,UNSPECIFIED_ACTOR,"analytics, services"
+postal address,addthis,
+postal address,analytic provider,"analytics, services, advertising"
+postal address,browser,
+postal address,font,"analytics, services, advertising"
+postal address,recaptcha,
+postal address,service provider,
+postal address,social media,"analytics, advertising"
+postal address,tiktok,
+postal address,tool,
+postal address,we,"advertising, analytics, legal, services"
+postal address,we,"advertising, analytics, legal, services, security"
+postal address,web browser,
+postal address,web server,services
+postcode,we,"advertising, analytics, legal, services, security"
+receive datum,addthis,"advertising, analytics, services"
+referrer url,web server,services
+registration,analytic provider,"analytics, services"
+registration,font,"analytics, services"
+registration,we,"advertising, analytics, legal, services, security"
+relevant business document for year,we,"advertising, analytics, legal, services, security"
+report on user behavior,we,"advertising, analytics, legal, services, security"
+residence,we,"advertising, analytics, legal, services, security"
+screen resolution,we,"advertising, analytics, legal, services, security"
+select datum,analytic provider,"analytics, services, advertising"
+select datum,font,"analytics, services, advertising"
+select datum,we,"advertising, analytics, legal, services, security"
+simple statistic help,we,"advertising, analytics, legal, services, security"
+simple statistic on,we,"advertising, analytics, legal, services, security"
+single registration,notification tool we use,
+single registration,we,"advertising, analytics, legal, services, security"
+small text file,most website,
+statistic,analytic provider,"analytics, services, advertising"
+statistic,font,"analytics, services, advertising"
+statistic,platform,"services, advertising"
+statistic,we,"advertising, analytics, legal, services, security"
+statistic on,analytic provider,"analytics, services, advertising"
+statistic on,font,"analytics, services, advertising"
+statistic on,we,"advertising, analytics, legal, services, security"
+storage space,cloud service,
+storage space,we,"advertising, analytics, legal, services, security"
+store file,amazon drive,
+street,we,"advertising, analytics, legal, services, security"
+summarise information,we,"advertising, analytics, legal, services, security"
+summarise statistic,we,"advertising, analytics, legal, services, security"
+survey,analytic provider,"analytics, services"
+survey,font,"analytics, services"
+survey,we,"advertising, analytics, legal, services, security"
+taid,Cloudflare,security
+taid,Cybot,
+taid,UNSPECIFIED_ACTOR,"analytics, services"
+taid,addthis,
+taid,analytic provider,"analytics, services, advertising"
+taid,browser,
+taid,font,"analytics, services, advertising"
+taid,recaptcha,
+taid,service provider,
+taid,tiktok,
+taid,tool,
+taid,we,"advertising, analytics, legal, services"
+taid,we,"advertising, analytics, legal, services, security"
+taid,web browser,
+tax consultant,service provider,
+technical browser datum,Cybot,
+time,UNSPECIFIED_ACTOR,"analytics, services"
+time,analytic provider,"analytics, services, advertising"
+time,cdn,
+time,font,"analytics, services, advertising"
+time,platform,
+time,relevant service,
+time,service provider,
+time,we,"advertising, analytics, legal, services, security"
+time,web server,services
+time,xing,
+time of consent,Cloudflare,security
+time of consent,Cybot,
+time of consent,UNSPECIFIED_ACTOR,"analytics, services"
+time of consent,addthis,
+time of consent,analytic provider,"analytics, services, advertising"
+time of consent,browser,
+time of consent,font,"analytics, services, advertising"
+time of consent,recaptcha,
+time of consent,service provider,
+time of consent,tiktok,
+time of consent,tool,
+time of consent,we,"advertising, analytics, legal, services"
+time of consent,we,"advertising, analytics, legal, services, security"
+time of consent,web browser,
+transparent information on legal principle enable we,we,"advertising, analytics, legal, services, security"
+url,Cybot,
+url,web server,services
+user behavior across platform,we,"advertising, analytics, legal, services, security"
+user datum,Cloudflare,security
+user level datum,Cloudflare,"security, services"
+username,we,"advertising, analytics, legal, services"
+visit,UNSPECIFIED_ACTOR,"analytics, services"
+visit,company run website on special computer,
+visit,we,"advertising, analytics, legal, services, security"
+web host,service provider,
+well picture of user,we,"advertising, analytics, legal, services, security"
+well user datum,social media,"analytics, advertising, security"
+youtube history,wp statistics,

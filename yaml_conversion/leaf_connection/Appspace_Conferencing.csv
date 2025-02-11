@@ -1,0 +1,18 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,appspace,
+UNSPECIFIED_DATA,we,services
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,
+aggregate / deidentified / pseudonymized information,we,services
+company name,we,"services, analytics"
+contact information,we,"services, analytics"
+content of email correspondence with you,we,services
+cookie / pixel tag,we,"services, analytics"
+customer personal data,appspace,
+demographic information,we,"services, analytics"
+geolocation,we,"services, analytics"
+information about,we,"services, analytics"
+information about visit to appspace sites,advertiser,
+information you provide,we,"services, analytics"
+person name,we,"services, analytics"
+personal identifier,UNSPECIFIED_ACTOR,services
+personal identifier,we,"services, analytics"

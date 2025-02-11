@@ -1,0 +1,35 @@
+data_type,collector,purpose
+Momentum,we,"advertising, analytics, services"
+UNSPECIFIED_DATA,we,
+aggregated statistic,we,
+auditor,professional advisor,
+banker,professional advisor,
+billing processing service,individual,
+communication,individual,
+customer relation management system,individual,
+data service,individual,
+email service provider,individual,
+fraud detection,individual,
+host service,individual,
+information about user,advertiser,advertising
+information about user,we,advertising
+information about you,service provider,
+information about you,we,advertising
+insurer,professional advisor,
+investigation service,individual,
+lawyer,professional advisor,
+personal information,UNSPECIFIED_ACTOR,
+personal information,acquirer,
+personal information,advertiser,advertising
+personal information,business partner,advertising
+personal information,distributer,advertising
+personal information,government authority,
+personal information,individual,
+personal information,law enforcement,
+personal information,private party,
+personal information,professional advisor,
+personal information,relevant participant,
+personal information,reseller,advertising
+personal information,we,"advertising, analytics, services"
+personal information about end user we process on behalf of customer,we,"advertising, analytics, services"
+web analytic,individual,

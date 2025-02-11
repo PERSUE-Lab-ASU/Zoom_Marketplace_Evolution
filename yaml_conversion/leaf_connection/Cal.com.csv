@@ -1,0 +1,34 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,"advertising, services"
+UNSPECIFIED_DATA,contractor,"advertising, services"
+UNSPECIFIED_DATA,service provider,"advertising, services"
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+anonymous identifier,we,"advertising, analytics, services, security"
+browser type,we,"advertising, analytics, services, security"
+browser version,we,"advertising, analytics, services, security"
+contact information,we,"advertising, analytics, services"
+content of message you send,Twilio,
+content of message you send,UNSPECIFIED_ACTOR,"advertising, services"
+content of message you send,we,"advertising, analytics, services"
+credit / debit card number,third party payment processor govern,
+device identifier,we,"advertising, analytics, services, security"
+diagnostic datum,we,"advertising, analytics, services, security"
+email address,plain,
+email address,plain inc.,
+email address,we,"advertising, analytics, services"
+information about,we,"advertising, analytics, services, security"
+information browser send,we,"advertising, analytics, services, security"
+information result from use of service,we,"advertising, analytics, services, security"
+ip address,we,"advertising, analytics, services, security"
+personal identifier,we,"advertising, analytics, services, security"
+personal information,UNSPECIFIED_ACTOR,"advertising, services"
+personal information,we,"advertising, analytics, services, security"
+personal user information,we,"advertising, analytics, services, security"
+phone number,Twilio,
+phone number,UNSPECIFIED_ACTOR,"advertising, services"
+phone number,we,"advertising, analytics, services, security"
+preference cookies,we,"advertising, analytics, services, security"
+several different type,we,"advertising, analytics, services, security"
+sign date,plain,
+sign date,plain inc.,
+sign date,we,"advertising, analytics, services"

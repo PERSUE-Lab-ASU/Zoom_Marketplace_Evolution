@@ -1,0 +1,118 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,administrator,
+UNSPECIFIED_DATA,we,
+access date,we,"advertising, analytics, services"
+account setting,UNSPECIFIED_ACTOR,
+account setting,administrator,
+account setting,we,
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, services, legal"
+api call,we,"advertising, analytics, services"
+auditor,professional advisor,
+authentication information,we,"advertising, analytics, services"
+backup information,we,"advertising, analytics, services"
+bank account number,we,"advertising, analytics, services"
+bank routing information,we,"advertising, analytics, services"
+bank statement,we,"advertising, analytics, services"
+banker,professional advisor,
+browser plug in type,we,"advertising, analytics, services"
+browser type,we,"advertising, analytics, services"
+claim information,we,
+consultancy service,professional advisor,
+contact information,we,"advertising, analytics, services"
+content,we,"advertising, analytics, services, legal"
+content download,advertiser,
+content download,analytic provider,
+content download,social media,
+content download,we,"advertising, analytics, services"
+contract with,we,
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,employer,
+cookie / pixel tag,insurance carrier,
+cookie / pixel tag,professional advisor,
+cookie / pixel tag,we,"advertising, analytics, services"
+cookie / pixel tag,we,"advertising, analytics, services, legal"
+credit / debit card number,UNSPECIFIED_ACTOR,
+credit / debit card number,employer,
+credit / debit card number,insurance carrier,
+credit / debit card number,professional advisor,
+credit / debit card number,we,"advertising, analytics, services, legal"
+date,we,"advertising, analytics, services"
+diagnostic report,we,"advertising, analytics, services"
+download error,we,"advertising, analytics, services"
+email address,advertiser,
+email address,analytic provider,
+email address,social media,
+email address,we,"advertising, analytics, services"
+inference about interest,advertiser,
+inference about interest,analytic provider,
+inference about interest,social media,
+inference about interest,we,"advertising, analytics, services"
+information about data processing practice,we,"advertising, analytics, services"
+information about internet service provider,we,"advertising, analytics, services"
+information contain in invoice you issue,we,"advertising, analytics, services"
+information contain in invoice you issue to,we,"advertising, analytics, services"
+information necessary,we,"advertising, analytics, services"
+information relate to access to to relevant customer,we,"advertising, analytics, services"
+information relate to transaction,UNSPECIFIED_ACTOR,
+information relate to transaction,we,"advertising, analytics, services"
+insurance benefit,we,"advertising, analytics, services"
+insurance benefit information,we,"advertising, analytics, services"
+insurance policy information,we,"advertising, analytics, services"
+insurer,professional advisor,
+internet,advertiser,
+internet,we,"advertising, analytics, services"
+invoice,we,"advertising, analytics, services"
+ip address,advertiser,
+ip address,analytic provider,
+ip address,social media,
+ip address,we,"advertising, analytics, services"
+issue identification document,we,"advertising, analytics, services"
+issue identification document comply with global aml obligation,we,"advertising, analytics, services, legal"
+length,we,"advertising, analytics, services"
+log,we,"advertising, analytics, services"
+log datum,we,"advertising, analytics, services"
+mobile application,we,"advertising, analytics, services, legal"
+page interaction information,we,"advertising, analytics, services"
+page response time,we,"advertising, analytics, services"
+people center,we,"advertising, analytics, services, legal"
+person name,advertiser,
+person name,analytic provider,
+person name,social media,
+person name,we,"advertising, analytics, services"
+personal information need,UNSPECIFIED_ACTOR,
+phone number,advertiser,
+phone number,analytic provider,
+phone number,social media,
+phone number,we,"advertising, analytics, services"
+photo,we,"advertising, analytics, services"
+playback detail,advertiser,
+playback detail,analytic provider,
+playback detail,social media,
+playback detail,we,"advertising, analytics, services"
+postal address,advertiser,
+postal address,analytic provider,
+postal address,social media,
+postal address,we,"advertising, analytics, services"
+precise geolocation,advertiser,
+precise geolocation,analytic provider,
+precise geolocation,social media,
+precise geolocation,we,"advertising, analytics, services"
+professional information,we,"advertising, analytics, services"
+proof of identity,we,"advertising, analytics, services, legal"
+related software,we,"advertising, analytics, services, legal"
+setting preference,we,"advertising, analytics, services"
+social profile,we,"advertising, analytics, services"
+ssn,we,"advertising, analytics, services, legal"
+status,we,"advertising, analytics, services"
+tax document,we,"advertising, analytics, services"
+tax document,we,"advertising, analytics, services, legal"
+tax identification number,we,"advertising, analytics, services, legal"
+time,we,"advertising, analytics, services"
+time zone setting,we,"advertising, analytics, services"
+tin,we,"advertising, analytics, services"
+tin,we,"advertising, analytics, services, legal"
+transaction history,we,"advertising, analytics, services"
+usage information,we,"advertising, analytics, services"
+vendor information,we,"advertising, analytics, services, legal"
+version,we,"advertising, analytics, services"

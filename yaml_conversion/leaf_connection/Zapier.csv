@@ -1,0 +1,86 @@
+data_type,collector,purpose
+LINE,we,"legal, services, analytics, advertising, security"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,account administrator,
+UNSPECIFIED_DATA,advertising,"legal, services"
+UNSPECIFIED_DATA,business partner,services
+UNSPECIFIED_DATA,business partner with whom we offer product,
+UNSPECIFIED_DATA,community member,
+UNSPECIFIED_DATA,developer platform partner,"legal, services"
+UNSPECIFIED_DATA,expert in community,"legal, services"
+UNSPECIFIED_DATA,integration partner,"legal, services"
+UNSPECIFIED_DATA,referral partner,"legal, services"
+UNSPECIFIED_DATA,reseller,"legal, services"
+UNSPECIFIED_DATA,service provider retain in connection with provision of sites,
+UNSPECIFIED_DATA,third party provide content on services,
+UNSPECIFIED_DATA,we,"legal, services"
+UNSPECIFIED_DATA,zapier,
+analytic datum,we,"legal, services"
+content,we,"legal, services"
+content of message you send to we relate to communication,we,"legal, services"
+cookie / pixel tag,advertiser,advertising
+cookie / pixel tag,third party provide content on services,
+cookie / pixel tag,we,"legal, services"
+datum about interaction with sites,we,"legal, services, analytics"
+email address,actual acquirer,
+email address,relevant participant,
+email address,representative,
+email address,we,"legal, services"
+email address,we,"legal, services, analytics"
+email address,we,"legal, services, analytics, advertising, security"
+frequency,Facebook,
+frequency,meta,
+identifier,we,"legal, services, analytics"
+image,we,"legal, services, analytics"
+information about link you click,we,"legal, services, analytics"
+information about technical skill set,we,"legal, services, analytics"
+information about use of website,UNSPECIFIED_ACTOR,
+information on reason for support request,we,"legal, services, analytics"
+information provide,UNSPECIFIED_ACTOR,
+information we collect,we,"legal, services, analytics, advertising, security"
+information you provide,we,"legal, services, analytics, advertising, security"
+information you provide in context,we,"legal, services, analytics, advertising, security"
+information you submit,we,"legal, services, analytics, advertising, security"
+ip address,we,"legal, services, analytics"
+ip address,we,"legal, services, analytics, advertising, security"
+job title,we,"legal, services, analytics, advertising, security"
+local storage,third party provide content on services,
+local storage,we,"legal, services, analytics, advertising, security"
+mac address,we,"legal, services, analytics, advertising, security"
+person name,actual acquirer,
+person name,relevant participant,
+person name,representative,
+person name,we,"legal, services"
+person name,we,"legal, services, analytics, advertising, security"
+phone number,actual acquirer,
+phone number,relevant participant,
+phone number,representative,
+phone number,we,"legal, services"
+phone number,we,"legal, services, analytics, advertising, security"
+postal address,actual acquirer,
+postal address,relevant participant,
+postal address,representative,
+postal address,we,"legal, services"
+postal address,we,"legal, services, analytics, advertising, security"
+rating information,we,"legal, services, analytics, advertising, security"
+record,we,"legal, services, analytics, advertising, security"
+result information,we,"legal, services, analytics, advertising, security"
+role within team,actual acquirer,
+role within team,relevant participant,
+role within team,representative,
+role within team,we,"legal, services"
+role within team,we,"legal, services, analytics, advertising, security"
+service provider,we,"legal, services, analytics, advertising, security"
+specific information relevant,we,"legal, services, analytics, advertising, security"
+title,actual acquirer,
+title,relevant participant,
+title,representative,
+title,we,"legal, services"
+title,we,"legal, services, analytics, advertising, security"
+user setting,we,"legal, services, analytics, advertising, security"
+username,actual acquirer,
+username,relevant participant,
+username,representative,
+username,we,"legal, services"
+username,we,"legal, services, analytics, advertising, security"
+written permission,we,"legal, services, analytics, advertising, security"

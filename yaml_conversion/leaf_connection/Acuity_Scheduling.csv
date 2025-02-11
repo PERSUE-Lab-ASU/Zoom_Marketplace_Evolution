@@ -1,0 +1,86 @@
+data_type,collector,purpose
+Plaid,payments services vendor,services
+Stripe,payments services vendor,services
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,law enforcement,
+UNSPECIFIED_DATA,payment processor,
+UNSPECIFIED_DATA,professional advisor,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+account history information,authorize reseller,services
+account history information,information technology vendor,services
+account history information,payments services vendor,services
+account history information,sale vendor,services
+account history information,social media,advertising
+account history information,we,"advertising, analytics, legal, security, services"
+advertising id,we,"advertising, analytics, legal, security, services"
+communication information,customer support vendor,services
+communication information,we,"advertising, analytics, legal, security, services"
+communication information you provide to we,we,"advertising, analytics, legal, security, services"
+complete payment information,payment processor,
+contact information,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+country of issuance,we,"advertising, analytics, legal, security, services"
+credential,we,"advertising, analytics, legal, security, services"
+customer account detail,UNSPECIFIED_ACTOR,
+customer account detail,customer support vendor,services
+customer account detail,payments services vendor,services
+customer account detail,reseller business partner,
+customer account detail,sale vendor,services
+customer account detail,we,"advertising, analytics, legal, security, services"
+customer account details,information technology vendor,services
+customer account details,safety vendor,services
+customer account details,we,"advertising, analytics, legal, security, services"
+customer account information,we,"advertising, analytics, legal, security, services"
+de - personalized information,we,"advertising, analytics, legal, security, services"
+detail list on official government document,we,"advertising, analytics, legal, security, services"
+device information,we,"advertising, analytics, legal, security, services"
+domain name,we,"advertising, analytics, legal, security, services"
+email address,Squarespace,
+email address,we,"advertising, analytics, legal, security, services"
+end user information collect,we,"advertising, analytics, legal, security, services"
+expiration date,we,"advertising, analytics, legal, security, services"
+external lawyer,professional advisor,
+feature,we,"advertising, analytics, legal, security, services"
+financial advisor,professional advisor,
+geolocation,we,"advertising, analytics, legal, security, services"
+information about individual who enter contest,we,"advertising, analytics, legal, security, services"
+information about payment method,we,"advertising, analytics, legal, security, services"
+information about use of third party service,we,"advertising, analytics, legal, security, services"
+information about you,advertiser,advertising
+information about you,business partner,
+information about you,social media,advertising
+information about you,we,"advertising, analytics, legal, security, services"
+information regard personal information we collect,we,"advertising, analytics, legal, security, services"
+information regard you,we,"advertising, analytics, legal, security, services"
+information relate to legal claim as,we,"advertising, analytics, legal, security, services"
+information user submit to customer support,we,"advertising, analytics, legal, security, services"
+information we maintain about you,we,"advertising, analytics, legal, security, services"
+ip address,we,"advertising, analytics, legal, security, services"
+job title,we,"advertising, analytics, legal, security, services"
+last digit,we,"advertising, analytics, legal, security, services"
+marketing preferences,we,"advertising, analytics, legal, security, services"
+option on,UNSPECIFIED_ACTOR,
+password,we,"advertising, analytics, legal, security, services"
+payment information,information technology vendor,services
+payment information,payment processor,
+payment information,we,"advertising, analytics, legal, security, services"
+payment service identity verification information,payments services vendor,services
+payment service identity verification information,we,"advertising, analytics, legal, security, services"
+payment services account information,payments services vendor,services
+payment services account information,we,"advertising, analytics, legal, security, services"
+payments services account information,we,"advertising, analytics, legal, security, services"
+person name,we,"advertising, analytics, legal, security, services"
+phone number,we,"advertising, analytics, legal, security, services"
+photograph of you capture during verification process,we,"advertising, analytics, legal, security, services"
+postal address,we,"advertising, analytics, legal, security, services"
+precise geolocation,information technology vendor,services
+precise geolocation,payments services vendor,services
+precise geolocation,safety vendor,services
+precise geolocation,social media,advertising
+precise geolocation,we,"advertising, analytics, legal, security, services"
+sift,payments services vendor,services
+site usage information about interaction with site,we,"advertising, analytics, legal, security, services"
+template,we,"advertising, analytics, legal, security, services"
+tool,we,"advertising, analytics, legal, security, services"
+type of information,we,"advertising, analytics, legal, security, services"

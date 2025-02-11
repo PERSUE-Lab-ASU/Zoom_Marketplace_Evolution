@@ -1,0 +1,73 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+account information,we,"advertising, analytics, legal, security, services"
+activity,we,"advertising, analytics, legal, security, services"
+atlassian services,we,"advertising, analytics, legal, security, services"
+billing information,we,"advertising, analytics, legal, security, services"
+clickstream datum about,we,"advertising, analytics, legal, security, services"
+company name,we,"advertising, analytics, legal, security, services"
+connection type,we,"advertising, analytics, legal, security, services"
+contact information,UNSPECIFIED_ACTOR,services
+contact information,we,"advertising, analytics, legal, security, services"
+content,UNSPECIFIED_ACTOR,services
+content,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,Atlassian,services
+cookie / pixel tag,advertiser,services
+cookie / pixel tag,analytic provider,services
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+country preference,we,"advertising, analytics, legal, security, services"
+credit / debit card number,we,"advertising, analytics, legal, security, services"
+demographic information,UNSPECIFIED_ACTOR,services
+demographic information,we,"advertising, analytics, legal, security, services"
+device identifier,Atlassian,services
+device identifier,advertiser,services
+device identifier,analytic provider,services
+device information,UNSPECIFIED_ACTOR,services
+device information,we,"advertising, analytics, legal, security, services"
+email address,UNSPECIFIED_ACTOR,services
+email address,we,"advertising, analytics, legal, security, services"
+email domain,we,"advertising, analytics, legal, security, services"
+evaluation information you provide,we,"advertising, analytics, legal, security, services"
+feedback,we,"advertising, analytics, legal, security, services"
+feedback you provide to we through product,we,"advertising, analytics, legal, security, services"
+file,we,"advertising, analytics, legal, security, services"
+filename,UNSPECIFIED_ACTOR,services
+filename,we,"advertising, analytics, legal, security, services"
+identification,UNSPECIFIED_ACTOR,services
+identification,we,"advertising, analytics, legal, security, services"
+information about,we,"advertising, analytics, legal, security, services"
+information about marketing preference,we,"advertising, analytics, legal, security, services"
+information about you in connection with legal claim,we,"advertising, analytics, legal, security, services"
+information we collect,affiliated company,
+information we collect,prospective affiliate,
+information we collect,we,"advertising, analytics, legal, security, services"
+information we collect about you,we,"advertising, analytics, legal, security, services"
+information we have about you,Atlassian,services
+information we have about you,we,"advertising, analytics, legal, security, services"
+information we receive from source,we,"advertising, analytics, legal, security, services"
+ip address,UNSPECIFIED_ACTOR,services
+ip address,feature,
+ip address,we,"advertising, analytics, legal, security, services"
+ip address,widget,
+marketing information,we,"advertising, analytics, legal, security, services"
+person name,UNSPECIFIED_ACTOR,services
+person name,we,"advertising, analytics, legal, security, services"
+personal bitbucket repository,we,"advertising, analytics, legal, security, services"
+personal information,we,"advertising, analytics, legal, security, services"
+picture,we,"advertising, analytics, legal, security, services"
+pixel,Atlassian,services
+pixel,advertiser,services
+pixel,analytic provider,services
+prior version of privacy policy,we,"advertising, analytics, legal, security, services"
+profile picture,UNSPECIFIED_ACTOR,services
+profile picture,we,"advertising, analytics, legal, security, services"
+recent interaction among user,we,"advertising, analytics, legal, security, services"
+setting,we,"advertising, analytics, legal, security, services"
+size,UNSPECIFIED_ACTOR,services
+size,we,"advertising, analytics, legal, security, services"
+state job title,we,"advertising, analytics, legal, security, services"
+time,we,"advertising, analytics, legal, security, services"
+track of preference,we,"advertising, analytics, legal, security, services"
+unique identifier associate with user account,UNSPECIFIED_ACTOR,services
+unique identifier associate with user account,we,"advertising, analytics, legal, security, services"

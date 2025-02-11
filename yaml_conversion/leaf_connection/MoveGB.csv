@@ -1,0 +1,21 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,provider base in us,
+UNSPECIFIED_DATA,we,
+datum about you,UNSPECIFIED_ACTOR,
+different kind,UNSPECIFIED_ACTOR,
+different kind,employee,
+different kind,we,advertising
+different kind,we,"advertising, legal"
+email address,we,advertising
+partner provide service to you as member,we,"advertising, legal, security"
+personal datum in structured use machine readable format,UNSPECIFIED_ACTOR,
+personal datum in structured use machine readable format,we,advertising
+phone number,we,advertising
+special category,we,"advertising, legal"
+specific information,we,"advertising, legal, security"
+statistical datum,we,
+support,we,"advertising, legal, security"
+system maintenance,we,"advertising, legal, security"
+technical data about equipment,we,"advertising, legal, security"
+technical data about you,we,"advertising, legal, security"
+technical datum,we,"advertising, legal, security"

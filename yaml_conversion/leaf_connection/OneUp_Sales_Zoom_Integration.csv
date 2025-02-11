@@ -1,0 +1,13 @@
+data_type,collector,purpose
+BBC,we,"analytics, services"
+UNSPECIFIED_DATA,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+company name,we,"analytics, services"
+cookie / pixel tag,we,"analytics, services"
+email address,we,"analytics, services"
+identifier,we,"analytics, services"
+information about you,we,"analytics, services"
+information you provide,country outside european economic area,
+relevant information,we,"analytics, services"
+statistic,we,"analytics, services"

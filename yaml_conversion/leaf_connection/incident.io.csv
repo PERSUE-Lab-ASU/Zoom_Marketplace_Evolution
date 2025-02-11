@@ -1,0 +1,8 @@
+data_type,collector,purpose
+file,UNSPECIFIED_ACTOR,services
+file,incident.io,services
+mobile information,UNSPECIFIED_ACTOR,"services, advertising"
+mobile information,incident.io,"services, advertising"
+personal datum relate to user,we,
+system log,UNSPECIFIED_ACTOR,"services, advertising"
+system log,incident.io,"services, advertising"

@@ -1,0 +1,29 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,we,
+browsing / search history,UNSPECIFIED_ACTOR,
+browsing / search history,advertiser,
+company name,we,
+contact information,we,
+date,we,services
+datum by identify,we,services
+datum we collect,we,services
+email address,we,services
+information about medical history,we,services
+information design,we,services
+information we gather about you,we,"services, advertising"
+intakeq,we,"services, advertising"
+internet activity,UNSPECIFIED_ACTOR,
+internet activity,advertiser,
+internet activity,we,services
+ip address,we,services
+payment information,we,"services, advertising"
+person name,we,"services, advertising"
+personal identifier,UNSPECIFIED_ACTOR,
+personal information,we,"services, advertising"
+phone number,we,"services, advertising"
+platform,we,"services, advertising"
+postal address,we,"services, advertising"
+prescription information,we,"services, advertising"
+scheduling information,we,"services, advertising"

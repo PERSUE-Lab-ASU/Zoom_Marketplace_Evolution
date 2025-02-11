@@ -1,0 +1,29 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"legal, services"
+account datum,we,"legal, services"
+booking datum for lifetime of account,we,"legal, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,we,"legal, services, security"
+cookie / pixel tag,we,"legal, services"
+credit / debit card number,we,"legal, services, security"
+customer datum,we,"legal, services"
+datum about you,we,"legal, services"
+datum necessary,we,"legal, services"
+datum we collect,we,"legal, services"
+electronic file of account datum,we,"legal, services"
+email address,UNSPECIFIED_ACTOR,
+email address,we,"legal, services, security"
+extreme care,we,"legal, services"
+information about company,we,"legal, services"
+information about device as,we,"legal, services"
+information you choose,we,"legal, services, security"
+ip address,we,"legal, services, security"
+minimum amount of datum,integration,services
+minimum amount of datum,we,"legal, services, security"
+minimum amount require,we,"legal, services, security"
+payment datum,we,"legal, services, security"
+person name,UNSPECIFIED_ACTOR,
+person name,we,"legal, services, security"
+setting,UNSPECIFIED_ACTOR,
+setting,we,"legal, services, security"
+user datum,we,"legal, services, security"

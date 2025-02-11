@@ -1,0 +1,59 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,bank,services
+UNSPECIFIED_DATA,service providers,services
+UNSPECIFIED_DATA,we,"security, services"
+aggregate demographic information,UNSPECIFIED_ACTOR,
+aggregate demographic information,third party advertisers,
+aggregate demographic information,third party advertising companies,
+aggregate demographic information,we,"security, services"
+appointment,we,"security, services"
+area on website,we,"security, services"
+browser information,we,"security, services, analytics"
+browsing / search history,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+browsing / search history,advertiser,"advertising, analytics"
+browsing / search history,we,"security, services, analytics, advertising, legal"
+cookie / pixel tag,Google,advertising
+cookie / pixel tag,we,"security, services, analytics"
+credit / debit card number,issue bank,services
+credit / debit card number,we,"security, services, analytics"
+demographic information,we,"security, services, analytics"
+device identifier,we,"security, services, analytics"
+email address,we,"security, services, analytics"
+event,we,"security, services, analytics"
+google calendar datum,we,"security, services, analytics"
+ip address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+ip address,advertiser,"advertising, analytics"
+ip address,we,"security, services, analytics"
+ip address,we,"security, services, analytics, advertising, legal"
+log datum,we,"security, services, analytics"
+meeting url for upcoming booking,we,"security, services, analytics"
+message,we,"security, services"
+non-personal information,UNSPECIFIED_ACTOR,"advertising, analytics"
+non-personal information,advertiser,"advertising, analytics"
+non-personal information,we,"security, services, analytics, advertising, legal"
+notification,we,"security, services"
+password,we,"security, services, analytics, advertising, legal"
+person name,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+person name,affiliated businesses,
+person name,marketing partners,
+person name,successor company,
+person name,we,"security, services, analytics, advertising, legal"
+personal information,we,"security, services, analytics, advertising, legal"
+postal address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+postal address,affiliated businesses,
+postal address,delivery service deliver service,services
+postal address,marketing partners,
+postal address,successor company,
+postal address,we,"security, services, analytics, advertising, legal"
+purchase history,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+purchase history,advertiser,"advertising, analytics"
+purchase history,we,"security, services, analytics, advertising, legal"
+relate information,we,"security, services, analytics, advertising, legal"
+uniform resource locator,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+uniform resource locator,advertiser,"advertising, analytics"
+uniform resource locator,we,"security, services, analytics, advertising, legal"
+url,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+url,advertiser,"advertising, analytics"
+url,we,"security, services, analytics, advertising, legal"
+user token,we,"security, services, analytics"

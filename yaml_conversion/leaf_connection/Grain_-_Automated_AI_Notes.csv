@@ -1,0 +1,132 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services"
+account,UNSPECIFIED_ACTOR,
+account,we,"advertising, analytics, security, services"
+activity relate to third party integration,we,"advertising, analytics, security, services"
+aggregate / deidentified / pseudonymized information,analytic provider,
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, security, services"
+alias,UNSPECIFIED_ACTOR,services
+alias,company help,
+alias,gather technology,
+alias,we,"advertising, analytics, security, services"
+alias,we,"advertising, analytics, security, services, legal"
+analytic information,we,"advertising, analytics, security, services"
+asset,we,"advertising, analytics, security, services, legal"
+browser type,UNSPECIFIED_ACTOR,services
+browser type,company help,
+browser type,gather technology,
+browser type,we,"advertising, analytics, security, services"
+browser type,we,"advertising, analytics, security, services, legal"
+clickstream datum,UNSPECIFIED_ACTOR,services
+clickstream datum,company help,
+clickstream datum,gather technology,
+clickstream datum,we,"advertising, analytics, security, services"
+clickstream datum,we,"advertising, analytics, security, services, legal"
+client version,we,"advertising, analytics, security, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,service provider,
+contact information,we,"advertising, analytics, security, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,services
+cookie / pixel tag,authorized partner,
+cookie / pixel tag,company help,
+cookie / pixel tag,gather technology,
+cookie / pixel tag,we,"advertising, analytics, security, services"
+cookie / pixel tag,we,"advertising, analytics, security, services, legal"
+credit / debit card number,UNSPECIFIED_ACTOR,services
+credit / debit card number,company help,
+credit / debit card number,gather technology,
+credit / debit card number,we,"advertising, analytics, security, services"
+credit / debit card number,we,"advertising, analytics, security, services, legal"
+current city,we,"advertising, analytics, security, services"
+date,UNSPECIFIED_ACTOR,
+date,service provider,
+date,we,"advertising, analytics, security, services"
+date time stamp,UNSPECIFIED_ACTOR,services
+date time stamp,company help,
+date time stamp,gather technology,
+date time stamp,we,"advertising, analytics, security, services"
+date time stamp,we,"advertising, analytics, security, services, legal"
+device identifier,UNSPECIFIED_ACTOR,services
+device identifier,company help,
+device identifier,gather technology,
+device identifier,we,"advertising, analytics, security, services"
+device identifier,we,"advertising, analytics, security, services, legal"
+email address,UNSPECIFIED_ACTOR,services
+email address,company help,
+email address,gather technology,
+email address,we,"advertising, analytics, security, services"
+email address,we,"advertising, analytics, security, services, legal"
+file view on site,UNSPECIFIED_ACTOR,services
+file view on site,company help,
+file view on site,gather technology,
+file view on site,we,"advertising, analytics, security, services"
+file view on site,we,"advertising, analytics, security, services, legal"
+frequency,UNSPECIFIED_ACTOR,
+frequency,service provider,
+frequency,we,"advertising, analytics, security, services"
+home work mobile,UNSPECIFIED_ACTOR,services
+home work mobile,company help,
+home work mobile,gather technology,
+home work mobile,we,"advertising, analytics, security, services"
+home work mobile,we,"advertising, analytics, security, services, legal"
+identification number associate with device,we,"advertising, analytics, security, services"
+information about device you utilize,gather technology,
+information about device you utilize,we,"advertising, analytics, security, services"
+information regard interaction with website,gather technology,
+information regard interaction with website,we,"advertising, analytics, security, services"
+information relate to,UNSPECIFIED_ACTOR,services
+information relate to,company help,
+information relate to,gather technology,
+information relate to,we,"advertising, analytics, security, services"
+information relate to,we,"advertising, analytics, security, services, legal"
+information you search for,we,"advertising, analytics, security, services"
+ip address,UNSPECIFIED_ACTOR,services
+ip address,company help,
+ip address,gather technology,
+ip address,social media,
+ip address,we,"advertising, analytics, security, services"
+ip address,we,"advertising, analytics, security, services, legal"
+locale preference,we,"advertising, analytics, security, services"
+mac address,we,"advertising, analytics, security, services"
+network connectivity,UNSPECIFIED_ACTOR,
+network connectivity,service provider,
+network connectivity,we,"advertising, analytics, security, services"
+operating system type,we,"advertising, analytics, security, services"
+person name,UNSPECIFIED_ACTOR,services
+person name,company help,
+person name,gather technology,
+person name,we,"advertising, analytics, security, services"
+person name,we,"advertising, analytics, security, services, legal"
+personal information third party service make,we,"advertising, analytics, security, services, legal"
+personal information we store,we,"advertising, analytics, security, services, legal"
+phone number,UNSPECIFIED_ACTOR,services
+phone number,company help,
+phone number,gather technology,
+phone number,we,"advertising, analytics, security, services"
+phone number,we,"advertising, analytics, security, services, legal"
+postal address,UNSPECIFIED_ACTOR,services
+postal address,company help,
+postal address,gather technology,
+postal address,we,"advertising, analytics, security, services"
+postal address,we,"advertising, analytics, security, services, legal"
+profile picture url,we,"advertising, analytics, security, services, legal"
+quantity,UNSPECIFIED_ACTOR,
+quantity,service provider,
+quantity,we,"advertising, analytics, security, services"
+report base on use of technology by third party service provider on individual basis,we,"advertising, analytics, security, services, legal"
+stock,we,"advertising, analytics, security, services, legal"
+subscriber company name,UNSPECIFIED_ACTOR,services
+subscriber company name,company help,
+subscriber company name,gather technology,
+subscriber company name,we,"advertising, analytics, security, services"
+subscriber company name,we,"advertising, analytics, security, services, legal"
+system configuration information,we,"advertising, analytics, security, services, legal"
+trend in aggregate,UNSPECIFIED_ACTOR,services
+trend in aggregate,company help,
+trend in aggregate,gather technology,
+trend in aggregate,we,"advertising, analytics, security, services"
+trend in aggregate,we,"advertising, analytics, security, services, legal"
+url,we,"advertising, analytics, security, services, legal"
+usage information,we,"advertising, analytics, security, services, legal"
+version,we,"advertising, analytics, security, services, legal"

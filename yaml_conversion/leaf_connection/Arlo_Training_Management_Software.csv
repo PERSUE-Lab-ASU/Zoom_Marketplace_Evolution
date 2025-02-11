@@ -1,0 +1,82 @@
+data_type,collector,purpose
+Facebook,we,"analytics, legal, services, advertising, security"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"analytics, legal, services"
+account,UNSPECIFIED_ACTOR,
+account,we,"analytics, legal, services"
+aggregate / deidentified / pseudonymized information,analytic provider,
+aggregate / deidentified / pseudonymized information,we,"analytics, legal, services"
+alias,UNSPECIFIED_ACTOR,"advertising, services"
+alias,company help,
+alias,gather technology,
+alias,we,"analytics, legal, services, advertising"
+alias,we,"analytics, legal, services, advertising, security"
+analytic information,we,"analytics, legal, services"
+anonymised diagnostic datum about server environment,we,"analytics, legal, services"
+asset,we,"analytics, legal, services, advertising, security"
+browser type,we,"analytics, legal, services"
+company name,UNSPECIFIED_ACTOR,"advertising, services"
+company name,company help,
+company name,gather technology,
+company name,we,"analytics, legal, services, advertising"
+company name,we,"analytics, legal, services, advertising, security"
+cookie / pixel tag,authorised partner,
+cookie / pixel tag,we,"analytics, legal, services"
+credit / debit card number,UNSPECIFIED_ACTOR,"advertising, services"
+credit / debit card number,company help,
+credit / debit card number,gather technology,
+credit / debit card number,we,"analytics, legal, services, advertising"
+credit / debit card number,we,"analytics, legal, services, advertising, security"
+date time stamp,we,"analytics, legal, services"
+email address,UNSPECIFIED_ACTOR,"advertising, services"
+email address,company help,
+email address,gather technology,
+email address,we,"analytics, legal, services, advertising"
+email address,we,"analytics, legal, services, advertising, security"
+email invite he,we,"analytics, legal, services"
+identification number associate with device,we,"analytics, legal, services"
+information about,we,"analytics, legal, services"
+information about device you utilise,gather technology,
+information about device you utilise,we,"analytics, legal, services"
+information as,analytic provider,
+information regard interaction with website,gather technology,
+information regard interaction with website,we,"analytics, legal, services"
+information you search for,we,"analytics, legal, services, advertising"
+instant messaging id,UNSPECIFIED_ACTOR,"advertising, services"
+instant messaging id,company help,
+instant messaging id,gather technology,
+instant messaging id,we,"analytics, legal, services, advertising"
+instant messaging id,we,"analytics, legal, services, advertising, security"
+internet activity,UNSPECIFIED_ACTOR,advertising
+ip address,social media,
+ip address,we,"analytics, legal, services, advertising"
+local storage objects,we,"analytics, legal, services, advertising"
+locale preference,we,"analytics, legal, services, advertising"
+option,UNSPECIFIED_ACTOR,advertising
+person name,UNSPECIFIED_ACTOR,"advertising, services"
+person name,company help,
+person name,gather technology,
+person name,we,"analytics, legal, services, advertising"
+person name,we,"analytics, legal, services, advertising, security"
+personal information about website visitor within european economic area,we,"analytics, legal, services, advertising, security"
+personal information we process on behalf of subscriber,we,"analytics, legal, services, advertising, security"
+personal information we store,we,"analytics, legal, services, advertising, security"
+phone number,UNSPECIFIED_ACTOR,"advertising, services"
+phone number,company help,
+phone number,gather technology,
+phone number,we,"analytics, legal, services, advertising"
+phone number,we,"analytics, legal, services, advertising, security"
+postal address,UNSPECIFIED_ACTOR,"advertising, services"
+postal address,company help,
+postal address,gather technology,
+postal address,we,"analytics, legal, services, advertising"
+postal address,we,"analytics, legal, services, advertising, security"
+report base on use of technology by third party service provider on individual basis,we,"analytics, legal, services, advertising, security"
+stock,we,"analytics, legal, services, advertising, security"
+system configuration information,we,"analytics, legal, services, advertising, security"
+url,we,"analytics, legal, services, advertising, security"
+website name,UNSPECIFIED_ACTOR,"advertising, services"
+website name,company help,
+website name,gather technology,
+website name,we,"analytics, legal, services, advertising"
+website name,we,"analytics, legal, services, advertising, security"

@@ -1,0 +1,90 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"legal, services"
+account use,UNSPECIFIED_ACTOR,"advertising, services"
+account use,member of team,
+account use,service provider,
+account use,steady,"services, advertising"
+account use,we,"legal, services, analytics"
+analytic provider,service provider,
+commercial history,UNSPECIFIED_ACTOR,"advertising, services"
+commercial history,member of team,
+commercial history,service provider,
+commercial history,steady,"services, advertising"
+commercial history,we,"legal, services"
+commercial history,we,"legal, services, analytics"
+contact information,UNSPECIFIED_ACTOR,"advertising, services"
+contact information,member of team,
+contact information,service provider,
+contact information,steady,"services, advertising"
+contact information,we,"legal, services"
+contact information,we,"legal, services, analytics"
+content,we,"legal, services"
+content of message be,we,"legal, services, analytics"
+cookie / pixel tag,steady,services
+cookie / pixel tag,we,"legal, services"
+data storage provider,service provider,
+documentation,we,"legal, services"
+email address,UNSPECIFIED_ACTOR,"advertising, services"
+email address,member of team,
+email address,service provider,
+email address,steady,"services, advertising"
+email address,we,"legal, services"
+email address,we,"legal, services, analytics"
+employment information,UNSPECIFIED_ACTOR,"advertising, services"
+employment information,member of team,
+employment information,service provider,
+employment information,steady,"services, advertising"
+employment information,we,"legal, services"
+employment information,we,"legal, services, analytics"
+government identifier,we,"legal, services, analytics"
+information about marketing preference,we,"legal, services"
+information be,we,"legal, services"
+internet activity,UNSPECIFIED_ACTOR,"advertising, services"
+internet activity,member of team,
+internet activity,service provider,
+internet activity,steady,"services, advertising"
+internet activity,we,"legal, services"
+internet activity,we,"legal, services, analytics"
+method opt of sale,we,"legal, services"
+mobile network information,we,"legal, services, analytics"
+option exercise privacy right relate to processing,we,"legal, services, analytics"
+payment information you provide in connection with use of services,we,"legal, services, analytics"
+person name,UNSPECIFIED_ACTOR,"advertising, services"
+person name,member of team,
+person name,service provider,
+person name,steady,"services, advertising"
+person name,we,"legal, services"
+person name,we,"legal, services, analytics"
+personal information contain in content,we,"legal, services, analytics"
+personal information from,we,"legal, services, analytics"
+personal information within content,we,"legal, services, analytics"
+phone number,UNSPECIFIED_ACTOR,"advertising, services"
+phone number,member of team,
+phone number,service provider,
+phone number,steady,"services, advertising"
+phone number,we,"legal, services"
+phone number,we,"legal, services, analytics"
+pixel,steady,"services, advertising"
+postal address,UNSPECIFIED_ACTOR,"advertising, services"
+postal address,member of team,
+postal address,service provider,
+postal address,steady,"services, advertising"
+postal address,we,"legal, services"
+postal address,we,"legal, services, analytics"
+precise geolocation,we,"legal, services, analytics"
+profile information,we,"legal, services"
+profile picture,UNSPECIFIED_ACTOR,"advertising, services"
+profile picture,member of team,
+profile picture,service provider,
+profile picture,steady,"services, advertising"
+profile picture,we,"legal, services, analytics"
+push notification provider,service provider,
+report,UNSPECIFIED_ACTOR,"advertising, services"
+report,steady,"services, advertising"
+screenshot,we,"legal, services, analytics"
+username,UNSPECIFIED_ACTOR,"advertising, services"
+username,member of team,
+username,service provider,
+username,steady,"services, advertising"
+username,we,"legal, services"
+username,we,"legal, services, analytics"

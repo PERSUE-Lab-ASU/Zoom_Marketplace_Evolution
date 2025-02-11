@@ -1,0 +1,28 @@
+data_type,collector,purpose
+Google,analytic provider,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,contractor,
+UNSPECIFIED_DATA,we,services
+analytic datum,we,services
+analytic information,we,services
+contact information,we,services
+cookie / pixel tag,browser,
+cookie / pixel tag,we,services
+customer name,we,services
+email address,we,services
+employer,we,services
+information assist we in,analytic provider,
+information assist we in,we,services
+information in connection with service,we,services
+information we collect,we,services
+information we collect from services,we,services
+information we receive from third party,we,services
+information you upload to service,we,services
+log file information,we,services
+password,we,services
+person name,we,services
+position,we,services
+share in company,we,services
+user content,we,services
+user information relate to service,we,services
+username,we,services

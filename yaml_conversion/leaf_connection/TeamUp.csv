@@ -1,0 +1,16 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+backup of database,we,
+clickstream datum,we,"security, services"
+cookie / pixel tag,we,"security, services"
+date of birth,The Business of Fashion,
+email address,The Business of Fashion,
+ip address,we,"security, services"
+length of visit,we,"security, services"
+operate system,we,"security, services"
+payment detail,The Business of Fashion,
+person name,The Business of Fashion,
+personal information,teamup,"analytics, services"
+personal information,we,"security, services, analytics"
+referral source,we,"security, services"

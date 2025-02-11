@@ -1,0 +1,44 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,advisor,legal
+UNSPECIFIED_DATA,data recipient locate in european economic area,
+UNSPECIFIED_DATA,external auditor,legal
+UNSPECIFIED_DATA,party acquire asset as part of transaction,
+UNSPECIFIED_DATA,professional service provider,legal
+UNSPECIFIED_DATA,we,legal
+accountant,professional service provider,legal
+aggregate / deidentified / pseudonymized information,we,legal
+bank account,we,"legal, analytics, services, advertising"
+beacon,we,legal
+billing information,we,legal
+browsing / search history,we,"legal, analytics, services"
+cookie / pixel tag,we,"legal, analytics, services, advertising"
+cost estimate,we,"legal, analytics, services, advertising"
+credit / debit card number,we,"legal, analytics, services, advertising"
+datum about you,government official,
+datum about you,private party,
+datum about you,we,"legal, analytics, services, advertising"
+email address,UNSPECIFIED_ACTOR,
+email address,we,"legal, analytics, services, advertising"
+email address,we,"legal, analytics, services, advertising, security"
+information about you,we,"legal, analytics, services, advertising"
+information relate to activity in services,we,"legal, analytics, services, advertising, security"
+insurer,professional service provider,legal
+ip address,we,"legal, analytics, services, advertising, security"
+item purchase,we,"legal, analytics, services, advertising"
+local storage,we,"legal, analytics, services, advertising"
+mac address,we,"legal, analytics, services, advertising, security"
+minimum amount of personal data require for compliance with legal requirement,we,"legal, analytics, services, advertising"
+non-personal information,we,"legal, analytics, services, advertising"
+payment information,third party payment processor,services
+payment information,we,"legal, analytics, services, advertising"
+payment you make,we,"legal, analytics, services, advertising"
+person name,UNSPECIFIED_ACTOR,
+person name,we,"legal, analytics, services, advertising"
+person name,we,"legal, analytics, services, advertising, security"
+personal data provide in verifiable consumer request,we,"legal, analytics, services, advertising, security"
+pixel,we,"legal, analytics, services, advertising, security"
+postal address,we,"legal, analytics, services, advertising"
+postal address,we,"legal, analytics, services, advertising, security"
+specific piece,UNSPECIFIED_ACTOR,
+specific piece,we,"legal, analytics, services, advertising, security"
+xyte technologies ltd.,we,"legal, analytics, services, advertising, security"

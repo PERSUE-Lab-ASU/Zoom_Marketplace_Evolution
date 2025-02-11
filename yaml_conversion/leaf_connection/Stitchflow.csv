@@ -1,0 +1,62 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,stitchflow,
+UNSPECIFIED_DATA,technology,analytics
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+anonymous identifier,we,"advertising, analytics, services, security, legal"
+browser type,stitchflow,"advertising, analytics, security, services"
+browser type,we,"advertising, analytics, services, security"
+browser version,stitchflow,"advertising, analytics, security, services"
+browser version,we,"advertising, analytics, services, security"
+business address,UNSPECIFIED_ACTOR,
+business address,we,"advertising, analytics, services, security"
+collect datum,Google,advertising
+commercial information,UNSPECIFIED_ACTOR,
+commercial information,we,"advertising, analytics, services"
+cookie / pixel tag,remarketing vendor,advertising
+cookie / pixel tag,we,"advertising, analytics, services, security"
+cookies,we,"advertising, analytics, services, security"
+credit card,UNSPECIFIED_ACTOR,
+credit card,we,"advertising, analytics, services, security"
+datum collect,Google,"advertising, analytics"
+datum it collect,stitchflow,"advertising, analytics, security, services"
+datum on,we,"advertising, analytics, services, security"
+device identifier,stitchflow,"advertising, analytics, security, services"
+device identifier,we,"advertising, analytics, services, security"
+device information,UNSPECIFIED_ACTOR,
+device information,we,"advertising, analytics, services, security"
+diagnostic datum,stitchflow,"advertising, analytics, security, services"
+diagnostic datum,we,"advertising, analytics, services, security"
+email address,UNSPECIFIED_ACTOR,
+email address,we,"advertising, analytics, services, security"
+gender,UNSPECIFIED_ACTOR,
+gender,we,"advertising, analytics, services, security"
+general geographic region,we,"advertising, analytics, services, security"
+industry standard method for datum encryption,stitchflow,"advertising, analytics, security, services"
+information you provide,UNSPECIFIED_ACTOR,
+information you provide,we,"advertising, analytics, services, security"
+ip address,UNSPECIFIED_ACTOR,
+ip address,stitchflow,"advertising, analytics, security, services"
+ip address,we,"advertising, analytics, services, security"
+job title,UNSPECIFIED_ACTOR,
+job title,we,"advertising, analytics, services, security, legal"
+message submit to we through email,UNSPECIFIED_ACTOR,
+message submit to we through email,we,"advertising, analytics, services, security, legal"
+person name,UNSPECIFIED_ACTOR,
+person name,we,"advertising, analytics, services, security"
+personal data of end user,we,"advertising, analytics, services, security"
+personal information,service provider,analytics
+personal information,site providers,services
+personal information,stitchflow,"advertising, analytics, security, services, legal"
+personal information,we,"advertising, analytics, services, security, legal"
+postal address,UNSPECIFIED_ACTOR,
+postal address,we,"advertising, analytics, services, security"
+preference cookies,we,"advertising, analytics, services, security, legal"
+preferred language,UNSPECIFIED_ACTOR,
+preferred language,we,"advertising, analytics, services, security"
+several different type,we,"advertising, analytics, services, security, legal"
+time,stitchflow,"advertising, analytics, security, services"
+time,we,"advertising, analytics, services, security"
+transaction information,UNSPECIFIED_ACTOR,
+transaction information,we,"advertising, analytics, services, security, legal"
+voiceprint,UNSPECIFIED_ACTOR,
+voiceprint,we,"advertising, analytics, services, security, legal"

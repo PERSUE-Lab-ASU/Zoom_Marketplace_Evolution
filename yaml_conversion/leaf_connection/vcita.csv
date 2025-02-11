@@ -1,0 +1,478 @@
+data_type,collector,purpose
+Facebook,social media,
+Microsoft,social media,
+Tandem,we,"advertising, services, analytics, legal, security"
+UNSPECIFIED_DATA,service providers,
+UNSPECIFIED_DATA,we,
+age,UNSPECIFIED_ACTOR,
+age,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+age,business partner,
+age,social media,
+age,vcita,"advertising, analytics"
+age,vcita,"advertising, analytics, services"
+age,we,
+age,we,"advertising, services, analytics, legal, security"
+aggregate personal information,UNSPECIFIED_ACTOR,
+aggregate personal information,business partner,
+aggregate personal information,social media,
+aggregate personal information,vcita,"advertising, analytics"
+aggregate personal information,we,
+alias,UNSPECIFIED_ACTOR,
+alias,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+alias,business partner,
+alias,social media,
+alias,vcita,"advertising, analytics"
+alias,vcita,"advertising, analytics, services"
+alias,we,
+alias,we,"advertising, services, analytics, legal, security"
+amount,UNSPECIFIED_ACTOR,
+amount,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+amount,business partner,
+amount,social media,
+amount,vcita,"advertising, analytics"
+amount,vcita,"advertising, analytics, services"
+amount,we,
+amount,we,"advertising, services, analytics, legal, security"
+answer,we,
+app market,we,"advertising, services, analytics, legal, security"
+bank account information,UNSPECIFIED_ACTOR,
+bank account information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+bank account information,business partner,
+bank account information,social media,
+bank account information,vcita,"advertising, analytics"
+bank account information,vcita,"advertising, analytics, services"
+bank account information,we,
+bank account information,we,"advertising, services, analytics, legal, security"
+billing detail,UNSPECIFIED_ACTOR,
+billing detail,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+billing detail,business partner,
+billing detail,social media,
+billing detail,vcita,"advertising, analytics"
+billing detail,vcita,"advertising, analytics, services"
+billing detail,we,
+billing detail,we,"advertising, services, analytics, legal, security"
+brand,we,"advertising, services, analytics, legal, security"
+browser type,UNSPECIFIED_ACTOR,
+browser type,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+browser type,business partner,
+browser type,social media,
+browser type,vcita,"advertising, analytics"
+browser type,vcita,"advertising, analytics, services"
+browser type,we,
+browser type,we,"advertising, services, analytics, legal, security"
+business need,UNSPECIFIED_ACTOR,
+business need,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+business need,business partner,
+business need,social media,
+business need,vcita,"advertising, analytics"
+business need,vcita,"advertising, analytics, services"
+business need,we,
+business need,we,"advertising, services, analytics, legal, security"
+click history,UNSPECIFIED_ACTOR,
+click history,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+click history,business partner,
+click history,social media,
+click history,vcita,"advertising, analytics"
+click history,vcita,"advertising, analytics, services"
+click history,we,
+click history,we,"advertising, services, analytics, legal, security"
+contact information,UNSPECIFIED_ACTOR,
+contact information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+contact information,business partner,
+contact information,social media,
+contact information,vcita,"advertising, analytics"
+contact information,vcita,"advertising, analytics, services"
+contact information,we,
+contact information,we,advertising
+contact information,we,"advertising, services, analytics, legal, security"
+cookie / pixel tag,vcita,"advertising, analytics, services"
+cost estimate,we,advertising
+currency,UNSPECIFIED_ACTOR,
+currency,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+currency,business partner,
+currency,social media,
+currency,vcita,"advertising, analytics"
+currency,vcita,"advertising, analytics, services"
+currency,we,
+currency,we,"advertising, services, analytics, legal, security"
+date,UNSPECIFIED_ACTOR,
+date,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+date,business partner,
+date,social media,
+date,vcita,"advertising, analytics"
+date,vcita,"advertising, analytics, services"
+date,we,
+date,we,"advertising, services, analytics, legal, security"
+demographic information,UNSPECIFIED_ACTOR,
+demographic information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+demographic information,business partner,
+demographic information,social media,
+demographic information,vcita,"advertising, analytics"
+demographic information,vcita,"advertising, analytics, services"
+demographic information,we,
+demographic information,we,"advertising, services, analytics, legal, security"
+description,UNSPECIFIED_ACTOR,
+description,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+description,business partner,
+description,social media,
+description,vcita,"advertising, analytics"
+description,vcita,"advertising, analytics, services"
+description,we,
+description,we,"advertising, services, analytics, legal, security"
+email address,UNSPECIFIED_ACTOR,
+email address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+email address,business partner,
+email address,social media,
+email address,vcita,"advertising, analytics"
+email address,vcita,"advertising, analytics, services"
+email address,we,
+email address,we,advertising
+email address,we,"advertising, services, analytics, legal, security"
+employment information,UNSPECIFIED_ACTOR,
+employment information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+employment information,business partner,
+employment information,social media,
+employment information,vcita,"advertising, analytics"
+employment information,vcita,"advertising, analytics, services"
+employment information,we,
+employment information,we,"advertising, services, analytics, legal, security"
+free text,UNSPECIFIED_ACTOR,
+free text,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+free text,business partner,
+free text,social media,
+free text,vcita,"advertising, analytics"
+free text,vcita,"advertising, analytics, services"
+free text,we,
+free text,we,"advertising, services, analytics, legal, security"
+gender,UNSPECIFIED_ACTOR,
+gender,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+gender,business partner,
+gender,social media,
+gender,vcita,"advertising, analytics"
+gender,vcita,"advertising, analytics, services"
+gender,we,
+gender,we,"advertising, services, analytics, legal, security"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+geolocation,business partner,
+geolocation,social media,
+geolocation,vcita,"advertising, analytics"
+geolocation,vcita,"advertising, analytics, services"
+geolocation,we,
+geolocation,we,advertising
+geolocation,we,"advertising, services, analytics, legal, security"
+health insurance information,UNSPECIFIED_ACTOR,
+health insurance information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+health insurance information,business partner,
+health insurance information,social media,
+health insurance information,vcita,"advertising, analytics"
+health insurance information,vcita,"advertising, analytics, services"
+health insurance information,we,
+health insurance information,we,"advertising, services, analytics, legal, security"
+home business address,UNSPECIFIED_ACTOR,
+home business address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+home business address,business partner,
+home business address,social media,
+home business address,vcita,"advertising, analytics"
+home business address,vcita,"advertising, analytics, services"
+home business address,we,
+home business address,we,"advertising, services, analytics, legal, security"
+identifier,UNSPECIFIED_ACTOR,
+identifier,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+identifier,business partner,
+identifier,social media,
+identifier,vcita,"advertising, analytics"
+identifier,vcita,"advertising, analytics, services"
+identifier,we,
+identifier,we,advertising
+identifier,we,"advertising, services, analytics, legal, security"
+identify information,UNSPECIFIED_ACTOR,
+identify information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+identify information,business partner,
+identify information,social media,
+identify information,vcita,"advertising, analytics"
+identify information,vcita,"advertising, analytics, services"
+identify information,we,
+identify information,we,"advertising, services, analytics, legal, security"
+inference draw from,UNSPECIFIED_ACTOR,
+inference draw from,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+inference draw from,business partner,
+inference draw from,social media,
+inference draw from,vcita,"advertising, analytics"
+inference draw from,vcita,"advertising, analytics, services"
+inference draw from,we,
+inference draw from,we,"advertising, services, analytics, legal, security"
+inference draw from mention personal information,UNSPECIFIED_ACTOR,
+inference draw from mention personal information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+inference draw from mention personal information,business partner,
+inference draw from mention personal information,social media,
+inference draw from mention personal information,vcita,"advertising, analytics"
+inference draw from mention personal information,vcita,"advertising, analytics, services"
+inference draw from mention personal information,we,
+inference draw from mention personal information,we,advertising
+inference draw from mention personal information,we,"advertising, services, analytics, legal, security"
+information about page you view,advertiser,
+information about page you view,analytic provider,
+information about page you view,we,advertising
+information relate to you,we,"advertising, services"
+information we collect about you,we,"advertising, services, analytics, legal, security"
+information you provide we,we,"advertising, services, analytics, legal, security"
+internet,UNSPECIFIED_ACTOR,
+internet,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+internet,business partner,
+internet,social media,
+internet,vcita,"advertising, analytics"
+internet,vcita,"advertising, analytics, services"
+internet,we,
+internet,we,"advertising, services, analytics, legal, security"
+internet activity,UNSPECIFIED_ACTOR,
+internet activity,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+internet activity,business partner,
+internet activity,social media,
+internet activity,vcita,"advertising, analytics"
+internet activity,vcita,"advertising, analytics, services"
+internet activity,we,
+internet activity,we,"advertising, services, analytics, legal, security"
+ip address,UNSPECIFIED_ACTOR,
+ip address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+ip address,business partner,
+ip address,social media,
+ip address,vcita,"advertising, analytics"
+ip address,vcita,"advertising, analytics, services"
+ip address,we,
+ip address,we,"advertising, services, analytics, legal, security"
+last digit of credit card,UNSPECIFIED_ACTOR,
+last digit of credit card,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+last digit of credit card,business partner,
+last digit of credit card,social media,
+last digit of credit card,vcita,"advertising, analytics"
+last digit of credit card,vcita,"advertising, analytics, services"
+last digit of credit card,we,
+last digit of credit card,we,"advertising, services, analytics, legal, security"
+license,UNSPECIFIED_ACTOR,
+license,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+license,business partner,
+license,social media,
+license,vcita,"advertising, analytics"
+license,vcita,"advertising, analytics, services"
+license,we,
+license,we,"advertising, services, analytics, legal, security"
+list identify,we,"advertising, services, analytics, legal, security"
+main contact person,UNSPECIFIED_ACTOR,
+main contact person,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+main contact person,business partner,
+main contact person,social media,
+main contact person,vcita,"advertising, analytics"
+main contact person,vcita,"advertising, analytics, services"
+main contact person,we,
+main contact person,we,"advertising, services, analytics, legal, security"
+medical information,UNSPECIFIED_ACTOR,
+medical information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+medical information,business partner,
+medical information,social media,
+medical information,vcita,"advertising, analytics"
+medical information,vcita,"advertising, analytics, services"
+medical information,we,
+medical information,we,"advertising, services, analytics, legal, security"
+merchant name,UNSPECIFIED_ACTOR,
+merchant name,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+merchant name,business partner,
+merchant name,social media,
+merchant name,vcita,"advertising, analytics"
+merchant name,vcita,"advertising, analytics, services"
+merchant name,we,
+merchant name,we,"advertising, services, analytics, legal, security"
+mobile application,we,"advertising, services, analytics, legal, security"
+mobile apps,we,"advertising, services, analytics, legal, security"
+mobile information,UNSPECIFIED_ACTOR,advertising
+mobile information,we,"advertising, services, analytics, legal, security"
+passport number,UNSPECIFIED_ACTOR,
+passport number,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+passport number,business partner,
+passport number,social media,
+passport number,vcita,"advertising, analytics"
+passport number,vcita,"advertising, analytics, services"
+passport number,we,
+passport number,we,"advertising, services, analytics, legal, security"
+password,UNSPECIFIED_ACTOR,
+password,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+password,business partner,
+password,social media,
+password,vcita,"advertising, analytics"
+password,vcita,"advertising, analytics, services"
+password,we,
+password,we,"advertising, services, analytics, legal, security"
+payment detail,UNSPECIFIED_ACTOR,
+payment detail,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+payment detail,business partner,
+payment detail,social media,
+payment detail,vcita,"advertising, analytics"
+payment detail,vcita,"advertising, analytics, services"
+payment detail,we,
+payment detail,we,"advertising, services, analytics, legal, security"
+person name,UNSPECIFIED_ACTOR,
+person name,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+person name,business partner,
+person name,social media,
+person name,vcita,"advertising, analytics"
+person name,vcita,"advertising, analytics, services"
+person name,we,
+person name,we,"advertising, services, analytics, legal, security"
+personal characteristic,UNSPECIFIED_ACTOR,
+personal characteristic,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+personal characteristic,business partner,
+personal characteristic,social media,
+personal characteristic,vcita,"advertising, analytics"
+personal characteristic,vcita,"advertising, analytics, services"
+personal characteristic,we,
+personal characteristic,we,"advertising, services, analytics, legal, security"
+personal information of client,vcita,"advertising, analytics, services"
+personal information provide in request,we,"advertising, services, analytics, legal, security"
+personal information relate to client,vcita,"advertising, analytics"
+personal information relate to client,we,
+personal information relate to you,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+personal information relate to you,party involve in transaction,
+personal information relate to you,vcita,"advertising, analytics, services"
+personal information relate to you,we,"advertising, services, analytics, legal, security"
+personal information you include in email text message,UNSPECIFIED_ACTOR,
+personal information you include in email text message,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+personal information you include in email text message,business partner,
+personal information you include in email text message,social media,
+personal information you include in email text message,vcita,"advertising, analytics"
+personal information you include in email text message,vcita,"advertising, analytics, services"
+personal information you include in email text message,we,
+personal information you include in email text message,we,"advertising, services, analytics, legal, security"
+personally non - identifiable information,we,"advertising, services, analytics, legal, security"
+phone number,UNSPECIFIED_ACTOR,
+phone number,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+phone number,business partner,
+phone number,social media,
+phone number,vcita,"advertising, analytics"
+phone number,vcita,"advertising, analytics, services"
+phone number,we,
+phone number,we,"advertising, services, analytics, legal, security"
+photo,UNSPECIFIED_ACTOR,
+photo,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+photo,business partner,
+photo,social media,
+photo,vcita,"advertising, analytics"
+photo,vcita,"advertising, analytics, services"
+photo,we,
+photo,we,"advertising, services, analytics, legal, security"
+postal address,UNSPECIFIED_ACTOR,
+postal address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+postal address,business partner,
+postal address,social media,
+postal address,vcita,"advertising, analytics"
+postal address,vcita,"advertising, analytics, services"
+postal address,we,
+postal address,we,"advertising, services, analytics, legal, security"
+preference,UNSPECIFIED_ACTOR,
+preference,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+preference,business partner,
+preference,social media,
+preference,vcita,"advertising, analytics"
+preference,vcita,"advertising, analytics, services"
+preference,we,
+preference,we,"advertising, services, analytics, legal, security"
+purchasing history,UNSPECIFIED_ACTOR,
+purchasing history,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+purchasing history,business partner,
+purchasing history,social media,
+purchasing history,vcita,"advertising, analytics"
+purchasing history,vcita,"advertising, analytics, services"
+purchasing history,we,
+purchasing history,we,"advertising, services, analytics, legal, security"
+related service,we,"advertising, services, analytics, legal, security"
+salary information,UNSPECIFIED_ACTOR,
+salary information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+salary information,business partner,
+salary information,social media,
+salary information,vcita,"advertising, analytics"
+salary information,vcita,"advertising, analytics, services"
+salary information,we,
+salary information,we,"advertising, services, analytics, legal, security"
+search,UNSPECIFIED_ACTOR,
+search,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+search,business partner,
+search,social media,
+search,vcita,"advertising, analytics"
+search,vcita,"advertising, analytics, services"
+search,we,
+search,we,"advertising, services, analytics, legal, security"
+security information,UNSPECIFIED_ACTOR,
+security information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+security information,business partner,
+security information,social media,
+security information,vcita,"advertising, analytics"
+security information,vcita,"advertising, analytics, services"
+security information,we,
+security information,we,"advertising, services, analytics, legal, security"
+social medium username,UNSPECIFIED_ACTOR,
+social medium username,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+social medium username,business partner,
+social medium username,social media,
+social medium username,vcita,"advertising, analytics"
+social medium username,vcita,"advertising, analytics, services"
+social medium username,we,
+social medium username,we,"advertising, services, analytics, legal, security"
+specific piece of personal information we collect about you,we,"advertising, services, analytics, legal, security"
+ssn,UNSPECIFIED_ACTOR,
+ssn,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+ssn,business partner,
+ssn,social media,
+ssn,vcita,"advertising, analytics"
+ssn,vcita,"advertising, analytics, services"
+ssn,we,
+ssn,we,"advertising, services, analytics, legal, security"
+state identification card number,UNSPECIFIED_ACTOR,
+state identification card number,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+state identification card number,business partner,
+state identification card number,social media,
+state identification card number,vcita,"advertising, analytics"
+state identification card number,vcita,"advertising, analytics, services"
+state identification card number,we,
+state identification card number,we,"advertising, services, analytics, legal, security"
+tendency,UNSPECIFIED_ACTOR,
+tendency,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+tendency,business partner,
+tendency,social media,
+tendency,vcita,"advertising, analytics"
+tendency,vcita,"advertising, analytics, services"
+tendency,we,
+tendency,we,"advertising, services, analytics, legal, security"
+transaction category,UNSPECIFIED_ACTOR,
+transaction category,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+transaction category,business partner,
+transaction category,social media,
+transaction category,vcita,"advertising, analytics"
+transaction category,vcita,"advertising, analytics, services"
+transaction category,we,
+transaction category,we,"advertising, services, analytics, legal, security"
+transaction id,UNSPECIFIED_ACTOR,
+transaction id,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+transaction id,business partner,
+transaction id,social media,
+transaction id,vcita,"advertising, analytics"
+transaction id,vcita,"advertising, analytics, services"
+transaction id,we,
+transaction id,we,"advertising, services, analytics, legal, security"
+unsolicited information,we,"advertising, services, analytics, legal, security"
+username,UNSPECIFIED_ACTOR,
+username,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+username,business partner,
+username,social media,
+username,vcita,"advertising, analytics"
+username,vcita,"advertising, analytics, services"
+username,we,
+username,we,"advertising, services, analytics, legal, security"
+visual datum,UNSPECIFIED_ACTOR,
+visual datum,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+visual datum,business partner,
+visual datum,social media,
+visual datum,vcita,"advertising, analytics"
+visual datum,vcita,"advertising, analytics, services"
+visual datum,we,
+visual datum,we,"advertising, services, analytics, legal, security"
+web application,we,"advertising, services, analytics, legal, security"
+web apps,we,"advertising, services, analytics, legal, security"

@@ -1,0 +1,59 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+bank account detail,UNSPECIFIED_ACTOR,services
+client data,UNSPECIFIED_ACTOR,
+client data,we,
+client data customer choose,UNSPECIFIED_ACTOR,
+client datum,we,
+communication datum,we,"advertising, analytics"
+communications data,we,"advertising, analytics"
+credit / debit card number,UNSPECIFIED_ACTOR,services
+detail of concern,we,"advertising, analytics"
+high level statistical datum about,we,"advertising, analytics"
+idea,UNSPECIFIED_ACTOR,services
+idea,adviser,
+idea,bank,
+idea,business partner,
+idea,competent law enforcement body,
+idea,court,
+idea,datum processing service,
+idea,financier,advertising
+idea,functionality on,
+idea,government agency,
+idea,member of smokeball group,
+idea,professional adviser,
+idea,provider of service,
+idea,third party payment processor,
+idea,we,"advertising, analytics, services, legal, security"
+information about visit,we,"advertising, analytics"
+information about you you provide,we,"advertising, analytics"
+information we collect about use of service,we,"advertising, analytics, services"
+information you provide to we,we,"advertising, analytics, services"
+login attempt,we,"advertising, analytics, services"
+mobile application,we,"advertising, analytics, services, legal, security"
+personal datum about,we,"advertising, analytics, services"
+preference,we,"advertising, analytics, services, legal, security"
+sensitive datum,we,"advertising, analytics"
+service setting,we,"advertising, analytics, services, legal, security"
+smokeball service,we,"advertising, analytics, services, legal, security"
+software solution,we,"advertising, analytics, services, legal, security"
+survey response,UNSPECIFIED_ACTOR,services
+survey response,adviser,
+survey response,bank,
+survey response,business partner,
+survey response,competent law enforcement body,
+survey response,court,
+survey response,datum processing service,
+survey response,financier,advertising
+survey response,functionality on,
+survey response,government agency,
+survey response,member of smokeball group,
+survey response,professional adviser,
+survey response,provider of service,
+survey response,third party payment processor,
+survey response,we,"advertising, analytics, services, legal, security"
+technical datum,we,"advertising, analytics, services, legal, security"
+time of access,we,"advertising, analytics, services, legal, security"
+transaction history datum,we,"advertising, analytics, services, legal, security"
+usage habit,we,"advertising, analytics, services, legal, security"
+write reason for decision,we,"advertising, analytics, services, legal, security"

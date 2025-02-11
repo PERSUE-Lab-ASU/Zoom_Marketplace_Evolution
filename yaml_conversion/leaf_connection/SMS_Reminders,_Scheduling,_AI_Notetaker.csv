@@ -1,0 +1,54 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+age,we,"analytics, services, advertising, security, legal"
+aggregate / deidentified / pseudonymized information,advisor,analytics
+aggregate / deidentified / pseudonymized information,we,analytics
+area on website you post review relate to activity on website,we,analytics
+browser type,we,"analytics, services, advertising, security"
+browser version,Facebook,
+cookie / pixel tag,we,"analytics, services"
+cookie / pixel tag,web beacons,
+cover photo,we,"analytics, services, advertising, security, legal"
+credit / debit card number,we,"analytics, services, advertising, security"
+credit / debit card number,we,"analytics, services, advertising, security, legal"
+date,web beacons,
+date of birth,we,"analytics, services"
+email address,we,"analytics, services, advertising, security"
+email address,we,"analytics, services, advertising, security, legal"
+expiration date,we,"analytics, services, advertising, security"
+friend list,we,"analytics, services, advertising, security, legal"
+friend network,we,"analytics, services, advertising, security, legal"
+gender,we,"analytics, services, advertising, security, legal"
+geolocation,we,"analytics, services, advertising, security"
+greminders,we,"analytics, services, advertising, security, legal"
+greminders software as service,we,"analytics, services, advertising, security, legal"
+history of change information,we,"analytics, services, advertising, security"
+hyperlink on website redirect you to social network,we,"analytics, services, advertising, security"
+information we obtain from current activity on website,we,"analytics, services, advertising, security"
+information you make,we,"analytics, services, advertising, security, legal"
+ip address,Facebook,
+ip address,we,"analytics, services, advertising, security"
+kaiser ridge inc.,we,"analytics, services, advertising, security, legal"
+locale,we,"analytics, services, advertising, security, legal"
+media form,we,"analytics, services, advertising, security, legal"
+medium channel,we,"analytics, services, advertising, security, legal"
+mobile application related,we,"analytics, services, advertising, security, legal"
+mobile website,we,"analytics, services, advertising, security, legal"
+operating system,we,"analytics, services, advertising, security"
+option connect account on website to account on social networking site,we,"analytics, services, advertising, security"
+page view,web beacons,
+payment method,we,"analytics, services, advertising, security"
+person name,we,"analytics, services, advertising, security"
+person name,we,"analytics, services, advertising, security, legal"
+personal data provide in valid request,we,"analytics, services, advertising, security"
+personal information,we,"analytics, services, advertising, security, legal"
+personal information,we in united states,
+phone number,we,"analytics, services, advertising, security, legal"
+postal address,we,"analytics, services, advertising, security, legal"
+profile picture,we,"analytics, services, advertising, security, legal"
+related information you provide to we,we,"analytics, services, advertising, security, legal"
+screen resolution,Facebook,
+specific piece of personal data we collect about you,we,"analytics, services, advertising, security, legal"
+time,web beacons,
+username,we,"analytics, services, advertising, security, legal"

@@ -1,0 +1,103 @@
+data_type,collector,purpose
+Mouseflow,analytic provider,
+UNSPECIFIED_DATA,Cvent,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,social media,
+UNSPECIFIED_DATA,we,
+audit history of request access,we,legal
+city of residence,we,"legal, analytics, services, security, advertising"
+computer type,UNSPECIFIED_ACTOR,
+computer type,we,"legal, analytics, services, security, advertising"
+contact information,we,"legal, analytics, services"
+content of support communication,we,"legal, analytics, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,advertiser,
+cookie / pixel tag,analytic provider,
+cookie / pixel tag,we,"legal, analytics, services"
+customary bank information need for billing purpose,we,"legal, analytics, services, security"
+customer personal datum,we,"legal, analytics, services, security"
+customer personal information collect from,we,"legal, analytics, services, security, advertising"
+customer support chat,we,"legal, analytics, services, security, advertising"
+customer usage information about,UNSPECIFIED_ACTOR,
+customer usage information about,we,"legal, analytics, services, security, advertising"
+data from visitor,we,"legal, analytics, services, security, advertising"
+date,UNSPECIFIED_ACTOR,
+date,we,"legal, analytics, services, security, advertising"
+datum from visitor,Cvent,
+expiration date,Cvent,services
+expiration date,analytic provider,
+expiration date,payment card processor,"security, services"
+expiration date,we,"legal, analytics, services, security"
+expiration date,we,"legal, analytics, services, security, advertising"
+financial information,Cvent,services
+financial information,analytic provider,
+financial information,we,"legal, analytics, services"
+financial information,we,"legal, analytics, services, security, advertising"
+i nformation,UNSPECIFIED_ACTOR,
+i nformation,we,"legal, analytics, services, security, advertising"
+information collect from source customer,we,"legal, analytics, services, security, advertising"
+information on,help reference section,"security, services"
+interest,Cvent,services
+interest,analytic provider,
+interest,we,"legal, analytics, services, security, advertising"
+internet activity,analytic provider,
+internet activity,technology,
+internet activity,we,"legal, analytics, services, security, advertising"
+internet browser type,UNSPECIFIED_ACTOR,
+internet browser type,we,"legal, analytics, services, security, advertising"
+ip address,UNSPECIFIED_ACTOR,
+ip address,we,"legal, analytics, services, security, advertising"
+language,UNSPECIFIED_ACTOR,
+language,we,"legal, analytics, services, security, advertising"
+meal preference,Cvent,services
+meal preference,analytic provider,
+meal preference,we,"legal, analytics, services, security, advertising"
+meeting space provider,Cvent,"services, advertising, analytics, security"
+message,we,"legal, analytics, services, security, advertising"
+necessary personal datum,Cvent,services
+necessary personal datum,venue,services
+occupation,Cvent,services
+occupation,analytic provider,
+occupation,we,"legal, analytics, services, security, advertising"
+opinion,Cvent,services
+opinion,analytic provider,
+opinion,we,"legal, analytics, services, security, advertising"
+organization,Cvent,services
+organization,analytic provider,
+organization,we,"legal, analytics, services, security, advertising"
+other,analytic provider,
+person name,Cvent,services
+person name,analytic provider,
+person name,we,"legal, analytics, services, security, advertising"
+personal datum about customer data subject,Cvent,services
+personal datum of visitor who attend cvent marketing event,Cvent,services
+personal datum of visitor who attend cvent marketing event,UNSPECIFIED_ACTOR,
+personal information of customer,Cvent,services
+phone call,we,"legal, analytics, services, security, advertising"
+phone number,Cvent,services
+phone number,analytic provider,
+phone number,we,"legal, analytics, services, security, advertising"
+popularity of website content,we,"legal, analytics, services, security, advertising"
+postal address,Cvent,services
+postal address,analytic provider,
+postal address,payment card processor,"security, services"
+postal address,we,"legal, analytics, services, security"
+postal address,we,"legal, analytics, services, security, advertising"
+q&a feature,Cvent,"services, advertising, analytics, security"
+record of,we,"legal, analytics, services, security, advertising"
+screen resolution,UNSPECIFIED_ACTOR,
+screen resolution,we,"legal, analytics, services, security, advertising"
+social medium account id,Cvent,services
+social medium account id,analytic provider,
+social medium account id,we,"legal, analytics, services, security, advertising"
+software application,we,"legal, analytics, services, security, advertising"
+title,Cvent,services
+title,analytic provider,
+title,we,"legal, analytics, services, security, advertising"
+version,UNSPECIFIED_ACTOR,
+version,we,"legal, analytics, services, security, advertising"
+visitor datum,Cvent,services
+visitor personal datum,Cvent,"services, advertising, analytics, security"
+visitor personal datum,we,"legal, analytics, services, security, advertising"
+work email,we,"legal, analytics, services, security, advertising"
+zip code,we,"legal, analytics, services, security, advertising"

@@ -1,0 +1,18 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,uipath,
+communication relate to use of product,uipath,"security, services"
+communication relate to use of product,we,security
+email address,uipath,"security, services"
+error log,we,"security, services"
+information result from use of product call,we,security
+job title,uipath,"security, services"
+job title,we,security
+log,we,"security, services"
+log about performance,we,"security, services"
+person name,uipath,"security, services"
+person name,we,security
+role,uipath,"security, services"
+role,we,security
+strict control over,uipath,"security, services"
+work email,uipath,"security, services"
+work email,we,security

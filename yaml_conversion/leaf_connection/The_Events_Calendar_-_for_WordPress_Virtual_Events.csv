@@ -1,0 +1,60 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,security
+add on,we,"security, analytics, advertising, legal, services"
+beacon,we,"security, analytics"
+browser type,we,"security, analytics"
+configuration setting,we,"security, analytics"
+cookie / pixel tag,we,"security, analytics"
+copy of specific personal information we collect,we,"security, analytics"
+cost estimate,we,"security, analytics"
+demographic information about you,we,"security, analytics"
+email address,UNSPECIFIED_ACTOR,"security, services, advertising"
+email address,internet service provider,
+email address,marketing intelligence service provider,
+email address,operating system,
+email address,platform,
+email address,we,"security, analytics"
+email address,we,"security, analytics, advertising, legal"
+geolocation,we,"security, analytics"
+information we collect about you,we,"security, analytics"
+information we collect in month,we,"security, analytics"
+ip address,internet service provider,
+ip address,marketing intelligence service provider,
+ip address,operating system,
+ip address,platform,
+ip address,we,"security, analytics"
+machine readable copy of personal information,UNSPECIFIED_ACTOR,"security, services"
+online identifier,internet service provider,
+online identifier,marketing intelligence service provider,
+online identifier,operating system,
+online identifier,platform,
+online identifier,we,"security, analytics"
+person name,UNSPECIFIED_ACTOR,"security, services, advertising"
+person name,internet service provider,
+person name,marketing intelligence service provider,
+person name,operating system,
+person name,platform,
+person name,we,"security, analytics"
+person name,we,"security, analytics, advertising, legal"
+phone number,UNSPECIFIED_ACTOR,"security, services, advertising"
+phone number,internet service provider,
+phone number,marketing intelligence service provider,
+phone number,operating system,
+phone number,platform,
+phone number,we,"security, analytics"
+phone number,we,"security, analytics, advertising, legal"
+plugin,we,"security, analytics, advertising, legal, services"
+postal address,UNSPECIFIED_ACTOR,"security, services, advertising"
+postal address,internet service provider,
+postal address,marketing intelligence service provider,
+postal address,operating system,
+postal address,platform,
+postal address,we,"security, analytics"
+postal address,we,"security, analytics, advertising, legal"
+site health information,we,"security, analytics"
+specific information,we,"security, analytics, advertising, legal"
+statistical information,we,"security, analytics, advertising, legal, services"
+tag,we,"security, analytics, advertising, legal, services"
+versioning,we,"security, analytics"
+web server log,we,"security, analytics, advertising, legal, services"

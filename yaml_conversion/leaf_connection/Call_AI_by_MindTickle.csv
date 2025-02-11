@@ -1,0 +1,378 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,mindtickle,"legal, services"
+UNSPECIFIED_DATA,sub,"legal, services"
+UNSPECIFIED_DATA,we,
+analytic datum,UNSPECIFIED_ACTOR,"analytics, services"
+analytic datum,ai model,services
+analytic datum,authority,
+analytic datum,background verification service provider,"security, services"
+analytic datum,business partner,"advertising, analytics, security, services"
+analytic datum,co,advertising
+analytic datum,mindtickle,"legal, services, advertising, analytics, security"
+analytic datum,recruitment process management provider,"advertising, services"
+analytic datum,we,"advertising, analytics, services"
+analytic datum,we,"advertising, analytics, services, legal, security"
+audio information,UNSPECIFIED_ACTOR,"analytics, services"
+audio information,ai model,services
+audio information,authority,
+audio information,background verification service provider,"security, services"
+audio information,business partner,"advertising, analytics, security, services"
+audio information,co,advertising
+audio information,mindtickle,"legal, services, advertising, analytics, security"
+audio information,recruitment process management provider,"advertising, services"
+audio information,we,
+audio information,we,"advertising, analytics, services"
+audio information,we,"advertising, analytics, services, legal, security"
+audio video recording,UNSPECIFIED_ACTOR,"analytics, services"
+audio video recording,ai model,services
+audio video recording,authority,
+audio video recording,background verification service provider,"security, services"
+audio video recording,business partner,"advertising, analytics, security, services"
+audio video recording,co,advertising
+audio video recording,mindtickle,"legal, services, advertising, analytics, security"
+audio video recording,recruitment process management provider,"advertising, services"
+audio video recording,we,"advertising, analytics, services"
+audio video recording,we,"advertising, analytics, services, legal, security"
+average time spend,UNSPECIFIED_ACTOR,"analytics, services"
+average time spend,ai model,services
+average time spend,authority,
+average time spend,background verification service provider,"security, services"
+average time spend,business partner,"advertising, analytics, security, services"
+average time spend,co,advertising
+average time spend,mindtickle,"legal, services, advertising, analytics, security"
+average time spend,recruitment process management provider,"advertising, services"
+average time spend,we,"advertising, analytics, services"
+average time spend,we,"advertising, analytics, services, legal, security"
+bank account number,UNSPECIFIED_ACTOR,"analytics, services"
+bank account number,ai model,services
+bank account number,authority,
+bank account number,background verification service provider,"security, services"
+bank account number,business partner,"advertising, analytics, security, services"
+bank account number,co,advertising
+bank account number,mindtickle,"legal, services, advertising, analytics, security"
+bank account number,recruitment process management provider,"advertising, services"
+bank account number,we,"advertising, analytics, services"
+bank account number,we,"advertising, analytics, services, legal, security"
+browser version,we,
+browser version,we,"advertising, analytics, services, legal"
+business contact card you share,UNSPECIFIED_ACTOR,"analytics, services"
+business contact card you share,ai model,services
+business contact card you share,authority,
+business contact card you share,background verification service provider,"security, services"
+business contact card you share,business partner,"advertising, analytics, security, services"
+business contact card you share,co,advertising
+business contact card you share,mindtickle,"legal, services, advertising, analytics, security"
+business contact card you share,recruitment process management provider,"advertising, services"
+business contact card you share,we,"advertising, analytics, services"
+business contact card you share,we,"advertising, analytics, services, legal, security"
+collect personal information,mindtickle,"legal, services, advertising, analytics, security"
+collect personal information,we,advertising
+company name,UNSPECIFIED_ACTOR,"analytics, services"
+company name,ai model,services
+company name,authority,
+company name,background verification service provider,"security, services"
+company name,business partner,"advertising, analytics, security, services"
+company name,co,advertising
+company name,mindtickle,"legal, services, advertising, analytics, security"
+company name,recruitment process management provider,"advertising, services"
+company name,we,"advertising, analytics, services"
+company name,we,"advertising, analytics, services, legal, security"
+contact information,UNSPECIFIED_ACTOR,"analytics, services"
+contact information,ai model,services
+contact information,authority,
+contact information,background verification service provider,"security, services"
+contact information,business partner,"advertising, analytics, security, services"
+contact information,co,advertising
+contact information,mindtickle,"legal, services, advertising, analytics, security"
+contact information,recruitment process management provider,"advertising, services"
+contact information,we,"advertising, analytics, services"
+contact information,we,"advertising, analytics, services, legal, security"
+cookie / pixel tag,Adobe,"advertising, analytics"
+cookie / pixel tag,Google,advertising
+cookie / pixel tag,Mixpanel,
+cookie / pixel tag,UNSPECIFIED_ACTOR,"analytics, services"
+cookie / pixel tag,ai model,services
+cookie / pixel tag,authority,
+cookie / pixel tag,background verification service provider,"security, services"
+cookie / pixel tag,business partner,"advertising, analytics, security, services"
+cookie / pixel tag,co,advertising
+cookie / pixel tag,freshdesk help system,"analytics, services"
+cookie / pixel tag,hushly,"analytics, security, services"
+cookie / pixel tag,mindtickle,"legal, services, advertising, analytics, security"
+cookie / pixel tag,recruitment process management provider,"advertising, services"
+cookie / pixel tag,we,"advertising, analytics, services"
+cookie / pixel tag,we,"advertising, analytics, services, legal, security"
+cookie / pixel tag,youtube,services
+cookie / pixel tag,zoominfo.com service,services
+cookie consent management provider,we,"advertising, analytics, services, legal, security"
+country,UNSPECIFIED_ACTOR,"analytics, services"
+country,ai model,services
+country,authority,
+country,background verification service provider,"security, services"
+country,business partner,"advertising, analytics, security, services"
+country,co,advertising
+country,mindtickle,"legal, services, advertising, analytics, security"
+country,recruitment process management provider,"advertising, services"
+country,we,"advertising, analytics, services"
+country,we,"advertising, analytics, services, legal, security"
+customer relationship management provider,we,"advertising, analytics, services, legal, security"
+datum share,ai model,
+device identifier,we,"advertising, analytics, services"
+device identifier,we,"advertising, analytics, services, legal"
+device model type,we,"advertising, analytics, services, legal"
+device type,we,"advertising, analytics, services"
+email address,UNSPECIFIED_ACTOR,"analytics, services"
+email address,ai model,services
+email address,authority,
+email address,background verification service provider,"security, services"
+email address,business partner,"advertising, analytics, security, services"
+email address,co,advertising
+email address,mindtickle,"legal, services, advertising, analytics, security"
+email address,recruitment process management provider,"advertising, services"
+email address,we,"advertising, analytics, services"
+email address,we,"advertising, analytics, services, legal, security"
+financial information,UNSPECIFIED_ACTOR,"analytics, services"
+financial information,ai model,services
+financial information,authority,
+financial information,background verification service provider,"security, services"
+financial information,business partner,"advertising, analytics, security, services"
+financial information,co,advertising
+financial information,mindtickle,"legal, services, advertising, analytics, security"
+financial information,recruitment process management provider,"advertising, services"
+financial information,we,"advertising, analytics, services"
+financial information,we,"advertising, analytics, services, legal, security"
+geolocation,UNSPECIFIED_ACTOR,"analytics, services"
+geolocation,ai model,services
+geolocation,authority,
+geolocation,background verification service provider,"security, services"
+geolocation,business partner,"advertising, analytics, security, services"
+geolocation,co,advertising
+geolocation,mindtickle,"legal, services, advertising, analytics, security"
+geolocation,recruitment process management provider,"advertising, services"
+geolocation,we,"advertising, analytics, services"
+geolocation,we,"advertising, analytics, services, legal, security"
+identifier,UNSPECIFIED_ACTOR,"analytics, services"
+identifier,ai model,services
+identifier,authority,
+identifier,background verification service provider,"security, services"
+identifier,business partner,"advertising, analytics, security, services"
+identifier,co,advertising
+identifier,mindtickle,"legal, services, advertising, analytics, security"
+identifier,recruitment process management provider,"advertising, services"
+identifier,we,"advertising, analytics, services"
+identifier,we,"advertising, analytics, services, legal, security"
+identifier information,UNSPECIFIED_ACTOR,"analytics, services"
+identifier information,ai model,services
+identifier information,authority,
+identifier information,background verification service provider,"security, services"
+identifier information,business partner,"advertising, analytics, security, services"
+identifier information,co,advertising
+identifier information,mindtickle,"legal, services, advertising, analytics, security"
+identifier information,recruitment process management provider,"advertising, services"
+identifier information,we,"advertising, analytics, services"
+identifier information,we,"advertising, analytics, services, legal, security"
+identifiers,UNSPECIFIED_ACTOR,"analytics, services"
+identifiers,ai model,services
+identifiers,authority,
+identifiers,background verification service provider,"security, services"
+identifiers,business partner,"advertising, analytics, security, services"
+identifiers,co,advertising
+identifiers,mindtickle,"legal, services, advertising, analytics, security"
+identifiers,recruitment process management provider,"advertising, services"
+identifiers,we,"advertising, analytics, services"
+identifiers,we,"advertising, analytics, services, legal, security"
+information provide as part of datum subject request,we,"advertising, analytics, services, legal"
+information receive,we,"advertising, analytics, services, legal"
+information receive from user,we,"advertising, analytics, services, legal"
+information share with mindtickle over email,UNSPECIFIED_ACTOR,"analytics, services"
+information share with mindtickle over email,ai model,services
+information share with mindtickle over email,authority,
+information share with mindtickle over email,background verification service provider,"security, services"
+information share with mindtickle over email,business partner,"advertising, analytics, security, services"
+information share with mindtickle over email,co,advertising
+information share with mindtickle over email,mindtickle,"legal, services, advertising, analytics, security"
+information share with mindtickle over email,recruitment process management provider,"advertising, services"
+information share with mindtickle over email,we,"advertising, analytics, services"
+information share with mindtickle over email,we,"advertising, analytics, services, legal, security"
+information we collect,UNSPECIFIED_ACTOR,"analytics, services"
+information we collect,ai model,services
+information we collect,authority,
+information we collect,background verification service provider,"security, services"
+information we collect,business partner,"advertising, analytics, security, services"
+information we collect,co,advertising
+information we collect,mindtickle,"legal, services, advertising, analytics, security"
+information we collect,recruitment process management provider,"advertising, services"
+information we collect,we,"advertising, analytics, services"
+information we collect,we,"advertising, analytics, services, legal, security"
+information you provide on website form,UNSPECIFIED_ACTOR,"analytics, services"
+information you provide on website form,ai model,services
+information you provide on website form,authority,
+information you provide on website form,background verification service provider,"security, services"
+information you provide on website form,business partner,"advertising, analytics, security, services"
+information you provide on website form,co,advertising
+information you provide on website form,mindtickle,"legal, services, advertising, analytics, security"
+information you provide on website form,recruitment process management provider,"advertising, services"
+information you provide on website form,we,"advertising, analytics, services"
+information you provide on website form,we,"advertising, analytics, services, legal, security"
+interactive product walkthrough provider,we,"advertising, analytics, services, legal, security"
+internet,UNSPECIFIED_ACTOR,"analytics, services"
+internet,ai model,services
+internet,authority,
+internet,background verification service provider,"security, services"
+internet,business partner,"advertising, analytics, security, services"
+internet,co,advertising
+internet,mindtickle,"legal, services, advertising, analytics, security"
+internet,recruitment process management provider,"advertising, services"
+internet,we,"advertising, analytics, services"
+internet,we,"advertising, analytics, services, legal"
+internet,we,"advertising, analytics, services, legal, security"
+internet activity,UNSPECIFIED_ACTOR,"analytics, services"
+internet activity,ai model,services
+internet activity,authority,
+internet activity,background verification service provider,"security, services"
+internet activity,business partner,"advertising, analytics, security, services"
+internet activity,co,advertising
+internet activity,mindtickle,"legal, services, advertising, analytics, security"
+internet activity,recruitment process management provider,"advertising, services"
+internet activity,we,"advertising, analytics, services"
+internet activity,we,"advertising, analytics, services, legal"
+internet activity,we,"advertising, analytics, services, legal, security"
+ip address,UNSPECIFIED_ACTOR,"analytics, services"
+ip address,ai model,services
+ip address,authority,
+ip address,background verification service provider,"security, services"
+ip address,business partner,"advertising, analytics, security, services"
+ip address,co,advertising
+ip address,feature,
+ip address,mindtickle,"legal, services, advertising, analytics, security"
+ip address,recruitment process management provider,"advertising, services"
+ip address,we,"advertising, analytics, services"
+ip address,we,"advertising, analytics, services, legal"
+ip address,we,"advertising, analytics, services, legal, security"
+job title,UNSPECIFIED_ACTOR,"analytics, services"
+job title,ai model,services
+job title,authority,
+job title,background verification service provider,"security, services"
+job title,business partner,"advertising, analytics, security, services"
+job title,co,advertising
+job title,mindtickle,"legal, services, advertising, analytics, security"
+job title,recruitment process management provider,"advertising, services"
+job title,we,"advertising, analytics, services"
+job title,we,"advertising, analytics, services, legal, security"
+navigational information,UNSPECIFIED_ACTOR,"analytics, services"
+navigational information,ai model,services
+navigational information,authority,
+navigational information,background verification service provider,"security, services"
+navigational information,business partner,"advertising, analytics, security, services"
+navigational information,co,advertising
+navigational information,mindtickle,"legal, services, advertising, analytics, security"
+navigational information,recruitment process management provider,"advertising, services"
+navigational information,we,"advertising, analytics, services"
+navigational information,we,"advertising, analytics, services, legal, security"
+navigational information about visit,we,"advertising, analytics, services, legal, security"
+network information,UNSPECIFIED_ACTOR,"analytics, services"
+network information,ai model,services
+network information,authority,
+network information,background verification service provider,"security, services"
+network information,business partner,"advertising, analytics, security, services"
+network information,co,advertising
+network information,mindtickle,"legal, services, advertising, analytics, security"
+network information,recruitment process management provider,"advertising, services"
+network information,we,"advertising, analytics, services"
+network information,we,"advertising, analytics, services, legal, security"
+new hire joining kit,we,"advertising, analytics, services, legal, security"
+number of click,UNSPECIFIED_ACTOR,"analytics, services"
+number of click,ai model,services
+number of click,authority,
+number of click,background verification service provider,"security, services"
+number of click,business partner,"advertising, analytics, security, services"
+number of click,co,advertising
+number of click,mindtickle,"legal, services, advertising, analytics, security"
+number of click,recruitment process management provider,"advertising, services"
+number of click,we,"advertising, analytics, services"
+number of click,we,"advertising, analytics, services, legal, security"
+number of visit,UNSPECIFIED_ACTOR,"analytics, services"
+number of visit,ai model,services
+number of visit,authority,
+number of visit,background verification service provider,"security, services"
+number of visit,business partner,"advertising, analytics, security, services"
+number of visit,co,advertising
+number of visit,mindtickle,"legal, services, advertising, analytics, security"
+number of visit,recruitment process management provider,"advertising, services"
+number of visit,we,"advertising, analytics, services"
+number of visit,we,"advertising, analytics, services, legal, security"
+operating system,we,"advertising, analytics, services, legal"
+operating system,we,"advertising, analytics, services, legal, security"
+person name,UNSPECIFIED_ACTOR,"analytics, services"
+person name,ai model,services
+person name,authority,
+person name,background verification service provider,"security, services"
+person name,business partner,"advertising, analytics, security, services"
+person name,co,advertising
+person name,mindtickle,"legal, services, advertising, analytics, security"
+person name,recruitment process management provider,"advertising, services"
+person name,we,"advertising, analytics, services"
+person name,we,"advertising, analytics, services, legal, security"
+personal information align with business purpose for collect,we,"advertising, analytics, services, legal, security"
+phone number,UNSPECIFIED_ACTOR,"analytics, services"
+phone number,ai model,services
+phone number,authority,
+phone number,background verification service provider,"security, services"
+phone number,business partner,"advertising, analytics, security, services"
+phone number,co,advertising
+phone number,mindtickle,"legal, services, advertising, analytics, security"
+phone number,recruitment process management provider,"advertising, services"
+phone number,we,"advertising, analytics, services"
+phone number,we,"advertising, analytics, services, legal, security"
+postal address,UNSPECIFIED_ACTOR,"analytics, services"
+postal address,ai model,services
+postal address,authority,
+postal address,background verification service provider,"security, services"
+postal address,business partner,"advertising, analytics, security, services"
+postal address,co,advertising
+postal address,mindtickle,"legal, services, advertising, analytics, security"
+postal address,recruitment process management provider,"advertising, services"
+postal address,we,"advertising, analytics, services"
+postal address,we,"advertising, analytics, services, legal, security"
+professional information,UNSPECIFIED_ACTOR,"analytics, services"
+professional information,ai model,services
+professional information,authority,
+professional information,background verification service provider,"security, services"
+professional information,business partner,"advertising, analytics, security, services"
+professional information,co,advertising
+professional information,mindtickle,"legal, services, advertising, analytics, security"
+professional information,recruitment process management provider,"advertising, services"
+professional information,we,"advertising, analytics, services"
+professional information,we,"advertising, analytics, services, legal, security"
+reporting hierarchy,UNSPECIFIED_ACTOR,"analytics, services"
+reporting hierarchy,ai model,services
+reporting hierarchy,authority,
+reporting hierarchy,background verification service provider,"security, services"
+reporting hierarchy,business partner,"advertising, analytics, security, services"
+reporting hierarchy,co,advertising
+reporting hierarchy,mindtickle,"legal, services, advertising, analytics, security"
+reporting hierarchy,recruitment process management provider,"advertising, services"
+reporting hierarchy,we,"advertising, analytics, services"
+reporting hierarchy,we,"advertising, analytics, services, legal, security"
+reporting manager,UNSPECIFIED_ACTOR,"analytics, services"
+reporting manager,ai model,services
+reporting manager,authority,
+reporting manager,background verification service provider,"security, services"
+reporting manager,business partner,"advertising, analytics, security, services"
+reporting manager,co,advertising
+reporting manager,mindtickle,"legal, services, advertising, analytics, security"
+reporting manager,recruitment process management provider,"advertising, services"
+reporting manager,we,"advertising, analytics, services"
+reporting manager,we,"advertising, analytics, services, legal, security"
+sensitive personal information,UNSPECIFIED_ACTOR,"analytics, services"
+sensitive personal information,ai model,services
+sensitive personal information,authority,
+sensitive personal information,background verification service provider,"security, services"
+sensitive personal information,business partner,"advertising, analytics, security, services"
+sensitive personal information,co,advertising
+sensitive personal information,mindtickle,"legal, services, advertising, analytics, security"
+sensitive personal information,recruitment process management provider,"advertising, services"
+sensitive personal information,we,"advertising, analytics, services"
+sensitive personal information,we,"advertising, analytics, services, legal, security"
+website hosting provider,we,"advertising, analytics, services, legal, security"

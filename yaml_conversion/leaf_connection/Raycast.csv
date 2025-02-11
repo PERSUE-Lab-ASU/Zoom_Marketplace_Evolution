@@ -1,0 +1,55 @@
+data_type,collector,purpose
+Facebook,social media,
+Microsoft,social media,
+Stripe,service provider,services
+Twitter,social media,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,counterpartie,
+UNSPECIFIED_DATA,law enforcement agency,legal
+UNSPECIFIED_DATA,regulatory body,legal
+UNSPECIFIED_DATA,successor,
+UNSPECIFIED_DATA,we,legal
+UNSPECIFIED_DATA,we,"legal, security, services, advertising, analytics"
+analytic provider,service provider,services
+auditor,professional advisor,
+authentication detail,we,"legal, security, services"
+banker,professional advisor,
+certificate,we,legal
+cloud service,service provider,services
+cookie / pixel tag,we,"legal, security, services"
+credit / debit card number,we,"legal, security, services"
+customer relationship management,service provider,services
+customer support service,service provider,services
+datum you generate on,we,"legal, security, services"
+diploma,we,"legal, security, services"
+documentation,we,"legal, security, services"
+e - commerce provider,service provider,services
+education,we,"legal, security, services"
+email address,we,"legal, security, services"
+email communication software,service provider,services
+email service provider,service provider,services
+file you upload,we,"legal, security, services, advertising, analytics"
+information require,we,"legal, security, services"
+information technology service provider,service provider,services
+information you choose,we,"legal, security, services"
+insurer,professional advisor,
+lawyer,professional advisor,
+marketing preference,we,"legal, security, services"
+order information,we,"legal, security, services"
+password,we,"legal, security, services"
+person name,we,"legal, security, services"
+personal data as specific tool you contribute to,we,"legal, security, services"
+personal data you elect,we,"legal, security, services"
+personal information,UNSPECIFIED_ACTOR,services
+personal information,counterpartie,
+personal information,professional advisor,
+personal information,service provider,services
+personal information,service provider in united states,
+personal information,successor,
+personal information,we,"legal, security, services, advertising, analytics"
+professional history,we,"legal, security, services"
+provider of hosting service,service provider,services
+recruitment service,service provider,services
+statistic,social media,
+statistic,we,legal
+username,we,"legal, security, services"

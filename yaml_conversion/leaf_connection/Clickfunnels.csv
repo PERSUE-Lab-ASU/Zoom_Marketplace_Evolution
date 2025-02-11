@@ -1,0 +1,64 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+browsing / search history,UNSPECIFIED_ACTOR,
+collect information,we,"analytics, services"
+commercial information,UNSPECIFIED_ACTOR,
+commercial information,government authority,
+commercial information,party to transaction,
+commercial information,we,"analytics, services, legal, advertising"
+credit card financial information,we,"analytics, services"
+date,Google,analytics
+date,UNSPECIFIED_ACTOR,
+domain name,Google,analytics
+domain name,UNSPECIFIED_ACTOR,
+email address,UNSPECIFIED_ACTOR,
+email address,government authority,
+email address,party to transaction,
+email address,we,"analytics, services"
+email address,we,"analytics, services, legal, advertising"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,government authority,
+geolocation,party to transaction,
+geolocation,we,"analytics, services, legal, advertising"
+identifier,UNSPECIFIED_ACTOR,
+identifier,government authority,
+identifier,party to transaction,
+identifier,we,"analytics, services, legal, advertising"
+inference,UNSPECIFIED_ACTOR,
+inference,government authority,
+inference,party to transaction,
+inference,we,"analytics, services, legal, advertising"
+information about preference,we,"analytics, services"
+information about yourself,we,"analytics, services"
+information provide from customer,we,"analytics, services, legal"
+ip address,Google,analytics
+ip address,UNSPECIFIED_ACTOR,
+mobile device information,we,"analytics, services, legal"
+non-personal information,we,"analytics, services, legal"
+office space,we,"analytics, services, legal"
+person name,UNSPECIFIED_ACTOR,
+person name,government authority,
+person name,party to transaction,
+person name,we,"analytics, services, legal, advertising"
+personal information collect from vendor,we,"analytics, services, legal, advertising"
+phone number,UNSPECIFIED_ACTOR,
+phone number,government authority,
+phone number,party to transaction,
+phone number,we,"analytics, services, legal, advertising"
+postal address,UNSPECIFIED_ACTOR,
+postal address,government authority,
+postal address,party to transaction,
+postal address,we,"analytics, services, legal, advertising"
+protected classification,UNSPECIFIED_ACTOR,
+protected classification,government authority,
+protected classification,party to transaction,
+protected classification,we,"analytics, services, legal, advertising"
+provide personal information,we,"analytics, services, legal, advertising"
+specific piece of personal information we collect about you,UNSPECIFIED_ACTOR,
+specific piece of personal information we collect about you,government authority,
+specific piece of personal information we collect about you,party to transaction,
+specific piece of personal information we collect about you,we,"analytics, services, legal, advertising"
+type of,we,"analytics, services, legal, advertising"
+uniquely identifiable mobile device information,mobile service provider,
+uniquely identifiable mobile device information,we,"analytics, services, legal, advertising"

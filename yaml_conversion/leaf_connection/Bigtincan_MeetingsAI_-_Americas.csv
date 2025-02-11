@@ -1,0 +1,311 @@
+data_type,collector,purpose
+Facebook,auth provider,
+Facebook,social media,
+Facebook,we,"legal, security, analytics, services, advertising"
+Twitter,auth provider,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,advertising
+UNSPECIFIED_DATA,authorized affiliate,
+UNSPECIFIED_DATA,authorized personnel,
+UNSPECIFIED_DATA,bigtincan,
+UNSPECIFIED_DATA,company we hire,
+UNSPECIFIED_DATA,comparenetworks,"advertising, analytics, services"
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,site from comparenetworks page take you outside service,
+UNSPECIFIED_DATA,we,"legal, security"
+access status http status code,voicevibes,
+activate button,plug in provider,
+aggregate / deidentified / pseudonymized information,advertiser,
+aggregate / deidentified / pseudonymized information,business partner,
+aggregate / deidentified / pseudonymized information,comparenetworks,"advertising, analytics, services"
+aggregate / deidentified / pseudonymized information,sponsor,
+aggregate / deidentified / pseudonymized information,we,"legal, security, analytics, services, advertising"
+audio file,we,"legal, security"
+audio recording,we,"legal, security, analytics, services"
+biometric information,Google,
+biometric information,Personal Information Privacy and Security Association (Vancouver),
+biometric information,UNSPECIFIED_ACTOR,"advertising, analytics"
+biometric information,bigtincan,"services, analytics, advertising"
+biometric information,brainshark,
+biometric information,company help,
+biometric information,data aggregator,
+biometric information,provider of plug- ins,
+biometric information,respective plug in provider,
+biometric information,service provider,
+biometric information,site from comparenetworks page take you outside service,
+biometric information,voicevibes,
+biometric information,we,"legal, security, analytics, services, advertising"
+browser type,we,"legal, security, analytics, services"
+clickstream datum analyze trend in aggregate,we,"legal, security, analytics, services"
+commercial information,Google,
+commercial information,Personal Information Privacy and Security Association (Vancouver),
+commercial information,UNSPECIFIED_ACTOR,"advertising, analytics"
+commercial information,bigtincan,"services, analytics, advertising"
+commercial information,brainshark,
+commercial information,company help,
+commercial information,data aggregator,
+commercial information,provider of plug- ins,
+commercial information,respective plug in provider,
+commercial information,service provider,
+commercial information,site from comparenetworks page take you outside service,
+commercial information,voicevibes,
+commercial information,we,"legal, security, analytics, services, advertising"
+company name,we,"legal, security, analytics, services, advertising"
+cookie / pixel tag,UNSPECIFIED_ACTOR,"advertising, analytics"
+cookie / pixel tag,advertiser,"advertising, analytics"
+cookie / pixel tag,analytic provider,services
+cookie / pixel tag,bigtincan,"services, analytics"
+cookie / pixel tag,comparenetworks,"advertising, analytics, services"
+cookie / pixel tag,we,"legal, security, analytics, services, advertising"
+cost estimate,we,"legal, security, analytics, services, advertising"
+date time stamp,we,"legal, security, analytics, services, advertising"
+datum about transmission,we,"legal, security, analytics, services, advertising"
+datum about visitor,bigtincan,"services, analytics"
+datum about you as user,youtube,
+datum anonymize,we,"legal, security, analytics, services, advertising"
+datum collect about you,plug in provider,
+datum identify you,we,"legal, security, analytics, services, advertising"
+datum you provide,we,"legal, security, analytics, services, advertising"
+demographic information about user base as whole,UNSPECIFIED_ACTOR,"advertising, analytics"
+demographic information about user base as whole,bigtincan,"services, analytics"
+display notification on voicevibes website,we,"legal, security, analytics, services, advertising"
+email address,Google,
+email address,Personal Information Privacy and Security Association (Vancouver),
+email address,UNSPECIFIED_ACTOR,"advertising, analytics"
+email address,bigtincan,services
+email address,bigtincan,"services, analytics"
+email address,bigtincan,"services, analytics, advertising"
+email address,brainshark,
+email address,company help,
+email address,comparenetworks,"advertising, analytics, services"
+email address,data aggregator,
+email address,provider of plug- ins,
+email address,respective plug in provider,
+email address,service provider,
+email address,site from comparenetworks page take you outside service,
+email address,track system,
+email address,voicevibes,
+email address,we,"legal, security, analytics, services, advertising"
+file view on site,we,"legal, security, analytics, services, advertising"
+geolocation,Google,
+geolocation,Personal Information Privacy and Security Association (Vancouver),
+geolocation,UNSPECIFIED_ACTOR,"advertising, analytics"
+geolocation,bigtincan,"services, analytics, advertising"
+geolocation,brainshark,
+geolocation,company help,
+geolocation,data aggregator,
+geolocation,provider of plug- ins,
+geolocation,respective plug in provider,
+geolocation,service provider,
+geolocation,site from comparenetworks page take you outside service,
+geolocation,voicevibes,
+geolocation,we,"legal, security, analytics, services, advertising"
+identifier,Google,
+identifier,Personal Information Privacy and Security Association (Vancouver),
+identifier,UNSPECIFIED_ACTOR,"advertising, analytics"
+identifier,bigtincan,"services, analytics, advertising"
+identifier,brainshark,
+identifier,company help,
+identifier,data aggregator,
+identifier,provider of plug- ins,
+identifier,respective plug in provider,
+identifier,service provider,
+identifier,site from comparenetworks page take you outside service,
+identifier,voicevibes,
+identifier,we,"legal, security, analytics, services, advertising"
+inference draw from personal information,Google,
+inference draw from personal information,Personal Information Privacy and Security Association (Vancouver),
+inference draw from personal information,UNSPECIFIED_ACTOR,"advertising, analytics"
+inference draw from personal information,bigtincan,"services, analytics, advertising"
+inference draw from personal information,brainshark,
+inference draw from personal information,company help,
+inference draw from personal information,data aggregator,
+inference draw from personal information,provider of plug- ins,
+inference draw from personal information,respective plug in provider,
+inference draw from personal information,service provider,
+inference draw from personal information,site from comparenetworks page take you outside service,
+inference draw from personal information,voicevibes,
+inference draw from personal information,we,"legal, security, analytics, services, advertising"
+information about,bigtincan,"services, analytics"
+information gather in manner,UNSPECIFIED_ACTOR,"advertising, analytics"
+information gather in manner,comparenetworks,"advertising, analytics, services"
+information regard personal data collect from european user,voicevibes,
+information require,trusted entity,
+information visitor provide,bigtincan,"services, analytics, advertising"
+information we collect,we,"legal, security, analytics, services, advertising"
+information we collect about you,we,"legal, security, analytics, services, advertising"
+information you access correspond subpage of website,youtube,
+information you access corresponding website of online offer,plug in provider,
+information you provide in message field,we,"legal, security, analytics, services, advertising"
+information you provide to bigtincan,bigtincan,"services, analytics, advertising"
+information you share with we,we,"legal, security, analytics, services, advertising"
+interactive mini,social media,
+internet,Google,
+internet,Personal Information Privacy and Security Association (Vancouver),
+internet,UNSPECIFIED_ACTOR,"advertising, analytics"
+internet,bigtincan,"services, analytics, advertising"
+internet,brainshark,
+internet,company help,
+internet,data aggregator,
+internet,provider of plug- ins,
+internet,respective plug in provider,
+internet,service provider,
+internet,site from comparenetworks page take you outside service,
+internet,voicevibes,
+internet,we,"legal, security, analytics, services, advertising"
+ip address,comparenetworks,"advertising, analytics, services"
+ip address,social media,
+ip address,third party track utility,
+ip address,track system,
+ip address,voicevibes,
+ip address,we,"legal, security, analytics, services, advertising"
+job title,we,"legal, security, analytics, services, advertising"
+non - public education information,Google,
+non - public education information,Personal Information Privacy and Security Association (Vancouver),
+non - public education information,UNSPECIFIED_ACTOR,"advertising, analytics"
+non - public education information,bigtincan,"services, analytics, advertising"
+non - public education information,brainshark,
+non - public education information,company help,
+non - public education information,data aggregator,
+non - public education information,provider of plug- ins,
+non - public education information,respective plug in provider,
+non - public education information,service provider,
+non - public education information,site from comparenetworks page take you outside service,
+non - public education information,voicevibes,
+non - public education information,we,"legal, security, analytics, services, advertising"
+operating system,we,"legal, security, analytics, services, advertising"
+option,auth provider,
+performance metric,we,"legal, security, analytics, services, advertising"
+person name,Google,
+person name,Personal Information Privacy and Security Association (Vancouver),
+person name,UNSPECIFIED_ACTOR,"advertising, analytics"
+person name,bigtincan,services
+person name,bigtincan,"services, analytics, advertising"
+person name,brainshark,
+person name,company help,
+person name,data aggregator,
+person name,provider of plug- ins,
+person name,respective plug in provider,
+person name,service provider,
+person name,site from comparenetworks page take you outside service,
+person name,voicevibes,
+person name,we,"legal, security, analytics, services, advertising"
+personal data browser transmit to server,voicevibes,
+personal data provide to voicevibes in structured format,voicevibe,
+personal identifier,we,"legal, security, analytics, services, advertising"
+personal information category list in california customer records statute,Google,
+personal information category list in california customer records statute,Personal Information Privacy and Security Association (Vancouver),
+personal information category list in california customer records statute,UNSPECIFIED_ACTOR,"advertising, analytics"
+personal information category list in california customer records statute,bigtincan,"services, analytics, advertising"
+personal information category list in california customer records statute,brainshark,
+personal information category list in california customer records statute,company help,
+personal information category list in california customer records statute,data aggregator,
+personal information category list in california customer records statute,provider of plug- ins,
+personal information category list in california customer records statute,respective plug in provider,
+personal information category list in california customer records statute,service provider,
+personal information category list in california customer records statute,site from comparenetworks page take you outside service,
+personal information category list in california customer records statute,voicevibes,
+personal information category list in california customer records statute,we,"legal, security, analytics, services, advertising"
+personal information provide in verifiable consumer request,we,"legal, security, analytics, services, advertising"
+personal information we process on behalf of customer,Google,
+personal information we process on behalf of customer,Personal Information Privacy and Security Association (Vancouver),
+personal information we process on behalf of customer,UNSPECIFIED_ACTOR,"advertising, analytics"
+personal information we process on behalf of customer,bigtincan,"services, analytics, advertising"
+personal information we process on behalf of customer,brainshark,
+personal information we process on behalf of customer,company help,
+personal information we process on behalf of customer,data aggregator,
+personal information we process on behalf of customer,provider of plug- ins,
+personal information we process on behalf of customer,respective plug in provider,
+personal information we process on behalf of customer,service provider,
+personal information we process on behalf of customer,site from comparenetworks page take you outside service,
+personal information we process on behalf of customer,voicevibes,
+personal information we process on behalf of customer,we,"legal, security, analytics, services, advertising"
+phone number,we,"legal, security, analytics, services, advertising"
+portal solution,bigtincan,"services, analytics, advertising"
+postal address,Google,
+postal address,Personal Information Privacy and Security Association (Vancouver),
+postal address,UNSPECIFIED_ACTOR,"advertising, analytics"
+postal address,bigtincan,services
+postal address,bigtincan,"services, analytics, advertising"
+postal address,brainshark,
+postal address,company help,
+postal address,data aggregator,
+postal address,provider of plug- ins,
+postal address,respective plug in provider,
+postal address,service provider,
+postal address,site from comparenetworks page take you outside service,
+postal address,voicevibes,
+postal address,we,"legal, security, analytics, services, advertising"
+prior version of privacy policy,we,"legal, security, analytics, services, advertising"
+professional information,Google,
+professional information,Personal Information Privacy and Security Association (Vancouver),
+professional information,UNSPECIFIED_ACTOR,"advertising, analytics"
+professional information,bigtincan,"services, analytics, advertising"
+professional information,brainshark,
+professional information,company help,
+professional information,data aggregator,
+professional information,provider of plug- ins,
+professional information,respective plug in provider,
+professional information,service provider,
+professional information,site from comparenetworks page take you outside service,
+professional information,voicevibes,
+professional information,we,"legal, security, analytics, services, advertising"
+protected classification,Google,
+protected classification,Personal Information Privacy and Security Association (Vancouver),
+protected classification,UNSPECIFIED_ACTOR,"advertising, analytics"
+protected classification,bigtincan,"services, analytics, advertising"
+protected classification,brainshark,
+protected classification,company help,
+protected classification,data aggregator,
+protected classification,provider of plug- ins,
+protected classification,respective plug in provider,
+protected classification,service provider,
+protected classification,site from comparenetworks page take you outside service,
+protected classification,voicevibes,
+protected classification,we,"legal, security, analytics, services, advertising"
+role,we,"legal, security, analytics, services, advertising"
+sensory datum,Google,
+sensory datum,Personal Information Privacy and Security Association (Vancouver),
+sensory datum,UNSPECIFIED_ACTOR,"advertising, analytics"
+sensory datum,bigtincan,"services, analytics, advertising"
+sensory datum,brainshark,
+sensory datum,company help,
+sensory datum,data aggregator,
+sensory datum,provider of plug- ins,
+sensory datum,respective plug in provider,
+sensory datum,service provider,
+sensory datum,site from comparenetworks page take you outside service,
+sensory datum,voicevibes,
+sensory datum,we,"legal, security, analytics, services, advertising"
+share this button,social media,
+specific piece of personal information we collect about you,we,"legal, security, analytics, services, advertising"
+standard information,bigtincan,"services, analytics, advertising"
+usage statistic,we,"legal, security, analytics, services, advertising"
+user behaviour,Google,
+user behaviour,Personal Information Privacy and Security Association (Vancouver),
+user behaviour,UNSPECIFIED_ACTOR,"advertising, analytics"
+user behaviour,bigtincan,"services, analytics, advertising"
+user behaviour,brainshark,
+user behaviour,company help,
+user behaviour,data aggregator,
+user behaviour,provider of plug- ins,
+user behaviour,respective plug in provider,
+user behaviour,service provider,
+user behaviour,site from comparenetworks page take you outside service,
+user behaviour,voicevibes,
+user behaviour,we,"legal, security, analytics, services, advertising"
+user information,comparenetworks,"advertising, analytics, services"
+user profile,youtube,"advertising, analytics"
+verifiable consumer request,we,"legal, security, analytics, services, advertising"
+year of birth,Google,
+year of birth,Personal Information Privacy and Security Association (Vancouver),
+year of birth,UNSPECIFIED_ACTOR,"advertising, analytics"
+year of birth,bigtincan,"services, analytics, advertising"
+year of birth,brainshark,
+year of birth,company help,
+year of birth,data aggregator,
+year of birth,provider of plug- ins,
+year of birth,respective plug in provider,
+year of birth,service provider,
+year of birth,site from comparenetworks page take you outside service,
+year of birth,voicevibes,
+year of birth,we,"legal, security, analytics, services, advertising"

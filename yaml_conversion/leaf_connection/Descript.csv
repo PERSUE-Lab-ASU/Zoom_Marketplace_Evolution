@@ -1,0 +1,94 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, legal, security, services"
+browsing / search history,UNSPECIFIED_ACTOR,
+browsing / search history,consultant,
+browsing / search history,lawyer,"security, services"
+browsing / search history,legal authority,
+browsing / search history,professional advisor,"security, services"
+browsing / search history,service provider,
+browsing / search history,third party who assist we with marketing,
+browsing / search history,we,"advertising, analytics, legal, security, services"
+cache copy of information about you,we,"advertising, analytics, legal, security, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,consultant,
+contact information,lawyer,"security, services"
+contact information,legal authority,
+contact information,professional advisor,"security, services"
+contact information,service provider,
+contact information,third party who assist we with marketing,
+contact information,we,"advertising, analytics, legal, security, services"
+content,we,"advertising, analytics, legal, security, services"
+conversion information,UNSPECIFIED_ACTOR,
+conversion information,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+detail about subscription,we,"advertising, analytics, legal, security, services"
+device identifier,UNSPECIFIED_ACTOR,
+device identifier,we,"advertising, analytics, legal, security, services"
+device information,we,"advertising, analytics, legal, security, services"
+email address,we,"advertising, analytics, legal, security, services"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,consultant,
+geolocation,lawyer,"security, services"
+geolocation,legal authority,
+geolocation,professional advisor,"security, services"
+geolocation,service provider,
+geolocation,third party who assist we with marketing,
+geolocation,we,"advertising, analytics, legal, security, services"
+handle,we,"advertising, analytics, legal, security, services"
+hardware model,we,"advertising, analytics, legal, security, services"
+image,we,"advertising, analytics, legal, security, services"
+information we collect from you,we,"advertising, analytics, legal, security, services"
+information you choose,we,"advertising, analytics, legal, security, services"
+information you provide in connection with application,we,"advertising, analytics, legal, security, services"
+information you provide to we,we,"advertising, analytics, legal, security, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,consultant,
+ip address,lawyer,"security, services"
+ip address,legal authority,
+ip address,professional advisor,"security, services"
+ip address,service provider,
+ip address,third party who assist we with marketing,
+ip address,we,"advertising, analytics, legal, security, services"
+link click,UNSPECIFIED_ACTOR,
+link click,we,"advertising, analytics, legal, security, services"
+log information,we,"advertising, analytics, legal, security, services"
+mobile network information,UNSPECIFIED_ACTOR,
+mobile network information,we,"advertising, analytics, legal, security, services"
+non-personal information,we,"advertising, analytics, legal, security, services"
+operating system,we,"advertising, analytics, legal, security, services"
+password,we,"advertising, analytics, legal, security, services"
+person name,UNSPECIFIED_ACTOR,
+person name,consultant,
+person name,lawyer,"security, services"
+person name,legal authority,
+person name,professional advisor,"security, services"
+person name,service provider,
+person name,third party who assist we with marketing,
+person name,we,"advertising, analytics, legal, security, services"
+personal information between,we,"advertising, analytics, legal, security, services"
+postal address,we,"advertising, analytics, legal, security, services"
+product purchase,UNSPECIFIED_ACTOR,
+product purchase,consultant,
+product purchase,lawyer,"security, services"
+product purchase,legal authority,
+product purchase,professional advisor,"security, services"
+product purchase,service provider,
+product purchase,third party who assist we with marketing,
+product purchase,we,"advertising, analytics, legal, security, services"
+related information,we,"advertising, analytics, legal, security, services"
+training datum associate with ai speakers,we,"advertising, analytics, legal, security, services"
+version,we,"advertising, analytics, legal, security, services"
+visual information,UNSPECIFIED_ACTOR,
+visual information,consultant,
+visual information,lawyer,"security, services"
+visual information,legal authority,
+visual information,professional advisor,"security, services"
+visual information,service provider,
+visual information,third party who assist we with marketing,
+visual information,we,"advertising, analytics, legal, security, services"
+voice,we,"advertising, analytics, legal, security, services"
+voiceprint,we,"advertising, analytics, legal, security, services"

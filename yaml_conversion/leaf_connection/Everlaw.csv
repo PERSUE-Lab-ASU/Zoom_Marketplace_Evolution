@@ -1,0 +1,157 @@
+data_type,collector,purpose
+Everlaw,we,"advertising, legal, security, services"
+Facebook,we,"advertising, legal, security, services"
+Microsoft,we,"advertising, legal, security, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"advertising, legal, security"
+account information,UNSPECIFIED_ACTOR,
+account information,we,"advertising, legal, security"
+account preference,Personal Information Privacy and Security Association (Vancouver),
+account preference,UNSPECIFIED_ACTOR,
+account preference,analytic provider,
+account preference,billing service provider,
+account preference,cloud hosting provider,
+account preference,communication provider,
+account preference,learning management system platform,
+account preference,we,"advertising, legal, security, services"
+activity in service,UNSPECIFIED_ACTOR,
+activity in service,we,"advertising, legal, security, services"
+address of web page visit before,UNSPECIFIED_ACTOR,
+address of web page visit before,we,"advertising, legal, security, services"
+blog,we,"advertising, legal, security, services"
+browser type,UNSPECIFIED_ACTOR,
+browser type,we,"advertising, legal, security, services"
+call,we,"advertising, legal, security, services"
+cookie / pixel tag,Google,analytics
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,we,"advertising, legal, security, services"
+data setting,UNSPECIFIED_ACTOR,
+data setting,we,"advertising, legal, security, services"
+datum you provide,Personal Information Privacy and Security Association (Vancouver),
+datum you provide,UNSPECIFIED_ACTOR,
+datum you provide,analytic provider,
+datum you provide,billing service provider,
+datum you provide,cloud hosting provider,
+datum you provide,communication provider,
+datum you provide,learning management system platform,
+datum you provide,we,"advertising, legal, security, services"
+diagnostic information,UNSPECIFIED_ACTOR,
+diagnostic information,we,"advertising, legal, security, services"
+elect privacy setting,UNSPECIFIED_ACTOR,
+elect privacy setting,we,"advertising, legal, security, services"
+email address,Personal Information Privacy and Security Association (Vancouver),
+email address,UNSPECIFIED_ACTOR,
+email address,analytic provider,
+email address,billing service provider,
+email address,cloud hosting provider,
+email address,communication provider,
+email address,learning management system platform,
+email address,we,"advertising, legal, security, services"
+everlaw community,we,"advertising, legal, security, services"
+everlaw website,we,"advertising, legal, security, services"
+generate data,UNSPECIFIED_ACTOR,
+generate data,we,"advertising, legal, security, services"
+image,UNSPECIFIED_ACTOR,
+image,we,"advertising, legal, security, services"
+inference draw from,Personal Information Privacy and Security Association (Vancouver),
+inference draw from,UNSPECIFIED_ACTOR,
+inference draw from,analytic provider,
+inference draw from,billing service provider,
+inference draw from,cloud hosting provider,
+inference draw from,communication provider,
+inference draw from,learning management system platform,
+inference draw from,we,"advertising, legal, security, services"
+inference draw from above information,Personal Information Privacy and Security Association (Vancouver),
+inference draw from above information,UNSPECIFIED_ACTOR,
+inference draw from above information,analytic provider,
+inference draw from above information,billing service provider,
+inference draw from above information,cloud hosting provider,
+inference draw from above information,communication provider,
+inference draw from above information,learning management system platform,
+inference draw from above information,we,"advertising, legal, security, services"
+information you provide to we,we,"advertising, legal, security, services"
+internet activity,Personal Information Privacy and Security Association (Vancouver),
+internet activity,UNSPECIFIED_ACTOR,
+internet activity,analytic provider,
+internet activity,billing service provider,
+internet activity,cloud hosting provider,
+internet activity,communication provider,
+internet activity,learning management system platform,
+internet activity,we,"advertising, legal, security, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,we,"advertising, legal, security, services"
+job position,Personal Information Privacy and Security Association (Vancouver),
+job position,UNSPECIFIED_ACTOR,
+job position,analytic provider,
+job position,billing service provider,
+job position,cloud hosting provider,
+job position,communication provider,
+job position,learning management system platform,
+job position,we,"advertising, legal, security, services"
+job title,we,"advertising, legal, security, services"
+marketing information,UNSPECIFIED_ACTOR,
+marketing information,we,"advertising, legal, security, services"
+office,we,"advertising, legal, security, services"
+office visitor information,UNSPECIFIED_ACTOR,
+office visitor information,we,"advertising, legal, security, services"
+online forum,we,"advertising, legal, security, services"
+performance information server collect,UNSPECIFIED_ACTOR,
+performance information server collect,we,"advertising, legal, security, services"
+person name,Personal Information Privacy and Security Association (Vancouver),
+person name,UNSPECIFIED_ACTOR,
+person name,analytic provider,
+person name,billing service provider,
+person name,cloud hosting provider,
+person name,communication provider,
+person name,learning management system platform,
+person name,we,"advertising, legal, security, services"
+personal identifier,we,"advertising, legal, security, services"
+phone number,Personal Information Privacy and Security Association (Vancouver),
+phone number,UNSPECIFIED_ACTOR,
+phone number,analytic provider,
+phone number,billing service provider,
+phone number,cloud hosting provider,
+phone number,communication provider,
+phone number,learning management system platform,
+phone number,we,"advertising, legal, security, services"
+postal address,Personal Information Privacy and Security Association (Vancouver),
+postal address,UNSPECIFIED_ACTOR,
+postal address,analytic provider,
+postal address,billing service provider,
+postal address,cloud hosting provider,
+postal address,communication provider,
+postal address,learning management system platform,
+postal address,we,"advertising, legal, security, services"
+product certification,UNSPECIFIED_ACTOR,
+product certification,we,"advertising, legal, security, services"
+related application,we,"advertising, legal, security, services"
+sensitive personal information,we,"advertising, legal, security, services"
+setting,UNSPECIFIED_ACTOR,
+setting,we,"advertising, legal, security, services"
+sharing widget,we,"advertising, legal, security, services"
+social media information,UNSPECIFIED_ACTOR,
+social media information,we,"advertising, legal, security, services"
+social medium profile,we,"advertising, legal, security, services"
+social medium url,we,"advertising, legal, security, services"
+storage requirement,UNSPECIFIED_ACTOR,
+storage requirement,we,"advertising, legal, security, services"
+third party data,UNSPECIFIED_ACTOR,
+third party data,we,"advertising, legal, security, services"
+title,Personal Information Privacy and Security Association (Vancouver),
+title,UNSPECIFIED_ACTOR,
+title,analytic provider,
+title,billing service provider,
+title,cloud hosting provider,
+title,communication provider,
+title,learning management system platform,
+title,we,"advertising, legal, security, services"
+transaction datum relate to use of service,Personal Information Privacy and Security Association (Vancouver),
+transaction datum relate to use of service,UNSPECIFIED_ACTOR,
+transaction datum relate to use of service,analytic provider,
+transaction datum relate to use of service,billing service provider,
+transaction datum relate to use of service,cloud hosting provider,
+transaction datum relate to use of service,communication provider,
+transaction datum relate to use of service,learning management system platform,
+transaction datum relate to use of service,we,"advertising, legal, security, services"
+type of information,we,"advertising, legal, security, services"
+user behavior datum,we,"advertising, legal, security, services"

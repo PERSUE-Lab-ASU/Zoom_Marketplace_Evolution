@@ -1,0 +1,211 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+alias,UNSPECIFIED_ACTOR,services
+alias,Wix.com,
+alias,law enforcement official,
+alias,party involve in event,
+alias,service provider,
+alias,social media,
+alias,we,"security, services, advertising, analytics, legal"
+alias,wix,services
+alias,wix services,
+alias,wix subsidiary,services
+audio information,UNSPECIFIED_ACTOR,services
+audio information,Wix.com,
+audio information,law enforcement official,
+audio information,party involve in event,
+audio information,service provider,
+audio information,social media,
+audio information,we,
+audio information,we,"security, services, advertising, analytics, legal"
+audio information,wix,services
+audio information,wix services,
+audio information,wix subsidiary,services
+click stream activity on service,we,
+coarse geolocation,UNSPECIFIED_ACTOR,services
+coarse geolocation,Wix.com,
+coarse geolocation,law enforcement official,
+coarse geolocation,party involve in event,
+coarse geolocation,service provider,
+coarse geolocation,social media,
+coarse geolocation,we,
+coarse geolocation,we,"security, services, advertising, analytics, legal"
+coarse geolocation,wix,services
+coarse geolocation,wix services,
+coarse geolocation,wix subsidiary,services
+commercial information,UNSPECIFIED_ACTOR,services
+commercial information,Wix.com,
+commercial information,law enforcement official,
+commercial information,party involve in event,
+commercial information,service provider,
+commercial information,social media,
+commercial information,we,
+commercial information,we,"security, services, advertising, analytics, legal"
+commercial information,wix,services
+commercial information,wix services,
+commercial information,wix subsidiary,services
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,we,
+date time stamp,we,
+datum about individual across world,wix,
+email address,UNSPECIFIED_ACTOR,services
+email address,Wix.com,
+email address,law enforcement official,
+email address,party involve in event,
+email address,service provider,
+email address,social media,
+email address,we,security
+email address,we,"security, services, advertising, analytics, legal"
+email address,wix,services
+email address,wix services,
+email address,wix subsidiary,services
+inference draw from above information,UNSPECIFIED_ACTOR,services
+inference draw from above information,Wix.com,
+inference draw from above information,law enforcement official,
+inference draw from above information,party involve in event,
+inference draw from above information,service provider,
+inference draw from above information,social media,
+inference draw from above information,we,security
+inference draw from above information,we,"security, services, advertising, analytics, legal"
+inference draw from above information,wix,services
+inference draw from above information,wix services,
+inference draw from above information,wix subsidiary,services
+information we collect,UNSPECIFIED_ACTOR,services
+information we collect,Wix.com,
+information we collect,law enforcement official,
+information we collect,party involve in event,
+information we collect,service provider,
+information we collect,social media,
+information we collect,we,"security, services, advertising, analytics, legal"
+information we collect,wix,services
+information we collect,wix services,
+information we collect,wix subsidiary,services
+information we collect from source,UNSPECIFIED_ACTOR,services
+information we collect from source,Wix.com,
+information we collect from source,law enforcement official,
+information we collect from source,party involve in event,
+information we collect from source,service provider,
+information we collect from source,social media,
+information we collect from source,we,"security, services, advertising, analytics, legal"
+information we collect from source,wix,services
+information we collect from source,wix services,
+information we collect from source,wix subsidiary,services
+information you include in communication with we,UNSPECIFIED_ACTOR,services
+information you include in communication with we,Wix.com,
+information you include in communication with we,law enforcement official,
+information you include in communication with we,party involve in event,
+information you include in communication with we,service provider,
+information you include in communication with we,social media,
+information you include in communication with we,we,"security, services, advertising, analytics, legal"
+information you include in communication with we,wix,services
+information you include in communication with we,wix services,
+information you include in communication with we,wix subsidiary,services
+information you provide we,UNSPECIFIED_ACTOR,services
+information you provide we,Wix.com,
+information you provide we,law enforcement official,
+information you provide we,party involve in event,
+information you provide we,service provider,
+information you provide we,social media,
+information you provide we,we,"security, services, advertising, analytics, legal"
+information you provide we,wix,services
+information you provide we,wix services,
+information you provide we,wix subsidiary,services
+internet activity,UNSPECIFIED_ACTOR,services
+internet activity,Wix.com,
+internet activity,law enforcement official,
+internet activity,party involve in event,
+internet activity,service provider,
+internet activity,social media,
+internet activity,we,security
+internet activity,we,"security, services, advertising, analytics, legal"
+internet activity,wix,services
+internet activity,wix services,
+internet activity,wix subsidiary,services
+ip address,UNSPECIFIED_ACTOR,services
+ip address,Wix.com,
+ip address,law enforcement official,
+ip address,party involve in event,
+ip address,service provider,
+ip address,social media,
+ip address,we,"security, services, advertising, analytics, legal"
+ip address,wix,services
+ip address,wix services,
+ip address,wix subsidiary,services
+language setting,we,
+mobile application,we,"security, services, advertising, analytics, legal"
+mobile apps,we,"security, services, advertising, analytics, legal"
+non - identifying personal information,we,
+online identifier,UNSPECIFIED_ACTOR,services
+online identifier,Wix.com,
+online identifier,law enforcement official,
+online identifier,party involve in event,
+online identifier,service provider,
+online identifier,social media,
+online identifier,we,"security, services, advertising, analytics, legal"
+online identifier,wix,services
+online identifier,wix services,
+online identifier,wix subsidiary,services
+payment information,UNSPECIFIED_ACTOR,services
+payment information,Wix.com,
+payment information,law enforcement official,
+payment information,party involve in event,
+payment information,service provider,
+payment information,social media,
+payment information,we,"security, services, advertising, analytics, legal"
+payment information,wix,services
+payment information,wix services,
+payment information,wix subsidiary,services
+person name,UNSPECIFIED_ACTOR,services
+person name,Wix.com,
+person name,law enforcement official,
+person name,party involve in event,
+person name,service provider,
+person name,social media,
+person name,we,"security, services, advertising, analytics, legal"
+person name,wix,services
+person name,wix services,
+person name,wix subsidiary,services
+personal identifier,UNSPECIFIED_ACTOR,services
+personal identifier,Wix.com,
+personal identifier,law enforcement official,
+personal identifier,party involve in event,
+personal identifier,service provider,
+personal identifier,social media,
+personal identifier,we,"security, services"
+personal identifier,we,"security, services, advertising, analytics, legal"
+personal identifier,wix,services
+personal identifier,wix services,
+personal identifier,wix subsidiary,services
+personal information pertain to visitor of website,we,"security, services, advertising, analytics, legal"
+personal information regard user of user,wix,services
+phone number,UNSPECIFIED_ACTOR,services
+phone number,Wix.com,
+phone number,law enforcement official,
+phone number,party involve in event,
+phone number,service provider,
+phone number,social media,
+phone number,we,"security, services, advertising, analytics, legal"
+phone number,wix,services
+phone number,wix services,
+phone number,wix subsidiary,services
+record,we,"security, services, advertising, analytics, legal"
+record keeping information,UNSPECIFIED_ACTOR,services
+record keeping information,Wix.com,
+record keeping information,law enforcement official,
+record keeping information,party involve in event,
+record keeping information,service provider,
+record keeping information,social media,
+record keeping information,we,"security, services, advertising, analytics, legal"
+record keeping information,wix,services
+record keeping information,wix services,
+record keeping information,wix subsidiary,services
+related service,we,"security, services, advertising, analytics, legal"
+screen resolution,we,
+scroll,we,
+sensitive personal information,we,"security, services, advertising, analytics, legal"
+session heatmap,we,
+user of user personal information,third parties services,
+user of user personal information,wix,services
+visitor browsing,we,
+web application,we,"security, services, advertising, analytics, legal"
+wix apps,we,"security, services, advertising, analytics, legal"

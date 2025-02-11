@@ -1,0 +1,41 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,mixmax,
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, services"
+calendar content,mixmax,services
+company domain directory,mixmax,services
+confirmation,we,"advertising, analytics, services"
+contact,mixmax,services
+content of draft email message,we,"advertising, analytics, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,advertising
+cookie / pixel tag,we,"advertising, analytics, services"
+credential,we,"advertising, analytics, services"
+customer support,we,"advertising, analytics, services"
+device type,mixmax,
+email address,mixmax,services
+email address,we,"advertising, analytics, services"
+email body,mixmax,
+email body,we,"advertising, analytics, services"
+email subject line,we,"advertising, analytics, services"
+information about interaction with website associate with browser,UNSPECIFIED_ACTOR,advertising
+information about you,we,"advertising, analytics, services"
+information in anonymous form,we,"advertising, analytics, services"
+information you provide to we,we,"advertising, analytics, services"
+internal analytic,we,"advertising, analytics, services, security, legal"
+ip address,UNSPECIFIED_ACTOR,advertising
+ip address,advertising partners,
+ip address,mixmax,
+ip address,mixmax,services
+ip address,we,"advertising, analytics, services"
+ip address,we,"advertising, analytics, services, security, legal"
+open tracking,mixmax,services
+payment datum,we,"advertising, analytics, services"
+person name,mixmax,services
+person name,we,"advertising, analytics, services"
+personal data of end user,we,"advertising, analytics, services"
+personal datum provide in valid request,we,"advertising, analytics, services, security"
+preference on browser,we,"advertising, analytics, services, security, legal"
+product development,we,"advertising, analytics, services, security, legal"
+profile information,we,"advertising, analytics, services, security, legal"
+sensitive personal information,we,"advertising, analytics, services, security, legal"
+specific piece of personal data we collect about you,we,"advertising, analytics, services, security, legal"

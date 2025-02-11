@@ -1,0 +1,76 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"analytics, services, advertising, legal"
+browser plug in type,we,"analytics, services, advertising, legal"
+browser type,we,"analytics, services"
+browser type,we,"analytics, services, advertising, legal"
+communication datum,we,"analytics, services"
+cookie / pixel tag,feature of website,
+cookie / pixel tag,we,"analytics, services"
+date,we,"analytics, services, advertising, legal"
+datum about you,UNSPECIFIED_ACTOR,
+demographic information,we,"analytics, services, advertising, legal"
+download error,we,"analytics, services, advertising, legal"
+email address,UNSPECIFIED_ACTOR,
+email address,contractor,
+email address,service provider,
+email address,we,"analytics, services"
+email address,we,"analytics, services, advertising, legal"
+equipment you use,we,"analytics, services, advertising, legal"
+full uniform resource locators,we,"analytics, services, advertising, legal"
+geolocation,we,"analytics, services"
+geolocation,we,"analytics, services, advertising, legal"
+identifier,UNSPECIFIED_ACTOR,
+identifier,contractor,
+identifier,service provider,
+identifier,we,"analytics, services, advertising, legal"
+identifier we use,UNSPECIFIED_ACTOR,
+identifier we use,contractor,
+identifier we use,service provider,
+identifier we use,we,"analytics, services, advertising, legal"
+information about internet connection,we,"analytics, services, advertising, legal"
+information about preference,feature of website,
+information you provide by,we,"analytics, services, advertising, legal"
+ip address,UNSPECIFIED_ACTOR,
+ip address,contractor,
+ip address,service provider,
+ip address,we,"analytics, services"
+ip address,we,"analytics, services, advertising, legal"
+length,we,"analytics, services, advertising, legal"
+local store object,feature of website,
+log,we,"analytics, services"
+login information,we,"analytics, services, advertising, legal"
+metadata,we,"analytics, services, advertising, legal"
+method use,we,"analytics, services, advertising, legal"
+mouse over,we,"analytics, services, advertising, legal"
+operating system,we,"analytics, services"
+page response time,we,"analytics, services, advertising, legal"
+person name,UNSPECIFIED_ACTOR,
+person name,contractor,
+person name,service provider,
+person name,we,"analytics, services"
+person name,we,"analytics, services, advertising, legal"
+personal information of customer refer to as you,we,"analytics, services, advertising, legal"
+phone number,UNSPECIFIED_ACTOR,
+phone number,contractor,
+phone number,service provider,
+phone number,we,"analytics, services"
+phone number,we,"analytics, services, advertising, legal"
+postal address,we,"analytics, services"
+rack room,we,"analytics, services, advertising, legal"
+record,we,"analytics, services, advertising, legal"
+response to survey we ask you,we,"analytics, services, advertising, legal"
+room,we,"analytics, services, advertising, legal"
+screen name,we,"analytics, services"
+specific information,we,"analytics, services, advertising, legal, security"
+time,we,"analytics, services, advertising, legal"
+time zone setting,we,"analytics, services, advertising, legal"
+traffic datum,we,"analytics, services"
+url,we,"analytics, services, advertising, legal"
+usage detail,we,"analytics, services, advertising, legal"
+user name,we,"analytics, services"
+username,UNSPECIFIED_ACTOR,
+username,contractor,
+username,service provider,
+username,we,"analytics, services, advertising, legal"

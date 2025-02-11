@@ -1,0 +1,45 @@
+data_type,collector,purpose
+Google,we,"services, analytics, security, legal"
+Slack,we,"services, analytics, security, legal"
+UNSPECIFIED_DATA,relay.app,
+UNSPECIFIED_DATA,we,services
+aggregate / deidentified / pseudonymized information,we,services
+contact information,UNSPECIFIED_ACTOR,
+contact information,relay.app,
+contact information,we,"services, analytics, security, legal"
+cookie / pixel tag,we,"services, analytics"
+customer support,we,"services, analytics"
+datum from connected productivity tool,UNSPECIFIED_ACTOR,
+datum from connected productivity tool,relay.app,
+datum from connected productivity tool,we,"services, analytics, security, legal"
+device identifier,UNSPECIFIED_ACTOR,
+device identifier,relay.app,
+device identifier,we,"services, analytics, security, legal"
+email address,UNSPECIFIED_ACTOR,
+email address,relay.app,
+email address,we,"services, analytics, security, legal"
+email information you grant access to in specific relay.app workflow,UNSPECIFIED_ACTOR,
+email information you grant access to in specific relay.app workflow,relay.app,
+email information you grant access to in specific relay.app workflow,we,"services, analytics, security, legal"
+identify information you choose,UNSPECIFIED_ACTOR,
+identify information you choose,relay.app,
+identify information you choose,we,"services, analytics, security, legal"
+information transmit from compute device for purpose of,we,"services, analytics"
+internal analytic,we,"services, analytics, security, legal"
+ip address,UNSPECIFIED_ACTOR,
+ip address,relay.app,
+ip address,we,"services, analytics"
+ip address,we,"services, analytics, security, legal"
+personal data of end user,we,"services, analytics"
+personal datum provide in valid request,we,"services, analytics, security"
+product development,we,"services, analytics, security, legal"
+professional datum,UNSPECIFIED_ACTOR,
+professional datum,relay.app,
+professional datum,we,"services, analytics, security, legal"
+profile,UNSPECIFIED_ACTOR,
+profile,relay.app,
+profile,we,"services, analytics, security, legal"
+specific piece of personal data we collect about you,we,"services, analytics, security, legal"
+title time stamp,UNSPECIFIED_ACTOR,
+title time stamp,relay.app,
+title time stamp,we,"services, analytics, security, legal"

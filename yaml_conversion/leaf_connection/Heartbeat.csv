@@ -1,0 +1,14 @@
+data_type,collector,purpose
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,
+aggregate / deidentified / pseudonymized information,we,
+email address,Google,analytics
+email address,Mixpanel,analytics
+email address,fullstory,analytics
+email address,heartbeat.chat,analytics
+google calendar datum,heartbeat,services
+personal information,we,
+user information,we,
+user name,Google,analytics
+user name,Mixpanel,analytics
+user name,fullstory,analytics
+user name,heartbeat.chat,analytics

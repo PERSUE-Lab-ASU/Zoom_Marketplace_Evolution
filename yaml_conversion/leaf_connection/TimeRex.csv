@@ -1,0 +1,13 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,external site link to service,
+UNSPECIFIED_DATA,we,
+activity on service site,we,
+cookie / pixel tag,we,"analytics, security"
+country of residence,we,
+device information,we,"analytics, security"
+non-personal information,we,"analytics, security"
+personal information,external site link to service,
+personal information,we,"analytics, security"
+statistical datum,we,"analytics, security"
+timezone,we,

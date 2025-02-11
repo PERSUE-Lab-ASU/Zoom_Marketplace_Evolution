@@ -1,0 +1,33 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,analytic provider,
+UNSPECIFIED_DATA,business partner,
+UNSPECIFIED_DATA,credit reference agency for purpose of be,
+UNSPECIFIED_DATA,payment processor for purpose of,
+UNSPECIFIED_DATA,subcontractor,
+UNSPECIFIED_DATA,supplier,
+UNSPECIFIED_DATA,we,
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+clickstream datum,we,"analytics, services"
+comment,we,"analytics, services"
+contact information,we,"analytics, services, advertising"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,advertiser,
+cookie / pixel tag,we,"analytics, services, advertising, security"
+data identify,we,"analytics, services, advertising, security"
+date time stamp,we,"analytics, services, advertising, security"
+information about,we,"analytics, services, advertising, security"
+information about device you use,we,"analytics, services, advertising, security"
+information about you,we,"analytics, services, advertising, security"
+internet activity,UNSPECIFIED_ACTOR,advertising
+ip address,social media,
+ip address,we,"analytics, services, advertising, security"
+operating system,we,"analytics, services, advertising, security"
+opinion,we,"analytics, services, advertising, security"
+password,we,"analytics, services, advertising, security"
+personal information collect,we,"analytics, services, advertising, security, legal"
+personal information we hold,UNSPECIFIED_ACTOR,advertising
+personal information we hold,we,"analytics, services, advertising, security, legal"
+unique device identify number,we,"analytics, services, advertising, security"
+username,we,"analytics, services, advertising, security, legal"
+widget as share button,social media,

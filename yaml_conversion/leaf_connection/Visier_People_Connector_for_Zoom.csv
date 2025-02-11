@@ -1,0 +1,43 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+address of web page visit,we,"advertising, analytics, services"
+billing information,we,"advertising, analytics, services"
+browser configuration,we,"advertising, analytics, services"
+browser type,we,"advertising, analytics, services"
+cctv footage,we,"advertising, analytics, services, security"
+contact information,we,"advertising, analytics, services, security"
+cookie / pixel tag,we,"advertising, analytics, services, security"
+customer data,company help,
+customer data,customer,services
+customer data,visier,
+customer data,we,"advertising, analytics, services, security"
+email address,we,"advertising, analytics, services, security"
+feedback,we,"advertising, analytics, services, security"
+feedback improve future event,we,"advertising, analytics, services, security"
+food allergy,UNSPECIFIED_ACTOR,
+food allergy,we,"advertising, analytics, services, security"
+identification information,we,"advertising, analytics, services, security"
+information about you,we,"advertising, analytics, services, security"
+information as you use application,analytic provider,
+information describe in section,we,"advertising, analytics, services, security"
+information in connection with job application,we,"advertising, analytics, services, security"
+information in connection with use of service platform by individual user,we,"advertising, analytics, services, security"
+information we collect from you in connection with purchase,joint promotion partner,
+information we collect from you in connection with purchase,we,"advertising, analytics, services, security"
+information we process on behalf of customer,visier,
+information you allow,we,"advertising, analytics, services, security"
+ip address,we,"advertising, analytics, services, security"
+language preference,we,"advertising, analytics, services, security"
+login date,we,"advertising, analytics, services, security"
+operating system,we,"advertising, analytics, services, security"
+person name,we,"advertising, analytics, services, security"
+personal information,UNSPECIFIED_ACTOR,
+personal information,business partner,
+personal information,visier,
+personal information,visier subsidiary,
+phone number,we,"advertising, analytics, services, security"
+relevant health information,we,"advertising, analytics, services, security"
+setting,we,"advertising, analytics, services, security"
+survey result,we,"advertising, analytics, services, security"
+time stamp,we,"advertising, analytics, services, security"

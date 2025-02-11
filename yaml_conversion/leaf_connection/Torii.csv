@@ -1,0 +1,101 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"advertising, analytics, services, security, legal"
+account data,torii,
+account user data,torii,
+activity log,we,
+advertiser,we,"advertising, analytics, services, security, legal"
+affiliated company,torii,
+anonymous identifier,we,"advertising, analytics, services"
+api key,we,"advertising, analytics, services"
+artificial intelligence,we,"advertising, analytics, services, security, legal"
+attribute,we,"advertising, analytics, services"
+browser version,we,"advertising, analytics, services, security"
+cdn,we,"advertising, analytics, services, security, legal"
+coarse geolocation,UNSPECIFIED_ACTOR,
+coarse geolocation,authorized service provider,
+coarse geolocation,party involve in event,
+coarse geolocation,torii,
+coarse geolocation,we,"advertising, analytics, services, security"
+coarse geolocation,we,"advertising, analytics, services, security, legal"
+communication network,we,"advertising, analytics, services, security, legal"
+connectivity,we,"advertising, analytics, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,authorized service provider,
+contact information,party involve in event,
+contact information,respective partner,
+contact information,torii,
+contact information,we,
+contact information,we,"advertising, analytics, services"
+contact information,we,"advertising, analytics, services, security, legal"
+container tag,we,"advertising, analytics, services"
+content provider,we,"advertising, analytics, services, security, legal"
+contract service,we,"advertising, analytics, services, security, legal"
+contractual detail,we,"advertising, analytics, services"
+cookie / pixel tag,we,"advertising, analytics, services"
+credential,we,"advertising, analytics, services, security"
+data optimization service,we,"advertising, analytics, services, security, legal"
+data security service,we,"advertising, analytics, services, security, legal"
+device identifier,we,"advertising, analytics, services, security"
+device information,UNSPECIFIED_ACTOR,
+device information,authorized service provider,
+device information,party involve in event,
+device information,torii,
+device information,we,"advertising, analytics, services, security"
+device information,we,"advertising, analytics, services, security, legal"
+email correspondence,we,"advertising, analytics, services, security"
+email service provider,we,"advertising, analytics, services, security, legal"
+enablement,we,"advertising, analytics, services, security, legal"
+event production service,we,"advertising, analytics, services, security, legal"
+express need,we,"advertising, analytics, services, security"
+feedback,we,"advertising, analytics, services, security"
+fraud detection service,we,"advertising, analytics, services, security, legal"
+generative artificial intelligence,we,"advertising, analytics, services, security, legal"
+hosting co - location service,we,"advertising, analytics, services, security, legal"
+infer datum on generate from use of services,we,"advertising, analytics, services, security"
+insight,we,"advertising, analytics, services, security"
+ip address,UNSPECIFIED_ACTOR,
+ip address,authorized service provider,
+ip address,party involve in event,
+ip address,torii,
+ip address,we,"advertising, analytics, services, security"
+ip address,we,"advertising, analytics, services, security, legal"
+legal advisor,we,"advertising, analytics, services, security, legal"
+locale,we,"advertising, analytics, services, security"
+log credential to services,we,"advertising, analytics, services, security"
+login credential,UNSPECIFIED_ACTOR,
+login credential,authorized service provider,
+login credential,party involve in event,
+login credential,torii,
+login credential,we,"advertising, analytics, services, security"
+login credential,we,"advertising, analytics, services, security, legal"
+non-personal information,we,"advertising, analytics, services, security"
+password,we,"advertising, analytics, services, security"
+performance measurement,we,"advertising, analytics, services, security, legal"
+person name,we,"advertising, analytics, services, security"
+personal datum relate to person identify as result of use with business application,we,"advertising, analytics, services, security"
+phone number,we,"advertising, analytics, services, security, legal"
+pixel,we,"advertising, analytics, services, security, legal"
+position,we,"advertising, analytics, services, security, legal"
+preference,we,"advertising, analytics, services, security, legal"
+profile photo,we,"advertising, analytics, services, security, legal"
+prospect data,UNSPECIFIED_ACTOR,
+prospect data,authorized service provider,
+prospect data,party involve in event,
+prospect data,torii,
+prospect data,we,"advertising, analytics, services, security, legal"
+relevant datum,UNSPECIFIED_ACTOR,
+relevant datum,we,"advertising, analytics, services, security, legal"
+relevant datum about,UNSPECIFIED_ACTOR,
+remote access service,we,"advertising, analytics, services, security, legal"
+session recording,we,"advertising, analytics, services, security, legal"
+session recording service,we,"advertising, analytics, services, security, legal"
+support,we,"advertising, analytics, services, security, legal"
+technical datum collect,torii,
+torii labs ltd.,torii,
+user agent,UNSPECIFIED_ACTOR,
+user agent,authorized service provider,
+user agent,party involve in event,
+user agent,torii,
+user agent,we,"advertising, analytics, services, security"
+user agent,we,"advertising, analytics, services, security, legal"
+web analytic,we,"advertising, analytics, services, security, legal"

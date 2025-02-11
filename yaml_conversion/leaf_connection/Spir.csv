@@ -1,0 +1,17 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+client id,we,"advertising, analytics"
+date,we,"advertising, analytics, security, services"
+email address,we,"advertising, analytics, security, services"
+id information identify terminal,we,"advertising, analytics, security, services, legal"
+information designate about individual acquire,we,"advertising, analytics, security, services"
+information on operation history within service,we,"advertising, analytics, security, services"
+ip address,we,"advertising, analytics, security, services"
+name of individual acquire,we,"advertising, analytics, security, services"
+person name,we,"advertising, analytics, security, services"
+personal identifier,we,"advertising, analytics, security, services"
+personal information,we,"advertising, analytics, security, services, legal"
+personal information obtain from user,partner business,
+personal information obtain from user,we,"advertising, analytics, security, services, legal"
+phone number,we,"advertising, analytics, security, services, legal"
+user agent,we,"advertising, analytics, security, services, legal"

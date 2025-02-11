@@ -1,0 +1,108 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Intercom,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,business partner,advertising
+UNSPECIFIED_DATA,recaptcha service,security
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+UNSPECIFIED_DATA,zoho crm,
+activity,we,"advertising, analytics, legal, services"
+browser type,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+browser type,business partner,"advertising, analytics, services"
+browser type,service provider,"advertising, analytics, services"
+browser type,service provider we use,
+browser type,we,"advertising, analytics, legal, services"
+browser type,we,"advertising, analytics, legal, services, security"
+browser version,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+browser version,business partner,"advertising, analytics, services"
+browser version,service provider,"advertising, analytics, services"
+browser version,service provider we use,
+browser version,we,"advertising, analytics, legal, services"
+browser version,we,"advertising, analytics, legal, services, security"
+collect datum,Google,advertising
+commercial information,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+commercial information,business partner,"advertising, analytics, services"
+commercial information,service provider,"advertising, analytics, services"
+commercial information,service provider we use,
+commercial information,we,"advertising, analytics, legal, services"
+commercial information,we,"advertising, analytics, legal, services, security"
+contact information,we,"advertising, analytics, legal, services"
+contact list associate with account,we,"advertising, analytics, legal, services"
+cookie / pixel tag,Facebook,
+cookie / pixel tag,Google,advertising
+cookie / pixel tag,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+cookie / pixel tag,business partner,"advertising, analytics, services"
+cookie / pixel tag,service provider,"advertising, analytics, services"
+cookie / pixel tag,service provider we use,
+cookie / pixel tag,we,"advertising, analytics, legal, services"
+cookie / pixel tag,we,"advertising, analytics, legal, services, security"
+credit / debit card number,third party payment processor govern,
+date,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+date,business partner,"advertising, analytics, services"
+date,service provider,"advertising, analytics, services"
+date,service provider we use,
+date,we,"advertising, analytics, legal, services"
+date,we,"advertising, analytics, legal, services, security"
+datum collect,Google,"advertising, analytics"
+device identifier,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+device identifier,business partner,"advertising, analytics, services"
+device identifier,service provider,"advertising, analytics, services"
+device identifier,service provider we use,
+device identifier,we,"advertising, analytics, legal, services"
+device identifier,we,"advertising, analytics, legal, services, security"
+diagnostic datum,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+diagnostic datum,business partner,"advertising, analytics, services"
+diagnostic datum,service provider,"advertising, analytics, services"
+diagnostic datum,service provider we use,
+diagnostic datum,we,"advertising, analytics, legal, services"
+diagnostic datum,we,"advertising, analytics, legal, services, security"
+email address,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+email address,we,"advertising, analytics, legal, services"
+email address,we,"advertising, analytics, legal, services, security"
+gender expression,we,"advertising, analytics, legal, services"
+gender expression,we,"advertising, analytics, legal, services, security"
+gender identity,we,"advertising, analytics, legal, services"
+gender identity,we,"advertising, analytics, legal, services, security"
+geolocation,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+geolocation,business partner,"advertising, analytics, services"
+geolocation,service provider,"advertising, analytics, services"
+geolocation,service provider we use,
+geolocation,we,"advertising, analytics, legal, services"
+geolocation,we,"advertising, analytics, legal, services, security"
+information browser send,we,"advertising, analytics, legal, services"
+information collect,we,"advertising, analytics, legal, services"
+information from phone book,we,"advertising, analytics, legal, services"
+information identify,we,"advertising, analytics, legal, services"
+internet,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+internet,business partner,"advertising, analytics, services"
+internet,service provider,"advertising, analytics, services"
+internet,service provider we use,
+internet,we,"advertising, analytics, legal, services"
+internet,we,"advertising, analytics, legal, services, security"
+ip address,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+ip address,business partner,"advertising, analytics, services"
+ip address,service provider,"advertising, analytics, services"
+ip address,service provider we use,
+ip address,we,"advertising, analytics, legal, services"
+ip address,we,"advertising, analytics, legal, services, security"
+online identifier collect on service,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+online identifier collect on service,we,"advertising, analytics, legal, services"
+parent name,we,"advertising, analytics, legal, services"
+parent name,we,"advertising, analytics, legal, services, security"
+person name,we,"advertising, analytics, legal, services"
+personal datum in structured use machine readable format,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+personal datum in structured use machine readable format,we,"advertising, analytics, legal, services"
+personal identifier,we,"advertising, analytics, legal, services"
+phone number,we,"advertising, analytics, legal, services, security"
+require information,we,"advertising, analytics, legal, services, security"
+sensitive personal information,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+sensitive personal information,business partner,"advertising, analytics, services"
+sensitive personal information,service provider,"advertising, analytics, services"
+sensitive personal information,service provider we use,
+sensitive personal information,we,"advertising, analytics, legal, services, security"
+specific piece of personal information we collect about you,we,"advertising, analytics, legal, services, security"
+time,UNSPECIFIED_ACTOR,"services, advertising, analytics"
+time,business partner,"advertising, analytics, services"
+time,service provider,"advertising, analytics, services"
+time,service provider we use,
+time,we,"advertising, analytics, legal, services"
+time,we,"advertising, analytics, legal, services, security"

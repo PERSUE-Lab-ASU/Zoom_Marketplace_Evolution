@@ -1,0 +1,72 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,company perform service for we,advertising
+UNSPECIFIED_DATA,we,"legal, security, services"
+advertising,company perform service for we,advertising
+advertising id,we,"legal, security, services"
+advertising id,we,"legal, security, services, advertising, analytics"
+base local storage,we,"legal, security, services"
+billing support provider,company perform service for we,advertising
+browser type,web server,
+company name,apollo,
+company name,we,"legal, security, services, advertising, analytics"
+contact information,apollo,
+contact information,we,"legal, security, services, advertising, analytics"
+contributory database,UNSPECIFIED_ACTOR,
+contributory database,we,"legal, security, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,we,"legal, security, services"
+country,apollo,
+country,we,"legal, security, services, advertising, analytics"
+country,web server,
+credit / debit card number,we,"legal, security, services"
+data enhancement partner,company perform service for we,advertising
+data enhancement platform,company perform service for we,advertising
+device type,web server,
+domain,web server,
+email address,apollo,
+email address,we,"legal, security, services, advertising, analytics"
+email service provider,company perform service for we,advertising
+employer,apollo,
+employer,we,"legal, security, services, advertising, analytics"
+geolocation,apollo,
+geolocation,we,"legal, security, services"
+geolocation,we,"legal, security, services, advertising, analytics"
+hosting provider,company perform service for we,advertising
+in case information,UNSPECIFIED_ACTOR,
+in case information,we,"legal, security, services"
+information about interaction with website,technology,
+information about you,meta,"advertising, analytics"
+information about you,we,"legal, security, services, advertising, analytics"
+information we have about you,we,"legal, security, services, advertising, analytics"
+ip address,apollo,
+ip address,we,"legal, security, services, advertising, analytics"
+javascript,technology,
+job title,apollo,
+job title,we,"legal, security, services, advertising, analytics"
+language system use,web server,
+marketing information,UNSPECIFIED_ACTOR,
+marketing information,company perform service for we,
+marketing information,we,"legal, security, services, advertising, analytics"
+marketing information you provide to we,we,"legal, security, services, advertising, analytics"
+operate system type,web server,
+payment datum,we,"legal, security, services, advertising, analytics"
+person name,apollo,
+person name,we,"legal, security, services, advertising, analytics"
+personal data be,we,"legal, security, services, advertising, analytics"
+personal information it receive under eu u.s. dpf in response to lawful request by public authority include,apollo,
+phone number,apollo,
+phone number,we,"legal, security, services, advertising, analytics"
+photo,we,"legal, security, services, advertising, analytics"
+postal address,apollo,
+postal address,we,"legal, security, services, advertising, analytics"
+service information,UNSPECIFIED_ACTOR,
+service information,we,"legal, security, services, advertising, analytics"
+state,apollo,
+state,we,"legal, security, services, advertising, analytics"
+system setting,web server,
+technical infrastructure,company perform service for we,advertising
+technical support,company perform service for we,advertising
+time zone,web server,
+usage information,UNSPECIFIED_ACTOR,
+usage information,we,"legal, security, services, advertising, analytics"

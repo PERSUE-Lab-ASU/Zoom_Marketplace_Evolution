@@ -1,0 +1,43 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advisor,
+UNSPECIFIED_DATA,potential transactional partner,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,we,
+browsing / search history,advertiser,
+browsing / search history,analytic provider,
+c. information,we,
+c. information we receive from third party,we,
+calendar,we,"analytics, services"
+calendar datum,we,"analytics, services"
+call note,UNSPECIFIED_ACTOR,
+call note,we,"analytics, services"
+content of message you send to we,we,"analytics, services"
+cookie / pixel tag,we,"analytics, services"
+date,we,"analytics, services"
+demographic datum,we,"analytics, services"
+device identifier,we,"analytics, services"
+email address,we,"analytics, services"
+email address,we,"analytics, services, advertising, legal, security"
+geolocation,we,"analytics, services"
+information we collect,we,"analytics, services, advertising, legal, security"
+information we receive,UNSPECIFIED_ACTOR,
+information we receive,service provider,
+information we receive,we,"analytics, services, advertising, legal, security"
+information you choose,we,"analytics, services, advertising, legal, security"
+internet activity,advertiser,
+internet activity,analytic provider,
+ip address,we,"analytics, services"
+meeting title,we,"analytics, services"
+operate system version,we,"analytics, services"
+person name,we,"analytics, services"
+person name,we,"analytics, services, advertising, legal, security"
+personal information contain in content of action,we,"analytics, services, advertising, legal, security"
+personal information contain in content of call,we,"analytics, services, advertising, legal, security"
+photo,we,"analytics, services"
+profile information,we,"analytics, services"
+related service,we,"analytics, services, advertising, legal, security"
+speaker identification,we,"analytics, services, advertising, legal, security"
+time,we,"analytics, services"
+web browser type,we,"analytics, services"
+zoom url,we,"analytics, services"

@@ -1,0 +1,25 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,"advertising, analytics, legal, security"
+UNSPECIFIED_DATA,administration of general business,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security"
+aggregate / deidentified / pseudonymized information,service provider,"advertising, analytics"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, legal, security"
+anonymous identifier,Google,
+anonymous identifier,we,"advertising, analytics, legal, security, services"
+browser type,we,"advertising, analytics, legal, security, services"
+browser version,we,"advertising, analytics, legal, security, services"
+contact information,we,"advertising, analytics, legal, security"
+credit / debit card number,third party payment processor govern,
+datum collect,Google,analytics
+email address,UNSPECIFIED_ACTOR,"advertising, analytics, legal, security, services"
+email address,we,"advertising, analytics, legal, security, services"
+general business operations,we,"advertising, analytics, legal, security, services"
+information browser send,we,"advertising, analytics, legal, security, services"
+ip address,we,"advertising, analytics, legal, security, services"
+personal data be,we,"advertising, analytics, legal, security, services"
+phone number,UNSPECIFIED_ACTOR,"advertising, analytics, legal, security, services"
+phone number,we,"advertising, analytics, legal, security, services"
+preference cookies,we,"advertising, analytics, legal, security, services"
+service providers,we,"advertising, analytics, legal, security, services"
+statistic,we,"advertising, analytics, legal, security, services"
+time,we,"advertising, analytics, legal, security, services"

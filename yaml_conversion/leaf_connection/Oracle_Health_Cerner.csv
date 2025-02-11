@@ -1,0 +1,324 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,invitee,
+UNSPECIFIED_DATA,meeting host,
+UNSPECIFIED_DATA,we,"security, services"
+UNSPECIFIED_DATA,zoom,
+account id,we,"security, services"
+account plan information,we,"security, services"
+administrator name,we,"security, services"
+attachment,recipient of zoom emails invite,
+audio recording,zoom,
+audio setting,UNSPECIFIED_ACTOR,"services, legal"
+audio setting,actual acquirer,
+audio setting,corporate affiliate,"security, services"
+audio setting,integration,
+audio setting,product research,"advertising, analytics, legal, security, services"
+audio setting,promotion,"advertising, analytics, legal, security, services"
+audio setting,relevant participant in,
+audio setting,we,"security, services"
+audio setting,we,"security, services, advertising, analytics, legal"
+audio setting,zoom,"analytics, services, advertising, legal, security"
+audio transcript,invitee,
+audio transcript,meeting host,
+battery level,we,"security, services"
+billing information,we,"security, services"
+bluetooth signal,UNSPECIFIED_ACTOR,services
+bluetooth signal,UNSPECIFIED_ACTOR,"services, legal"
+bluetooth signal,actual acquirer,
+bluetooth signal,corporate affiliate,"security, services"
+bluetooth signal,integration,
+bluetooth signal,product research,"advertising, analytics, legal, security, services"
+bluetooth signal,promotion,"advertising, analytics, legal, security, services"
+bluetooth signal,relevant participant in,
+bluetooth signal,we,"security, services"
+bluetooth signal,we,"security, services, advertising, analytics, legal"
+bluetooth signal,zoom,"analytics, services, advertising, legal, security"
+body text,recipient of zoom emails invite,
+calendar,zoom,
+configuration information,UNSPECIFIED_ACTOR,"services, legal"
+configuration information,actual acquirer,
+configuration information,corporate affiliate,"security, services"
+configuration information,integration,
+configuration information,product research,"advertising, analytics, legal, security, services"
+configuration information,promotion,"advertising, analytics, legal, security, services"
+configuration information,relevant participant in,
+configuration information,we,"security, services"
+configuration information,we,"security, services, advertising, analytics, legal"
+configuration information,zoom,"analytics, services, advertising, legal, security"
+contact information,UNSPECIFIED_ACTOR,"services, legal"
+contact information,actual acquirer,
+contact information,corporate affiliate,"security, services"
+contact information,integration,
+contact information,product research,"advertising, analytics, legal, security, services"
+contact information,promotion,"advertising, analytics, legal, security, services"
+contact information,relevant participant in,
+contact information,we,"security, services"
+contact information,we,"security, services, advertising, analytics, legal"
+contact information,zoom,"analytics, services, advertising, legal, security"
+content host on account,designate account administrator,
+custom label,recipient of zoom emails invite,
+develop app,integration,
+display name,UNSPECIFIED_ACTOR,"services, legal"
+display name,actual acquirer,
+display name,corporate affiliate,"security, services"
+display name,integration,
+display name,product research,"advertising, analytics, legal, security, services"
+display name,promotion,"advertising, analytics, legal, security, services"
+display name,relevant participant in,
+display name,we,"security, services, advertising, analytics"
+display name,we,"security, services, advertising, analytics, legal"
+display name,zoom,"analytics, services, advertising, legal, security"
+education information,we,"security, services"
+email address,UNSPECIFIED_ACTOR,"services, legal"
+email address,actual acquirer,
+email address,corporate affiliate,"security, services"
+email address,designate account administrator,
+email address,integration,
+email address,product research,"advertising, analytics, legal, security, services"
+email address,promotion,"advertising, analytics, legal, security, services"
+email address,relevant participant in,
+email address,we,"security, services, advertising, analytics"
+email address,we,"security, services, advertising, analytics, legal"
+email address,zoom,
+email address,zoom,"analytics, services, advertising, legal, security"
+email metadata use for basic email delivery,zoom,
+emoji,we,"security, services"
+facial geometry,zoom,"analytics, services"
+file,invitee,
+file,meeting host,
+file,zoom,
+file,zoom,"analytics, services"
+financial information,UNSPECIFIED_ACTOR,"services, legal"
+financial information,actual acquirer,
+financial information,corporate affiliate,"security, services"
+financial information,integration,
+financial information,product research,"advertising, analytics, legal, security, services"
+financial information,promotion,"advertising, analytics, legal, security, services"
+financial information,relevant participant in,
+financial information,we,"security, services"
+financial information,we,"security, services, advertising, analytics, legal"
+financial information,zoom,"analytics, services"
+financial information,zoom,"analytics, services, advertising, legal, security"
+geolocation,UNSPECIFIED_ACTOR,"services, legal"
+geolocation,actual acquirer,
+geolocation,corporate affiliate,"security, services"
+geolocation,integration,
+geolocation,product research,"advertising, analytics, legal, security, services"
+geolocation,promotion,"advertising, analytics, legal, security, services"
+geolocation,relevant participant in,
+geolocation,we,"security, services"
+geolocation,we,"security, services, advertising, analytics, legal"
+geolocation,zoom,"analytics, services, advertising, legal, security"
+hard disk id,we,"security, services"
+header,zoom,"analytics, services"
+industry,zoom,"analytics, services, advertising, legal, security"
+information about account owner,zoom,"analytics, services"
+information about purchase,UNSPECIFIED_ACTOR,services
+information about purchase,zoom,"analytics, services"
+information from partner,UNSPECIFIED_ACTOR,"services, legal"
+information from partner,actual acquirer,
+information from partner,corporate affiliate,"security, services"
+information from partner,integration,
+information from partner,product research,"advertising, analytics, legal, security, services"
+information from partner,promotion,"advertising, analytics, legal, security, services"
+information from partner,relevant participant in,
+information from partner,we,"security, services"
+information from partner,we,"security, services, advertising, analytics, legal"
+information from partner,zoom,"analytics, services, advertising, legal, security"
+information from zoom email services,UNSPECIFIED_ACTOR,services
+information from zoom email services,UNSPECIFIED_ACTOR,"services, legal"
+information from zoom email services,actual acquirer,
+information from zoom email services,corporate affiliate,"security, services"
+information from zoom email services,integration,
+information from zoom email services,product research,"advertising, analytics, legal, security, services"
+information from zoom email services,promotion,"advertising, analytics, legal, security, services"
+information from zoom email services,relevant participant in,
+information from zoom email services,we,"security, services"
+information from zoom email services,we,"security, services, advertising, analytics, legal"
+information from zoom email services,zoom,"analytics, services, advertising, legal, security"
+information on device about face,UNSPECIFIED_ACTOR,services
+information on device about face,zoom,"analytics, services"
+information provide,UNSPECIFIED_ACTOR,"services, legal"
+information provide,actual acquirer,
+information provide,corporate affiliate,"security, services"
+information provide,integration,
+information provide,product research,"advertising, analytics, legal, security, services"
+information provide,promotion,"advertising, analytics, legal, security, services"
+information provide,relevant participant in,
+information provide,we,"security, services, advertising, analytics"
+information provide,we,"security, services, advertising, analytics, legal"
+information provide,zoom,"analytics, services, advertising, legal, security"
+information regard meeting invitation,zoom,"analytics, services"
+information we receive from third party partner,we,"security, services, advertising, analytics"
+information you provide through virtual chat feature at direction of account owner,UNSPECIFIED_ACTOR,"services, legal"
+information you provide through virtual chat feature at direction of account owner,actual acquirer,
+information you provide through virtual chat feature at direction of account owner,corporate affiliate,"security, services"
+information you provide through virtual chat feature at direction of account owner,integration,
+information you provide through virtual chat feature at direction of account owner,product research,"advertising, analytics, legal, security, services"
+information you provide through virtual chat feature at direction of account owner,promotion,"advertising, analytics, legal, security, services"
+information you provide through virtual chat feature at direction of account owner,relevant participant in,
+information you provide through virtual chat feature at direction of account owner,we,"security, services"
+information you provide through virtual chat feature at direction of account owner,we,"security, services, advertising, analytics, legal"
+information you provide through virtual chat feature at direction of account owner,zoom,"analytics, services"
+information you provide through virtual chat feature at direction of account owner,zoom,"analytics, services, advertising, legal, security"
+information zoom associate with individual person,UNSPECIFIED_ACTOR,"services, legal"
+information zoom associate with individual person,actual acquirer,
+information zoom associate with individual person,corporate affiliate,"security, services"
+information zoom associate with individual person,integration,
+information zoom associate with individual person,product research,"advertising, analytics, legal, security, services"
+information zoom associate with individual person,promotion,"advertising, analytics, legal, security, services"
+information zoom associate with individual person,relevant participant in,
+information zoom associate with individual person,we,"security, services, advertising, analytics, legal"
+information zoom associate with individual person,zoom,"analytics, services, advertising, legal, security"
+input help,we,"security, services"
+ip address,we,"security, services"
+job information,UNSPECIFIED_ACTOR,"services, legal"
+job information,actual acquirer,
+job information,corporate affiliate,"security, services"
+job information,integration,
+job information,product research,"advertising, analytics, legal, security, services"
+job information,promotion,"advertising, analytics, legal, security, services"
+job information,relevant participant in,
+job information,we,"security, services, advertising, analytics"
+job information,we,"security, services, advertising, analytics, legal"
+job information,zoom,"analytics, services, advertising, legal, security"
+keystroke,we,"security, services"
+log information,UNSPECIFIED_ACTOR,"services, legal"
+log information,actual acquirer,
+log information,corporate affiliate,"security, services"
+log information,integration,
+log information,product research,"advertising, analytics, legal, security, services"
+log information,promotion,"advertising, analytics, legal, security, services"
+log information,relevant participant in,
+log information,we,"security, services"
+log information,we,"security, services, advertising, analytics, legal"
+log information,zoom,"analytics, services"
+log information,zoom,"analytics, services, advertising, legal, security"
+mac address,we,"security, services"
+meeting asset,meeting host,
+meeting content,invitee,
+meeting content,meeting host,
+meeting content,zoom,
+message,UNSPECIFIED_ACTOR,services
+message send to everyone,invitee,
+message send to everyone,meeting host,
+message send to meeting group chat,invitee,
+message send to meeting group chat,meeting host,
+message send to they,invitee,
+message send to they,meeting host,
+messaging content,zoom,
+messaging content in case describe in statement,zoom,"analytics, services"
+metadata,zoom,"analytics, services"
+metric,we,"security, services"
+microphone,we,"security, services"
+mimeid,zoom,"analytics, services"
+mouse movement,we,"security, services"
+number,zoom,"analytics, services"
+operating system version,we,"security, services"
+os version,we,"security, services"
+pc name,we,"security, services"
+performance datum,we,"security, services"
+person name,UNSPECIFIED_ACTOR,"services, legal"
+person name,actual acquirer,
+person name,company with whom you form business relationship for personal purpose,
+person name,corporate affiliate,"security, services"
+person name,integration,
+person name,product research,"advertising, analytics, legal, security, services"
+person name,promotion,"advertising, analytics, legal, security, services"
+person name,relevant participant in,
+person name,we,"security, services, advertising, analytics"
+person name,we,"security, services, advertising, analytics, legal"
+person name,zoom,"analytics, services, advertising, legal, security"
+personal identifier,UNSPECIFIED_ACTOR,"services, legal"
+personal identifier,actual acquirer,
+personal identifier,corporate affiliate,"security, services"
+personal identifier,integration,
+personal identifier,product research,"advertising, analytics, legal, security, services"
+personal identifier,promotion,"advertising, analytics, legal, security, services"
+personal identifier,relevant participant in,
+personal identifier,we,"security, services, advertising, analytics"
+personal identifier,we,"security, services, advertising, analytics, legal"
+personal identifier,zoom,"analytics, services, advertising, legal, security"
+phone number,UNSPECIFIED_ACTOR,"services, legal"
+phone number,actual acquirer,
+phone number,corporate affiliate,"security, services"
+phone number,integration,
+phone number,product research,"advertising, analytics, legal, security, services"
+phone number,promotion,"advertising, analytics, legal, security, services"
+phone number,relevant participant in,
+phone number,we,"security, services, advertising, analytics"
+phone number,we,"security, services, advertising, analytics, legal"
+phone number,zoom,"analytics, services, advertising, legal, security"
+picture,UNSPECIFIED_ACTOR,"services, legal"
+picture,actual acquirer,
+picture,corporate affiliate,"security, services"
+picture,integration,
+picture,product research,"advertising, analytics, legal, security, services"
+picture,promotion,"advertising, analytics, legal, security, services"
+picture,relevant participant in,
+picture,we,"security, services, advertising, analytics"
+picture,we,"security, services, advertising, analytics, legal"
+picture,zoom,"analytics, services, advertising, legal, security"
+reference photo,zoom,"analytics, services, advertising, legal, security"
+registration information,UNSPECIFIED_ACTOR,"services, legal"
+registration information,actual acquirer,
+registration information,corporate affiliate,"security, services"
+registration information,integration,
+registration information,product research,"advertising, analytics, legal, security, services"
+registration information,promotion,"advertising, analytics, legal, security, services"
+registration information,relevant participant in,
+registration information,we,"security, services, advertising, analytics, legal"
+registration information,zoom,"analytics, services, advertising, legal, security"
+screen sharing,we,"security, services"
+screen sharing setting,UNSPECIFIED_ACTOR,"services, legal"
+screen sharing setting,actual acquirer,
+screen sharing setting,corporate affiliate,"security, services"
+screen sharing setting,integration,
+screen sharing setting,product research,"advertising, analytics, legal, security, services"
+screen sharing setting,promotion,"advertising, analytics, legal, security, services"
+screen sharing setting,relevant participant in,
+screen sharing setting,we,"security, services, advertising, analytics, legal"
+screen sharing setting,zoom,"analytics, services, advertising, legal, security"
+sensitive personal information,zoom,"analytics, services, advertising, legal, security"
+specific piece,UNSPECIFIED_ACTOR,"services, legal"
+specific piece,actual acquirer,
+specific piece,corporate affiliate,"security, services"
+specific piece,integration,
+specific piece,product research,"advertising, analytics, legal, security, services"
+specific piece,promotion,"advertising, analytics, legal, security, services"
+specific piece,relevant participant in,
+specific piece,we,"security, services, advertising, analytics, legal"
+specific piece,zoom,"analytics, services, advertising, legal, security"
+state locale,UNSPECIFIED_ACTOR,"services, legal"
+state locale,actual acquirer,
+state locale,corporate affiliate,"security, services"
+state locale,integration,
+state locale,product research,"advertising, analytics, legal, security, services"
+state locale,promotion,"advertising, analytics, legal, security, services"
+state locale,relevant participant in,
+state locale,we,"security, services, advertising, analytics"
+state locale,we,"security, services, advertising, analytics, legal"
+state locale,zoom,"analytics, services, advertising, legal, security"
+subject line,recipient of zoom emails invite,
+time,zoom,"analytics, services, advertising, legal, security"
+title,zoom,"analytics, services, advertising, legal, security"
+transcript text,we,"security, services"
+usage information,UNSPECIFIED_ACTOR,services
+usage information,UNSPECIFIED_ACTOR,"services, legal"
+usage information,actual acquirer,
+usage information,corporate affiliate,"security, services"
+usage information,integration,
+usage information,product research,"advertising, analytics, legal, security, services"
+usage information,promotion,"advertising, analytics, legal, security, services"
+usage information,relevant participant in,
+usage information,we,"security, services"
+usage information,we,"security, services, advertising, analytics, legal"
+usage information,zoom,"analytics, services, advertising, legal, security"
+voice,zoom,"analytics, services, advertising, legal, security"
+voiceprint,zoom,"analytics, services"
+voiceprint,zoom,"analytics, services, advertising, legal, security"
+webinar,UNSPECIFIED_ACTOR,services
+whiteboard,invitee,
+whiteboard,meeting host,
+wifi information,we,"security, services"

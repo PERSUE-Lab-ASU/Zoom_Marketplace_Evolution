@@ -1,0 +1,21 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,service provider,services
+UNSPECIFIED_DATA,third party payment processing service store billing information on secure payment system for,
+UNSPECIFIED_DATA,thought industries,services
+UNSPECIFIED_DATA,we,services
+account information,we,services
+cookie / pixel tag,advertiser,
+cookie / pixel tag,thought industries,services
+cookie / pixel tag,we,"services, security"
+credit / debit card number,we,"services, security"
+device identifier,we,"services, security"
+email pattern,we,"services, security"
+information supply to thought industries,thought industries,services
+ip address,we,"services, security"
+name of isp,we,"services, security"
+personal information,UNSPECIFIED_ACTOR,
+personal information,service provider,services
+personal information,thought industries,"services, advertising"
+personal information,we,"services, security"
+url,we,"services, security"
+url of page be,advertiser,

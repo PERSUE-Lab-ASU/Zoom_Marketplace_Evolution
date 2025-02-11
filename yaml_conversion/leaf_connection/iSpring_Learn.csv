@@ -1,0 +1,105 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,ispring,"analytics, services"
+UNSPECIFIED_DATA,service providers,
+UNSPECIFIED_DATA,we,"analytics, legal, security, services"
+advertiser,service providers,
+billing processing service,service providers,
+business private address,ispring,"analytics, services"
+chat service,service providers,
+communication network,service providers,
+company name,ispring,"analytics, services"
+company name,we,"analytics, legal, security, services"
+connection type,we,"analytics, legal, security, services, advertising"
+contact information,we,"analytics, legal, security, services"
+content,network,
+content enrichment provider,service providers,
+content transcription service,service providers,
+cookie / pixel tag,ispring,"analytics, services"
+cookie / pixel tag,we,"analytics, legal, security, services, advertising"
+country preference,we,"analytics, legal, security, services, advertising"
+customer data,UNSPECIFIED_ACTOR,
+customer data,authorize reseller,
+customer data,ispring,"analytics, services, security, advertising, legal"
+customer data,partner involve in,
+customer data,party involve in event,
+customer data,service providers,
+customer data,we,"analytics, legal, security, services, advertising"
+data controller,ispring,"analytics, services"
+data optimization service,service providers,
+data security service,service providers,
+datum traffic,we,"analytics, legal, security, services, advertising"
+domain name registration information,ispring,"analytics, services, security"
+domain name registration information,we,"analytics, legal, security, services, advertising"
+email address,ispring,"analytics, services"
+email address,ispring,"analytics, services, security"
+email address,we,"analytics, legal, security, services, advertising"
+email address,zoom webinar app,services
+email service provider,service providers,
+evaluation information,we,"analytics, legal, security, services, advertising"
+event attendance statistic,ispring,"analytics, services, security"
+event production service,service providers,
+filename,ispring,"analytics, services, security"
+filename,we,"analytics, legal, security, services, advertising"
+fraud detection service,service providers,
+hosting co - location service,service providers,
+information about interaction with service,ispring,"analytics, services, security"
+information about marketing preference,we,"analytics, legal, security, services, advertising"
+information about you require,ispring,"analytics, services, security"
+information provide through connection,ispring,"analytics, services, security"
+information provide to ispring,ispring,"analytics, services, security"
+information provide to ispring,we,"analytics, legal, security, services, advertising"
+information relate to site account,ispring,"analytics, services, security"
+information relate to site account,we,"analytics, legal, security, services, advertising"
+information we collect,we,"analytics, legal, security, services, advertising"
+information you provide,ispring,"analytics, services, security"
+information you provide,we,"analytics, legal, security, services, advertising"
+ip address,ispring,"analytics, services, security"
+ip address,we,"analytics, legal, security, services, advertising"
+ispring services you order,ispring,"analytics, services, security"
+ispring services you order,we,"analytics, legal, security, services, advertising"
+letter,ispring,"analytics, services, security"
+letter,we,"analytics, legal, security, services, advertising"
+performance measurement,service providers,
+person name,ispring,"analytics, services, security"
+person name,we,"analytics, legal, security, services, advertising"
+phone number,ispring,"analytics, services, security, advertising, legal"
+photo,ispring,"analytics, services, security"
+photo,we,"analytics, legal, security, services, advertising"
+powerpoint version you use,ispring,"analytics, services, security"
+powerpoint version you use,we,"analytics, legal, security, services, advertising"
+prior version of policy,we,"analytics, legal, security, services, advertising"
+record of contact you have with ispring,ispring,"analytics, services, security"
+record of contact you have with ispring,we,"analytics, legal, security, services, advertising"
+relevant datum about,UNSPECIFIED_ACTOR,
+relevant datum from account on service,UNSPECIFIED_ACTOR,
+relevant datum from account on service,we,"analytics, legal, security, services, advertising"
+remote access service,service providers,
+session recording service,service providers,
+setting,we,"analytics, legal, security, services, advertising"
+site account information,we,"analytics, legal, security, services, advertising"
+size,ispring,"analytics, services, security"
+size,we,"analytics, legal, security, services, advertising"
+specific piece,UNSPECIFIED_ACTOR,
+specific piece,authorize reseller,
+specific piece,ispring,"analytics, services, security, advertising, legal"
+specific piece,partner involve in,
+specific piece,party involve in event,
+specific piece,service providers,
+specific piece,we,"analytics, legal, security, services, advertising"
+statistic on user who attend event,we,"analytics, legal, security, services, advertising"
+system configuration,ispring,"analytics, services, security"
+system configuration,we,"analytics, legal, security, services, advertising"
+title,ispring,"analytics, services, security, advertising, legal"
+track,we,"analytics, legal, security, services, advertising"
+user data,UNSPECIFIED_ACTOR,
+user data,authorize reseller,
+user data,ispring,"analytics, services, security, advertising, legal"
+user data,partner involve in,
+user data,party involve in event,
+user data,service providers,
+user data,we,"analytics, legal, security, services, advertising"
+user datum,we,"analytics, legal, security, services, advertising"
+video footage of you,ispring,"analytics, services, security, advertising, legal"
+web analytic,service providers,
+zoom access key,ispring,"analytics, services, security, advertising, legal"
+zoom event id,ispring,"analytics, services, security, advertising, legal"

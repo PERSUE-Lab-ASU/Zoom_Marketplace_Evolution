@@ -1,0 +1,25 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,donut,services
+UNSPECIFIED_DATA,operator of website,
+UNSPECIFIED_DATA,vendor work on behalf,
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services"
+billing metadata about company,we,"advertising, analytics, security, services"
+company information,we,"advertising, analytics, security, services"
+contact information,we,"advertising, analytics, security, services"
+cookie / pixel tag,we,"advertising, analytics, security, services"
+data we collect,we,"advertising, analytics, security, services"
+datum about device,we,"advertising, analytics, security, services"
+datum about feature you use,we,"advertising, analytics, security, services"
+device datum,we,"advertising, analytics, security, services"
+email address,we,"advertising, analytics, security, services"
+encrypted backup of datum,we,"advertising, analytics, security, services"
+identifier,we,"advertising, analytics, security, services"
+information about security vulnerability exploit through penetration testing,we,"advertising, analytics, security, services"
+non-personal information,UNSPECIFIED_ACTOR,"advertising, analytics"
+non-personal information,we,"advertising, analytics, security, services"
+person name,we,"advertising, analytics, security, services"
+personal information,UNSPECIFIED_ACTOR,"advertising, analytics"
+personal information,we,"advertising, analytics, security, services, legal"
+phone number,we,"advertising, analytics, security, services, legal"
+postal address,we,"advertising, analytics, security, services, legal"
+use datum,we,"advertising, analytics, security, services, legal"

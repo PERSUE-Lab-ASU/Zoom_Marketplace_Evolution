@@ -1,0 +1,89 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+account,we,"advertising, analytics, legal, security, services"
+advertising id,Plaid,
+advertising id,UNSPECIFIED_ACTOR,advertising
+advertising id,advertiser,
+advertising id,advertiser,advertising
+advertising id,service provider,
+advertising id,we,"advertising, analytics, legal, security, services"
+amount,honeybook,services
+analytic provider,we,"advertising, analytics, legal, security, services"
+bank account number,honeybook,services
+bank account number,we,"advertising, analytics, legal, security, services"
+billing information,we,"advertising, analytics, legal, security, services"
+browser type,advertiser,
+browser type,service provider,
+browser type,we,"advertising, analytics, legal, security, services"
+business address,we,"advertising, analytics, legal, security, services"
+calendar,we,"advertising, analytics, legal, security, services"
+coarse geolocation,we,"advertising, analytics, legal, security, services"
+commercial information,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,advertiser,
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+credit / debit card number,we,"advertising, analytics, legal, security, services"
+currency,honeybook,services
+customer support,we,"advertising, analytics, legal, security, services"
+date,honeybook,services
+date of birth,we,"advertising, analytics, legal, security, services"
+datum describe in automatic data collection section,advertiser,
+derivation,we,"advertising, analytics, legal, security, services"
+device type,advertiser,
+device type,service provider,
+device type,we,"advertising, analytics, legal, security, services"
+ein,we,"advertising, analytics, legal, security, services"
+email address,we,"advertising, analytics, legal, security, services"
+email delivery,we,"advertising, analytics, legal, security, services"
+friend list,we,"advertising, analytics, legal, security, services"
+geolocation,honeybook,services
+google account,we,"advertising, analytics, legal, security, services"
+hosting,we,"advertising, analytics, legal, security, services"
+inbox,we,"advertising, analytics, legal, security, services"
+inference draw from foregoing,we,"advertising, analytics, legal, security, services"
+information about user,UNSPECIFIED_ACTOR,advertising
+information about user,we,"advertising, analytics, legal, security, services"
+information in communication,we,"advertising, analytics, legal, security, services"
+information technology,we,"advertising, analytics, legal, security, services"
+information you provide in connection with application,we,"advertising, analytics, legal, security, services"
+ip address,advertiser,
+ip address,service provider,
+ip address,we,"advertising, analytics, legal, security, services"
+job title,we,"advertising, analytics, legal, security, services"
+language setting,advertiser,
+language setting,service provider,
+language setting,we,"advertising, analytics, legal, security, services"
+last digit,we,"advertising, analytics, legal, security, services"
+legal business name,we,"advertising, analytics, legal, security, services"
+merchant name,honeybook,services
+metadata assign to contact,we,"advertising, analytics, legal, security, services"
+model,advertiser,
+model,service provider,
+model,we,"advertising, analytics, legal, security, services"
+navigation path,advertiser,
+navigation path,service provider,
+navigation path,we,"advertising, analytics, legal, security, services"
+operate system type,advertiser,
+operate system type,service provider,
+operate system type,we,"advertising, analytics, legal, security, services"
+person name,we,"advertising, analytics, legal, security, services"
+personal address,we,"advertising, analytics, legal, security, services"
+phone number,we,"advertising, analytics, legal, security, services"
+postal address,we,"advertising, analytics, legal, security, services"
+profile information,we,"advertising, analytics, legal, security, services"
+radio network information,advertiser,advertising
+radio network information,service provider,
+radio network information,we,"advertising, analytics, legal, security, services"
+ram cpu usage,advertiser,
+ram cpu usage,service provider,
+ram cpu usage,we,"advertising, analytics, legal, security, services"
+related information,we,"advertising, analytics, legal, security, services"
+screen resolution,advertiser,
+screen resolution,service provider,
+screen resolution,we,"advertising, analytics, legal, security, services"
+social media,advertiser,advertising
+ssn,we,"advertising, analytics, legal, security, services"
+tax id employer identification number,we,"advertising, analytics, legal, security, services"
+transaction category,honeybook,services
+transaction history,we,"advertising, analytics, legal, security, services"
+transaction id,honeybook,services
+website url,we,"advertising, analytics, legal, security, services"

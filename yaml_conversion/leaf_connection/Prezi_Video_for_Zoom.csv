@@ -1,0 +1,67 @@
+data_type,collector,purpose
+Google,search engine,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,link service,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal"
+account,UNSPECIFIED_ACTOR,
+account,we,"advertising, analytics, legal, services, security"
+adequate level of protection,we,"advertising, analytics, legal, services"
+aggregate insight not identify you,we,"advertising, analytics, legal, services"
+card expiration date,we,"advertising, analytics, legal, services, security"
+collective learning about,we,"advertising, analytics, legal, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,advertiser,
+contact information,we,"advertising, analytics, legal, services"
+contact information,we,"advertising, analytics, legal, services, security"
+cookie / pixel tag,functionality,
+cookie / pixel tag,link service,
+cookie / pixel tag,service provider,
+cookie / pixel tag,third party content,
+cookie / pixel tag,we,"advertising, analytics, legal, services"
+credit / debit card number,we,"advertising, analytics, legal, services, security"
+cvv code,we,"advertising, analytics, legal, services, security"
+email address,UNSPECIFIED_ACTOR,
+email address,we,"advertising, analytics, legal, services"
+email address,we,"advertising, analytics, legal, services, security"
+feedback provide to we,we,"advertising, analytics, legal, services, security"
+information concern past behavior with services,we,"advertising, analytics, legal, services, security"
+information from third party who provide link service,UNSPECIFIED_ACTOR,
+information from third party who provide link service,we,"advertising, analytics, legal, services, security"
+information we collect from,we,"advertising, analytics, legal, services, security"
+information we collect under privacy policy,we,"advertising, analytics, legal, services, security"
+information we have about you,infogram,services
+information we have about you,prezi.com kft,services
+information we have about you,we,"advertising, analytics, legal, services, security"
+ip address,UNSPECIFIED_ACTOR,
+ip address,we,"advertising, analytics, legal, services, security"
+message,UNSPECIFIED_ACTOR,
+message,we,"advertising, analytics, legal, services, security"
+option within service,we,"advertising, analytics, legal, services, security"
+person name,UNSPECIFIED_ACTOR,
+person name,we,"advertising, analytics, legal, services"
+person name,we,"advertising, analytics, legal, services, security"
+personal data provide in verifiable consumer request,we,"advertising, analytics, legal, services, security"
+personal datum include in content,UNSPECIFIED_ACTOR,
+personal datum include in content,archive,
+personal datum include in content,search engine,
+personal datum we have,we,"advertising, analytics, legal, services, security"
+personal datum you choose,we,"advertising, analytics, legal, services, security"
+pixel,we,"advertising, analytics, legal, services, security"
+postal address,UNSPECIFIED_ACTOR,
+postal address,we,"advertising, analytics, legal, services, security"
+prezi ai,we,"advertising, analytics, legal, services, security"
+prezi inc.,we,"advertising, analytics, legal, services, security"
+private information,UNSPECIFIED_ACTOR,
+referrer header,UNSPECIFIED_ACTOR,
+referrer header,we,"advertising, analytics, legal, services, security"
+related datum,we,"advertising, analytics, legal, services, security"
+service usage,UNSPECIFIED_ACTOR,
+service usage,we,"advertising, analytics, legal, services, security"
+service usage information,we,"advertising, analytics, legal, services, security"
+session information,advertiser,
+session information,we,"advertising, analytics, legal, services"
+specific piece of personal data we collect about you,we,"advertising, analytics, legal, services, security"
+username,UNSPECIFIED_ACTOR,
+username,we,"advertising, analytics, legal, services"
+username,we,"advertising, analytics, legal, services, security"
+verifiable consumer request,we,"advertising, analytics, legal, services, security"

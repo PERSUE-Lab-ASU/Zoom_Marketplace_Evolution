@@ -1,0 +1,78 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Kaltura,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+account relevant information,account owner,
+account relevant information,faculty,
+affiliation,Kaltura,"services, security"
+affiliation,UNSPECIFIED_ACTOR,"advertising, services"
+affiliation,business partner,advertising
+affiliation,we,"analytics, services, advertising, legal, security"
+aggregate user information,we,"analytics, services"
+anonymous identifier,Kaltura,
+auth provider,Kaltura,"services, security"
+billing,account owner,
+billing,faculty,
+communication preference,we,"analytics, services"
+contact information,Kaltura,services
+contact information,business partner,advertising
+contact information,we,"analytics, services, advertising"
+different category,Kaltura,"services, security"
+different category,UNSPECIFIED_ACTOR,advertising
+different category,we,"analytics, services, advertising"
+electronic communication between you,Kaltura,"services, security"
+electronic communication between you,UNSPECIFIED_ACTOR,"advertising, services"
+electronic communication between you,business partner,advertising
+electronic communication between you,we,"analytics, services, advertising, legal, security"
+email address,Kaltura,"services, security"
+email address,UNSPECIFIED_ACTOR,"advertising, services"
+email address,business partner,advertising
+email address,we,"analytics, services, advertising"
+email address,we,"analytics, services, advertising, legal, security"
+facebook like button,Kaltura,"services, security"
+geolocation,Kaltura,"services, security"
+geolocation,UNSPECIFIED_ACTOR,"advertising, services"
+geolocation,business partner,advertising
+geolocation,we,"analytics, services, advertising"
+geolocation,we,"analytics, services, advertising, legal, security"
+information about,we,"analytics, services, advertising"
+information on kaltura platform,Kaltura,"services, security"
+information you request through website,faculty,
+interest,Kaltura,"services, security"
+interest,UNSPECIFIED_ACTOR,"advertising, services"
+interest,business partner,advertising
+interest,we,"analytics, services, advertising, legal, security"
+internet activity,we,"analytics, services, advertising"
+ip address,Kaltura,"services, security"
+ip address,UNSPECIFIED_ACTOR,"advertising, services"
+ip address,business partner,advertising
+ip address,we,"analytics, services, advertising, legal, security"
+mac address,Kaltura,"services, security"
+password,we,"analytics, services, advertising"
+person name,Kaltura,"services, security"
+person name,UNSPECIFIED_ACTOR,"advertising, services"
+person name,business partner,advertising
+person name,we,"analytics, services, advertising, legal, security"
+personal information about potential business customer,we,"analytics, services, advertising, legal, security"
+phone number,we,"analytics, services, advertising"
+postal address,we,"analytics, services, advertising"
+postal address,we,"analytics, services, advertising, legal, security"
+professional title,Kaltura,"services, security"
+professional title,UNSPECIFIED_ACTOR,"advertising, services"
+professional title,business partner,advertising
+professional title,we,"analytics, services, advertising, legal, security"
+statistical reporting,faculty,"advertising, analytics"
+text,Kaltura,"services, security"
+text,UNSPECIFIED_ACTOR,"advertising, services"
+text,business partner,advertising
+text,we,"analytics, services, advertising, legal, security"
+token,Kaltura,"services, security"
+traffic information,we,"analytics, services, advertising, legal, security"
+traffic information need,system,
+tweet button,Kaltura,"services, security"
+url use,Kaltura,"services, security"
+url use,UNSPECIFIED_ACTOR,"advertising, services"
+url use,business partner,advertising
+url use,we,"analytics, services, advertising, legal, security"
+user login credential,Kaltura,"services, security"
+video content,we,"analytics, services, advertising, legal, security"

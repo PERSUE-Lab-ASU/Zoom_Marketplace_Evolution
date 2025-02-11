@@ -1,0 +1,36 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,cialfo,
+UNSPECIFIED_DATA,we,"analytics, services"
+auditor,professional advisor,
+banker,professional advisor,
+click url,we,"analytics, services, security, advertising, legal"
+clickstream datum about,we,"analytics, services"
+connection type,we,"analytics, services, security"
+cookie / pixel tag,UNSPECIFIED_ACTOR,analytics
+cookie / pixel tag,advertiser,"analytics, services"
+cookie / pixel tag,analytic provider,"analytics, services"
+cookie / pixel tag,cialfo,"analytics, services"
+cookie / pixel tag,service provider,analytics
+cookie / pixel tag,we,"analytics, services, security"
+country preference,we,"analytics, services, security"
+email address,we,"analytics, services, security"
+explore by cialfo platform,we,"analytics, services, security, advertising, legal"
+feedback customer provide to we through service,we,"analytics, services, security"
+file name,we,"analytics, services, security"
+information about customers,cialfo,"analytics, services"
+information about customers,government official,
+information about customers,private party,
+insurer,professional advisor,
+ip address,we,"analytics, services, security"
+lawyer,professional advisor,
+personal information,UNSPECIFIED_ACTOR,"analytics, services"
+personal information,cialfo,"analytics, services"
+personal information,educational institution,
+personal information,professional advisor,
+personal information,we,"analytics, services, security, advertising, legal"
+personal information belong to customer,educational institutions select,
+personal information belong to customer,we,"analytics, services, security, advertising, legal"
+setting,we,"analytics, services, security"
+size,we,"analytics, services, security"
+specific information,we,"analytics, services, security, advertising, legal"
+track,we,"analytics, services, security, advertising, legal"

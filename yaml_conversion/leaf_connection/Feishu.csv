@@ -1,0 +1,97 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,cooperative party,
+UNSPECIFIED_DATA,external collaborate organization,services
+UNSPECIFIED_DATA,feishu,
+UNSPECIFIED_DATA,we,"security, services"
+above information,feishu,
+acceleration sensor,we,"security, services, analytics"
+account,customer service provider,"analytics, services"
+account information,we,"security, services, analytics"
+app installation status,UNSPECIFIED_ACTOR,services
+application,we,"security, services, analytics"
+attachment of email,feishu mail,services
+avatar,we,"security, services, analytics"
+bluetooth information,feishu,services
+communication call record with we,we,"security, services, analytics"
+contact,feishu mail,services
+cookie / pixel tag,we,"security, services, analytics"
+cookies,we,"security, services, analytics"
+corresponding recording file,feishu,services
+device identifier,we,"security, services, analytics"
+device information,UNSPECIFIED_ACTOR,services
+device information,we,"security, services, analytics"
+device time zone,feishu,services
+distance sensor,feishu,services
+email address,feishu mail,services
+enterprise organization name,ByteDance,
+enterprise organization name,UNSPECIFIED_ACTOR,services
+facial feature information,we,"security, services, analytics"
+facial information,we,"security, services, analytics"
+facial photo,we,"security, services, analytics"
+feedback,feishu,services
+hardware model,we,"security, services, analytics"
+industry type,ByteDance,
+industry type,UNSPECIFIED_ACTOR,services
+information relate to permission,we,"security, services, analytics"
+internet activity,customer administrator,
+internet activity,feishu,services
+internet activity,service provider,
+language,we,"security, services, analytics"
+log record,we,"security, services, analytics"
+mobile acceleration sensor,we,"security, services, analytics"
+mobile phone distance sensor,feishu,"services, security"
+mobile phone model,Xiaomi,services
+mobile phone model,huawei,services
+mobile phone model,oppo,services
+mobile phone model,terminal equipment manufacturer,services
+mobile phone model,vivo,services
+necessary information of service,we,"security, services, analytics"
+necessary information use,we,"security, services, analytics"
+necessary personal information,UNSPECIFIED_ACTOR,services
+necessary personal information,external collaborate organization,services
+not software installation list information,feishu,"services, security"
+operating system version number,we,"security, services, analytics"
+order information,relevant product provider,
+order information for,UNSPECIFIED_ACTOR,services
+person name,UNSPECIFIED_ACTOR,services
+person name,authorize organization,security
+person name,competent department,security
+person name,cooperative party,
+person name,third party payment entity,
+person name,we,"security, services, analytics"
+personal information,UNSPECIFIED_ACTOR,services
+personal information,feishu,"services, security"
+personal information,we,"security, services, analytics"
+personal information need,we,"security, services, analytics"
+phone number,cooperative party,
+phone number,we,"security, services, analytics"
+postal address,cooperative party,
+postal address,we,"security, services, analytics"
+precise geolocation,feishu,"services, security"
+profile photo,UNSPECIFIED_ACTOR,services
+relevant device information,Xiaomi,services
+relevant device information,huawei,services
+relevant device information,oppo,services
+relevant device information,terminal equipment manufacturer,services
+relevant device information,vivo,services
+relevant information necessary,we,"security, services, analytics"
+relevant information of event involve,customer service provider,"analytics, services"
+relevant system permission authorize,UNSPECIFIED_ACTOR,services
+report,we,"security, services, analytics"
+router ssid,feishu,"services, security"
+search keyword information,we,"security, services, analytics"
+service log,we,"security, services, analytics"
+staff size,ByteDance,
+staff size,UNSPECIFIED_ACTOR,services
+text in picture,we,"security, services, analytics"
+time zone information of device,feishu,"services, security"
+transaction information,feishu,"services, security"
+verification result,feishu,"services, security"
+version,Xiaomi,services
+version,huawei,services
+version,oppo,services
+version,terminal equipment manufacturer,services
+version,vivo,services
+version,we,"security, services, analytics"
+work order information,we,"security, services, analytics"

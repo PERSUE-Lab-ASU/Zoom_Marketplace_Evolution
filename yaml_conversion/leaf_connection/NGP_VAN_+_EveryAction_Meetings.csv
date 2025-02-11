@@ -1,0 +1,230 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,we,"security, services"
+access to personal information we hold about you,we,"security, services"
+advertising id,advertiser,
+advertising id,service provider,
+advertising id,we,"security, services, advertising, analytics, legal"
+age,UNSPECIFIED_ACTOR,
+age,advertiser,
+age,authority,
+age,bonterra,
+age,business transferee,
+age,campaign,
+age,professional advisor,
+age,service provider,
+age,we,"security, services, advertising, analytics, legal"
+analytic provider,we,"security, services, advertising, analytics, legal"
+auditor,professional advisor,
+banker,professional advisor,
+browser type,advertiser,
+browser type,service provider,
+browser type,we,"security, services, advertising, analytics, legal"
+business affiliation,UNSPECIFIED_ACTOR,
+business affiliation,advertiser,
+business affiliation,authority,
+business affiliation,bonterra,
+business affiliation,business transferee,
+business affiliation,campaign,
+business affiliation,professional advisor,
+business affiliation,service provider,
+business affiliation,we,"security, services, advertising, analytics, legal"
+computer operate system type,advertiser,
+computer operate system type,service provider,
+computer operate system type,we,"security, services, advertising, analytics, legal"
+cpu usage,advertiser,
+cpu usage,service provider,
+cpu usage,we,"security, services, advertising, analytics, legal"
+customer support,we,"security, services, advertising, analytics, legal"
+cybergrants,we,"security, services, advertising, analytics, legal"
+detail about engagement with communication,UNSPECIFIED_ACTOR,
+detail about engagement with communication,advertiser,
+detail about engagement with communication,authority,
+detail about engagement with communication,bonterra,
+detail about engagement with communication,business transferee,
+detail about engagement with communication,campaign,
+detail about engagement with communication,professional advisor,
+detail about engagement with communication,service provider,
+detail about engagement with communication,we,"security, services, advertising, analytics, legal"
+device type,advertiser,
+device type,service provider,
+device type,we,"security, services, advertising, analytics, legal"
+diversity information you provide,we,"security, services, advertising, analytics, legal"
+donation,UNSPECIFIED_ACTOR,
+donation,advertiser,
+donation,authority,
+donation,bonterra,
+donation,business transferee,
+donation,campaign,
+donation,professional advisor,
+donation,service provider,
+donation,we,"security, services, advertising, analytics, legal"
+email address,UNSPECIFIED_ACTOR,
+email address,advertiser,
+email address,authority,
+email address,bonterra,
+email address,business transferee,
+email address,campaign,
+email address,professional advisor,
+email address,service provider,
+email address,we,"security, services, advertising, analytics, legal"
+email delivery,we,"security, services, advertising, analytics, legal"
+engagement history,UNSPECIFIED_ACTOR,
+engagement history,advertiser,
+engagement history,authority,
+engagement history,bonterra,
+engagement history,business transferee,
+engagement history,campaign,
+engagement history,professional advisor,
+engagement history,service provider,
+engagement history,we,"security, services, advertising, analytics, legal"
+event information,UNSPECIFIED_ACTOR,
+event information,advertiser,
+event information,authority,
+event information,bonterra,
+event information,business transferee,
+event information,campaign,
+event information,professional advisor,
+event information,service provider,
+event information,we,"security, services, advertising, analytics, legal"
+everyaction,we,"security, services, advertising, analytics, legal"
+gender,UNSPECIFIED_ACTOR,
+gender,advertiser,
+gender,authority,
+gender,bonterra,
+gender,business transferee,
+gender,campaign,
+gender,professional advisor,
+gender,service provider,
+gender,we,"security, services, advertising, analytics, legal"
+geographic area,advertiser,
+geographic area,service provider,
+geographic area,we,"security, services, advertising, analytics, legal"
+hosting,we,"security, services, advertising, analytics, legal"
+html5,local storage technology,
+individual opt choice,we,"security, services, advertising, analytics, legal"
+information about,advertiser,
+information about,we,"security, services, advertising, analytics, legal"
+information about customer end user we collect not list,UNSPECIFIED_ACTOR,
+information about customer end user we collect not list,advertiser,
+information about customer end user we collect not list,authority,
+information about customer end user we collect not list,bonterra,
+information about customer end user we collect not list,business transferee,
+information about customer end user we collect not list,campaign,
+information about customer end user we collect not list,professional advisor,
+information about customer end user we collect not list,service provider,
+information about customer end user we collect not list,we,"security, services, advertising, analytics, legal"
+information about you,we,"security, services, advertising, analytics, legal"
+information technology,we,"security, services, advertising, analytics, legal"
+information you provide to we in connection with job application,we,"security, services, advertising, analytics, legal"
+insurer,professional advisor,
+ip address,advertiser,
+ip address,service provider,
+ip address,we,"security, services, advertising, analytics, legal"
+language setting,advertiser,
+language setting,service provider,
+language setting,we,"security, services, advertising, analytics, legal"
+large amount of datum,local storage technology,
+lawyer,professional advisor,
+manufacturer,advertiser,
+manufacturer,service provider,
+manufacturer,we,"security, services, advertising, analytics, legal"
+model,advertiser,
+model,service provider,
+model,we,"security, services, advertising, analytics, legal"
+navigation path,UNSPECIFIED_ACTOR,
+navigation path,advertiser,
+navigation path,authority,
+navigation path,bonterra,
+navigation path,business transferee,
+navigation path,campaign,
+navigation path,local storage technology,
+navigation path,professional advisor,
+navigation path,service provider,
+navigation path,we,"security, services, advertising, analytics"
+navigation path,we,"security, services, advertising, analytics, legal"
+occupation,UNSPECIFIED_ACTOR,
+occupation,advertiser,
+occupation,authority,
+occupation,bonterra,
+occupation,business transferee,
+occupation,campaign,
+occupation,professional advisor,
+occupation,service provider,
+occupation,we,"security, services, advertising, analytics, legal"
+payment datum,UNSPECIFIED_ACTOR,
+payment datum,advertiser,
+payment datum,authority,
+payment datum,bonterra,
+payment datum,business transferee,
+payment datum,campaign,
+payment datum,professional advisor,
+payment datum,service provider,
+payment datum,we,"security, services, advertising, analytics, legal"
+person name,UNSPECIFIED_ACTOR,
+person name,advertiser,
+person name,authority,
+person name,bonterra,
+person name,business transferee,
+person name,campaign,
+person name,professional advisor,
+person name,service provider,
+person name,we,"security, services, advertising, analytics, legal"
+phone number,UNSPECIFIED_ACTOR,
+phone number,advertiser,
+phone number,authority,
+phone number,bonterra,
+phone number,business transferee,
+phone number,campaign,
+phone number,professional advisor,
+phone number,service provider,
+phone number,we,"security, services, advertising, analytics, legal"
+political affiliation,UNSPECIFIED_ACTOR,
+political affiliation,advertiser,
+political affiliation,authority,
+political affiliation,bonterra,
+political affiliation,business transferee,
+political affiliation,campaign,
+political affiliation,professional advisor,
+political affiliation,service provider,
+political affiliation,we,"security, services, advertising, analytics, legal"
+postal address,UNSPECIFIED_ACTOR,
+postal address,advertiser,
+postal address,authority,
+postal address,bonterra,
+postal address,business transferee,
+postal address,campaign,
+postal address,professional advisor,
+postal address,service provider,
+postal address,we,"security, services, advertising, analytics, legal"
+preference for,UNSPECIFIED_ACTOR,
+preference for,advertiser,
+preference for,authority,
+preference for,bonterra,
+preference for,business transferee,
+preference for,campaign,
+preference for,professional advisor,
+preference for,service provider,
+preference for,we,"security, services, advertising, analytics, legal"
+professional title,UNSPECIFIED_ACTOR,
+professional title,advertiser,
+professional title,authority,
+professional title,bonterra,
+professional title,business transferee,
+professional title,campaign,
+professional title,professional advisor,
+professional title,service provider,
+professional title,we,"security, services, advertising, analytics, legal"
+radio network information,advertiser,
+radio network information,service provider,
+radio network information,we,"security, services, advertising, analytics, legal"
+ram disk size,advertiser,
+ram disk size,service provider,
+ram disk size,we,"security, services, advertising, analytics, legal"
+research firm,advertiser,
+screen resolution,advertiser,
+screen resolution,service provider,
+screen resolution,we,"security, services, advertising, analytics, legal"
+version,advertiser,
+version,service provider,
+version,we,"security, services, advertising, analytics, legal"

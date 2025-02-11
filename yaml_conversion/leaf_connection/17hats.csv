@@ -1,0 +1,22 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,17hats,
+UNSPECIFIED_DATA,we,
+access time,we,
+account,we,
+browser language,we,
+browser type,we,
+company name,we,
+computer operate system type,we,
+consent information,we,
+cookie / pixel tag,we,"advertising, analytics"
+email address,we,"advertising, analytics"
+information about use of on service,we,"advertising, analytics"
+information about you,we,"advertising, analytics"
+information you give we on service,we,"advertising, analytics"
+ip address,we,"advertising, analytics"
+password,we,"advertising, analytics"
+person name,we,"advertising, analytics"
+personal information,17hats,
+personal information,we,"advertising, analytics"
+phone number,we,"advertising, analytics, services"
+postal address,we,"advertising, analytics, services"

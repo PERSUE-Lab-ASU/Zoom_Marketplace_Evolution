@@ -1,0 +1,106 @@
+data_type,collector,purpose
+Microsoft,advertiser,advertising
+Pinterest,advertiser,advertising
+Twitter,advertiser,advertising
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,application provider,
+UNSPECIFIED_DATA,content provider,
+UNSPECIFIED_DATA,different website,advertising
+UNSPECIFIED_DATA,group company,
+UNSPECIFIED_DATA,server,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,we,
+amount of time you spend on website,we,"advertising, analytics, services"
+browser type,we,"advertising, analytics, services"
+clickstream pattern,we,"advertising, analytics, services"
+copy of unrevised information,we,"advertising, analytics, services"
+current city,we,"advertising, analytics, services"
+date,we,"advertising, analytics, services"
+date of birth,we,"advertising, analytics, services"
+de - identified personal information datum,tracking,
+detail of visit to website,we,"advertising, analytics, services"
+different type,advertiser,
+different type,advertiser,advertising
+different type,application provider,
+different type,content provider,
+different type,feature of website,
+different type,server,
+different type,we,"advertising, analytics, services"
+education history,we,"advertising, analytics, services"
+email address,UNSPECIFIED_ACTOR,"analytics, services"
+email address,advertiser,
+email address,application provider,
+email address,content provider,
+email address,server,
+email address,service provider,
+email address,we,"advertising, analytics, services"
+equipment,we,"advertising, analytics, services"
+friend list,we,"advertising, analytics, services"
+gender,we,"advertising, analytics, services"
+geolocation,we,"advertising, analytics, services"
+gif,we,"advertising, analytics, services"
+information about equipment,we,"advertising, analytics, services"
+information about preference,feature of website,
+information about visit to website,advertiser,
+information post to public area of service,we,"advertising, analytics, services"
+information relate to use of website,we,"advertising, analytics, services"
+information use,we,"advertising, analytics, services"
+information we collect from you,we,"advertising, analytics, services"
+information you provide by,we,"advertising, analytics, services"
+interest,we,"advertising, analytics, services"
+internet activity,UNSPECIFIED_ACTOR,analytics
+internet activity,we,"advertising, analytics, services"
+internet connection,we,"advertising, analytics, services"
+ip address,UNSPECIFIED_ACTOR,analytics
+ip address,we,"advertising, analytics, services"
+local store object,feature of website,
+log file information,we,"advertising, analytics, services"
+log file information report from browser,we,"advertising, analytics, services"
+number of click,UNSPECIFIED_ACTOR,analytics
+number of click,we,"advertising, analytics, services"
+operating system,we,"advertising, analytics, services"
+person name,UNSPECIFIED_ACTOR,"analytics, services"
+person name,advertiser,
+person name,application provider,
+person name,content provider,
+person name,server,
+person name,service provider,
+person name,we,"advertising, analytics, services"
+personal description,we,"advertising, analytics, services"
+phone number,UNSPECIFIED_ACTOR,"analytics, services"
+phone number,advertiser,
+phone number,application provider,
+phone number,content provider,
+phone number,server,
+phone number,service provider,
+phone number,we,"advertising, analytics, services"
+photo,we,"advertising, analytics, services"
+pixel tracking,we,"advertising, analytics, services"
+platform type,UNSPECIFIED_ACTOR,analytics
+platform type,we,"advertising, analytics, services"
+platform user identification number,advertiser,
+platform user identification number,application provider,
+platform user identification number,content provider,
+platform user identification number,respective platform,
+platform user identification number,server,
+postal address,UNSPECIFIED_ACTOR,"analytics, services"
+postal address,advertiser,
+postal address,application provider,
+postal address,content provider,
+postal address,server,
+postal address,service provider,
+postal address,we,"advertising, analytics, services"
+profile information,we,"advertising, analytics, services"
+public sms profile,we,"advertising, analytics, services"
+related information,UNSPECIFIED_ACTOR,"analytics, services"
+relationship interest,we,"advertising, analytics, services"
+sensitive credit information you supply,braintree,
+statistic about usage level of website,UNSPECIFIED_ACTOR,"analytics, services"
+third party identifier,we,"advertising, analytics, services"
+time,we,"advertising, analytics, services"
+tumblr,advertiser,advertising
+url,UNSPECIFIED_ACTOR,analytics
+url,we,"advertising, analytics, services"
+url of most recent website you visit before,we,"advertising, analytics, services"
+usage detail,we,"advertising, analytics, services"
+xing,advertiser,advertising

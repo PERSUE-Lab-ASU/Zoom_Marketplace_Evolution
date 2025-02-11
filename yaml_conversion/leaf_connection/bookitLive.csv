@@ -1,0 +1,12 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,bookitlive,
+aggregate statistic about sale,UNSPECIFIED_ACTOR,
+aggregate statistic about sale,we,
+credit card payment for service,secure payment service provider,
+customer datum,bookitlive,
+information on upgrade available,establish service provider,
+information particular,service provider,
+internet activity,we,"security, services"
+ip address,we,"security, services"
+non-personal information,bookitlive,analytics
+personal information,we,"security, services"

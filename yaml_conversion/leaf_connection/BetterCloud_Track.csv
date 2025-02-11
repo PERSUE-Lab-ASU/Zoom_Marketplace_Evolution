@@ -1,0 +1,45 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"security, services"
+access time,we,"security, services"
+basic information about customer,we,"security, services"
+broad demographic information,we,"security, services"
+browser language,we,"security, services"
+browser type,we,"security, services"
+cookie / pixel tag,we,"security, services, analytics"
+evidence of identity,datarep,security
+geolocation,we,"security, services, analytics"
+information about,we,"security, services, analytics"
+information about use of,we,"security, services, analytics"
+information about you,government official,
+information about you,private party,
+information about you,we,"security, services, analytics"
+information for californian consumer,we,"security, services, analytics"
+information you agree,we,"security, services, analytics"
+local storage objects,we,"security, services, analytics"
+machine readable copy of personal information,UNSPECIFIED_ACTOR,
+manufacturer,we,"security, services, analytics"
+mobile app,we,"security, services, analytics, advertising, legal"
+model,we,"security, services, analytics"
+operating system name,we,"security, services, analytics"
+os version,we,"security, services, analytics"
+personal information we need,we,"security, services, analytics, advertising, legal"
+record,we,"security, services, analytics, advertising, legal"
+resale partner,business partner,
+screen resolution,we,"security, services, analytics, advertising, legal"
+sensitive personal datum,we,"security, services, analytics, advertising, legal"
+specific category,UNSPECIFIED_ACTOR,
+specific category,auditor,
+specific category,banker,
+specific category,bettercloud,
+specific category,business partner,
+specific category,criteria corp.,
+specific category,event co,
+specific category,hirebridge,
+specific category,insurer,
+specific category,lawyer,
+specific category,vista,analytics
+specific category,vista portfolio company,"advertising, services"
+specific category,we,"security, services, analytics, advertising, legal"
+specific information,we,"security, services, analytics, advertising, legal"
+vista consulting group,vista,analytics

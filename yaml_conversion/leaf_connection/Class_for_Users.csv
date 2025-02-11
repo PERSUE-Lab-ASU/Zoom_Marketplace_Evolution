@@ -1,0 +1,39 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,class,
+UNSPECIFIED_DATA,we,services
+commercial information,UNSPECIFIED_ACTOR,services
+commercial information,class,
+commercial information,class in court,legal
+commercial information,we,services
+commercial information,we,"services, advertising, analytics, legal, security"
+educational record govern,Google,"advertising, analytics"
+educational record govern,we,services
+file record interaction with application,UNSPECIFIED_ACTOR,services
+file record interaction with application,we,services
+identifier,UNSPECIFIED_ACTOR,services
+identifier,class,
+identifier,class in court,legal
+identifier,we,services
+identifier,we,"services, advertising, analytics, legal, security"
+information about,we,services
+information concern particular service upon,we,services
+information we collect,we,services
+internet information,UNSPECIFIED_ACTOR,services
+internet information,class,
+internet information,class in court,legal
+internet information,we,services
+internet information,we,"services, advertising, analytics, legal, security"
+ip address,UNSPECIFIED_ACTOR,services
+ip address,class,
+ip address,class in court,legal
+ip address,we,"services, advertising, analytics, legal, security"
+only as much information,we,services
+personal datum relate to user,c. class,legal
+source,UNSPECIFIED_ACTOR,services
+source,class,
+source,class in court,legal
+source,we,"services, advertising, analytics, legal, security"
+student data,we,"services, advertising, analytics, legal, security"
+system log,UNSPECIFIED_ACTOR,services
+system log,we,"services, advertising, analytics, legal, security"
+verifiable request,we,"services, advertising, analytics, legal, security"

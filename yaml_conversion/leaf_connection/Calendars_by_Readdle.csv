@@ -1,0 +1,22 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,legal
+UNSPECIFIED_DATA,consultant,
+UNSPECIFIED_DATA,contractor,legal
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,service provider in ukraine,
+UNSPECIFIED_DATA,we,legal
+alarm system,we,"legal, security"
+collect datum,we,"legal, security"
+cookie / pixel tag,we,"legal, security"
+corporate vpn,we,"legal, security"
+different messenger,we,"legal, security, services"
+divide group access,we,"legal, security, services"
+feedback,we,"legal, security, services"
+feedback submission date,we,"legal, security, services"
+person name,we,"legal, security, services"
+personal information,UNSPECIFIED_ACTOR,"legal, security"
+personal information,we,"legal, security, services"
+rating,we,"legal, security, services"
+technical datum,we,"legal, security, services"
+text of feedback,we,"legal, security, services"
+username,we,"legal, security, services"

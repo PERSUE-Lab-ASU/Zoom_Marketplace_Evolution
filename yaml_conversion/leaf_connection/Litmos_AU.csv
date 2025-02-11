@@ -1,0 +1,84 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,contractor,
+UNSPECIFIED_DATA,law enforcement agency,
+UNSPECIFIED_DATA,litmos us l.p.,
+UNSPECIFIED_DATA,we,"advertising, legal, security, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, legal, security, services"
+auditor,professional advisor,services
+banker,professional advisor,services
+browser information,we,"advertising, legal, security, services"
+category of information,UNSPECIFIED_ACTOR,
+category of information,we,"advertising, legal, security, services"
+component,we,"advertising, legal, security, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,"advertising, analytics"
+cookie / pixel tag,we,"advertising, legal, security, services"
+datum about you,UNSPECIFIED_ACTOR,"advertising, analytics"
+datum on use of website,we,"advertising, legal, security, services"
+datum use,we,"advertising, legal, security, services"
+detail of,we,"advertising, legal, security, services"
+device information,we,"advertising, legal, security, services"
+general information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+general information,advertiser,
+general information,analytic provider,
+general information,business partner,
+general information,company within litmos us,services
+general information,consult service,services
+general information,contractor,
+general information,country,
+general information,professional advisor,services
+general information,related service,services
+general information,search information provider,
+general information,service provider,services
+general information,state agency,services
+general information,sub- contractor,
+general information,we,"advertising, legal, security, services"
+general information,we,"advertising, legal, security, services, analytics"
+geolocation,we,"advertising, legal, security, services"
+information list in,we,"advertising, legal, security, services"
+information provide,we,"advertising, legal, security, services"
+insurer,professional advisor,services
+ip address,we,"advertising, legal, security, services"
+lawyer,professional advisor,services
+lso,UNSPECIFIED_ACTOR,"advertising, analytics"
+personal information under dpf principles,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+personal information under dpf principles,advertiser,
+personal information under dpf principles,analytic provider,
+personal information under dpf principles,business partner,
+personal information under dpf principles,company within litmos us,services
+personal information under dpf principles,consult service,services
+personal information under dpf principles,contractor,
+personal information under dpf principles,country,
+personal information under dpf principles,professional advisor,services
+personal information under dpf principles,related service,services
+personal information under dpf principles,search information provider,
+personal information under dpf principles,service provider,services
+personal information under dpf principles,state agency,services
+personal information under dpf principles,sub- contractor,
+personal information under dpf principles,we,"advertising, legal, security, services"
+personal information under dpf principles,we,"advertising, legal, security, services, analytics"
+personal information we obtain from third party,we,"advertising, legal, security, services"
+profile photo,we,"advertising, legal, security, services"
+profile photograph,UNSPECIFIED_ACTOR,"advertising, analytics"
+profile photograph,we,"advertising, legal, security, services"
+right request,we,"advertising, legal, security, services"
+specific piece,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+specific piece,advertiser,
+specific piece,analytic provider,
+specific piece,business partner,
+specific piece,company within litmos us,services
+specific piece,consult service,services
+specific piece,contractor,
+specific piece,country,
+specific piece,professional advisor,services
+specific piece,related service,services
+specific piece,search information provider,
+specific piece,service provider,services
+specific piece,state agency,services
+specific piece,sub- contractor,
+specific piece,we,"advertising, legal, security, services"
+specific piece,we,"advertising, legal, security, services, analytics"
+tag,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+transactional assistance,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+transactional assistance,contractor,
+useful information,we,"advertising, legal, security, services, analytics"

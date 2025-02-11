@@ -1,0 +1,44 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,member,services
+UNSPECIFIED_DATA,service provider who support business,
+UNSPECIFIED_DATA,we,"analytics, legal, services"
+above category,we,"analytics, legal, services, security"
+account detail,business workplace owner,services
+account detail,we,"analytics, legal, services, security"
+aggregate de,we,"analytics, legal, services, security"
+banking information,we,"analytics, legal, services, security"
+cloud service provider,service provider who support business,
+cookie / pixel tag,we,"analytics, legal, services, security, advertising"
+credit / debit card number,payment processor,
+credit / debit card number,we,"analytics, legal, services, security"
+credit / debit card number,we,"analytics, legal, services, security, advertising"
+datum from,we,"analytics, legal, services, security, advertising"
+document,we,"analytics, legal, services, security, advertising"
+email address,business workplace owner,services
+email address,we,"analytics, legal, services, security, advertising"
+information about privacy of personal datum of prospective user of services locate in jurisdiction,we,"analytics, legal, services, security, advertising"
+information about you,UNSPECIFIED_ACTOR,services
+information about you,business workplace owners,
+information about you,we,"analytics, legal, services, security, advertising"
+information we collect through use of service,we,"analytics, legal, services, security, advertising"
+password information,business workplace owner,services
+password information,we,"analytics, legal, services, security, advertising"
+payment information,payment processor,
+payment information,we,"analytics, legal, services, security, advertising"
+person name,business workplace owner,services
+person name,we,"analytics, legal, services, security, advertising"
+personal information,UNSPECIFIED_ACTOR,services
+personal information,company of business group,services
+personal information,lark,
+personal information,we,"analytics, legal, services, security, advertising"
+phone number,business workplace owner,services
+phone number,we,"analytics, legal, services, security, advertising"
+photo,business workplace owner,services
+photo,we,"analytics, legal, services, security, advertising"
+postal address,we,"analytics, legal, services, security"
+precise geolocation,we,"analytics, legal, services, security, advertising"
+record of transaction with we,payment processor,
+record of transaction with we,we,"analytics, legal, services, security"
+specific information,we,"analytics, legal, services, security, advertising"
+zip code,we,"analytics, legal, services, security, advertising"

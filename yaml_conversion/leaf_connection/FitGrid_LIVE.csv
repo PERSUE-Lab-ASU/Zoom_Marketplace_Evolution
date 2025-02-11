@@ -1,0 +1,51 @@
+data_type,collector,purpose
+Facebook,social media,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+applicable information in connection,carrier,
+applicable information in connection,we,"analytics, services"
+associated account information,we,"analytics, services"
+authorized link,we,"analytics, services, advertising, security"
+browser type,we,"analytics, services"
+contact list of device,we,"analytics, services, advertising"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,service provider,"advertising, analytics"
+cookie / pixel tag,we,"analytics, services, advertising"
+cookie / pixel tag,we,"analytics, services, advertising, security"
+credit / debit card number,we,"analytics, services, advertising"
+credit / debit card number,we,"analytics, services, advertising, security"
+date of birth,we,"analytics, services, advertising"
+datum about wireless device usage,service provider,"advertising, analytics"
+datum about wireless device usage,wireless carrier,
+device type,we,"analytics, services, advertising"
+email address,we,"analytics, services, advertising"
+email communication to subscriber,we,"analytics, services, advertising"
+email correspondence,we,"analytics, services, advertising"
+email you send,we,"analytics, services, advertising"
+identifier,we,"analytics, services, advertising"
+information about,UNSPECIFIED_ACTOR,
+information about customer,studio subscriber,
+information about you,we,"analytics, services, advertising"
+information collect from,we,"analytics, services, advertising"
+information we collect about you,we,"analytics, services, advertising, security"
+information you choose,we,"analytics, services, advertising, security"
+information you include in note,we,"analytics, services, advertising, security"
+internet activity,we,"analytics, services, advertising, security"
+ip address,social media,
+ip address,we,"analytics, services, advertising, security"
+note take through services,we,"analytics, services, advertising, security"
+password,we,"analytics, services, advertising"
+person name,we,"analytics, services, advertising"
+personal information,UNSPECIFIED_ACTOR,
+personal information,we,"analytics, services, advertising, security"
+phone number,we,"analytics, services, advertising"
+profile picture,we,"analytics, services, advertising"
+public database,we,"analytics, services, advertising, security"
+setting,we,"analytics, services, advertising, security"
+software use,we,"analytics, services, advertising, security"
+time email message,we,"analytics, services, advertising, security"
+unique username you like,we,"analytics, services, advertising"
+useful identify information,we,"analytics, services, advertising"
+yourguru,we,"analytics, services, advertising, security"
+yourguru inc.,we,"analytics, services, advertising, security"

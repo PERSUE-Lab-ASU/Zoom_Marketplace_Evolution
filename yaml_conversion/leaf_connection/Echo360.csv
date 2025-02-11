@@ -1,0 +1,139 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Google,"analytics, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,above individual,
+UNSPECIFIED_DATA,different website,advertising
+UNSPECIFIED_DATA,legal entity,
+UNSPECIFIED_DATA,online activity,advertising
+UNSPECIFIED_DATA,we,"analytics, services"
+access time,we,"analytics, services"
+affirmative authorization,we,"analytics, services"
+attorney,professional advisor,
+audio information,we,"analytics, services"
+bank account detail,we,"analytics, services, security"
+browser type,we,"analytics, services"
+category of personal information describe in california customer records statute,we,"analytics, services"
+commercial information,UNSPECIFIED_ACTOR,
+commercial information,contractor,
+commercial information,director,
+commercial information,insurer,
+commercial information,professional advisor,
+commercial information,respective officer,
+commercial information,service provider,
+commercial information,we,"analytics, services"
+commercial information,we,"analytics, services, security, advertising, legal"
+communication preference,we,"analytics, services"
+company address,we,"analytics, services"
+company name,we,"analytics, services"
+contact information,we,"analytics, services, security"
+content of correspondence to we,we,"analytics, services, security"
+credit / debit card number,we,"analytics, services, security"
+date,we,"analytics, services, security"
+datum about,we,"analytics, services, security"
+device identifier,we,"analytics, services, security"
+device type,we,"analytics, services, security"
+different type,UNSPECIFIED_ACTOR,
+different type,we,"analytics, services, security"
+domain server,we,"analytics, services, security"
+email address,we,"analytics, services"
+email address,we,"analytics, services, security"
+equal employment opportunity,we,"analytics, services, security"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,contractor,
+geolocation,director,
+geolocation,insurer,
+geolocation,professional advisor,
+geolocation,respective officer,
+geolocation,service provider,
+geolocation,we,"analytics, services, security"
+geolocation,we,"analytics, services, security, advertising, legal"
+government identifier,we,"analytics, services, security"
+identification number,UNSPECIFIED_ACTOR,
+identification number,contractor,
+identification number,director,
+identification number,insurer,
+identification number,professional advisor,
+identification number,respective officer,
+identification number,service provider,
+identification number,we,"analytics, services, security"
+identification number,we,"analytics, services, security, advertising, legal"
+identity information,we,"analytics, services, security"
+information about use of site,technology use,
+information about use of social medium website,technology,
+information about you,UNSPECIFIED_ACTOR,
+information regard,we,"analytics, services, security"
+information regard status of direct marketing email,we,"analytics, services, security"
+information you provide,we,"analytics, services, security"
+information you share with we in connection with survey,we,"analytics, services, security"
+internet activity,UNSPECIFIED_ACTOR,
+internet activity,contractor,
+internet activity,director,
+internet activity,insurer,
+internet activity,professional advisor,
+internet activity,respective officer,
+internet activity,service provider,
+internet activity,we,"analytics, services, security"
+internet activity,we,"analytics, services, security, advertising, legal"
+ip address,we,"analytics, services, security"
+language preference,we,"analytics, services, security"
+marketing preference,we,"analytics, services, security"
+message you choose,we,"analytics, services, security"
+mobile network information,we,"analytics, services, security"
+navigational information,we,"analytics, services, security"
+number,we,"analytics, services, security"
+online identifier,UNSPECIFIED_ACTOR,
+online identifier,contractor,
+online identifier,director,
+online identifier,insurer,
+online identifier,professional advisor,
+online identifier,respective officer,
+online identifier,service provider,
+online identifier,we,"analytics, services, security"
+online identifier,we,"analytics, services, security, advertising, legal"
+person name,UNSPECIFIED_ACTOR,
+person name,contractor,
+person name,director,
+person name,insurer,
+person name,professional advisor,
+person name,respective officer,
+person name,service provider,
+person name,we,"analytics, services"
+person name,we,"analytics, services, security"
+person name,we,"analytics, services, security, advertising, legal"
+personal identifier,we,"analytics, services, security"
+personal information collect from you,UNSPECIFIED_ACTOR,services
+personal information collect from you,we,"analytics, services, security, advertising, legal"
+personal information identify in policy,we,"analytics, services, security, advertising, legal"
+phone number,we,"analytics, services"
+phone number,we,"analytics, services, security, advertising, legal"
+position,we,"analytics, services"
+postal address,we,"analytics, services"
+postal address,we,"analytics, services, security, advertising, legal"
+prefer method of contact,we,"analytics, services, security, advertising, legal"
+professional information,we,"analytics, services, security, advertising, legal"
+protected classification,UNSPECIFIED_ACTOR,
+protected classification,contractor,
+protected classification,director,
+protected classification,insurer,
+protected classification,professional advisor,
+protected classification,respective officer,
+protected classification,service provider,
+protected classification,we,"analytics, services, security, advertising, legal"
+record of consumer request submit under california consumer privacy act,we,"analytics, services, security, advertising, legal"
+require information,we,"analytics, services, security, advertising, legal"
+sensitive personal information,UNSPECIFIED_ACTOR,
+sensitive personal information,contractor,
+sensitive personal information,director,
+sensitive personal information,insurer,
+sensitive personal information,professional advisor,
+sensitive personal information,respective officer,
+sensitive personal information,service provider,
+sensitive personal information,we,"analytics, services, security, advertising, legal"
+social network information,we,"analytics, services, security, advertising, legal"
+statistical datum,we,"analytics, services"
+statistical datum about number of people use site,we,"analytics, services, security, advertising, legal"
+title,we,"analytics, services"
+title,we,"analytics, services, security, advertising, legal"
+transcript of chat interaction with we share,we,"analytics, services, security, advertising, legal"
+username,we,"analytics, services, security, advertising, legal"
+write correspondence,we,"analytics, services, security, advertising, legal"

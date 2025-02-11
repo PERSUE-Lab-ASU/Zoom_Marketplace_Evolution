@@ -1,0 +1,29 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,employee,
+UNSPECIFIED_DATA,representative,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,we,
+above information,we,
+bank account number,UNSPECIFIED_ACTOR,services
+bank account number,employee,
+bank account number,representative,
+bank account number,service provider,
+bank account number,we,"services, advertising, analytics"
+cookie / pixel tag,we,services
+credit / debit card number,UNSPECIFIED_ACTOR,services
+credit / debit card number,employee,
+credit / debit card number,representative,
+credit / debit card number,service provider,
+credit / debit card number,we,"services, advertising, analytics"
+email address,we,services
+information about you,government official,
+information about you,law enforcement,
+information about you,we,services
+option of,we,services
+person name,we,services
+personal information provide from time on site,we,"services, advertising, analytics"
+phone number,we,services
+pin code,we,services
+postal address,we,services
+zip code,we,services

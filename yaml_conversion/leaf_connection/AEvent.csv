@@ -1,0 +1,42 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,advertising
+advertiser,marketing partner,"advertising, analytics, services"
+age,affiliated entity we have,
+age,marketing partner,"advertising, analytics, services"
+age,we,"advertising, analytics, services"
+age,we,"advertising, analytics, services, security"
+aggregator,marketing partner,"advertising, analytics, services"
+data broker,marketing partner,"advertising, analytics, services"
+datum broker,marketing partner,"advertising, analytics, services"
+datum collect,Google,analytics
+doubleclick campaign manager integration,Google,analytics
+email address,Facebook,"analytics, services"
+email address,affiliated entity we have,
+email address,marketing partner,"advertising, analytics, services"
+email address,we,"advertising, analytics, services, security"
+game performance,we,"advertising, analytics, services"
+gender,affiliated entity we have,
+gender,marketing partner,"advertising, analytics, services"
+gender,we,"advertising, analytics, services"
+gender,we,"advertising, analytics, services, security"
+high score,we,"advertising, analytics, services"
+identification,we,"advertising, analytics, services"
+own instruction,Apple,
+own instruction,Microsoft,
+own instruction,android for android device,
+own instruction,operating system,
+personal identifier,Facebook,"analytics, services"
+personal identifier,affiliated entity we have,
+personal identifier,marketing partner,"advertising, analytics, services"
+personal identifier,we,"advertising, analytics, services, security"
+personal information in profile,we,"advertising, analytics, services, security"
+personal information we receive from you,we,"advertising, analytics, services, security"
+phone number,Facebook,"analytics, services"
+phone number,affiliated entity we have,
+phone number,marketing partner,"advertising, analytics, services"
+phone number,we,"advertising, analytics, services, security"
+platform,marketing partner,"advertising, analytics, services"
+precise geolocation,we,"advertising, analytics, services, security"
+publicly available personal information,we,"advertising, analytics, services, security"
+publicly available personal information post on social medium platform,we,"advertising, analytics, services, security"
+tracking methodology discuss,marketing partner,"advertising, analytics, services"

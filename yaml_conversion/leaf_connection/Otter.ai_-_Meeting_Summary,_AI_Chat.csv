@@ -1,0 +1,138 @@
+data_type,collector,purpose
+Amplitude,analytic provider,
+Amplitude,platform support provider who help,
+AppsFlyer,advertiser,
+Facebook,advertiser,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,operator,
+UNSPECIFIED_DATA,we,analytics
+aggregate / deidentified / pseudonymized information,we,analytics
+amazon web services,cloud service provider who we rely on for compute storage,
+amount of free space on device,we,analytics
+audio recording,we,"analytics, services"
+audio recordings,we,"analytics, services"
+automatic otterpilot tm screenshot,we,"analytics, services"
+browsing / search history,UNSPECIFIED_ACTOR,
+browsing / search history,we,"analytics, services"
+calendar information,UNSPECIFIED_ACTOR,
+calendar information,advertiser,
+calendar information,analytic provider,
+calendar information,artificial intelligence service provider provide backend support for otter product feature,
+calendar information,cloud service provider who we rely on for compute storage,
+calendar information,datum labeling service provider who provide annotation service,
+calendar information,judicial body,
+calendar information,law enforcement agency,
+calendar information,otter.ai,
+calendar information,payment processor,
+calendar information,platform support provider who help,
+calendar information,public authority,
+calendar information,we,"analytics, services, advertising, legal, security"
+carrier type,we,"analytics, services, advertising"
+coarse geolocation,we,"analytics, services"
+communication information,we,"analytics, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,advertiser,
+contact information,analytic provider,
+contact information,artificial intelligence service provider provide backend support for otter product feature,
+contact information,cloud service provider who we rely on for compute storage,
+contact information,datum labeling service provider who provide annotation service,
+contact information,judicial body,
+contact information,law enforcement agency,
+contact information,otter.ai,
+contact information,payment processor,
+contact information,platform support provider who help,
+contact information,public authority,
+contact information,we,"analytics, services"
+contact information,we,"analytics, services, advertising, legal, security"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,analytic provider,analytics
+cookie / pixel tag,we,"analytics, services, advertising"
+dedicated otter.ai website,we,"analytics, services, advertising, legal, security"
+demographic attribute,we,"analytics, services, advertising"
+designate information,UNSPECIFIED_ACTOR,
+designate information,we,"analytics, services, advertising"
+device model,we,"analytics, services, advertising"
+email address,UNSPECIFIED_ACTOR,
+email address,advertiser,
+email address,analytic provider,
+email address,artificial intelligence service provider provide backend support for otter product feature,
+email address,cloud service provider who we rely on for compute storage,
+email address,datum labeling service provider who provide annotation service,
+email address,judicial body,
+email address,law enforcement agency,
+email address,otter.ai,
+email address,payment processor,
+email address,platform support provider who help,
+email address,public authority,
+email address,we,"analytics, services, advertising"
+email address,we,"analytics, services, advertising, legal, security"
+eu personal information,we,"analytics, services, advertising"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,advertiser,
+geolocation,analytic provider,
+geolocation,artificial intelligence service provider provide backend support for otter product feature,
+geolocation,cloud service provider who we rely on for compute storage,
+geolocation,datum labeling service provider who provide annotation service,
+geolocation,judicial body,
+geolocation,law enforcement agency,
+geolocation,otter.ai,
+geolocation,payment processor,
+geolocation,platform support provider who help,
+geolocation,public authority,
+geolocation,we,"analytics, services, advertising, legal, security"
+information about query,we,"analytics, services, advertising"
+information provide to we,we,"analytics, services, advertising, legal, security"
+information we collect,we,"analytics, services, advertising"
+otter meeting assistant app,we,"analytics, services, advertising, legal, security"
+payment information,payment processing partner,
+payment information,payment processor,
+person name,payment processing partner,
+person name,payment processor,
+person name,we,"analytics, services, advertising"
+personal information we receive,otter.ai,legal
+phone number,we,"analytics, services, advertising, legal, security"
+platform information,UNSPECIFIED_ACTOR,
+platform information,advertiser,
+platform information,analytic provider,
+platform information,artificial intelligence service provider provide backend support for otter product feature,
+platform information,cloud service provider who we rely on for compute storage,
+platform information,datum labeling service provider who provide annotation service,
+platform information,judicial body,
+platform information,law enforcement agency,
+platform information,otter.ai,
+platform information,payment processor,
+platform information,platform support provider who help,
+platform information,public authority,
+platform information,we,"analytics, services, advertising, legal, security"
+postal address,payment processing partner,
+postal address,payment processor,
+profile picture,UNSPECIFIED_ACTOR,
+profile picture,advertiser,
+profile picture,analytic provider,
+profile picture,artificial intelligence service provider provide backend support for otter product feature,
+profile picture,cloud service provider who we rely on for compute storage,
+profile picture,datum labeling service provider who provide annotation service,
+profile picture,judicial body,
+profile picture,law enforcement agency,
+profile picture,otter.ai,
+profile picture,payment processor,
+profile picture,platform support provider who help,
+profile picture,public authority,
+profile picture,we,"analytics, services, advertising, legal, security"
+registration information,we,"analytics, services, advertising, legal, security"
+text,we,"analytics, services, advertising, legal, security"
+transaction information,we,"analytics, services, advertising, legal, security"
+usage information,we,"analytics, services, advertising, legal, security"
+username,UNSPECIFIED_ACTOR,
+username,advertiser,
+username,analytic provider,
+username,artificial intelligence service provider provide backend support for otter product feature,
+username,cloud service provider who we rely on for compute storage,
+username,datum labeling service provider who provide annotation service,
+username,judicial body,
+username,law enforcement agency,
+username,otter.ai,
+username,payment processor,
+username,platform support provider who help,
+username,public authority,
+username,we,"analytics, services, advertising, legal, security"

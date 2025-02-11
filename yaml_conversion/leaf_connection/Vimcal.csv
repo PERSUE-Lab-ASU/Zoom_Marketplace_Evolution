@@ -1,0 +1,32 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,services
+browser type,we,"services, analytics, security"
+collect datum,we,services
+communication datum,we,"services, analytics, security"
+cookie / pixel tag,UNSPECIFIED_ACTOR,"analytics, security, services"
+cookie / pixel tag,we,"services, analytics, security"
+datum fight fraud as refund abuse,we,"services, analytics, security"
+datum for analytic purpose,we,"services, analytics, security"
+datum from platform vimcal run on,we,"services, analytics, security"
+datum to,we,"services, analytics, security"
+demographic datum,we,"services, analytics, security"
+device identifier,we,"services, analytics, security"
+device include operating system language,we,"services, analytics, security"
+different kind,we,"services, analytics, security"
+email address,we,"services, analytics, security"
+geolocation,vimcal,
+geolocation,we,"services, analytics, security"
+information about,we,"services, analytics, security"
+information about you,UNSPECIFIED_ACTOR,"analytics, security, services"
+ip address,we,"services, analytics, security"
+log,we,"services, analytics, security"
+mobile network information,we,"services, analytics, security"
+non-personal information,we,"services, analytics, security"
+operating system,we,"services, analytics, security"
+person name,we,"services, analytics, security"
+personal datum in structured use machine readable format,UNSPECIFIED_ACTOR,"analytics, security, services"
+personal datum in structured use machine readable format,we,"services, analytics, security"
+personal identifier,we,"services, analytics, security"
+postal address,we,"services, analytics, security"
+statistical datum,we,services
+traffic datum,we,"services, analytics, security"

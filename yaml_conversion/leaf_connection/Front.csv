@@ -1,0 +1,106 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,advertiser,advertising
+UNSPECIFIED_DATA,we,"security, services"
+account data,law enforcement,
+account data,professional advisor,
+account data,social media,
+account data,we,"security, services, analytics, advertising, legal"
+advertising id,law enforcement,
+advertising id,professional advisor,
+advertising id,social media,
+advertising id,we,"security, services, analytics, advertising, legal"
+auditor,professional advisor,
+banker,professional advisor,
+california customer record,law enforcement,
+california customer record,professional advisor,
+california customer record,social media,
+california customer record,we,"security, services, analytics, advertising, legal"
+call videoconference,service provider,"analytics, services"
+call videoconference,we,"security, services, analytics"
+category of personal datum,UNSPECIFIED_ACTOR,
+category of personal datum,advertising,
+category of personal datum,analytic provider,
+category of personal datum,customer support,
+category of personal datum,data brokerage,
+category of personal datum,generative artificial intelligence,
+category of personal datum,hosting,
+category of personal datum,information technology,
+category of personal datum,market survey research,
+category of personal datum,payment processing,
+category of personal datum,we,"security, services, analytics"
+commercial information,law enforcement,
+commercial information,professional advisor,
+commercial information,social media,
+commercial information,we,"security, services, analytics, advertising, legal"
+communication datum,law enforcement,
+communication datum,professional advisor,
+communication datum,social media,
+communication datum,we,"security, services, analytics, advertising, legal"
+contact information,advertiser,advertising
+contact information,law enforcement,
+contact information,professional advisor,
+contact information,social media,
+contact information,we,"security, services, analytics, advertising"
+contact information,we,"security, services, analytics, advertising, legal"
+cookie / pixel tag,advertiser,advertising
+device datum,advertiser,advertising
+device datum,service provider,"analytics, services"
+device datum,we,"security, services, analytics, advertising"
+government identification,we,"security, services, analytics, advertising"
+government record,law enforcement,
+government record,professional advisor,
+government record,social media,
+government record,we,"security, services, analytics, advertising, legal"
+identifier we match against information we collect from you,we,"security, services, analytics, advertising"
+inference,law enforcement,
+inference,professional advisor,
+inference,social media,
+inference,we,"security, services, analytics, advertising, legal"
+information about processing of personal datum,we,"security, services, analytics, advertising"
+information you submit in public forum,law enforcement,
+information you submit in public forum,professional advisor,
+information you submit in public forum,social media,
+information you submit in public forum,we,"security, services, analytics, advertising, legal"
+internet activity,advertiser,advertising
+internet activity,service provider,"analytics, services"
+internet activity,we,"security, services, analytics, advertising"
+job title,law enforcement,
+job title,professional advisor,
+job title,social media,
+job title,we,"security, services, analytics, advertising, legal"
+lawyer,professional advisor,
+option,we,"security, services, analytics, advertising"
+person name,law enforcement,
+person name,professional advisor,
+person name,social media,
+person name,we,"security, services, analytics, advertising, legal"
+personal datum base legitimate interests in,we,"security, services, analytics, advertising"
+personal datum for target advertising purpose,advertiser,advertising
+personal datum for target advertising purpose,we,"security, services, analytics, advertising"
+professional history,law enforcement,
+professional history,professional advisor,
+professional history,social media,
+professional history,we,"security, services, analytics, advertising, legal"
+profile,social media,
+profile,we,"security, services, analytics, advertising, legal"
+referral datum,law enforcement,
+referral datum,professional advisor,
+referral datum,social media,
+referral datum,we,"security, services, analytics, advertising, legal"
+security data,law enforcement,
+security data,professional advisor,
+security data,social media,
+security data,we,"security, services, analytics, advertising, legal"
+social medium account you connect to service,law enforcement,
+social medium account you connect to service,professional advisor,
+social medium account you connect to service,social media,
+social medium account you connect to service,we,"security, services, analytics, advertising, legal"
+specific information,we,"security, services, analytics, advertising, legal"
+training certification,law enforcement,
+training certification,professional advisor,
+training certification,social media,
+training certification,we,"security, services, analytics, advertising, legal"
+transaction data,law enforcement,
+transaction data,professional advisor,
+transaction data,social media,
+transaction data,we,"security, services, analytics, advertising, legal"

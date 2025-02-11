@@ -1,0 +1,138 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,legal
+aggregate / deidentified / pseudonymized information,we,legal
+audio datum,UNSPECIFIED_ACTOR,security
+audio datum,country,
+audio datum,crowdstrike,
+audio datum,crowdstrike,"security, services, analytics, advertising, legal"
+audio datum,crowdstrike affiliate,
+audio datum,source,
+audio datum,we,"legal, security, services"
+browser information,UNSPECIFIED_ACTOR,security
+browser information,country,
+browser information,crowdstrike,"security, services, analytics, advertising, legal"
+browser information,crowdstrike affiliate,
+browser information,source,
+browser information,we,"legal, security, services"
+category of personal information describe,advertiser,
+category of personal information describe,we,legal
+coarse geolocation,UNSPECIFIED_ACTOR,security
+coarse geolocation,country,
+coarse geolocation,crowdstrike,"security, services, analytics, advertising, legal"
+coarse geolocation,crowdstrike affiliate,
+coarse geolocation,source,
+coarse geolocation,we,"legal, security, services"
+complete name,crowdstrike,security
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,UNSPECIFIED_ACTOR,security
+cookie / pixel tag,country,
+cookie / pixel tag,crowdstrike,"security, services"
+cookie / pixel tag,crowdstrike,"security, services, analytics, advertising, legal"
+cookie / pixel tag,crowdstrike affiliate,
+cookie / pixel tag,source,
+cookie / pixel tag,we,"legal, security, services"
+credit / debit card number,crowdstrike,"security, services"
+datum about type of payment use,crowdstrike,"security, services"
+device identifier,UNSPECIFIED_ACTOR,security
+device identifier,country,
+device identifier,crowdstrike,"security, services, analytics, advertising, legal"
+device identifier,crowdstrike affiliate,
+device identifier,source,
+device identifier,we,"legal, security, services"
+email address,UNSPECIFIED_ACTOR,security
+email address,country,
+email address,crowdstrike,"security, services"
+email address,crowdstrike,"security, services, analytics, advertising, legal"
+email address,crowdstrike affiliate,
+email address,source,
+email address,we,"legal, security, services"
+feedback,crowdstrike,"security, services"
+feedback,we,legal
+feedback about experience,crowdstrike,"security, services, analytics"
+feedback datum,UNSPECIFIED_ACTOR,security
+feedback datum,country,
+feedback datum,crowdstrike,"security, services, analytics, advertising, legal"
+feedback datum,crowdstrike affiliate,
+feedback datum,source,
+feedback datum,we,"legal, security, services"
+financial information,UNSPECIFIED_ACTOR,security
+financial information,country,
+financial information,crowdstrike,"security, services, analytics, advertising, legal"
+financial information,crowdstrike affiliate,
+financial information,source,
+financial information,we,"legal, security, services"
+financial subscription information,crowdstrike,"security, services, analytics"
+headquarters in united states,crowdstrike affiliate,
+html5,UNSPECIFIED_ACTOR,
+html5,crowdstrike,"security, services, analytics"
+image,we,legal
+ip address,UNSPECIFIED_ACTOR,security
+ip address,country,
+ip address,crowdstrike,"security, services, analytics, advertising, legal"
+ip address,crowdstrike affiliate,
+ip address,source,
+ip address,we,"legal, security, services"
+local storage,UNSPECIFIED_ACTOR,
+local storage,crowdstrike,"security, services, analytics"
+login credential,we,"legal, security, services"
+password,we,"legal, security, services"
+person name,UNSPECIFIED_ACTOR,security
+person name,country,
+person name,crowdstrike,"security, services"
+person name,crowdstrike,"security, services, analytics, advertising, legal"
+person name,crowdstrike affiliate,
+person name,source,
+person name,we,"legal, security, services"
+personal information about california consumer subject,UNSPECIFIED_ACTOR,security
+personal information about california consumer subject,country,
+personal information about california consumer subject,crowdstrike,"security, services, analytics, advertising, legal"
+personal information about california consumer subject,crowdstrike affiliate,
+personal information about california consumer subject,source,
+personal information about california consumer subject,we,"legal, security, services"
+phone number,UNSPECIFIED_ACTOR,security
+phone number,country,
+phone number,crowdstrike,"security, services"
+phone number,crowdstrike,"security, services, analytics, advertising, legal"
+phone number,crowdstrike affiliate,
+phone number,source,
+phone number,we,"legal, security, services"
+postal address,UNSPECIFIED_ACTOR,security
+postal address,country,
+postal address,crowdstrike,"security, services"
+postal address,crowdstrike,"security, services, analytics, advertising, legal"
+postal address,crowdstrike affiliate,
+postal address,source,
+postal address,we,"legal, security, services"
+professional biography,UNSPECIFIED_ACTOR,security
+professional biography,country,
+professional biography,crowdstrike,"security, services, analytics, advertising, legal"
+professional biography,crowdstrike affiliate,
+professional biography,source,
+professional biography,we,"legal, security, services"
+record of offering purchase,UNSPECIFIED_ACTOR,security
+record of offering purchase,country,
+record of offering purchase,crowdstrike,"security, services, analytics, advertising, legal"
+record of offering purchase,crowdstrike affiliate,
+record of offering purchase,source,
+record of offering purchase,we,"legal, security, services"
+related company,crowdstrike,"security, services, analytics, advertising, legal"
+technical datum,UNSPECIFIED_ACTOR,security
+technical datum,country,
+technical datum,crowdstrike,"security, services, analytics, advertising, legal"
+technical datum,crowdstrike affiliate,
+technical datum,source,
+technical datum,we,"legal, security, services"
+technical information,UNSPECIFIED_ACTOR,security
+technical information,country,
+technical information,crowdstrike,"security, services, analytics, advertising, legal"
+technical information,crowdstrike affiliate,
+technical information,source,
+technical information,we,"legal, security, services"
+transactional datum,UNSPECIFIED_ACTOR,security
+transactional datum,country,
+transactional datum,crowdstrike,"security, services, analytics, advertising, legal"
+transactional datum,crowdstrike affiliate,
+transactional datum,source,
+transactional datum,we,"legal, security, services"
+username,we,"legal, security, services"
+voice,we,"legal, security, services"

@@ -1,0 +1,55 @@
+data_type,collector,purpose
+Cloudflare,cdn service,security
+Treasure Data,we,"analytics, services, advertising, legal, security"
+UNSPECIFIED_DATA,Google,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,leandata,
+UNSPECIFIED_DATA,we,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+company name,UNSPECIFIED_ACTOR,services
+company name,affiliated business,
+company name,leandata,"advertising, analytics, services"
+company name,we,"analytics, services, advertising, legal"
+confirmation,we,"analytics, services"
+contact information,we,"analytics, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,services
+cookie / pixel tag,cdn service,security
+cookie / pixel tag,particular page,
+cookie / pixel tag,we,"analytics, services, advertising"
+copy of unrevised information in record,we,"analytics, services, advertising"
+cost estimate,we,"analytics, services, advertising"
+date,particular page,
+email address,UNSPECIFIED_ACTOR,services
+email address,affiliated business,
+email address,leandata,"advertising, analytics, services"
+email address,we,"analytics, services, advertising, legal"
+frequency,UNSPECIFIED_ACTOR,"services, analytics"
+frequency,we,"analytics, services, advertising, legal, security"
+information about,Google,
+information identify,we,"analytics, services, advertising"
+information you consent,we,"analytics, services, advertising"
+ip address,we,"analytics, services, advertising"
+item,UNSPECIFIED_ACTOR,services
+medium channel,we,"analytics, services, advertising, legal, security"
+medium form,we,"analytics, services, advertising, legal, security"
+mobile application related,we,"analytics, services, advertising, legal, security"
+mobile website,we,"analytics, services, advertising, legal, security"
+number,UNSPECIFIED_ACTOR,"services, analytics"
+number,we,"analytics, services, advertising, legal, security"
+person name,UNSPECIFIED_ACTOR,services
+person name,affiliated business,
+person name,leandata,"advertising, analytics, services"
+person name,we,"analytics, services, advertising, legal"
+personal information in personally identifiable form,we,"analytics, services, advertising, legal"
+personal information provide in verifiable consumer request,we,"analytics, services, advertising, legal, security"
+phone number,UNSPECIFIED_ACTOR,services
+phone number,affiliated business,
+phone number,leandata,"advertising, analytics, services"
+phone number,we,"analytics, services, advertising, legal"
+specific piece of personal information we collect about you,we,"analytics, services, advertising, legal, security"
+time,particular page,
+track pixel,UNSPECIFIED_ACTOR,services
+track pixel,we,"analytics, services, advertising, legal, security"
+type of personal information,UNSPECIFIED_ACTOR,services
+type of personal information,we,"analytics, services, advertising, legal, security"
+unique identifier we store on computer,browser,

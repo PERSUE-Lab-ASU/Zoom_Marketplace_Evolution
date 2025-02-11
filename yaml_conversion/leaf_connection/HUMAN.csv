@@ -1,0 +1,64 @@
+data_type,collector,purpose
+brand,we,"analytics, legal, security, services"
+burdock,we,
+date,we,"analytics, legal, security, services"
+date of birth,UNSPECIFIED_ACTOR,"security, services"
+date of birth,staff of educational institution,
+date of birth,we,"analytics, legal, security, services"
+different category,UNSPECIFIED_ACTOR,"security, services"
+different category,staff of educational institution,
+different category,we,
+different category,we,"analytics, legal, security, services"
+email address,UNSPECIFIED_ACTOR,"security, services"
+email address,staff of educational institution,
+email address,we,
+email address,we,"analytics, legal, security, services"
+gender,UNSPECIFIED_ACTOR,"security, services"
+gender,staff of educational institution,
+gender,we,"analytics, legal, security, services"
+human,we,"analytics, legal, security, services"
+image,UNSPECIFIED_ACTOR,"security, services"
+image,staff of educational institution,
+image,we,
+image,we,"analytics, legal, security, services"
+image with you,UNSPECIFIED_ACTOR,"security, services"
+image with you,staff of educational institution,
+image with you,we,
+image with you,we,"analytics, legal, security, services"
+information about partner,UNSPECIFIED_ACTOR,"security, services"
+information about partner,staff of educational institution,
+information about partner,we,
+information about partner,we,"analytics, legal, security, services"
+information about success,we,
+information relate to education,UNSPECIFIED_ACTOR,"security, services"
+information relate to education,staff of educational institution,
+information relate to education,we,
+information relate to education,we,"analytics, legal, security, services"
+information relate to position in educational institution,UNSPECIFIED_ACTOR,"security, services"
+information relate to position in educational institution,staff of educational institution,
+information relate to position in educational institution,we,
+information relate to position in educational institution,we,"analytics, legal, security, services"
+information relate to teaching,UNSPECIFIED_ACTOR,"security, services"
+information relate to teaching,staff of educational institution,
+information relate to teaching,we,
+information relate to teaching,we,"analytics, legal, security, services"
+ip address,we,"analytics, legal, security, services"
+limited liability company,we,"analytics, legal, security, services"
+model,we,"analytics, legal, security, services"
+password,we,
+patronymic,UNSPECIFIED_ACTOR,"security, services"
+patronymic,staff of educational institution,
+patronymic,we,"analytics, legal, security, services"
+person name,UNSPECIFIED_ACTOR,"security, services"
+person name,staff of educational institution,
+person name,we,
+person name,we,"analytics, legal, security, services"
+personal datum receive with consent,UNSPECIFIED_ACTOR,"security, services"
+personal information subject,we,"analytics, legal, security, services"
+personal information you download,UNSPECIFIED_ACTOR,"security, services"
+personal information you download,staff of educational institution,
+personal information you download,we,"analytics, legal, security, services"
+phone number,UNSPECIFIED_ACTOR,"security, services"
+phone number,staff of educational institution,
+phone number,we,
+phone number,we,"analytics, legal, security, services"

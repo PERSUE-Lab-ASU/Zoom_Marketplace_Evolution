@@ -1,0 +1,34 @@
+data_type,collector,purpose
+FullStory,analytic provider,services
+Google,analytic provider,services
+Mixpanel,analytic provider,services
+UNSPECIFIED_DATA,we,
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,
+aggregate / deidentified / pseudonymized information,we,"analytics, services"
+aggregate non - identifiable information,we,"analytics, services"
+company name,UNSPECIFIED_ACTOR,analytics
+company name,we,"analytics, services, advertising, legal, security"
+different type of information,we,"analytics, services, advertising"
+email address,UNSPECIFIED_ACTOR,analytics
+email address,we,"analytics, services, advertising"
+email address,we,"analytics, services, advertising, legal, security"
+identifiable information,UNSPECIFIED_ACTOR,analytics
+identifiable information,service provider,analytics
+identifiable information,we,"analytics, services, advertising, legal, security"
+information about you,we,"analytics, services, advertising, legal, security"
+ip address,we,"analytics, services, advertising, legal, security"
+necessary information correct it,we,"analytics, services, advertising, legal, security"
+persistent cookies,we,"analytics, services, advertising, legal, security"
+person name,UNSPECIFIED_ACTOR,analytics
+person name,we,"analytics, services, advertising, legal, security"
+personal identifier,UNSPECIFIED_ACTOR,analytics
+personal identifier,parent company,
+personal identifier,sister company,
+personal identifier,we,"analytics, services, advertising, legal, security"
+segment,analytic provider,services
+session cookies,Cloudflare,services
+session cookies,analytic provider,services
+session cookies,we,"analytics, services, advertising"
+session cookies,we,"analytics, services, advertising, legal, security"
+session cookies,youtube,"analytics, services"
+user agent,we,"analytics, services, advertising, legal, security"

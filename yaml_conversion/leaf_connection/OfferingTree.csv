@@ -1,0 +1,35 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,we,
+access time,we,"services, advertising, analytics"
+bank account information,we,services
+bank account information,we,"services, advertising, analytics"
+browser type,we,services
+browser type,we,"services, advertising, analytics"
+click activity,we,services
+company under common control,we,"services, advertising, analytics, legal, security"
+contact information,we,services
+content you send to we,we,services
+cookie / pixel tag,email,"advertising, analytics"
+cookie / pixel tag,we,"services, advertising, analytics"
+date time stamp for visit,we,"services, advertising, analytics"
+device identifier,we,"services, advertising, analytics"
+device type,we,"services, advertising, analytics"
+domain name,we,"services, advertising, analytics"
+email address,we,"services, advertising, analytics"
+identify information about device connect to service,Stripe,"security, services"
+information about you,we,"services, advertising, analytics"
+information you submit to we,we,"services, advertising, analytics"
+ip address,we,"services, advertising, analytics"
+joint venture,we,"services, advertising, analytics, legal, security"
+mac address,we,"services, advertising, analytics"
+number assign to computer,we,"services, advertising, analytics"
+operating system,we,"services, advertising, analytics"
+payment information,we,"services, advertising, analytics"
+person name,we,"services, advertising, analytics"
+personal information,service provider,
+personal information,we,"services, advertising, analytics, legal, security"
+postal address,we,"services, advertising, analytics, legal, security"
+refer website address,we,"services, advertising, analytics"
+sister company,we,"services, advertising, analytics, legal, security"

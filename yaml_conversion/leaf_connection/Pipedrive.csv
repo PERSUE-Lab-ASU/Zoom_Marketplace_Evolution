@@ -1,0 +1,114 @@
+data_type,collector,purpose
+Facebook,social media,"analytics, services"
+Microsoft,social media,"analytics, services"
+Twitter,social media,"analytics, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,event organizer,
+UNSPECIFIED_DATA,reseller,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,trusted pipedrive partner,"analytics, services"
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services"
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services, legal"
+above category of personal datum,advertiser,
+above category of personal datum,we,"advertising, analytics, security, services"
+access time,we,"advertising, analytics, security, services"
+account notification email,UNSPECIFIED_ACTOR,
+account notification email,acquirer,
+account notification email,assignee,
+account notification email,reseller,
+account notification email,service provider,
+account notification email,we,"advertising, analytics, security, services"
+account notification email,we,"advertising, analytics, security, services, legal"
+beacon,we,"advertising, analytics, security, services"
+browser type,we,"advertising, analytics, security, services"
+client datum,we,"advertising, analytics, security, services, legal"
+coarse geolocation,we,"advertising, analytics, security, services"
+communication with individual from written mean as email,we,"advertising, analytics, security, services, legal"
+company name,UNSPECIFIED_ACTOR,
+company name,reseller,
+company name,service provider,
+company name,we,"advertising, analytics, security, services, legal"
+configuration,we,"advertising, analytics, security, services"
+contact information,we,"advertising, analytics, security, services"
+cookie / pixel tag,advertiser,
+cookie / pixel tag,we,"advertising, analytics, security, services"
+cookie / pixel tag,we,"advertising, analytics, security, services, legal"
+credit / debit card number,we,"advertising, analytics, security, services"
+date,we,"advertising, analytics, security, services"
+demographic information about visitor,we,"advertising, analytics, security, services"
+different type,we,"advertising, analytics, security, services"
+downloadable software,we,"advertising, analytics, security, services, legal"
+error generate,we,"advertising, analytics, security, services"
+essential transactional email,UNSPECIFIED_ACTOR,
+essential transactional email,acquirer,
+essential transactional email,assignee,
+essential transactional email,reseller,
+essential transactional email,service provider,
+essential transactional email,we,"advertising, analytics, security, services"
+essential transactional email,we,"advertising, analytics, security, services, legal"
+expiration date,we,"advertising, analytics, security, services"
+frequency,we,"advertising, analytics, security, services"
+information about you,we,"advertising, analytics, security, services"
+information about you,we,"advertising, analytics, security, services, legal"
+information constitute personal data,we,"advertising, analytics, security, services, legal"
+information we collect,we,"advertising, analytics, security, services"
+information you submit,we,"advertising, analytics, security, services, legal"
+interaction with we,we,"advertising, analytics, security, services, legal"
+ip address,we,"advertising, analytics, security, services"
+language,we,"advertising, analytics, security, services, legal"
+language preference,we,"advertising, analytics, security, services"
+mobile device manufacturer,we,"advertising, analytics, security, services"
+mobile network information,we,"advertising, analytics, security, services"
+navigation information,we,"advertising, analytics, security, services, legal"
+non-personal information,we,"advertising, analytics, security, services, legal"
+operating system,we,"advertising, analytics, security, services"
+option,social media,"analytics, services"
+password change,UNSPECIFIED_ACTOR,
+password change,acquirer,
+password change,assignee,
+password change,reseller,
+password change,service provider,
+password change,we,"advertising, analytics, security, services"
+password change,we,"advertising, analytics, security, services, legal"
+payment account information,we,"advertising, analytics, security, services, legal"
+payment information,we,"advertising, analytics, security, services, legal"
+performance datum,we,"advertising, analytics, security, services"
+person name,UNSPECIFIED_ACTOR,
+person name,acquirer,
+person name,assignee,
+person name,reseller,
+person name,service provider,
+person name,we,"advertising, analytics, security, services, legal"
+photo,we,"advertising, analytics, security, services, legal"
+postal address,we,"advertising, analytics, security, services, legal"
+profile information,we,"advertising, analytics, security, services"
+refer url,we,"advertising, analytics, security, services"
+related web site,we,"advertising, analytics, security, services, legal"
+renewal reminder,UNSPECIFIED_ACTOR,
+renewal reminder,acquirer,
+renewal reminder,assignee,
+renewal reminder,reseller,
+renewal reminder,service provider,
+renewal reminder,we,"advertising, analytics, security, services"
+renewal reminder,we,"advertising, analytics, security, services, legal"
+scroll,we,"advertising, analytics, security, services"
+security update notification,UNSPECIFIED_ACTOR,
+security update notification,acquirer,
+security update notification,assignee,
+security update notification,reseller,
+security update notification,service provider,
+security update notification,we,"advertising, analytics, security, services"
+security update notification,we,"advertising, analytics, security, services, legal"
+sensitive personal data,we,"advertising, analytics, security, services, legal"
+storage utilize,we,"advertising, analytics, security, services"
+tablet application,we,"advertising, analytics, security, services, legal"
+tag,we,"advertising, analytics, security, services, legal"
+technical datum,advertiser,
+time zone,we,"advertising, analytics, security, services"
+time zone,we,"advertising, analytics, security, services, legal"
+unrestricted information,we,"advertising, analytics, security, services, legal"
+user setting,we,"advertising, analytics, security, services"
+web site at https://www.pipedrive.com,we,"advertising, analytics, security, services, legal"
+widget,social media,"analytics, services"
+x,social media,"analytics, services"

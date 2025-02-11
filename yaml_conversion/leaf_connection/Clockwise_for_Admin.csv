@@ -1,0 +1,85 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,clockwise,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+account login information,UNSPECIFIED_ACTOR,
+account login information,clockwise,
+account login information,we,"advertising, analytics, legal, services, security"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, legal, services"
+calendar data,UNSPECIFIED_ACTOR,
+calendar data,clockwise,
+calendar data,we,"advertising, analytics, legal, services, security"
+confirmation,we,"advertising, analytics, legal, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,clockwise,
+contact information,we,"advertising, analytics, legal, services, security"
+credential,we,"advertising, analytics, legal, services"
+credit / debit card number,Stripe,
+credit / debit card number,payment processing partner,
+customer support,we,"advertising, analytics, legal, services"
+datum be,we,"advertising, analytics, legal, services"
+device identifier,UNSPECIFIED_ACTOR,
+device identifier,clockwise,
+device identifier,we,"advertising, analytics, legal, services, security"
+domain server,UNSPECIFIED_ACTOR,
+domain server,clockwise,
+domain server,we,"advertising, analytics, legal, services, security"
+email address,UNSPECIFIED_ACTOR,
+email address,clockwise,
+email address,we,"advertising, analytics, legal, services, security"
+enterprise customer administrator,UNSPECIFIED_ACTOR,
+enterprise customer administrator,clockwise,
+enterprise customer administrator,we,"advertising, analytics, legal, services, security"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,clockwise,
+geolocation,we,"advertising, analytics, legal, services"
+geolocation,we,"advertising, analytics, legal, services, security"
+identify information you choose,UNSPECIFIED_ACTOR,
+identify information you choose,clockwise,
+identify information you choose,we,"advertising, analytics, legal, services, security"
+identifying information you choose,UNSPECIFIED_ACTOR,
+identifying information you choose,clockwise,
+identifying information you choose,we,"advertising, analytics, legal, services, security"
+inference draw from personal datum,UNSPECIFIED_ACTOR,
+inference draw from personal datum,clockwise,
+inference draw from personal datum,we,"advertising, analytics, legal, services, security"
+information about you,we,"advertising, analytics, legal, services"
+information regard,we,"advertising, analytics, legal, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,advertiser,advertising
+ip address,clockwise,
+ip address,we,"advertising, analytics, legal, services"
+ip address,we,"advertising, analytics, legal, services, security"
+mac address,UNSPECIFIED_ACTOR,
+mac address,clockwise,
+mac address,we,"advertising, analytics, legal, services, security"
+payment card type,UNSPECIFIED_ACTOR,
+payment card type,clockwise,
+payment card type,we,"advertising, analytics, legal, services, security"
+payment data,UNSPECIFIED_ACTOR,
+payment data,clockwise,
+payment data,we,"advertising, analytics, legal, services, security"
+payment datum,UNSPECIFIED_ACTOR,
+payment datum,clockwise,
+payment datum,we,"advertising, analytics, legal, services"
+payment datum,we,"advertising, analytics, legal, services, security"
+person name,UNSPECIFIED_ACTOR,
+person name,clockwise,
+person name,we,"advertising, analytics, legal, services, security"
+personal data of end user,we,"advertising, analytics, legal, services"
+personal data provide in valid request,we,"advertising, analytics, legal, services, security"
+phone number,UNSPECIFIED_ACTOR,
+phone number,clockwise,
+phone number,we,"advertising, analytics, legal, services, security"
+postal address,UNSPECIFIED_ACTOR,
+postal address,clockwise,
+postal address,we,"advertising, analytics, legal, services, security"
+product development,we,"advertising, analytics, legal, services, security"
+profile,UNSPECIFIED_ACTOR,
+profile,clockwise,
+profile,we,"advertising, analytics, legal, services, security"
+profile information,we,"advertising, analytics, legal, services, security"
+relate information,UNSPECIFIED_ACTOR,
+relate information,clockwise,
+relate information,we,"advertising, analytics, legal, services, security"
+web analytics datum,advertiser,advertising
+web analytics datum,we,"advertising, analytics, legal, services, security"

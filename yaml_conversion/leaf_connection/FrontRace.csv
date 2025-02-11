@@ -1,0 +1,13 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+billing detail,we,"security, legal"
+contact information,we,"security, legal"
+datum perform task on behalf of company,UNSPECIFIED_ACTOR,
+email address,we,"security, legal"
+encryption,we,security
+internet activity,we,"security, legal"
+mobile information,UNSPECIFIED_ACTOR,advertising
+person name,we,"security, legal"
+personal information,we,"security, legal"
+relevant data,we,"security, legal"

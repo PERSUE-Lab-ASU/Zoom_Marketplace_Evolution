@@ -1,0 +1,87 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"analytics, security, services"
+access token,we,"analytics, security, services"
+account log in,coda project inc.,services
+analytic datum,we,"analytics, security, services"
+attribution,advertiser,"advertising, analytics"
+browser setting,we,"analytics, security, services"
+browser type,we,"analytics, security, services, advertising"
+company interest social medium profile,UNSPECIFIED_ACTOR,"advertising, analytics"
+company interest social medium profile,advertiser,advertising
+company interest social medium profile,we,"analytics, security, services, advertising, legal"
+company name,we,"analytics, security, services, advertising, legal"
+contact,we,"analytics, security, services"
+contact information,UNSPECIFIED_ACTOR,"advertising, analytics"
+contact information,advertiser,advertising
+contact information,we,"analytics, security, services"
+contact information,we,"analytics, security, services, advertising"
+contact information,we,"analytics, security, services, advertising, legal"
+content of communication with we,we,"analytics, security, services, advertising"
+cookie / pixel tag,advertiser,"advertising, analytics"
+cookie / pixel tag,we,"analytics, security, services, advertising"
+current employer,coda project inc.,services
+device identifier,we,"analytics, security, services, advertising"
+email address,UNSPECIFIED_ACTOR,"advertising, analytics"
+email address,advertiser,advertising
+email address,coda project inc.,services
+email address,we,"analytics, security, services, advertising"
+email address,we,"analytics, security, services, advertising, legal"
+feature,we,"analytics, security, services, advertising, legal"
+functionality,we,"analytics, security, services, advertising, legal"
+geolocation,UNSPECIFIED_ACTOR,"advertising, analytics"
+geolocation,advertiser,advertising
+geolocation,we,"analytics, security, services, advertising"
+geolocation,we,"analytics, security, services, advertising, legal"
+identifier,UNSPECIFIED_ACTOR,"advertising, analytics"
+identifier,advertiser,advertising
+identifier,we,"analytics, security, services, advertising, legal"
+information about use of site,UNSPECIFIED_ACTOR,
+information about use of site,advertiser,
+information about use of site,social media,
+information about you,UNSPECIFIED_ACTOR,
+information about you,advertiser,
+information about you,social media,
+information about you,we,"analytics, security, services, advertising"
+information contain personal information,UNSPECIFIED_ACTOR,
+information contain personal information,coda,
+information generate,advertiser,"advertising, analytics"
+information relate to account with third party service,we,"analytics, security, services, advertising"
+information third party site share with we,we,"analytics, security, services, advertising"
+information we process in connection with use of services,UNSPECIFIED_ACTOR,"advertising, analytics"
+information we process in connection with use of services,advertiser,advertising
+information we process in connection with use of services,we,"analytics, security, services, advertising, legal"
+information we share,UNSPECIFIED_ACTOR,"advertising, analytics"
+information we share,we,"analytics, security, services, advertising"
+internet network information,UNSPECIFIED_ACTOR,"advertising, analytics"
+internet network information,advertiser,advertising
+internet network information,we,"analytics, security, services, advertising"
+internet network information,we,"analytics, security, services, advertising, legal"
+ip address,advertiser,"advertising, analytics"
+ip address,coda project inc.,services
+ip address,we,"analytics, security, services, advertising"
+job title,UNSPECIFIED_ACTOR,"advertising, analytics"
+job title,advertiser,advertising
+job title,coda project inc.,services
+job title,we,"analytics, security, services, advertising, legal"
+link you click,we,"analytics, security, services, advertising, legal"
+number of click,we,"analytics, security, services, advertising"
+page you view,we,"analytics, security, services, advertising, legal"
+password,UNSPECIFIED_ACTOR,"advertising, analytics"
+password,advertiser,advertising
+password,we,"analytics, security, services, advertising, legal"
+person name,UNSPECIFIED_ACTOR,"advertising, analytics"
+person name,advertiser,advertising
+person name,coda project inc.,services
+person name,we,"analytics, security, services, advertising"
+person name,we,"analytics, security, services, advertising, legal"
+phone number,coda project inc.,services
+postal address,coda project inc.,services
+postal address,we,"analytics, security, services, advertising"
+profile information,we,"analytics, security, services, advertising, legal"
+record,we,"analytics, security, services, advertising, legal"
+report on activity,we,"analytics, security, services, advertising, legal"
+reporting,advertiser,"advertising, analytics"
+specification,we,"analytics, security, services, advertising, legal"
+time of visit,advertiser,"advertising, analytics"
+user name,we,"analytics, security, services, advertising, legal"

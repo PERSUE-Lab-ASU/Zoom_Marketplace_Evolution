@@ -1,0 +1,50 @@
+data_type,collector,purpose
+Microsoft,social media,"analytics, services"
+Twitter,social media,"analytics, services"
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,advertising
+UNSPECIFIED_DATA,trusted salesmate partner,"advertising, analytics, services"
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+beacon,we,"advertising, analytics, services"
+belief,UNSPECIFIED_ACTOR,
+belief,acquirer,
+belief,assignee,
+belief,we,"advertising, analytics, services, security, legal"
+contact information,UNSPECIFIED_ACTOR,
+contact information,acquirer,
+contact information,assignee,
+contact information,we,"advertising, analytics, services, security, legal"
+cookie / pixel tag,advertiser,advertising
+cookie / pixel tag,we,"advertising, analytics, services"
+coupon,UNSPECIFIED_ACTOR,
+coupon,acquirer,
+coupon,assignee,
+coupon,we,"advertising, analytics, services, security, legal"
+customer data,UNSPECIFIED_ACTOR,
+customer data,acquirer,
+demographic information about visitor,we,"advertising, analytics, services"
+information we collect,we,"advertising, analytics, services, security"
+information you submit,we,"advertising, analytics, services, security, legal"
+marketing prospect,we,"advertising, analytics, services, security, legal"
+non-personal information,we,"advertising, analytics, services, security, legal"
+opinion,UNSPECIFIED_ACTOR,
+opinion,acquirer,
+opinion,assignee,
+opinion,we,"advertising, analytics, services, security, legal"
+option,social media,"analytics, services"
+person name,UNSPECIFIED_ACTOR,
+person name,acquirer,
+person name,assignee,
+person name,we,"advertising, analytics, services, security, legal"
+personal datum about event attendee,we,"advertising, analytics, services, security, legal"
+personal datum about office visitor,we,"advertising, analytics, services, security, legal"
+preference,UNSPECIFIED_ACTOR,
+preference,acquirer,
+preference,assignee,
+preference,we,"advertising, analytics, services, security, legal"
+rapidops,we,"advertising, analytics, services, security, legal"
+recipient of marketing communication,we,"advertising, analytics, services, security, legal"
+script,we,"advertising, analytics, services, security, legal"
+sensitive personal data,we,"advertising, analytics, services, security, legal"
+tag,we,"advertising, analytics, services, security, legal"
+widget,social media,"analytics, services"

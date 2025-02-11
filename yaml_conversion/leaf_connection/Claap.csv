@@ -1,0 +1,40 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,we,"analytics, legal, security, services"
+account information,we,"analytics, legal, security, services"
+authentication information provide to we,we,"analytics, legal, security, services"
+browser extension,we,"analytics, legal, security, services"
+calendar datum,we,"analytics, legal, security, services"
+computer software downloadable,we,"analytics, legal, security, services"
+conversation datum,we,"analytics, legal, security, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,corporate affiliates,analytics
+cookie / pixel tag,we,"analytics, legal, security, services"
+cookies,we,"analytics, legal, security, services"
+customer data,we,"analytics, legal, security, services"
+email address,UNSPECIFIED_ACTOR,services
+email address,we,"analytics, legal, security, services"
+end user data necessary,corporate affiliates,analytics
+end user data necessary,we,"analytics, legal, security, services"
+information about marketing preference,we,"analytics, legal, security, services"
+information make,we,"analytics, legal, security, services"
+information they make,we,"analytics, legal, security, services"
+internet activity,we,"analytics, legal, security, services"
+language preference,UNSPECIFIED_ACTOR,services
+language preference,we,"analytics, legal, security, services"
+link to third party website,we,"analytics, legal, security, services"
+login information,UNSPECIFIED_ACTOR,services
+login information,we,"analytics, legal, security, services"
+method,web app,
+person name,UNSPECIFIED_ACTOR,services
+person name,we,"analytics, legal, security, services"
+publicly available information,we,"analytics, legal, security, services"
+recording,we,"analytics, legal, security, services"
+social media,we,"analytics, legal, security, services"
+specific piece of personal information we collect about you,corporate affiliates,
+specific piece of personal information we collect about you,corporate affiliates,analytics
+specific piece of personal information we collect about you,we,"analytics, legal, security, services"
+type of datum,we,"analytics, legal, security, services"
+url,UNSPECIFIED_ACTOR,services
+url,we,"analytics, legal, security, services"

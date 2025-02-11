@@ -1,0 +1,49 @@
+data_type,collector,purpose
+LINE,we,"advertising, legal, security, services, analytics"
+UNSPECIFIED_DATA,business partner,
+UNSPECIFIED_DATA,professional advisor,
+UNSPECIFIED_DATA,related entity,
+UNSPECIFIED_DATA,we,"advertising, legal, security, services"
+UNSPECIFIED_DATA,we,"advertising, legal, security, services, analytics"
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,
+aggregate / deidentified / pseudonymized information,we,"advertising, legal, security, services"
+auditor,professional advisor,
+banker,professional advisor,
+billing information,we,"advertising, legal, security, services"
+communication datum,we,"advertising, legal, security, services"
+company name,we,"advertising, legal, security, services"
+contact information,service provider not locate in united states,
+contact information,we,"advertising, legal, security, services, analytics"
+cover letter,we,"advertising, legal, security, services"
+educational qualification,service provider not locate in united states,
+educational qualification,we,"advertising, legal, security, services, analytics"
+email address,service provider not locate in united states,
+email address,we,"advertising, legal, security, services"
+email address,we,"advertising, legal, security, services, analytics"
+email communication,we,"advertising, legal, security, services"
+email communication send via service,we,"advertising, legal, security, services"
+employment history,service provider not locate in united states,
+employment history,we,"advertising, legal, security, services, analytics"
+information about you,we,"advertising, legal, security, services"
+information you choose,we,"advertising, legal, security, services"
+insurer,professional advisor,
+interaction with service,we,"advertising, legal, security, services"
+lawyer,professional advisor,
+log,we,"advertising, legal, security, services"
+metadata relate to use of service,we,"advertising, legal, security, services"
+non-personal information,UNSPECIFIED_ACTOR,
+non-personal information,we,"advertising, legal, security, services"
+person name,service provider not locate in united states,
+person name,we,"advertising, legal, security, services"
+person name,we,"advertising, legal, security, services, analytics"
+personal detail provide during application process,service provider not locate in united states,
+personal detail provide during application process,we,"advertising, legal, security, services, analytics"
+phone number,service provider not locate in united states,
+phone number,we,"advertising, legal, security, services, analytics"
+regional setting,we,"advertising, legal, security, services"
+service provider,we,"advertising, legal, security, services, analytics"
+social medium account,we,"advertising, legal, security, services, analytics"
+specific information,we,"advertising, legal, security, services, analytics"
+specific piece,service provider not locate in united states,
+specific piece,we,"advertising, legal, security, services, analytics"
+traffic datum,we,"advertising, legal, security, services"

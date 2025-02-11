@@ -1,0 +1,120 @@
+data_type,collector,purpose
+blog,we,"advertising, security, analytics, legal, services"
+browser plug in type,UNSPECIFIED_ACTOR,
+browser plug in type,group companies,
+browser plug in type,group company,
+browser plug in type,we,"advertising, security, analytics, legal, services"
+browser type,UNSPECIFIED_ACTOR,
+browser type,group companies,
+browser type,group company,
+browser type,we,"advertising, security, analytics, legal, services"
+communication preference,UNSPECIFIED_ACTOR,
+communication preference,group companies,
+communication preference,group company,
+communication preference,we,"advertising, security, analytics, legal, services"
+company name,UNSPECIFIED_ACTOR,
+company name,group companies,
+company name,group company,
+company name,we,"advertising, security, analytics, legal, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,group companies,
+contact information,group company,
+contact information,we,"advertising, security"
+contact information,we,"advertising, security, analytics, legal, services"
+datum about you,UNSPECIFIED_ACTOR,
+different method,we,"advertising, security"
+email address,UNSPECIFIED_ACTOR,
+email address,group companies,
+email address,group company,
+email address,we,"advertising, security, analytics, legal, services"
+feedback,UNSPECIFIED_ACTOR,
+feedback,group companies,
+feedback,group company,
+feedback,we,"advertising, security, analytics, legal, services"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,group companies,
+geolocation,group company,
+geolocation,we,"advertising, security, analytics, legal, services"
+identifier,UNSPECIFIED_ACTOR,
+identifier,group companies,
+identifier,group company,
+identifier,we,"advertising, security, analytics, legal, services"
+identity datum,UNSPECIFIED_ACTOR,
+identity datum,group companies,
+identity datum,group company,
+identity datum,we,"advertising, security"
+identity datum,we,"advertising, security, analytics, legal, services"
+information about,UNSPECIFIED_ACTOR,
+information about,group companies,
+information about,group company,
+information about,we,"advertising, security, analytics, legal, services"
+information you choose,UNSPECIFIED_ACTOR,
+information you choose,group companies,
+information you choose,group company,
+information you choose,we,"advertising, security, analytics, legal, services"
+information you provide,we,"advertising, security"
+interest,UNSPECIFIED_ACTOR,
+interest,group companies,
+interest,group company,
+interest,we,"advertising, security, analytics, legal, services"
+internet activity,UNSPECIFIED_ACTOR,
+internet activity,group companies,
+internet activity,group company,
+internet activity,service provider,"advertising, analytics"
+internet activity,we,"advertising, security, analytics"
+internet activity,we,"advertising, security, analytics, legal, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,group companies,
+ip address,group company,
+ip address,we,"advertising, security, analytics, legal, services"
+job title,UNSPECIFIED_ACTOR,
+job title,group companies,
+job title,group company,
+job title,we,"advertising, security, analytics, legal, services"
+login datum,UNSPECIFIED_ACTOR,
+login datum,group companies,
+login datum,group company,
+login datum,we,"advertising, security, analytics, legal, services"
+marketing datum,UNSPECIFIED_ACTOR,
+marketing datum,group companies,
+marketing datum,group company,
+marketing datum,we,"advertising, security, analytics"
+marketing datum,we,"advertising, security, analytics, legal, services"
+person name,UNSPECIFIED_ACTOR,
+person name,group companies,
+person name,group company,
+person name,we,"advertising, security, analytics, legal, services"
+phone number,UNSPECIFIED_ACTOR,
+phone number,group companies,
+phone number,group company,
+phone number,we,"advertising, security, analytics, legal, services"
+preference,UNSPECIFIED_ACTOR,
+preference,group companies,
+preference,group company,
+preference,we,"advertising, security, analytics, legal, services"
+preference in,UNSPECIFIED_ACTOR,
+preference in,group companies,
+preference in,group company,
+preference in,we,"advertising, security, analytics, legal, services"
+profile datum,UNSPECIFIED_ACTOR,
+profile datum,group companies,
+profile datum,group company,
+profile datum,we,"advertising, security, analytics, legal, services"
+survey response,UNSPECIFIED_ACTOR,
+survey response,group companies,
+survey response,group company,
+survey response,we,"advertising, security, analytics, legal, services"
+technical data about equipment,we,"advertising, security, analytics, legal, services"
+technical data about you,we,"advertising, security, analytics, legal, services"
+technical datum,UNSPECIFIED_ACTOR,
+technical datum,group companies,
+technical datum,group company,
+technical datum,we,"advertising, security, analytics, legal, services"
+time zone setting,UNSPECIFIED_ACTOR,
+time zone setting,group companies,
+time zone setting,group company,
+time zone setting,we,"advertising, security, analytics, legal, services"
+version,UNSPECIFIED_ACTOR,
+version,group companies,
+version,group company,
+version,we,"advertising, security, analytics, legal, services"

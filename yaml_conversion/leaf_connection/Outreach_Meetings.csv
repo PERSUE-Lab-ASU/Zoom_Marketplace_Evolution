@@ -1,0 +1,64 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,part of website,
+UNSPECIFIED_DATA,we,
+UNSPECIFIED_DATA,we,"services, security, advertising, analytics"
+access to personal information we hold about you,we,
+age,we,
+aggregate / deidentified / pseudonymized information,we,
+associated identifier,we,"services, security"
+audio,we,
+bank account number,we,"services, security"
+browser information,we,"services, security"
+browsing / search history,we,"services, security"
+chat,we,
+choice,we,
+classification characteristic,we,
+client datum we process on behalf of client,outreach,
+coarse geolocation,we,services
+commercial information,we,
+cookie / pixel tag,we,services
+credit / debit card number,we,"services, security"
+date of birth,we,
+datum store in outreach account,UNSPECIFIED_ACTOR,
+datum store in outreach account,competent law enforcement body,
+datum store in outreach account,court,
+datum store in outreach account,we,
+email address,we,
+email address,we,services
+identifier as those set,we,services
+individual opt choice,we,services
+inference,we,services
+inference draw from above,we,services
+information about,we,services
+information about you we process,UNSPECIFIED_ACTOR,
+information about you we process,competent law enforcement body,
+information about you we process,court,
+information about you we process,we,services
+information from computer,we,"services, security"
+information we collect,UNSPECIFIED_ACTOR,
+information we collect,we,"services, security"
+interaction you have with we,we,
+ip address,we,services
+job title,we,
+job title,we,"services, security, advertising, analytics"
+option send not track signal to site you visit,most modern web browser,
+person name,we,services
+person name,we,"services, security"
+personal information,UNSPECIFIED_ACTOR,
+personal information,advertiser,
+personal information,adviser,
+personal information,analytic provider,
+personal information,business transfer,
+personal information,event sponsor,
+personal information,outreach,
+personal information,service provider,
+personal information,we,"services, security, advertising, analytics"
+personal information from,we,"services, security, advertising, analytics"
+personal information we process,outreach,legal
+phone number,we,
+postal address,we,
+postal address,we,"services, security"
+profile,we,"services, security, advertising, analytics"
+social medium profile,we,"services, security, advertising, analytics"
+username,we,services

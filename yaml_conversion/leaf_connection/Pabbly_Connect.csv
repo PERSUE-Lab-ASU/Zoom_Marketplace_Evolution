@@ -1,0 +1,86 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,privacy sub processor,
+UNSPECIFIED_DATA,respective business,
+UNSPECIFIED_DATA,service provider who process personal information,
+UNSPECIFIED_DATA,social media,
+UNSPECIFIED_DATA,team account holder,
+UNSPECIFIED_DATA,we,services
+access time,we,"services, advertising, analytics, legal"
+account registration,we,services
+api key,UNSPECIFIED_ACTOR,"security, services"
+api key login credential,we,services
+authorization,pabbly connect,services
+bank account,we,"services, advertising, analytics, legal"
+browser type,we,"services, advertising, analytics, legal"
+card detail,we,"services, advertising, analytics"
+company address,we,services
+contact information,we,"services, advertising, analytics"
+contact list,we,"services, advertising, analytics"
+cookie / pixel tag,advertiser,"advertising, analytics"
+cookie / pixel tag,we,"services, advertising, analytics"
+copy of customer data,we,"services, advertising, analytics"
+corresponding earning,we,"services, advertising, analytics"
+credit / debit card number,we,"services, advertising, analytics, legal"
+credit card,we,"services, advertising, analytics, legal"
+datum collect regard use of service,we,"services, advertising, analytics"
+design setting,we,"services, advertising, analytics, legal"
+device identifier,we,"services, advertising, analytics, legal"
+email address,support team,
+email address,we,services
+email address,we,"services, advertising, analytics"
+email address,we,"services, advertising, analytics, legal"
+email content,we,"services, advertising, analytics, legal"
+engagement metric,we,"services, advertising, analytics, legal"
+feature involve youtube api service,pabbly connect,services
+form field,we,"services, advertising, analytics, legal"
+hardware model,we,"services, advertising, analytics, legal"
+imei,we,"services, advertising, analytics, legal"
+information about issue,we,"services, advertising, analytics, legal"
+information about product,we,"services, advertising, analytics, legal"
+information about profile on platform,we,"services, advertising, analytics, legal"
+information about purchase intent,we,"services, advertising, analytics, legal"
+information about you,UNSPECIFIED_ACTOR,"security, services"
+information about you,government official,
+information about you,law enforcement,
+information about you,lawsuit,
+information about you,we,"services, advertising, analytics, legal"
+information about you you login,we,"services, advertising, analytics, legal"
+information be,we,"services, advertising, analytics, legal"
+information receive from youtube api,pabbly connect,services
+ip address,we,"services, advertising, analytics, legal"
+job title,we,"services, advertising, analytics, legal"
+know customer kyc document,we,"services, advertising, analytics, legal"
+language,we,"services, advertising, analytics, legal"
+local weather,we,"services, advertising, analytics, legal"
+login,we,"services, advertising, analytics, legal"
+login credential,UNSPECIFIED_ACTOR,"security, services"
+login credential for third party application you authenticate,we,"services, advertising, analytics, legal"
+marketing information,we,"services, advertising, analytics, legal"
+marketing preference,we,"services, advertising, analytics, legal"
+mobile network information,we,"services, advertising, analytics, legal"
+number of referral,we,"services, advertising, analytics"
+operating system,we,"services, advertising, analytics, legal"
+password,we,"services, advertising, analytics, legal"
+payment information,we,"services, advertising, analytics, legal"
+person name,support team,
+person name,we,services
+person name,we,"services, advertising, analytics, legal"
+personal identifier,UNSPECIFIED_ACTOR,"security, services"
+phone number,support team,
+phone number,we,services
+phone number,we,"services, advertising, analytics"
+phone number,we,"services, advertising, analytics, legal"
+pixel,we,"services, advertising, analytics, legal"
+postal address,support team,
+postal address,we,services
+postal address,we,"services, advertising, analytics"
+postal address,we,"services, advertising, analytics, legal"
+profile information,we,"services, advertising, analytics, legal"
+response submit,we,"services, advertising, analytics, legal"
+sensitive personal data,we,"services, advertising, analytics, legal"
+subscriber detail,we,"services, advertising, analytics, legal"
+template,we,"services, advertising, analytics, legal"
+third party wallet detail,we,"services, advertising, analytics"
+usage information,we,"services, advertising, analytics, legal"
+version,we,"services, advertising, analytics, legal"

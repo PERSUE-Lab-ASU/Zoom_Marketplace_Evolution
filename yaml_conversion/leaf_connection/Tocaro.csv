@@ -1,0 +1,14 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+acquire personal information,we,services
+computer name,we,services
+ctcsp corporation,we,"services, analytics, security"
+customer information,we,services
+individual identification information,we,services
+name of administrator to customer,we,services
+name of business partner,we,services
+os,we,services
+personal information,we,services
+personal information about customer,business partner,
+personal information about customer,we,services
+type of information,we,"services, analytics, security"

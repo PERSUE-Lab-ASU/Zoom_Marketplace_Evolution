@@ -1,0 +1,88 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+access to website,clickup service,
+age,we,"advertising, analytics, services"
+browser type,we,"advertising, analytics, services"
+company industry,we,"advertising, analytics, services"
+company name,UNSPECIFIED_ACTOR,
+company name,corporate affiliates,
+company name,office,
+company name,outside contractors,
+company name,personnel,
+company name,we,"advertising, analytics, services, legal"
+connection type,we,"advertising, analytics, services"
+cookie / pixel tag,advertiser,services
+cookie / pixel tag,analytic provider,services
+cookie / pixel tag,corporate affiliates,services
+cookie / pixel tag,we,"advertising, analytics, services"
+country preference,we,"advertising, analytics, services"
+credit / debit card number,UNSPECIFIED_ACTOR,
+credit / debit card number,corporate affiliates,
+credit / debit card number,office,
+credit / debit card number,outside contractors,
+credit / debit card number,personnel,
+credit / debit card number,we,"advertising, analytics, services, legal"
+device identifier,advertiser,services
+device identifier,analytic provider,services
+device identifier,corporate affiliates,services
+domain name,we,"advertising, analytics, services"
+email address,UNSPECIFIED_ACTOR,
+email address,corporate affiliates,
+email address,office,
+email address,outside contractors,
+email address,personnel,
+email address,we,"advertising, analytics, services"
+email address,we,"advertising, analytics, services, legal"
+file from third party share service,we,"advertising, analytics, services"
+filename,we,"advertising, analytics, services"
+for account preference,we,"advertising, analytics, services"
+gender,we,"advertising, analytics, services"
+geolocation,we,"advertising, analytics, services"
+independent contractor,outside contractors,
+information collect,we,"advertising, analytics, services"
+information gather,we,"advertising, analytics, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,corporate affiliates,
+ip address,office,
+ip address,outside contractors,
+ip address,personnel,
+ip address,we,"advertising, analytics, services"
+ip address,we,"advertising, analytics, services, legal"
+job title,UNSPECIFIED_ACTOR,
+job title,corporate affiliates,
+job title,office,
+job title,outside contractors,
+job title,personnel,
+job title,we,"advertising, analytics, services, legal"
+option unsubscribe,we,"advertising, analytics, services"
+person name,UNSPECIFIED_ACTOR,
+person name,corporate affiliates,
+person name,office,
+person name,outside contractors,
+person name,personnel,
+person name,we,"advertising, analytics, services, legal"
+personal information,UNSPECIFIED_ACTOR,
+personal information,we,"advertising, analytics, services, legal"
+phone number,UNSPECIFIED_ACTOR,
+phone number,corporate affiliates,
+phone number,office,
+phone number,outside contractors,
+phone number,personnel,
+phone number,we,"advertising, analytics, services, legal"
+pixel,advertiser,services
+pixel,analytic provider,services
+pixel,corporate affiliates,services
+postal address,UNSPECIFIED_ACTOR,
+postal address,corporate affiliates,
+postal address,office,
+postal address,outside contractors,
+postal address,personnel,
+postal address,we,"advertising, analytics, services, legal"
+profession,we,"advertising, analytics, services"
+setting,we,"advertising, analytics, services"
+size,we,"advertising, analytics, services"
+statistical datum involve use of clickup service,we,"advertising, analytics, services"
+supplier,outside contractors,
+time save after,we,"advertising, analytics, services, legal"
+zip code,we,"advertising, analytics, services"

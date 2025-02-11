@@ -1,0 +1,52 @@
+data_type,collector,purpose
+Facebook,social media,
+Twitter,social media,
+UNSPECIFIED_DATA,LINE,services
+UNSPECIFIED_DATA,new successor entity,services
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services"
+biographical datum,LINE,"services, analytics"
+biographical datum,UNSPECIFIED_ACTOR,"advertising, analytics"
+biographical datum,host partner,
+biographical datum,quest,"advertising, analytics, security, services"
+biographical datum,we,"advertising, analytics, security, services"
+biographical datum,we,"advertising, analytics, security, services, legal"
+browser type,quest,
+browser type,third party track partner,
+clickstream datum,quest,
+clickstream datum,third party track partner,
+contact,LINE,"services, analytics"
+contact,UNSPECIFIED_ACTOR,"advertising, analytics"
+contact,host partner,
+contact,quest,"advertising, analytics, security, services"
+contact,we,"advertising, analytics, security, services"
+contact,we,"advertising, analytics, security, services, legal"
+content,we,"advertising, analytics, security, services, legal"
+cookie / pixel tag,Google,advertising
+cookie / pixel tag,LINE,services
+cookie / pixel tag,UNSPECIFIED_ACTOR,advertising
+cookie / pixel tag,quest,"advertising, analytics, security, services"
+cookie / pixel tag,we,"advertising, analytics, security, services"
+date time stamp,quest,"advertising, analytics, security, services"
+date time stamp,third party track partner,
+datum relate to visit,UNSPECIFIED_ACTOR,"advertising, analytics"
+email address,we,"advertising, analytics, security, services"
+email address,we,"advertising, analytics, security, services, legal"
+end user information,administrator,services
+government identifier,we,"advertising, analytics, security, services, legal"
+information about experience with enhance website,LINE,services
+ip address,quest,"advertising, analytics, security, services"
+ip address,social media,
+ip address,third party track partner,
+job applicant datum,LINE,"services, analytics"
+job applicant datum,UNSPECIFIED_ACTOR,"advertising, analytics"
+job applicant datum,host partner,
+job applicant datum,quest,"advertising, analytics, security, services"
+job applicant datum,we,"advertising, analytics, security, services"
+job applicant datum,we,"advertising, analytics, security, services, legal"
+login information,we,"advertising, analytics, security, services, legal"
+person name,we,"advertising, analytics, security, services"
+phone number,we,"advertising, analytics, security, services, legal"
+piece of information store on computer,quest,"advertising, analytics, security, services"
+pixel tracking,LINE,"services, analytics"
+program run on website,social media,
+ssn,we,"advertising, analytics, security, services, legal"

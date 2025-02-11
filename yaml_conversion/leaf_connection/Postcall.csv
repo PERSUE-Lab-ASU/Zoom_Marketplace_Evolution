@@ -1,0 +1,27 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,services
+anonymous identifier,we,"services, analytics, security"
+browser type,we,"services, analytics, security"
+browser type,we,"services, analytics, security, advertising"
+browser version,we,"services, analytics, security"
+browser version,we,"services, analytics, security, advertising"
+collect datum,Google,advertising
+collect datum,we,"services, analytics, security, advertising"
+contact information,we,services
+credit / debit card number,third party payment processor govern,
+datum collect,Google,"advertising, analytics"
+device identifier,we,"services, analytics, security"
+device identifier,we,"services, analytics, security, advertising"
+diagnostic datum,we,"services, analytics, security"
+diagnostic datum,we,"services, analytics, security, advertising"
+email address,we,"services, analytics, security"
+information browser send,we,"services, analytics, security"
+ip address,we,"services, analytics, security"
+ip address,we,"services, analytics, security, advertising"
+person name,we,"services, analytics, security"
+personal information,UNSPECIFIED_ACTOR,services
+personal information,we,"services, analytics, security, advertising"
+personal information,we,"services, analytics, security, advertising, legal"
+preference cookies,we,"services, analytics, security, advertising"
+session cookies,we,"services, analytics, security, advertising"
+several different type,we,"services, analytics, security, advertising"

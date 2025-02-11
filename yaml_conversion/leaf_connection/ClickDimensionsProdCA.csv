@@ -1,0 +1,34 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"advertising, services"
+blog,we,"advertising, services, legal, analytics"
+browser information,we,"advertising, services, legal"
+company name,we,"advertising, services, legal, analytics"
+cookie / pixel tag,we,"advertising, services, legal"
+country,we,"advertising, services"
+customer name,we,"advertising, services, legal"
+demographic information,we,"advertising, services, legal"
+email address,UNSPECIFIED_ACTOR,
+email address,we,"advertising, services, legal"
+email address,we,"advertising, services, legal, analytics"
+expertise,we,"advertising, services, legal, analytics"
+financial information,we,"advertising, services, legal"
+geographic region,we,"advertising, services, legal"
+help site,we,"advertising, services, legal, analytics"
+important information,we,"advertising, services, legal"
+information about minor under age of,we,"advertising, services, legal"
+information from,we,"advertising, services, legal"
+information we collect,UNSPECIFIED_ACTOR,services
+information we collect,we,"advertising, services, legal"
+job function,we,"advertising, services, legal, analytics"
+person name,we,"advertising, services, legal"
+person name,we,"advertising, services, legal, analytics"
+personal information,click,
+personal information,clicks,services
+personal information,trusted subprocessor,services
+personal information,we,"advertising, services, legal"
+personal information,we,"advertising, services, legal, analytics"
+phone number,we,"advertising, services, legal, analytics"
+postal address,we,"advertising, services, legal, analytics"
+support portal,we,"advertising, services, legal, analytics"
+title,we,"advertising, services, legal, analytics"
+website address,we,"advertising, services, legal, analytics"

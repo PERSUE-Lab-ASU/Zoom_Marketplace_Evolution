@@ -1,0 +1,37 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Google,
+UNSPECIFIED_DATA,we,"security, services"
+browser characteristic,we,"security, services, analytics"
+browser type,we,"security, services"
+browser type,we,"security, services, analytics"
+collect personal information,we,"security, services"
+cookie / pixel tag,we,"security, services, analytics"
+country,we,"security, services, analytics"
+device identification number,we,"security, services, analytics"
+device identifier,we,"security, services, analytics"
+device name,we,"security, services, analytics"
+direction,Google,
+geolocation,we,"security, services, analytics"
+hardware model,we,"security, services, analytics"
+hardware model internet service provider,we,"security, services, analytics"
+information about,we,"security, services, analytics"
+information in specific situation describe in section,we,"security, services, analytics"
+ip address,we,"security, services, analytics"
+language preference,we,"security, services, analytics"
+manufacturer,we,"security, services, analytics"
+model,we,"security, services, analytics"
+monetary amount settle dispute,party to dispute,
+operate system,we,"security, services, analytics"
+operating system,we,"security, services, analytics"
+personal information,service provider,
+personal information,we,"security, services, analytics"
+personal information provide in request,we,"security, services, analytics"
+places api,Google,
+postal address,we,"security, services, analytics"
+refer url,we,"security, services, analytics"
+relevant document information,party allege,
+settlement amount,party to dispute,
+system configuration information,we,"security, services, analytics"
+technical information,we,"security, services, analytics"
+version,we,"security, services, analytics"
+version information,we,"security, services, analytics"

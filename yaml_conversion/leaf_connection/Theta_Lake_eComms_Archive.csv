@@ -1,0 +1,52 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+annotation,UNSPECIFIED_ACTOR,advertising
+annotation,theta lake,"security, services, advertising"
+annotation,we,"legal, services"
+comment,UNSPECIFIED_ACTOR,advertising
+comment,theta lake,"security, services, advertising"
+comment,we,"legal, services"
+computer information,UNSPECIFIED_ACTOR,advertising
+computer information,theta lake,"security, services, advertising"
+computer information,we,"legal, services"
+datum backup,theta lake,"security, services"
+datum from collaboration platform,UNSPECIFIED_ACTOR,advertising
+datum from collaboration platform,theta lake,"security, services, advertising"
+datum from collaboration platform,we,"legal, services"
+email address,UNSPECIFIED_ACTOR,advertising
+email address,theta lake,"security, services, advertising"
+email address,we,"legal, services"
+incorporate theta lake entity,we,"legal, services"
+ip address,UNSPECIFIED_ACTOR,advertising
+ip address,theta lake,"security, services, advertising"
+ip address,we,"legal, services"
+job title,UNSPECIFIED_ACTOR,advertising
+job title,theta lake,"security, services, advertising"
+job title,we,"legal, services"
+login personal information,UNSPECIFIED_ACTOR,advertising
+login personal information,theta lake,"security, services, advertising"
+login personal information,we,"legal, services"
+person name,UNSPECIFIED_ACTOR,advertising
+person name,theta lake,"security, services, advertising"
+person name,we,"legal, services"
+phone number,UNSPECIFIED_ACTOR,advertising
+phone number,theta lake,"security, services, advertising"
+phone number,we,"legal, services"
+professional detail,UNSPECIFIED_ACTOR,advertising
+professional detail,theta lake,"security, services, advertising"
+professional detail,we,"legal, services"
+resume,UNSPECIFIED_ACTOR,advertising
+resume,theta lake,"security, services, advertising"
+resume,we,"legal, services"
+review status,UNSPECIFIED_ACTOR,advertising
+review status,theta lake,"security, services, advertising"
+review status,we,"legal, services"
+suggestion about service improvement,UNSPECIFIED_ACTOR,advertising
+suggestion about service improvement,theta lake,"security, services, advertising"
+suggestion about service improvement,we,"legal, services"
+usage information,UNSPECIFIED_ACTOR,advertising
+usage information,theta lake,"security, services, advertising"
+usage information,we,"legal, services"
+username,UNSPECIFIED_ACTOR,advertising
+username,theta lake,"security, services, advertising"
+username,we,"legal, services"

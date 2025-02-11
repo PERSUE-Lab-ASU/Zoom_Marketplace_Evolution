@@ -1,0 +1,26 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,advertising
+UNSPECIFIED_DATA,tool,
+UNSPECIFIED_DATA,we,"analytics, security, services"
+blog,we,"analytics, security, services, legal"
+change,UNSPECIFIED_ACTOR,advertising
+cookie / pixel tag,we,"analytics, security, services"
+copy of personal datum,we,"analytics, security, services"
+copy of personal information,we,"analytics, security, services"
+datum display on third party website,we,"analytics, security, services"
+feedback,we,"analytics, security, services"
+information about you,we,"analytics, security, services"
+information you provide to we,we,"analytics, security, services"
+internet activity,UNSPECIFIED_ACTOR,advertising
+internet activity,vendor for credit card processing,
+internet activity,we,"analytics, security, services"
+internet activity,we,"analytics, security, services, legal"
+option,we,"analytics, security, services"
+professional employment information,UNSPECIFIED_ACTOR,advertising
+professional employment information,vendor for credit card processing,
+professional employment information,we,"analytics, security, services, legal"
+sensitive information,UNSPECIFIED_ACTOR,advertising
+sensitive information,vendor for credit card processing,
+sensitive information,we,"analytics, security, services, legal"
+website available,we,"analytics, security, services, legal"
+zylo,we,"analytics, security, services, legal"

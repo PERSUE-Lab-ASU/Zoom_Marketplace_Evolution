@@ -1,0 +1,251 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,meta,
+UNSPECIFIED_DATA,we,"legal, services"
+advertising id,UNSPECIFIED_ACTOR,
+advertising id,advertiser,
+advertising id,analytic provider,
+advertising id,consultant,
+advertising id,pagerduty,
+advertising id,pagerduty,"advertising, analytics, legal, security, services"
+advertising id,service provider,
+advertising id,we,"legal, services"
+advertising id,youtube,
+authentication credential for account,pagerduty,
+browser type,UNSPECIFIED_ACTOR,
+browser type,advertiser,
+browser type,analytic provider,
+browser type,consultant,
+browser type,pagerduty,
+browser type,pagerduty,"advertising, analytics, legal, security, services"
+browser type,service provider,
+browser type,we,"legal, services"
+browser type,youtube,
+browsing / search history,UNSPECIFIED_ACTOR,
+browsing / search history,advertiser,
+browsing / search history,analytic provider,
+browsing / search history,consultant,
+browsing / search history,pagerduty,
+browsing / search history,pagerduty,"advertising, analytics, legal, security, services"
+browsing / search history,service provider,
+browsing / search history,we,"legal, services"
+browsing / search history,youtube,
+coarse geolocation,UNSPECIFIED_ACTOR,
+coarse geolocation,advertiser,
+coarse geolocation,analytic provider,
+coarse geolocation,consultant,
+coarse geolocation,pagerduty,
+coarse geolocation,pagerduty,"advertising, analytics, legal, security, services"
+coarse geolocation,service provider,
+coarse geolocation,we,"legal, services"
+coarse geolocation,youtube,
+contact information,UNSPECIFIED_ACTOR,
+contact information,advertiser,
+contact information,analytic provider,
+contact information,consultant,
+contact information,pagerduty,"advertising, analytics, legal, security, services"
+contact information,service provider,
+contact information,we,"legal, services"
+contact information,youtube,
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,advertiser,
+cookie / pixel tag,analytic provider,
+cookie / pixel tag,consultant,
+cookie / pixel tag,meta,
+cookie / pixel tag,pagerduty,
+cookie / pixel tag,pagerduty,"advertising, analytics, legal, security, services"
+cookie / pixel tag,service provider,
+cookie / pixel tag,we,"legal, services"
+cookie / pixel tag,youtube,
+country,UNSPECIFIED_ACTOR,
+country,advertiser,
+country,analytic provider,
+country,consultant,
+country,pagerduty,
+country,pagerduty,"advertising, analytics, legal, security, services"
+country,service provider,
+country,we,"legal, services"
+country,youtube,
+current company information,UNSPECIFIED_ACTOR,
+current company information,advertiser,
+current company information,analytic provider,
+current company information,consultant,
+current company information,pagerduty,"advertising, analytics, legal, security, services"
+current company information,service provider,
+current company information,we,"legal, services"
+current company information,youtube,
+device identifier,UNSPECIFIED_ACTOR,
+device identifier,advertiser,
+device identifier,analytic provider,
+device identifier,consultant,
+device identifier,pagerduty,
+device identifier,pagerduty,"advertising, analytics, legal, security, services"
+device identifier,service provider,
+device identifier,we,"legal, services"
+device identifier,youtube,
+email address,UNSPECIFIED_ACTOR,
+email address,advertiser,
+email address,analytic provider,
+email address,consultant,
+email address,pagerduty,
+email address,pagerduty,"advertising, analytics, legal, security, services"
+email address,service provider,
+email address,we,"legal, services"
+email address,youtube,
+employment information,pagerduty,"advertising, analytics, legal, security, services"
+financial information,we,"legal, services"
+identifier,UNSPECIFIED_ACTOR,
+identifier,advertiser,
+identifier,analytic provider,
+identifier,consultant,
+identifier,pagerduty,"advertising, analytics, legal, security, services"
+identifier,service provider,
+identifier,we,"legal, services"
+identifier,youtube,
+industry,UNSPECIFIED_ACTOR,
+industry,advertiser,
+industry,analytic provider,
+industry,consultant,
+industry,pagerduty,"advertising, analytics, legal, security, services"
+industry,service provider,
+industry,we,"legal, services"
+industry,youtube,
+inference draw from,UNSPECIFIED_ACTOR,
+inference draw from,advertiser,
+inference draw from,analytic provider,
+inference draw from,consultant,
+inference draw from,pagerduty,
+inference draw from,pagerduty,"advertising, analytics, legal, security, services"
+inference draw from,service provider,
+inference draw from,we,"legal, services"
+inference draw from,youtube,
+information about,UNSPECIFIED_ACTOR,
+information about,advertiser,
+information about,analytic provider,
+information about,consultant,
+information about,pagerduty,
+information about,pagerduty,"advertising, analytics, legal, security, services"
+information about,service provider,
+information about,we,"legal, services"
+information about,youtube,
+information about data processing practice,pagerduty,"advertising, analytics, legal, security, services"
+information consider,we,"legal, services"
+information we collect from you,we,"legal, services"
+information you fill in webform,UNSPECIFIED_ACTOR,
+information you fill in webform,advertiser,
+information you fill in webform,analytic provider,
+information you fill in webform,consultant,
+information you fill in webform,pagerduty,
+information you fill in webform,pagerduty,"advertising, analytics, legal, security, services"
+information you fill in webform,service provider,
+information you fill in webform,we,"legal, services"
+information you fill in webform,youtube,
+information you submit through feature,we,"legal, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,advertiser,
+ip address,analytic provider,
+ip address,consultant,
+ip address,pagerduty,
+ip address,pagerduty,"advertising, analytics, legal, security, services"
+ip address,service provider,
+ip address,we,"legal, services"
+ip address,youtube,
+notification setting,UNSPECIFIED_ACTOR,
+notification setting,advertiser,
+notification setting,analytic provider,
+notification setting,consultant,
+notification setting,pagerduty,"advertising, analytics, legal, security, services"
+notification setting,service provider,
+notification setting,we,"legal, services"
+notification setting,youtube,
+operating system,UNSPECIFIED_ACTOR,
+operating system,advertiser,
+operating system,analytic provider,
+operating system,consultant,
+operating system,pagerduty,
+operating system,pagerduty,"advertising, analytics, legal, security, services"
+operating system,service provider,
+operating system,we,"legal, services"
+operating system,youtube,
+password,UNSPECIFIED_ACTOR,
+password,advertiser,
+password,analytic provider,
+password,consultant,
+password,pagerduty,
+password,pagerduty,"advertising, analytics, legal, security, services"
+password,service provider,
+password,we,"legal, services"
+password,youtube,
+payment account,we,"legal, services"
+personal information,UNSPECIFIED_ACTOR,
+personal information,advertiser,
+personal information,analytic provider,
+personal information,consultant,
+personal information,pagerduty,"advertising, analytics, legal, security, services"
+personal information,service provider,
+personal information,we,"legal, services"
+personal information,youtube,
+phone number,UNSPECIFIED_ACTOR,
+phone number,advertiser,
+phone number,analytic provider,
+phone number,consultant,
+phone number,pagerduty,
+phone number,pagerduty,"advertising, analytics, legal, security, services"
+phone number,service provider,
+phone number,we,"legal, services"
+phone number,youtube,
+photo,pagerduty,
+purchase history,UNSPECIFIED_ACTOR,
+purchase history,advertiser,
+purchase history,analytic provider,
+purchase history,consultant,
+purchase history,pagerduty,"advertising, analytics, legal, security, services"
+purchase history,service provider,
+purchase history,we,"legal, services"
+purchase history,youtube,
+racial origin,we,"legal, services"
+record customer service interaction,pagerduty,
+religious belief,we,"legal, services"
+social networking activity,UNSPECIFIED_ACTOR,
+social networking activity,advertiser,
+social networking activity,analytic provider,
+social networking activity,consultant,
+social networking activity,pagerduty,
+social networking activity,pagerduty,"advertising, analytics, legal, security, services"
+social networking activity,service provider,
+social networking activity,we,"legal, services"
+social networking activity,youtube,
+state province,UNSPECIFIED_ACTOR,
+state province,advertiser,
+state province,analytic provider,
+state province,consultant,
+state province,pagerduty,
+state province,pagerduty,"advertising, analytics, legal, security, services"
+state province,service provider,
+state province,we,"legal, services"
+state province,youtube,
+state province country,UNSPECIFIED_ACTOR,
+state province country,advertiser,
+state province country,analytic provider,
+state province country,consultant,
+state province country,pagerduty,
+state province country,pagerduty,"advertising, analytics, legal, security, services"
+state province country,service provider,
+state province country,we,"legal, services"
+state province country,youtube,
+title,UNSPECIFIED_ACTOR,
+title,advertiser,
+title,analytic provider,
+title,consultant,
+title,pagerduty,"advertising, analytics, legal, security, services"
+title,service provider,
+title,we,"legal, services"
+title,youtube,
+type of datum describe in section,UNSPECIFIED_ACTOR,
+type of datum describe in section,advertiser,
+type of datum describe in section,analytic provider,
+type of datum describe in section,consultant,
+type of datum describe in section,pagerduty,"advertising, analytics, legal, security, services"
+type of datum describe in section,service provider,
+type of datum describe in section,we,"legal, services"
+type of datum describe in section,youtube,
+union membership,we,"legal, services"

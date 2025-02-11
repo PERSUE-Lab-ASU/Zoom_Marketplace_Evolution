@@ -1,0 +1,39 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,competent authority,
+UNSPECIFIED_DATA,law enforcement,
+UNSPECIFIED_DATA,nice,
+UNSPECIFIED_DATA,we,"legal, services"
+behavior on website,we,"legal, services"
+contact information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+contact information,nice,"legal, security, services"
+contact information,service provider,services
+contact information,we,"legal, services, advertising, analytics"
+cookie / pixel tag,advertiser,
+cookie / pixel tag,analytic provider,
+cookie / pixel tag,business partner,services
+cookie / pixel tag,we,"legal, services"
+cpni,UNSPECIFIED_ACTOR,
+cpni,nice affiliate,
+customer proprietary network information,UNSPECIFIED_ACTOR,
+customer proprietary network information,nice affiliate,
+financial information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+financial information,nice,"legal, security, services"
+financial information,service provider,services
+financial information,we,"legal, services, advertising, analytics"
+inference,UNSPECIFIED_ACTOR,"advertising, analytics"
+inference,we,"legal, services, advertising, analytics"
+information about use of website on current device,UNSPECIFIED_ACTOR,"advertising, analytics"
+information about use of website on current device,we,"legal, services, advertising, analytics"
+ip address,feature,
+nice ltd.,nice,"legal, security, services"
+nice web property link to privacy notice,we,"legal, services, advertising, analytics"
+personal datum collect via website,nice,"legal, security"
+pixel,we,"legal, services, advertising, analytics"
+sensitive personal information,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+sensitive personal information,nice,"legal, security, services"
+sensitive personal information,service provider,services
+sensitive personal information,we,"legal, services, advertising, analytics"
+specific piece of personal information we collect about you,we,"legal, services, advertising, analytics"
+user information,advertiser,
+user information,analytic provider,

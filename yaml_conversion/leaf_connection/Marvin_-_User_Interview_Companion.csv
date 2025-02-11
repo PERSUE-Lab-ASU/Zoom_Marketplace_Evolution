@@ -1,0 +1,97 @@
+data_type,collector,purpose
+activity on page,we,"services, advertising, analytics"
+browser type,we,"services, advertising, analytics"
+browsing / search history,we,"services, advertising, analytics"
+calendar datum,we,services
+city,we,"services, advertising, analytics"
+contact information,UNSPECIFIED_ACTOR,
+contact information,integration,
+contact information,law enforcement agency,
+contact information,public authority,
+contact information,regulatory body,
+contact information,service provider,
+contact information,we,"services, advertising, analytics, legal, security"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,we,"services, advertising, analytics"
+correspondence with we,UNSPECIFIED_ACTOR,
+correspondence with we,integration,
+correspondence with we,law enforcement agency,
+correspondence with we,public authority,
+correspondence with we,regulatory body,
+correspondence with we,service provider,
+correspondence with we,we,"services, advertising, analytics, legal, security"
+cpu usage,we,"services, advertising, analytics"
+device type,we,"services, advertising, analytics"
+email address,UNSPECIFIED_ACTOR,
+email address,integration,
+email address,law enforcement agency,
+email address,public authority,
+email address,regulatory body,
+email address,service provider,
+email address,we,"services, advertising, analytics"
+email address,we,"services, advertising, analytics, legal, security"
+identifier,we,"services, advertising, analytics"
+information collect via automate mean,UNSPECIFIED_ACTOR,
+information collect via automate mean,integration,
+information collect via automate mean,law enforcement agency,
+information collect via automate mean,public authority,
+information collect via automate mean,regulatory body,
+information collect via automate mean,service provider,
+information collect via automate mean,we,"services, advertising, analytics, legal, security"
+information we collect,UNSPECIFIED_ACTOR,
+information we collect,integration,
+information we collect,law enforcement agency,
+information we collect,public authority,
+information we collect,regulatory body,
+information we collect,service provider,
+information we collect,we,"services, advertising, analytics, legal, security"
+internet activity,advertiser,
+internet activity,analytic provider,
+internet activity,social media,
+internet activity,we,"services, advertising, analytics"
+ip address,we,"services, advertising, analytics"
+job title,UNSPECIFIED_ACTOR,
+job title,integration,
+job title,law enforcement agency,
+job title,public authority,
+job title,regulatory body,
+job title,service provider,
+job title,we,"services, advertising, analytics, legal, security"
+language preference,we,"services, advertising, analytics"
+language setting,we,"services, advertising, analytics"
+manufacturer,we,"services, advertising, analytics"
+marketing email,we,"services, advertising, analytics"
+marketing information,we,"services, advertising, analytics"
+model,we,"services, advertising, analytics"
+navigation path,we,"services, advertising, analytics"
+operating system type,we,"services, advertising, analytics"
+person name,UNSPECIFIED_ACTOR,
+person name,integration,
+person name,law enforcement agency,
+person name,public authority,
+person name,regulatory body,
+person name,service provider,
+person name,we,"services, advertising, analytics"
+person name,we,"services, advertising, analytics, legal, security"
+personal information as account information,UNSPECIFIED_ACTOR,
+personal information as account information,we,"services, advertising, analytics, legal, security"
+personal information process about you,UNSPECIFIED_ACTOR,
+personal information process about you,integration,
+personal information process about you,law enforcement agency,
+personal information process about you,public authority,
+personal information process about you,regulatory body,
+personal information process about you,service provider,
+personal information process about you,we,"services, advertising, analytics, legal, security"
+personal information relevant,we,"services, advertising, analytics, legal, security"
+phone number,UNSPECIFIED_ACTOR,
+phone number,integration,
+phone number,law enforcement agency,
+phone number,public authority,
+phone number,regulatory body,
+phone number,service provider,
+phone number,we,"services, advertising, analytics, legal, security"
+profile picture,we,"services, advertising, analytics, legal, security"
+radio network information,we,"services, advertising, analytics"
+ram,we,"services, advertising, analytics"
+screen resolution,we,"services, advertising, analytics"
+version,we,"services, advertising, analytics"

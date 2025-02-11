@@ -1,0 +1,172 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,analytic provider,
+UNSPECIFIED_DATA,current affiliate,
+UNSPECIFIED_DATA,service providers,"analytics, legal, security, services"
+UNSPECIFIED_DATA,we,"analytics, legal, security, services"
+ad tracking,analytic provider,
+avatar,UNSPECIFIED_ACTOR,
+avatar,calendly,advertising
+biographical detail,UNSPECIFIED_ACTOR,
+biographical detail,calendly,advertising
+browser type,UNSPECIFIED_ACTOR,"analytics, services"
+browser type,we,"analytics, legal, security, services"
+coarse geolocation,UNSPECIFIED_ACTOR,"analytics, services"
+coarse geolocation,we,"analytics, legal, security, services"
+commercial information,UNSPECIFIED_ACTOR,"analytics, services"
+commercial information,calendly,advertising
+commercial information,contractor,
+commercial information,service providers,"analytics, legal, security, services"
+commercial information,we,"analytics, legal, security, services"
+contact information,bank,security
+contact information,we,"analytics, legal, security, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,"analytics, services"
+cookie / pixel tag,we,"analytics, legal, security, services"
+cookies,UNSPECIFIED_ACTOR,"analytics, services"
+cookies,we,"analytics, legal, security, services"
+cost estimate,we,"analytics, legal, security, services"
+credit / debit card number,third party payment processor,
+credit / debit card number,we,"analytics, legal, security, services"
+customer data,calendly,advertising
+datum within account,authorized agent of company,
+datum within account,we,"analytics, legal, security, services"
+device identifier,UNSPECIFIED_ACTOR,"analytics, services"
+device identifier,we,"analytics, legal, security, services"
+device model,UNSPECIFIED_ACTOR,"analytics, services"
+device model,we,"analytics, legal, security, services"
+email address,UNSPECIFIED_ACTOR,"analytics, services"
+email address,authorized agent of company,
+email address,calendly,advertising
+email address,contractor,
+email address,service providers,"analytics, legal, security, services"
+email address,we,"analytics, legal, security, services"
+employer,UNSPECIFIED_ACTOR,"analytics, services"
+employer,calendly,advertising
+employment seniority,UNSPECIFIED_ACTOR,"analytics, services"
+employment seniority,calendly,advertising
+geolocation,UNSPECIFIED_ACTOR,"analytics, services"
+geolocation,calendly,advertising
+geolocation,contractor,
+geolocation,service providers,"analytics, legal, security, services"
+geolocation,we,"analytics, legal, security, services"
+identifier,UNSPECIFIED_ACTOR,"analytics, services"
+identifier,advertiser,
+identifier,analytic provider,
+identifier,calendly,advertising
+identifier,contractor,
+identifier,service providers,"analytics, legal, security, services"
+identifier,we,"analytics, legal, security, services"
+inference draw from,UNSPECIFIED_ACTOR,"analytics, services"
+inference draw from,calendly,advertising
+inference draw from,contractor,
+inference draw from,service providers,"analytics, legal, security, services"
+inference draw from,we,"analytics, legal, security, services"
+information about you,UNSPECIFIED_ACTOR,"analytics, services"
+information about you,calendly,advertising
+information about you,contractor,
+information about you,service providers,"analytics, legal, security, services"
+information about you,we,"analytics, legal, security, services"
+information browser send,UNSPECIFIED_ACTOR,"analytics, services"
+information browser send,we,"analytics, legal, security, services"
+information on meeting type customer use,we,"analytics, legal, security, services"
+information provide,we,"analytics, legal, security, services"
+internet,UNSPECIFIED_ACTOR,"analytics, services"
+internet,advertiser,
+internet,analytic provider,
+internet,calendly,advertising
+internet,contractor,
+internet,service providers,"analytics, legal, security, services"
+internet,we,"analytics, legal, security, services"
+internet activity,UNSPECIFIED_ACTOR,"analytics, services"
+internet activity,advertiser,
+internet activity,analytic provider,
+internet activity,calendly,advertising
+internet activity,contractor,
+internet activity,service providers,"analytics, legal, security, services"
+internet activity,we,"analytics, legal, security, services"
+ip address,UNSPECIFIED_ACTOR,"analytics, services"
+ip address,we,"analytics, legal, security, services"
+job title,UNSPECIFIED_ACTOR,"analytics, services"
+job title,calendly,advertising
+local storage under localstorage,we,"analytics, legal, security, services"
+operating system,UNSPECIFIED_ACTOR,"analytics, services"
+operating system,we,"analytics, legal, security, services"
+password,UNSPECIFIED_ACTOR,"analytics, services"
+password,calendly,advertising
+password,contractor,
+password,service providers,"analytics, legal, security, services"
+password,we,"analytics, legal, security, services"
+payment information you provide to we,we,"analytics, legal, security, services"
+person name,UNSPECIFIED_ACTOR,"analytics, services"
+person name,calendly,advertising
+person name,contractor,
+person name,service providers,"analytics, legal, security, services"
+person name,we,"analytics, legal, security, services"
+personal data provide in verification process,we,"analytics, legal, security, services"
+personal information category list in california customer records statute,UNSPECIFIED_ACTOR,"analytics, services"
+personal information category list in california customer records statute,calendly,advertising
+personal information category list in california customer records statute,contractor,
+personal information category list in california customer records statute,service providers,"analytics, legal, security, services"
+personal information category list in california customer records statute,we,"analytics, legal, security, services"
+personal information from lead generation company,UNSPECIFIED_ACTOR,"analytics, services"
+personal information from lead generation company,calendly,advertising
+personal information from lead generation company,contractor,
+personal information from lead generation company,service providers,"analytics, legal, security, services"
+personal information from lead generation company,we,"analytics, legal, security, services"
+phone number,UNSPECIFIED_ACTOR,"analytics, services"
+phone number,calendly,advertising
+phone number,contractor,
+phone number,service providers,"analytics, legal, security, services"
+phone number,we,"analytics, legal, security, services"
+pixel,UNSPECIFIED_ACTOR,"analytics, services"
+pixel,we,"analytics, legal, security, services"
+plan information,authorized agent of company,
+plan information,we,"analytics, legal, security, services"
+postal address,UNSPECIFIED_ACTOR,"analytics, services"
+postal address,third party payment processor,
+postal address,we,"analytics, legal, security, services"
+professional datum,UNSPECIFIED_ACTOR,"analytics, services"
+professional datum,calendly,advertising
+professional datum,contractor,
+professional datum,service providers,"analytics, legal, security, services"
+professional datum,we,"analytics, legal, security, services"
+related company detail,UNSPECIFIED_ACTOR,"analytics, services"
+related company detail,calendly,advertising
+relevant datum,we,"analytics, legal, security, services"
+relevant record associate with request,calendly,"advertising, legal"
+session recording,we,"analytics, legal, security, services"
+session replay,we,"analytics, legal, security, services"
+small text file send,UNSPECIFIED_ACTOR,"analytics, services"
+small text file send,we,"analytics, legal, security, services"
+social medium activity detail,UNSPECIFIED_ACTOR,"analytics, services"
+social medium activity detail,calendly,"advertising, legal"
+social medium username,UNSPECIFIED_ACTOR,"analytics, services"
+social medium username,calendly,"advertising, legal"
+source,UNSPECIFIED_ACTOR,"analytics, services"
+source,calendly,advertising
+source,contractor,
+source,service providers,"analytics, legal, security, services"
+source,we,"analytics, legal, security, services"
+specific type,UNSPECIFIED_ACTOR,"analytics, services"
+specific type,calendly,advertising
+specific type,contractor,
+specific type,service providers,"analytics, legal, security, services"
+specific type,we,"analytics, legal, security, services"
+time zone,UNSPECIFIED_ACTOR,"analytics, services"
+time zone,calendly,"advertising, legal"
+time zone,we,"analytics, legal, security, services"
+type of information,UNSPECIFIED_ACTOR,"analytics, services"
+type of information,we,"analytics, legal, security, services"
+username,UNSPECIFIED_ACTOR,"analytics, services"
+username,calendly,advertising
+username,contractor,
+username,service providers,"analytics, legal, security, services"
+username,we,"analytics, legal, security, services"
+virtual meeting recording,UNSPECIFIED_ACTOR,"analytics, services"
+virtual meeting recording,calendly,advertising
+virtual meeting recording,contractor,
+virtual meeting recording,service providers,"analytics, legal, security, services"
+virtual meeting recording,we,"analytics, legal, security, services"
+web address,UNSPECIFIED_ACTOR,"analytics, services"
+web address,we,"analytics, legal, security, services"

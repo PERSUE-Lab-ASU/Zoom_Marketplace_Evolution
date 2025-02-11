@@ -1,0 +1,44 @@
+data_type,collector,purpose
+Facebook,social media,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,"analytics, services"
+anonymous identifier,UNSPECIFIED_ACTOR,"advertising, services"
+anonymous identifier,advertiser,
+anonymous identifier,service provider,"advertising, services"
+anonymous identifier,we,"analytics, services"
+application data,application data ir,
+browser type,we,"analytics, services"
+date,we,"analytics, services"
+date time stamp for visit,we,"analytics, services"
+datum assist in,we,"analytics, services, security"
+domain name,we,"analytics, services"
+email address,UNSPECIFIED_ACTOR,"advertising, services, security"
+email address,ir,"analytics, legal, security, services"
+email address,partner companies,services
+email address,we,"analytics, services, security, advertising, legal"
+information necessary,we,"analytics, services, security"
+information we collect,we,"analytics, services, security, advertising"
+interactive mini,social media,
+ip address,social media,
+ip address,we,"analytics, services"
+local share object,we,"analytics, services, security, advertising"
+message send,UNSPECIFIED_ACTOR,"advertising, services"
+non-personal information,UNSPECIFIED_ACTOR,"advertising, services"
+non-personal information,advertiser,
+non-personal information,ir,
+not track signal,UNSPECIFIED_ACTOR,"advertising, services, security"
+not track signal,online service,"security, services"
+operating system,we,"analytics, services"
+person name,UNSPECIFIED_ACTOR,"advertising, services, security"
+person name,ir,"analytics, legal, security, services"
+person name,partner companies,services
+person name,we,"analytics, services, security, advertising, legal"
+personal data be,we,"analytics, services, security, advertising"
+personal data provide,we,"analytics, services, security, advertising"
+physical premise,hosting partner,
+postal address,UNSPECIFIED_ACTOR,"advertising, services, security"
+postal address,ir,"analytics, legal, security, services"
+postal address,partner companies,services
+postal address,we,"analytics, services, security, advertising, legal"
+report base on use of technology by company on individual basis,we,"analytics, services, security, advertising, legal"
+voice communication send,we,"analytics, services, security, advertising, legal"

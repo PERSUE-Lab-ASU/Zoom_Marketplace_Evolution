@@ -1,0 +1,96 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,HubSpot,
+UNSPECIFIED_DATA,advertiser,advertising
+UNSPECIFIED_DATA,service provider,"advertising, analytics, services"
+UNSPECIFIED_DATA,we,"security, services"
+access time,we,"security, services, legal, analytics, advertising"
+account information,we,"security, services, legal"
+account information you provide to hubspot,we,"security, services, legal"
+alias,subscription service,
+billing contact for hubspot account,we,"security, services, legal"
+browser type,we,"security, services, legal, analytics, advertising"
+browsing / search history,we,"security, services, legal, analytics, advertising"
+business contact,HubSpot,
+category of information list in log,we,"security, services, legal"
+coarse geolocation,we,"security, services, legal"
+cookie / pixel tag,HubSpot,analytics
+cookie / pixel tag,advertiser,advertising
+cookie / pixel tag,we,"security, services, legal"
+customer data,we,"security, services, legal, analytics"
+customer datum,we,"security, services, legal, analytics"
+datum about request for customer information,HubSpot,analytics
+demographic information about user base as whole,HubSpot,analytics
+device identifier,we,"security, services, legal, analytics"
+device model,we,"security, services, legal, analytics"
+distribution list,subscription service,
+domain name,we,"security, services, legal, analytics, advertising"
+email address,HubSpot,"analytics, services, advertising"
+email address,UNSPECIFIED_ACTOR,services
+email address,advertiser,advertising
+email address,affiliates,
+email address,entity under common control,
+email address,subscription service,
+email address,we,"security, services, legal, analytics, advertising"
+email body,subscription service,
+email header,subscription service,
+email metadata,subscription service,
+file,we,"security, services, legal, analytics, advertising"
+file view on website,we,"security, services, legal, analytics, advertising"
+financial account number,we,"security, services, legal, analytics, advertising"
+hustle,HubSpot,"analytics, services, advertising"
+information about,we,"security, services, legal, analytics, advertising"
+information about current page,social extension,
+information about interaction with website,advertiser,advertising
+information about marketing preference,we,"security, services, legal, analytics, advertising"
+information about website visitor,we,"security, services, legal, analytics, advertising"
+information about you,HubSpot,"analytics, services, advertising"
+information about you,UNSPECIFIED_ACTOR,services
+information about you,advertiser,advertising
+information about you,affiliates,
+information about you,entity under common control,
+information about you,we,"security, services, legal, analytics, advertising"
+information collect from third party service provider in combination with information we collect through mean describe in privacy policy,we,"security, services, legal, analytics, advertising"
+information from commercial dataset,we,"security, services, legal, analytics, advertising"
+information from youtube account,subscription service,
+information gather on website,UNSPECIFIED_ACTOR,
+ip address,HubSpot,"analytics, services"
+ip address,feature,
+ip address,we,"security, services, legal, analytics, advertising"
+job title,we,"security, services, legal, analytics, advertising"
+log file,we,"security, services, legal, analytics, advertising"
+message body,subscription service,
+metric,we,"security, services, legal, analytics, advertising"
+online identifier,HubSpot,"analytics, services"
+operating system,we,"security, services, legal, analytics, advertising"
+outgoing mail,subscription service,
+password,subscription service,
+payment information,we,"security, services, legal, analytics, advertising"
+person name,HubSpot,"analytics, services, advertising"
+person name,UNSPECIFIED_ACTOR,services
+person name,advertiser,advertising
+person name,affiliates,
+person name,entity under common control,
+person name,we,"security, services, legal, analytics, advertising"
+personal datum about individual in commercial dataset,we,"security, services, legal, analytics, advertising"
+phone number,HubSpot,"analytics, services, advertising"
+phone number,UNSPECIFIED_ACTOR,services
+phone number,advertiser,advertising
+phone number,affiliates,
+phone number,entity under common control,
+phone number,we,"security, services, legal, analytics, advertising"
+postal address,HubSpot,"analytics, services, advertising"
+postal address,UNSPECIFIED_ACTOR,services
+postal address,advertiser,advertising
+postal address,affiliates,
+postal address,entity under common control,
+postal address,we,"security, services, legal, analytics, advertising"
+refer website address,we,"security, services, legal, analytics, advertising"
+registration datum,service provider of inbound,"advertising, analytics, services"
+registration datum,we,"security, services, legal, analytics, advertising"
+reply,subscription service,
+server information,subscription service,
+subject line,subscription service,
+subscription record,we,"security, services, legal"
+time send,subscription service,
+version,we,"security, services, legal, analytics, advertising"
+workflow,feature,

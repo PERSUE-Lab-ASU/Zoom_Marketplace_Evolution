@@ -1,0 +1,76 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,vyopta,
+UNSPECIFIED_DATA,we,legal
+area code,we,legal
+area of expertise,we,"legal, analytics, services"
+audio recording,we,legal
+bank account information,we,"legal, analytics, services"
+browser type,we,"legal, analytics"
+browser type,we,"legal, analytics, services, advertising"
+click url,we,"legal, analytics"
+clickstream datum,we,"legal, analytics"
+coarse geolocation,we,"legal, analytics, services, advertising"
+community profile information,we,"legal, analytics"
+company name,we,"legal, analytics"
+company name,we,"legal, analytics, services"
+contact information,UNSPECIFIED_ACTOR,services
+contact information,vyotpa,advertising
+contact information,we,"legal, analytics, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,services
+cookie / pixel tag,online service,
+credit / debit card number,we,"legal, analytics, services"
+customer testimonial,we,"legal, analytics, services"
+date,we,"legal, analytics, services"
+date time stamp,we,"legal, analytics, services"
+detail of collaboration environment,we,"legal, analytics, services"
+device identifier,we,"legal, analytics, services"
+device identifier,we,"legal, analytics, services, advertising"
+device type,we,"legal, analytics, services, advertising"
+email address,we,"legal, analytics, services"
+event visitor information,we,"legal, analytics, services"
+geolocation,we,"legal, analytics, services"
+information about you,we,"legal, analytics, services"
+information regard customer activity on website software as service,we,"legal, analytics, services"
+interaction with site,we,"legal, analytics, services"
+ip address,we,"legal, analytics, services"
+ip address,we,"legal, analytics, services, advertising"
+language,we,"legal, analytics, services"
+non-personal information,we,"legal, analytics, services"
+occupation,we,"legal, analytics, services"
+office visitor information,we,"legal, analytics, services"
+operate system,we,"legal, analytics, services"
+password,we,"legal, analytics, services"
+person name,UNSPECIFIED_ACTOR,services
+person name,we,"legal, analytics, services"
+personal identifier,we,"legal, analytics, services, advertising"
+personal information,UNSPECIFIED_ACTOR,services
+personal information,actual acquirer,
+personal information,adviser,
+personal information,court,
+personal information,government agency,
+personal information,law enforcement,
+personal information,supplier,
+personal information,vyopta,"advertising, services"
+personal information,vyopta staff,
+personal information,we,"legal, analytics, services, advertising"
+personal information vyopta collect,we,"legal, analytics, services, advertising"
+phone number,we,"legal, analytics, services"
+phone number,we,"legal, analytics, services, advertising"
+photo,we,"legal, analytics, services, advertising"
+postal address,we,"legal, analytics, services"
+postal address,we,"legal, analytics, services, advertising"
+profile on forum,we,"legal, analytics, services"
+record,we,"legal, analytics, services, advertising"
+secure sockets layer encryption,online service,
+social medium profile,we,"legal, analytics, services"
+social medium profile,we,"legal, analytics, services, advertising"
+technical datum,we,"legal, analytics, services, advertising"
+time,we,"legal, analytics, services, advertising"
+time zone use,we,"legal, analytics, services, advertising"
+title,we,"legal, analytics, services"
+title,we,"legal, analytics, services, advertising"
+useful information,we,"legal, analytics, services, advertising"
+username,we,"legal, analytics, services, advertising"
+username information,we,"legal, analytics, services"
+zip code,we,"legal, analytics, services, advertising"

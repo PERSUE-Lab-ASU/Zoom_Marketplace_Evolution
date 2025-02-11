@@ -1,0 +1,34 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,contractor,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,we,"advertising, analytics, legal, services"
+contact information,we,"advertising, analytics, legal, services, security"
+cookie / pixel tag,we,"advertising, analytics, legal, services"
+credit / debit card number,we,"advertising, analytics, legal, services"
+email address,we,"advertising, analytics, legal, services"
+feedback,we,"advertising, analytics, legal, services"
+information about you,we,"advertising, analytics, legal, services"
+information we collect,we,"advertising, analytics, legal, services, security"
+information you allow,we,"advertising, analytics, legal, services, security"
+password,UNSPECIFIED_ACTOR,
+password,we,"advertising, analytics, legal, services, security"
+password hint,we,"advertising, analytics, legal, services, security"
+payment datum,payment processor,
+payment information,UNSPECIFIED_ACTOR,
+payment information,we,"advertising, analytics, legal, services, security"
+person name,UNSPECIFIED_ACTOR,
+person name,we,"advertising, analytics, legal, services, security"
+personal information collect via site,we,"advertising, analytics, legal, services, security"
+personal information you send to we,third party marketing partner,advertising
+personal information you send to we,we,"advertising, analytics, legal, services, security"
+phone number,we,"advertising, analytics, legal, services, security"
+postal address,UNSPECIFIED_ACTOR,
+postal address,we,"advertising, analytics, legal, services, security"
+preference,we,"advertising, analytics, legal, services, security"
+security code associate with payment instrument,we,"advertising, analytics, legal, services"
+security datum,UNSPECIFIED_ACTOR,
+security datum,we,"advertising, analytics, legal, services, security"
+security information use for authentication,we,"advertising, analytics, legal, services, security"

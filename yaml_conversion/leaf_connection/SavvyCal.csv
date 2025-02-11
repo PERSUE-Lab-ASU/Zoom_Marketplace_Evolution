@@ -1,0 +1,19 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,acquire company,
+UNSPECIFIED_DATA,trust party,services
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+authentication token we obtain from third party service,we,"advertising, analytics, legal, services, security"
+contact information,bank,security
+contact information,we,"advertising, analytics, legal, services, security"
+credit / debit card number,payment processor,
+credit / debit card number,stripe,
+email address,we,"advertising, analytics, legal, services, security"
+infirmation,we,"advertising, analytics, legal, services, security"
+information you provide to we,we,"advertising, analytics, legal, services, security"
+password,we,"advertising, analytics, legal, services, security"
+payment information you provide to we,we,"advertising, analytics, legal, services, security"
+person name,we,"advertising, analytics, legal, services, security"
+personal information,we,"advertising, analytics, legal, services, security"
+postal address,payment processor,
+postal address,stripe,

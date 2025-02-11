@@ -1,0 +1,163 @@
+data_type,collector,purpose
+Google,analytic provider,
+Mixpanel,analytic provider,
+Mouseflow,analytic provider,
+UNSPECIFIED_DATA,service providers,
+UNSPECIFIED_DATA,we,
+affiliated company,gong,
+audio information,UNSPECIFIED_ACTOR,
+audio information,affiliate company,"legal, security"
+audio information,authorized service provider,
+audio information,gong,
+audio information,gong subsidiary,"legal, security"
+audio information,partnership,"legal, security"
+audio information,party involve in event,
+audio information,service integration,"legal, security"
+audio information,service providers,"legal, security"
+audio information,we,"legal, security"
+audio information,we,"legal, security, analytics, services, advertising"
+billing service,service providers,"legal, security"
+cdn,service providers,"legal, security"
+chicago office,we,"legal, security, analytics, services, advertising"
+coarse geolocation,UNSPECIFIED_ACTOR,
+coarse geolocation,affiliate company,"legal, security"
+coarse geolocation,analytic provider,
+coarse geolocation,authorized service provider,
+coarse geolocation,gong,
+coarse geolocation,gong subsidiary,"legal, security"
+coarse geolocation,partnership,"legal, security"
+coarse geolocation,party involve in event,
+coarse geolocation,service integration,"legal, security"
+coarse geolocation,service providers,"legal, security"
+coarse geolocation,we,"legal, security, analytics, services"
+coarse geolocation,we,"legal, security, analytics, services, advertising"
+commercial information,UNSPECIFIED_ACTOR,
+commercial information,affiliate company,"legal, security"
+commercial information,analytic provider,
+commercial information,authorized service provider,
+commercial information,gong,
+commercial information,gong subsidiary,"legal, security"
+commercial information,partnership,"legal, security"
+commercial information,party involve in event,
+commercial information,service integration,"legal, security"
+commercial information,service providers,"legal, security"
+commercial information,we,"legal, security"
+commercial information,we,"legal, security, analytics, services, advertising"
+communication network,service providers,"legal, security"
+contact information,respective partner,
+contact information,we,"legal, security"
+content provider,service providers,"legal, security"
+content transcription service,service providers,"legal, security"
+cookie / pixel tag,service provider,"analytics, services"
+cookie / pixel tag,we,"legal, security, analytics, services"
+customer data,gong,
+customer datum,we,"legal, security, analytics, services"
+customer record information,UNSPECIFIED_ACTOR,
+customer record information,affiliate company,"legal, security"
+customer record information,authorized service provider,
+customer record information,event sponsor,
+customer record information,gong,
+customer record information,gong subsidiary,"legal, security"
+customer record information,partnership,"legal, security"
+customer record information,party involve in event,
+customer record information,service integration,"legal, security"
+customer record information,service providers,"legal, security"
+customer record information,we,"legal, security, analytics, services"
+customer record information,we,"legal, security, analytics, services, advertising"
+data controller,gong,
+data optimization service,service providers,"legal, security"
+data security service,service providers,"legal, security"
+email service provider,service providers,"legal, security"
+enablement system,service providers,"legal, security"
+event production service,service providers,"legal, security"
+fraud detection service,service providers,"legal, security"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,affiliate company,"legal, security"
+geolocation,analytic provider,
+geolocation,authorized service provider,
+geolocation,gong,
+geolocation,gong subsidiary,"legal, security"
+geolocation,partnership,"legal, security"
+geolocation,party involve in event,
+geolocation,service integration,"legal, security"
+geolocation,service providers,"legal, security"
+geolocation,we,"legal, security, analytics, services"
+geolocation,we,"legal, security, analytics, services, advertising"
+gong.io ltd.,gong,
+grand canal street,we,"legal, security, analytics, services, advertising"
+hosting co - location service,service providers,"legal, security"
+identifier,UNSPECIFIED_ACTOR,
+identifier,affiliate company,"legal, security"
+identifier,authorized service provider,
+identifier,event sponsor,
+identifier,gong,
+identifier,gong subsidiary,"legal, security"
+identifier,partnership,"legal, security"
+identifier,party involve in event,
+identifier,service integration,"legal, security"
+identifier,service providers,"legal, security"
+identifier,we,"legal, security, analytics, services"
+identifier,we,"legal, security, analytics, services, advertising"
+inference,UNSPECIFIED_ACTOR,
+inference,affiliate company,"legal, security"
+inference,analytic provider,
+inference,authorized service provider,
+inference,gong,
+inference,gong subsidiary,"legal, security"
+inference,partnership,"legal, security"
+inference,party involve in event,
+inference,service integration,"legal, security"
+inference,service providers,"legal, security"
+inference,we,"legal, security, analytics, services"
+inference,we,"legal, security, analytics, services, advertising"
+ip address,UNSPECIFIED_ACTOR,
+ip address,affiliate company,"legal, security"
+ip address,analytic provider,
+ip address,authorized service provider,
+ip address,gong,
+ip address,gong subsidiary,"legal, security"
+ip address,partnership,"legal, security"
+ip address,party involve in event,
+ip address,service integration,"legal, security"
+ip address,service providers,"legal, security"
+ip address,we,"legal, security, analytics, services"
+ip address,we,"legal, security, analytics, services, advertising"
+legal advisor,service providers,"legal, security"
+non-personal information,we,"legal, security, analytics, services"
+north green street,we,"legal, security, analytics, services, advertising"
+password,we,"legal, security, analytics, services"
+performance measurement,service providers,"legal, security"
+personal datum about individual,we,"legal, security, analytics, services"
+pixel,service provider,"analytics, services"
+pixel,we,"legal, security, analytics, services, advertising"
+professional information,UNSPECIFIED_ACTOR,
+professional information,affiliate company,"legal, security"
+professional information,authorized service provider,
+professional information,gong,
+professional information,gong subsidiary,"legal, security"
+professional information,partnership,"legal, security"
+professional information,party involve in event,
+professional information,service integration,"legal, security"
+professional information,service providers,"legal, security"
+professional information,we,"legal, security, analytics, services, advertising"
+relevant datum about,UNSPECIFIED_ACTOR,
+relevant datum from account on service,UNSPECIFIED_ACTOR,
+relevant datum from account on service,we,"legal, security, analytics, services, advertising"
+remote access service,service providers,"legal, security"
+session recording service,service providers,"legal, security"
+sufficient information,we,"legal, security, analytics, services, advertising"
+support,service providers,"legal, security"
+user agent,UNSPECIFIED_ACTOR,
+user agent,affiliate company,"legal, security"
+user agent,analytic provider,
+user agent,authorized service provider,
+user agent,gong,
+user agent,gong subsidiary,"legal, security"
+user agent,partnership,"legal, security"
+user agent,party involve in event,
+user agent,service integration,"legal, security"
+user agent,service providers,"legal, security"
+user agent,we,"legal, security, analytics, services"
+user agent,we,"legal, security, analytics, services, advertising"
+web analytic,service providers,"legal, security"
+website chat feature,service providers,"legal, security"

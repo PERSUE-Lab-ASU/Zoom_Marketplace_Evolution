@@ -1,0 +1,37 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,counterpartie,
+UNSPECIFIED_DATA,payment processor,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,successor,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, legal, security, services"
+amount of free space on device,we,"advertising, analytics, legal, security, services"
+app use information,we,"advertising, analytics, legal, security, services"
+browsing / search history,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+credit / debit card number,payment processor,
+device identifier,we,"advertising, analytics, legal, security, services"
+device manufacturer,we,"advertising, analytics, legal, security, services"
+email address,payment processor,
+email address,we,"advertising, analytics, legal, security, services"
+expiry date,payment processor,
+information about you,focus calendar,"advertising, services"
+information about you,we,"advertising, analytics, legal, security, services"
+information about you collect via customer support channel,we,"advertising, analytics, legal, security, services"
+information collect through survey question,we,"advertising, analytics, legal, security, services"
+information you choose,we,"advertising, analytics, legal, security, services"
+information you generate,we,"advertising, analytics, legal, security, services"
+information you provide to we,we,"advertising, analytics, legal, security, services"
+interaction with team,we,"advertising, analytics, legal, security, services"
+internet activity,we,"advertising, analytics, legal, security, services"
+model,we,"advertising, analytics, legal, security, services"
+person name,we,"advertising, analytics, legal, security, services"
+personal information,we,"advertising, analytics, legal, security, services"
+personal information in performance of business,we,"advertising, analytics, legal, security, services"
+phone number,payment processor,
+postal address,payment processor,
+preference,we,"advertising, analytics, legal, security, services"
+registration information,we,"advertising, analytics, legal, security, services"
+site use datum,we,"advertising, analytics, legal, security, services"
+transaction record,we,"advertising, analytics, legal, security, services"

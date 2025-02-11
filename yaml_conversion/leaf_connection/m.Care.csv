@@ -1,0 +1,16 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,services
+address state province,we,"services, analytics"
+contact information,we,services
+cookie / pixel tag,we,"services, analytics"
+email address,we,"services, analytics"
+face camera,we,"services, analytics"
+fitness datum from google fit,we,"services, analytics"
+geolocation,we,"services, analytics"
+network firewall,lifescience technologies llc,
+person name,we,"services, analytics"
+personal information,agent carry permitted business function,
+phone number,we,"services, analytics"
+picture,we,"services, analytics"
+select datum type,care,
+select datum type,m.,

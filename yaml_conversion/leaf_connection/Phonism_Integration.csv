@@ -1,0 +1,15 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,services
+anonymous identifier,help feature on most browser,
+anonymous identifier,we,services
+browser type,we,services
+browser version,we,services
+contact information,we,services
+date,we,services
+information browser send,we,services
+ip address,we,services
+personal information,UNSPECIFIED_ACTOR,services
+personal information,we,services
+phonism,we,services
+statistic,we,services
+time,we,services

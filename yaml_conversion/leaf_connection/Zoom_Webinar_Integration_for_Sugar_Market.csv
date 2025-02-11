@@ -1,0 +1,110 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,acquire entity,
+UNSPECIFIED_DATA,sugarcrm,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+access time,we,"advertising, analytics, legal, security, services"
+analytic datum,sugarcrm,analytics
+average session duration,we,"advertising, analytics, legal, security, services"
+bank detail,we,"advertising, analytics, legal, security, services"
+basic information about company,business partner,
+basic information about company,sugar,"advertising, analytics, legal, security, services"
+basic information about company,sugarcrm,"analytics, services"
+basic information about company,we,"advertising, analytics, legal, security, services"
+basic information about employer,we,"advertising, analytics, legal, security, services"
+basic participant information,we,"advertising, analytics, legal, security, services"
+bounce rate,we,"advertising, analytics, legal, security, services"
+browser type,we,"advertising, analytics, legal, security, services"
+company address,business partner,
+company address,sugar,"advertising, analytics, legal, security, services"
+company address,sugarcrm,analytics
+company address,sugarcrm,"analytics, services"
+company address,we,"advertising, analytics, legal, security, services"
+company name,business partner,
+company name,sugar,"advertising, analytics, legal, security, services"
+company name,sugarcrm,analytics
+company name,sugarcrm,"analytics, services"
+company name,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+credit / debit card number,we,"advertising, analytics, legal, security, services"
+customer data,sugarcrm,"analytics, services"
+datum about you,sugarcrm entity,
+datum about you,we,"advertising, analytics, legal, security, services"
+email address,business partner,
+email address,sugar,"advertising, analytics, legal, security, services"
+email address,sugarcrm,analytics
+email address,sugarcrm,"analytics, services"
+email address,we,"advertising, analytics, legal, security, services"
+information about product use,we,"advertising, analytics, legal, security, services"
+information relate to use of website,we,"advertising, analytics, legal, security, services"
+ip address,we,"advertising, analytics, legal, security, services"
+job title,business partner,
+job title,sugar,"advertising, analytics, legal, security, services"
+job title,sugarcrm,analytics
+job title,sugarcrm,"analytics, services"
+job title,we,"advertising, analytics, legal, security, services"
+language,we,"advertising, analytics, legal, security, services"
+language of user,we,"advertising, analytics, legal, security, services"
+mobile device brand,we,"advertising, analytics, legal, security, services"
+name of sugarcrm customer who submit datum into services,we,"advertising, analytics, legal, security, services"
+number of page view per session,we,"advertising, analytics, legal, security, services"
+number of record access,we,"advertising, analytics, legal, security, services"
+number of session,we,"advertising, analytics, legal, security, services"
+number of subscription user,we,"advertising, analytics, legal, security, services"
+number of user,we,"advertising, analytics, legal, security, services"
+operating system,we,"advertising, analytics, legal, security, services"
+page view,we,"advertising, analytics, legal, security, services"
+payment information,we,"advertising, analytics, legal, security, services"
+percentage of new session,we,"advertising, analytics, legal, security, services"
+person name,business partner,
+person name,sugar,"advertising, analytics, legal, security, services"
+person name,sugarcrm,analytics
+person name,sugarcrm,"analytics, services"
+person name,we,"advertising, analytics, legal, security, services"
+personal data sugarcrm hold about you,business partner,
+personal data sugarcrm hold about you,sugar,"advertising, analytics, legal, security, services"
+personal data sugarcrm hold about you,sugarcrm,"analytics, services"
+personal data sugarcrm hold about you,we,"advertising, analytics, legal, security, services"
+personal information collect from you,sugarcrm,"analytics, services"
+personal interest,business partner,
+personal interest,sugar,"advertising, analytics, legal, security, services"
+personal interest,sugarcrm,"analytics, services"
+personal interest,we,"advertising, analytics, legal, security, services"
+phone number,business partner,
+phone number,sugar,"advertising, analytics, legal, security, services"
+phone number,sugarcrm,analytics
+phone number,sugarcrm,"analytics, services"
+phone number,we,"advertising, analytics, legal, security, services"
+photo,business partner,
+photo,sugar,"advertising, analytics, legal, security, services"
+photo,sugarcrm,"analytics, services"
+photo,we,"advertising, analytics, legal, security, services"
+php version utilize on company server,we,"advertising, analytics, legal, security, services"
+postal address,business partner,
+postal address,sugar,"advertising, analytics, legal, security, services"
+postal address,sugarcrm,analytics
+postal address,sugarcrm,"analytics, services"
+postal address,we,"advertising, analytics, legal, security, services"
+refer website address,we,"advertising, analytics, legal, security, services"
+role,business partner,
+role,sugar,"advertising, analytics, legal, security, services"
+role,sugarcrm,analytics
+role,sugarcrm,"analytics, services"
+role,we,"advertising, analytics, legal, security, services"
+screen resolution size,we,"advertising, analytics, legal, security, services"
+service use,we,"advertising, analytics, legal, security, services"
+service version number,we,"advertising, analytics, legal, security, services"
+skill,business partner,
+skill,sugar,"advertising, analytics, legal, security, services"
+skill,sugarcrm,"analytics, services"
+skill,we,"advertising, analytics, legal, security, services"
+social medium account,business partner,
+social medium account,sugar,"advertising, analytics, legal, security, services"
+social medium account,sugarcrm,"analytics, services"
+social medium account,we,"advertising, analytics, legal, security, services"
+tax identification number,we,"advertising, analytics, legal, security, services"
+time zone,we,"advertising, analytics, legal, security, services"
+title,business partner,
+title,sugar,"advertising, analytics, legal, security, services"
+title,sugarcrm,analytics
+title,sugarcrm,"analytics, services"
+title,we,"advertising, analytics, legal, security, services"

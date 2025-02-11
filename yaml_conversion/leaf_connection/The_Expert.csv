@@ -1,0 +1,193 @@
+data_type,collector,purpose
+Facebook,advertiser,
+Google,advertiser,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,applicable designer,
+UNSPECIFIED_DATA,carrier,
+UNSPECIFIED_DATA,customer support provider,
+UNSPECIFIED_DATA,expert,
+UNSPECIFIED_DATA,merchant,
+UNSPECIFIED_DATA,official government body,
+UNSPECIFIED_DATA,payment processing provider,
+UNSPECIFIED_DATA,professional service provider,
+UNSPECIFIED_DATA,regulatory agency,
+UNSPECIFIED_DATA,regulatory body,
+UNSPECIFIED_DATA,shipping provider,
+UNSPECIFIED_DATA,trade vendor,
+UNSPECIFIED_DATA,vendor of product we make through marketplace,
+UNSPECIFIED_DATA,we,
+accountant,professional service provider,
+auditor,professional service provider,
+bank account information,we,"legal, security"
+biographical information,expert,
+business address,expert,
+city,Johnson & Johnson,
+city,UNSPECIFIED_ACTOR,legal
+city,applicable designer,
+city,carrier,
+city,contractor,
+city,customer support provider,
+city,expert,"advertising, analytics, services"
+city,merchant,
+city,office,
+city,payment processing provider,
+city,professional service provider,
+city,shipping provider,
+city,trade vendor,
+city,vendor of product we make through marketplace,
+city,we,
+city,we,"legal, security, advertising, services"
+consultant,professional service provider,
+content of,UNSPECIFIED_ACTOR,legal
+content of,law enforcement,legal
+content of,official government body,legal
+content of,regulatory agency,legal
+content of,we,legal
+cookie / pixel tag,expert,
+credit card,we,"legal, security"
+delivery service expert provide through white glove delivery provider,we,"legal, security, advertising, services, analytics"
+encryption,we,legal
+firewall,we,legal
+identity,Johnson & Johnson,
+identity,UNSPECIFIED_ACTOR,legal
+identity,applicable designer,
+identity,carrier,
+identity,contractor,
+identity,customer support provider,
+identity,expert,"advertising, analytics, services"
+identity,merchant,
+identity,office,
+identity,payment processing provider,
+identity,professional service provider,
+identity,shipping provider,
+identity,trade vendor,
+identity,vendor of product we make through marketplace,
+identity,we,
+identity,we,"legal, security, advertising, services"
+information about,we,legal
+information about you,we,legal
+information provide to we,contractor,
+information provide to we,respective agent,
+information provide to we,we,legal
+information provide we with good faith belief be,UNSPECIFIED_ACTOR,legal
+information provide we with good faith belief be,law enforcement,legal
+information provide we with good faith belief be,official government body,legal
+information provide we with good faith belief be,regulatory agency,legal
+information provide we with good faith belief be,we,legal
+information request,we,"legal, security"
+information share with we through third party integration,we,"legal, security"
+information you decide,expert,
+insurer,professional service provider,
+lawyer,professional service provider,
+legal business name,expert,
+license,expert,
+login credential,Johnson & Johnson,
+login credential,UNSPECIFIED_ACTOR,legal
+login credential,applicable designer,
+login credential,carrier,
+login credential,contractor,
+login credential,customer support provider,
+login credential,expert,"advertising, analytics, services"
+login credential,merchant,
+login credential,office,
+login credential,payment processing provider,
+login credential,professional service provider,
+login credential,shipping provider,
+login credential,trade vendor,
+login credential,vendor of product we make through marketplace,
+login credential,we,
+login credential,we,"legal, security, advertising, services"
+password,Johnson & Johnson,
+password,UNSPECIFIED_ACTOR,legal
+password,applicable designer,
+password,carrier,
+password,contractor,
+password,customer support provider,
+password,expert,"advertising, analytics, services"
+password,merchant,
+password,office,
+password,payment processing provider,
+password,professional service provider,
+password,shipping provider,
+password,trade vendor,
+password,vendor of product we make through marketplace,
+password,we,
+password,we,"legal, security, advertising, services"
+person name,Johnson & Johnson,
+person name,UNSPECIFIED_ACTOR,legal
+person name,applicable designer,
+person name,carrier,
+person name,contractor,
+person name,customer support provider,
+person name,expert,"advertising, analytics, services"
+person name,merchant,
+person name,office,
+person name,payment processing provider,
+person name,professional service provider,
+person name,shipping provider,
+person name,trade vendor,
+person name,vendor of product we make through marketplace,
+person name,we,
+person name,we,"legal, security, advertising, services"
+personal identifier,we,"legal, security"
+phone number,Johnson & Johnson,
+phone number,UNSPECIFIED_ACTOR,legal
+phone number,applicable designer,
+phone number,carrier,
+phone number,contractor,
+phone number,customer support provider,
+phone number,expert,
+phone number,expert,"advertising, analytics, services"
+phone number,merchant,
+phone number,office,
+phone number,payment processing provider,
+phone number,professional service provider,
+phone number,shipping provider,
+phone number,trade vendor,
+phone number,vendor of product we make through marketplace,
+phone number,we,
+phone number,we,"legal, security, advertising, services"
+photo,expert,"advertising, analytics, services"
+portfolio work,expert,"advertising, analytics, services"
+qualification,expert,"advertising, analytics, services"
+related information,Johnson & Johnson,
+related information,UNSPECIFIED_ACTOR,legal
+related information,applicable designer,
+related information,carrier,
+related information,contractor,
+related information,customer support provider,
+related information,expert,"advertising, analytics, services"
+related information,merchant,
+related information,office,
+related information,payment processing provider,
+related information,professional service provider,
+related information,shipping provider,
+related information,trade vendor,
+related information,vendor of product we make through marketplace,
+related information,we,
+related information,we,"legal, security, advertising, services"
+secure socket layer,we,"legal, security, advertising, services"
+specialty,expert,"advertising, analytics, services"
+ssn,we,"legal, security, advertising, services"
+statistical datum,we,
+technical information,UNSPECIFIED_ACTOR,legal
+technical information,we,"legal, security, advertising, services"
+usage information,UNSPECIFIED_ACTOR,legal
+usage information,we,"legal, security, advertising, services, analytics"
+username,Johnson & Johnson,
+username,UNSPECIFIED_ACTOR,legal
+username,applicable designer,
+username,carrier,
+username,contractor,
+username,customer support provider,
+username,expert,"advertising, analytics, services"
+username,merchant,
+username,office,
+username,payment processing provider,
+username,professional service provider,
+username,shipping provider,
+username,trade vendor,
+username,vendor of product we make through marketplace,
+username,we,
+username,we,"legal, security, advertising, services"

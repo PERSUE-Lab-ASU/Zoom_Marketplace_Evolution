@@ -1,0 +1,113 @@
+data_type,collector,purpose
+Facebook,social media,
+Microsoft,social media,
+Twitter,social media,
+UNSPECIFIED_DATA,social media,
+UNSPECIFIED_DATA,we,advertising
+account information,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+account information,business partner,
+account information,law enforcement,"legal, security, services"
+account information,otherthird party,"legal, security, services"
+account information,supplier,
+account information,we,advertising
+account information,we,"advertising, analytics, security, services, legal"
+accountant,business partner,
+advertising id,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+advertising id,business partner,
+advertising id,law enforcement,"legal, security, services"
+advertising id,otherthird party,"legal, security, services"
+advertising id,supplier,
+advertising id,we,"advertising, analytics, security, services, legal"
+auditor,business partner,
+base solution provider,business partner,
+basic type,we,advertising
+billing information,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+billing information,business partner,
+billing information,law enforcement,"legal, security, services"
+billing information,otherthird party,"legal, security, services"
+billing information,supplier,
+billing information,we,advertising
+billing information,we,"advertising, analytics, security, services, legal"
+communications,we,"advertising, analytics, security, services, legal"
+company annual revenue,UNSPECIFIED_ACTOR,"legal, services"
+company annual revenue,we,"advertising, analytics, security, services, legal"
+contact information,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+contact information,business partner,
+contact information,law enforcement,"legal, security, services"
+contact information,otherthird party,"legal, security, services"
+contact information,supplier,
+contact information,we,advertising
+contact information,we,"advertising, analytics, security, services, legal"
+cookie / pixel tag,Google,analytics
+cookie / pixel tag,we,"advertising, analytics"
+customer relationship management vendor,business partner,
+device information,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+device information,business partner,
+device information,law enforcement,"legal, security, services"
+device information,otherthird party,"legal, security, services"
+device information,supplier,
+device information,we,"advertising, analytics"
+device information,we,"advertising, analytics, security, services, legal"
+feature,we,"advertising, analytics, security, services, legal"
+financial institution,business partner,
+geolocation,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+geolocation,business partner,
+geolocation,law enforcement,"legal, security, services"
+geolocation,otherthird party,"legal, security, services"
+geolocation,supplier,
+geolocation,we,"advertising, analytics"
+geolocation,we,"advertising, analytics, security, services, legal"
+hint,we,"advertising, analytics, security, services"
+industry sector,UNSPECIFIED_ACTOR,"legal, services"
+industry sector,we,"advertising, analytics, security, services, legal"
+information about engagement with ourservices,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+information about engagement with ourservices,business partner,
+information about engagement with ourservices,law enforcement,"legal, security, services"
+information about engagement with ourservices,otherthird party,"legal, security, services"
+information about engagement with ourservices,supplier,
+information about engagement with ourservices,we,"advertising, analytics, security, services, legal"
+information about you,UNSPECIFIED_ACTOR,
+information about you,we,"advertising, analytics, security, services"
+information anonymize,UNSPECIFIED_ACTOR,"legal, services"
+information anonymize,we,"advertising, analytics, security, services, legal"
+information generate,Google,analytics
+information list in type of information we collect section,we,"advertising, analytics, security, services"
+ip address,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+ip address,business partner,
+ip address,law enforcement,"legal, security, services"
+ip address,otherthird party,"legal, security, services"
+ip address,supplier,
+ip address,technology use,
+ip address,we,"advertising, analytics, security, services, legal"
+it service provider,business partner,
+lawyer,business partner,
+number of employee,UNSPECIFIED_ACTOR,"legal, services"
+number of employee,we,"advertising, analytics, security, services, legal"
+opinion about you,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+opinion about you,business partner,
+opinion about you,law enforcement,"legal, security, services"
+opinion about you,otherthird party,"legal, security, services"
+opinion about you,supplier,
+opinion about you,we,"advertising, analytics, security, services, legal"
+option regard advertisement you receive,website you visit,
+optional information you choose,UNSPECIFIED_ACTOR,"legal, services"
+optional information you choose,we,"advertising, analytics, security, services, legal"
+password,we,"advertising, analytics, security, services, legal"
+payment provider,business partner,
+persistent online identifier,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+persistent online identifier,business partner,
+persistent online identifier,law enforcement,"legal, security, services"
+persistent online identifier,otherthird party,"legal, security, services"
+persistent online identifier,supplier,
+persistent online identifier,we,"advertising, analytics, security, services, legal"
+proof of identity,we,"advertising, analytics, security, services, legal"
+report on related activity,we,"advertising, analytics, security, services, legal"
+specific piece of personal information,UNSPECIFIED_ACTOR,"legal, services, advertising, analytics"
+specific piece of personal information,business partner,
+specific piece of personal information,law enforcement,"legal, security, services"
+specific piece of personal information,otherthird party,"legal, security, services"
+specific piece of personal information,supplier,
+specific piece of personal information,we,"advertising, analytics, security, services, legal"
+time of visit,technology use,
+type of online analytic include google analytics,we,"advertising, analytics, security, services, legal"
+username,we,"advertising, analytics, security, services, legal"

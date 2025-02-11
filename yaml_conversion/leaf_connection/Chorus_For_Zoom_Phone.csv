@@ -1,0 +1,114 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+UNSPECIFIED_DATA,we,"services, advertising, analytics, security"
+action take,we,"services, advertising, analytics, security"
+attachment,we,
+biometric information,we,
+browser type,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+browser type,we,"services, advertising, analytics, security"
+browsing / search history,service provider,
+business contact,we,"services, advertising, analytics, security"
+business information from crm,we,"services, advertising, analytics, security"
+business information from zoominfo,crm,
+business information from zoominfo,mat,
+business information from zoominfo,sale enablement software,
+calendar meeting,we,services
+company name,we,services
+contact information,personnel,
+contact information,we,"services, advertising, analytics, security"
+cookie / pixel tag,Google,analytics
+cookie / pixel tag,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+cookie / pixel tag,analytic provider,"advertising, analytics, services"
+cookie / pixel tag,service provider,"advertising, analytics, services"
+credit / debit card number,purchaser of online base service,
+credit / debit card number,service provider,"advertising, analytics, services, security"
+credit / debit card number,we,services
+data for professional profiles,we,"services, advertising, analytics, security"
+date,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+date,we,services
+date,we,"services, advertising, analytics, security"
+date of last use,we,"services, advertising, analytics, security"
+datum about people,we,"services, advertising, analytics, security"
+device,we,"services, advertising, analytics, security"
+device identifier,we,"services, advertising, analytics, security"
+device type,we,"services, advertising, analytics, security"
+domain name,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+domain name,we,"services, advertising, analytics, security"
+education information,UNSPECIFIED_ACTOR,
+education information,service provider,
+education information,we,services
+education information,we,"services, advertising, analytics, security"
+email address,service provider,"advertising, analytics, services, security"
+email address,we,"services, advertising, analytics, security"
+email header information,we,"services, advertising, analytics, security"
+email subject,we,"services, advertising, analytics, security"
+file,relevant personnel,
+file,team member,
+file,we,"services, advertising, analytics, security"
+geolocation,we,"services, advertising, analytics, security"
+information about account with we,we,"services, advertising, analytics, security"
+information about company,we,"services, advertising, analytics, security"
+information about end user,we,"services, advertising, analytics, security"
+information about individual who register for zoominfo event with third party speaker,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+information about individual who register for zoominfo event with third party speaker,speaker,
+information from,we,"services, advertising, analytics, security"
+information generate,Google,analytics
+information submit,we,"services, advertising, analytics, security"
+information upload,we,"services, advertising, analytics, security"
+internet activity,we,"services, advertising, analytics, security"
+ip address,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+ip address,social media,
+ip address,technology use,
+ip address,we,"services, advertising, analytics, security"
+job title,UNSPECIFIED_ACTOR,
+job title,service provider,
+job title,we,services
+job title,we,"services, advertising, analytics, security"
+list of specific use,we,"services, advertising, analytics, security"
+login,we,"services, advertising, analytics, security"
+meeting description,we,services
+necessary username information,we,"services, advertising, analytics, security"
+office address,UNSPECIFIED_ACTOR,
+office address,service provider,
+office address,we,services
+office address,we,"services, advertising, analytics, security"
+operating system,we,"services, advertising, analytics, security"
+past name,UNSPECIFIED_ACTOR,
+past name,service provider,
+past name,we,services
+past name,we,"services, advertising, analytics, security"
+person name,personnel,
+person name,service provider,"advertising, analytics, services, security"
+person name,we,"services, advertising, analytics, security"
+personal information we have,we,"services, advertising, analytics, security"
+phone number,UNSPECIFIED_ACTOR,
+phone number,service provider,
+phone number,service provider,"advertising, analytics, services, security"
+phone number,we,services
+phone number,we,"services, advertising, analytics, security"
+platform use,we,"services, advertising, analytics, security"
+postal address,service provider,"advertising, analytics, services, security"
+publicly available information,search technology,
+related information,we,"services, advertising, analytics, security"
+report on activity,we,"services, advertising, analytics, security"
+result of services,relevant personnel,
+result of services,team member,
+result of services,we,"services, advertising, analytics, security"
+scoring model,we,"services, advertising, analytics, security"
+software host,we,"services, advertising, analytics, security"
+time,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+time,we,services
+time,we,"services, advertising, analytics, security"
+time of visit,technology use,
+time stamp,we,"services, advertising, analytics, security"
+title,personnel,
+title,we,"services, advertising, analytics, security"
+uploaded information,we,"services, advertising, analytics, security"
+url,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+url,we,"services, advertising, analytics, security"
+user information,we,"services, advertising, analytics, security"
+variety of measure,we,"services, advertising, analytics, security"
+web browser extension,we,"services, advertising, analytics, security"
+web request,UNSPECIFIED_ACTOR,"advertising, analytics, services"
+web request,we,"services, advertising, analytics, security"

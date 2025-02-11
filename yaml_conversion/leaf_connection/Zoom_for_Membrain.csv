@@ -1,0 +1,44 @@
+data_type,collector,purpose
+Google,platform service provider,services
+Microsoft,platform service provider,services
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,contractor,services
+UNSPECIFIED_DATA,service provider operate on behalf,
+UNSPECIFIED_DATA,we,services
+amazon,platform service provider,services
+cookie / pixel tag,membrain,"analytics, services"
+credit / debit card number,membrain,"analytics, services"
+credit / debit card number,platform service provider,services
+device identifier,membrain,"analytics, services"
+email address,membrain,"analytics, services"
+email address,platform service provider,services
+email address,we,"services, analytics"
+geolocation,membrain,"analytics, services"
+identification number,membrain,"analytics, services"
+information about you,UNSPECIFIED_ACTOR,"services, analytics"
+information about you,contractor,"services, analytics"
+information about you,membrain,"analytics, services"
+information about you,we,"services, analytics"
+information in personal profile,membrain,"analytics, services"
+information on term set in privacy policy,membrain,"analytics, services"
+information on term set in privacy policy,platform service provider,
+information provide,membrain,"analytics, services"
+information provide,platform service provider,services
+information you transmit information through channel,membrain,"analytics, services"
+ip address,membrain,"analytics, services"
+log file,membrain,"analytics, services"
+message you send,membrain,"analytics, services"
+online identifier,membrain,"analytics, services"
+person name,membrain,"analytics, services"
+person name,platform service provider,services
+person name,we,"services, analytics"
+phone number,membrain,"analytics, services"
+phone number,platform service provider,services
+platform,we,"services, analytics"
+postal address,membrain,"analytics, services"
+postal address,platform service provider,services
+postal address,we,"services, analytics"
+related service,we,"services, analytics"
+request,we,"services, analytics"
+statistic about end users user habit,membrain,"analytics, services"
+type of operating system you use,membrain,"analytics, services"

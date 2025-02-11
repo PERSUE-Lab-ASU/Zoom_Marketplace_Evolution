@@ -1,0 +1,68 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,greenhouse,
+billing information,UNSPECIFIED_ACTOR,advertising
+billing information,advertiser,"advertising, legal"
+billing information,asset,
+billing information,data broker,
+billing information,greenhouse,
+billing information,service provider,"advertising, legal"
+billing information,we,advertising
+billing information,we,"advertising, legal, security"
+choice available regard right in relation to personal information,UNSPECIFIED_ACTOR,advertising
+choice available regard right in relation to personal information,advertiser,"advertising, legal"
+choice available regard right in relation to personal information,asset,
+choice available regard right in relation to personal information,data broker,
+choice available regard right in relation to personal information,greenhouse,
+choice available regard right in relation to personal information,service provider,"advertising, legal"
+choice available regard right in relation to personal information,we,advertising
+choice available regard right in relation to personal information,we,"advertising, legal, security"
+company name,UNSPECIFIED_ACTOR,advertising
+company name,advertiser,"advertising, legal"
+company name,asset,
+company name,data broker,
+company name,greenhouse,
+company name,service provider,"advertising, legal"
+company name,we,advertising
+company name,we,"advertising, legal, security"
+cookie / pixel tag,advertiser,
+datum we collect about use of website,we,
+email address,UNSPECIFIED_ACTOR,
+email address,UNSPECIFIED_ACTOR,advertising
+email address,advertiser,"advertising, legal"
+email address,asset,
+email address,data broker,
+email address,greenhouse,
+email address,service provider,"advertising, legal"
+email address,we,advertising
+email address,we,"advertising, legal, security"
+information about user,UNSPECIFIED_ACTOR,advertising
+information about user,we,advertising
+ip address,UNSPECIFIED_ACTOR,advertising
+ip address,advertiser,"advertising, legal"
+ip address,asset,
+ip address,data broker,
+ip address,greenhouse,
+ip address,service provider,"advertising, legal"
+ip address,we,advertising
+ip address,we,"advertising, legal, security"
+person name,UNSPECIFIED_ACTOR,advertising
+person name,advertiser,"advertising, legal"
+person name,asset,
+person name,data broker,
+person name,greenhouse,
+person name,service provider,"advertising, legal"
+person name,we,advertising
+person name,we,"advertising, legal, security"
+personal information from,greenhouse,
+personal information provide in context of application,greenhouse,"analytics, services"
+personal information relate to employee within services,greenhouse,"analytics, services"
+phone number,UNSPECIFIED_ACTOR,advertising
+phone number,advertiser,"advertising, legal"
+phone number,asset,
+phone number,data broker,
+phone number,greenhouse,
+phone number,service provider,"advertising, legal"
+phone number,we,advertising
+phone number,we,"advertising, legal, security"

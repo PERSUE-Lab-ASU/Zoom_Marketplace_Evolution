@@ -1,0 +1,124 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,we,
+account,legal advisor,"security, services"
+account,we,
+account,we,"advertising, analytics, legal, security, services"
+account login information,legal advisor,"security, services"
+account login information,we,
+account login information,we,"advertising, analytics, legal, security, services"
+account setting,we,
+activity information,we,
+aggregate / deidentified / pseudonymized information,we,advertising
+app version,we,"advertising, analytics, legal, security, services"
+attendee information,read,
+browser type,we,"advertising, analytics, legal, security, services"
+browsing / search history,we,"advertising, analytics, legal, security, services"
+calendar event title,read,
+chatbot,we,"advertising, analytics, legal, security, services"
+confirmation,legal advisor,"security, services"
+confirmation,we,"advertising, analytics, legal, security, services"
+contact information,we,"advertising, analytics"
+conversion information,UNSPECIFIED_ACTOR,
+conversion information,read,"advertising, analytics"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,read,"advertising, analytics"
+cookie / pixel tag,we,"advertising, analytics"
+customer experience survey,legal advisor,"security, services"
+customer experience survey,we,"advertising, analytics, legal, security, services"
+date of transaction,we,"advertising, analytics"
+description,feature,
+description,integration,
+detail on,we,"advertising, analytics"
+device identifier,UNSPECIFIED_ACTOR,
+device identifier,we,"advertising, analytics"
+device identifier,we,"advertising, analytics, legal, security, services"
+email address,feature,
+email address,integration,
+email address,legal advisor,"security, services"
+email address,we,"advertising, analytics"
+email address,we,"advertising, analytics, legal, security, services"
+feedback,legal advisor,"security, services"
+feedback,we,"advertising, analytics"
+feedback,we,"advertising, analytics, legal, security, services"
+geolocation,feature,
+geolocation,integration,
+geolocation,we,"advertising, analytics"
+google user datum,we in future,
+hardware model,we,"advertising, analytics, legal, security, services"
+hash payment card value,legal advisor,"security, services"
+hash payment card value,we,"advertising, analytics"
+hash payment card value,we,"advertising, analytics, legal, security, services"
+image,legal advisor,"security, services"
+image,we,"advertising, analytics"
+image,we,"advertising, analytics, legal, security, services"
+information about interaction with services,UNSPECIFIED_ACTOR,
+information about interaction with services,we,"advertising, analytics"
+information about you,Black Crow AI,
+information about you,read ai,
+information about you,we,"advertising, analytics"
+information collect via google account integration,we,"advertising, analytics"
+information derive,we,"advertising, analytics"
+information like language,we,"advertising, analytics"
+information we collect,we,"advertising, analytics, legal, security, services"
+information you choose,legal advisor,"security, services"
+information you choose,we,"advertising, analytics, legal, security, services"
+information you provide to we,we,"advertising, analytics, legal, security, services"
+information you store on mobile device operate system,we,"advertising, analytics, legal, security, services"
+invoice,legal advisor,"security, services"
+invoice,we,"advertising, analytics, legal, security, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,read,"advertising, analytics"
+ip address,we,"advertising, analytics"
+ip address,we,"advertising, analytics, legal, security, services"
+link click,UNSPECIFIED_ACTOR,
+link click,read,"advertising, analytics"
+meeting audio file,feature,
+meeting audio file,integration,
+meeting id,feature,
+meeting id,integration,
+meeting information,we,"advertising, analytics, legal, security, services"
+meeting scheduling information,we,"advertising, analytics, legal, security, services"
+meeting subject,feature,
+meeting subject,integration,
+mobile application,we,"advertising, analytics, legal, security, services"
+mobile network information,UNSPECIFIED_ACTOR,
+mobile network information,read,"advertising, analytics"
+non-personal information,we,"advertising, analytics, legal, security, services"
+operating system version,we,"advertising, analytics, legal, security, services"
+output,feature,
+output,integration,
+person name,feature,
+person name,integration,
+person name,legal advisor,"security, services"
+person name,we,"advertising, analytics"
+person name,we,"advertising, analytics, legal, security, services"
+phone number,legal advisor,"security, services"
+phone number,we,"advertising, analytics"
+phone number,we,"advertising, analytics, legal, security, services"
+photo,we,"advertising, analytics, legal, security, services"
+postal address,legal advisor,"security, services"
+postal address,we,"advertising, analytics, legal, security, services"
+profile photo,legal advisor,"security, services"
+profile photo,we,"advertising, analytics, legal, security, services"
+purchase price,we,"advertising, analytics"
+receipt,legal advisor,"security, services"
+receipt,we,"advertising, analytics, legal, security, services"
+sentiment level,legal advisor,"security, services"
+sentiment level,we,"advertising, analytics, legal, security, services"
+service detail,we,"advertising, analytics"
+social medium profile id,legal advisor,"security, services"
+social medium profile id,we,"advertising, analytics, legal, security, services"
+software client,we,"advertising, analytics, legal, security, services"
+text chat communication,legal advisor,"security, services"
+text chat communication,we,"advertising, analytics, legal, security, services"
+time,read,"advertising, analytics"
+transactional information,we,"advertising, analytics, legal, security, services"
+user datum collect via google workspace api,UNSPECIFIED_ACTOR,
+username,legal advisor,"security, services"
+username,we,"advertising, analytics, legal, security, services"
+video conferencing access link,read,"advertising, analytics"
+video input,feature,
+video input,integration,
+voice,legal advisor,"security, services"
+voice,we,"advertising, analytics, legal, security, services"

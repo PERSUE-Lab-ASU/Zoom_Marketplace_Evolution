@@ -1,0 +1,60 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,separate data controller,
+UNSPECIFIED_DATA,we,
+affiliate list in affiliated party section,berlitz,
+affiliates,we,"advertising, services, analytics, legal, security"
+age,berlitz,
+age,we,"advertising, services"
+contact information,berlitz,
+contact information,we,"advertising, services"
+copy of datum in structured format,we,"advertising, services"
+credit / debit card number,we,"advertising, services"
+date,berlitz,
+date of employment,berlitz,
+datum you submit to we,we,"advertising, services"
+demographic information,advertiser,
+demographic information,business partner,
+demographic information,we,"advertising, services"
+demographic information,we,"advertising, services, analytics"
+email address,we,"advertising, services"
+employment history,berlitz,
+financial information,berlitz,
+gender,berlitz,
+geolocation,we,"advertising, services"
+government identifier,berlitz,
+human resources data,berlitz,
+human resources data,we,"advertising, services"
+human resources datum,berlitz in united states,
+income,berlitz,
+information you provide we through use of website,we,"advertising, services, analytics"
+interest,we,"advertising, services"
+language of interest,we,"advertising, services"
+language skill,berlitz,
+marital status,berlitz,
+nationality,berlitz,
+password,we,"advertising, services"
+person name,berlitz,
+person name,we,"advertising, services, analytics"
+personal information,UNSPECIFIED_ACTOR,
+personal information,berlitz,
+personal information,outside company perform service for berlitz,
+personal information,we,"advertising, services, analytics, legal, security"
+phone,we,"advertising, services, analytics, legal, security"
+phone number,berlitz,
+phone number,we,"advertising, services, analytics, legal, security"
+postal address,berlitz,
+postal address,we,"advertising, services, analytics, legal, security"
+prefer starting date,we,"advertising, services, analytics, legal, security"
+previous work experience,we,"advertising, services, analytics, legal, security"
+product preference,we,"advertising, services, analytics, legal, security"
+program of interest,we,"advertising, services, analytics, legal, security"
+purchase information,we,"advertising, services"
+purchase information,we,"advertising, services, analytics, legal, security"
+referral information,we,"advertising, services, analytics, legal, security"
+selection of language,we,"advertising, services, analytics, legal, security"
+tax information,berlitz,
+technical information,we,"advertising, services, analytics"
+telephone,we,"advertising, services, analytics, legal, security"
+user name,we,"advertising, services"
+visit,we,"advertising, services, analytics, legal, security"
+zip code,we,"advertising, services, analytics, legal, security"

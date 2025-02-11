@@ -1,0 +1,18 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,advertising
+UNSPECIFIED_DATA,platform,services
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+UNSPECIFIED_DATA,we,"advertising, analytics, services, legal, security"
+aggregate / deidentified / pseudonymized information,supplier,"analytics, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, services, legal, security"
+analytic information,platform,services
+analytic information,we,"advertising, analytics, services"
+contact information,we,"advertising, analytics, services"
+information about you,we,"advertising, analytics, services, legal, security"
+information on use of technology for advertising,we,"advertising, analytics, services"
+many choice regard use of personal information for advertising purpose,we,"advertising, analytics, services"
+personal information,UNSPECIFIED_ACTOR,advertising
+personal information,we,"advertising, analytics, services, legal"
+personal information,we,"advertising, analytics, services, legal, security"
+personal information collect from you,we,"advertising, analytics, services, legal"

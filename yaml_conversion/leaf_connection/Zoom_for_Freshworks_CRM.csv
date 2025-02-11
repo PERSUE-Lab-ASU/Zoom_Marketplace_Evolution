@@ -1,0 +1,128 @@
+data_type,collector,purpose
+Facebook,auth provider,
+Facebook,we,"advertising, analytics, legal, services, security"
+Google,auth provider,
+Google,we,"advertising, analytics, legal, services, security"
+Microsoft,auth provider,
+Microsoft,we,"advertising, analytics, legal, services, security"
+Twitter,we,"advertising, analytics, legal, services, security"
+UNSPECIFIED_DATA,advertiser,"advertising, analytics"
+UNSPECIFIED_DATA,service provider,legal
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, services"
+account number,UNSPECIFIED_ACTOR,advertising
+account number,we,"advertising, analytics, legal, services"
+asset,we,"advertising, analytics, legal, services, security"
+banking detail,we,"advertising, analytics, legal, services"
+base chat interface,we,"advertising, analytics, legal, services, security"
+browser type,UNSPECIFIED_ACTOR,advertising
+browser type,we,"advertising, analytics, legal, services"
+browsing / search history,we,"advertising, analytics, legal, services"
+capital stock,we,"advertising, analytics, legal, services, security"
+clickstream datum,we,"advertising, analytics, legal, services"
+coarse geolocation,UNSPECIFIED_ACTOR,advertising
+coarse geolocation,we,"advertising, analytics, legal, services"
+company name,we,"advertising, analytics, legal, services"
+company website url,we,"advertising, analytics, legal, services"
+cookie / pixel tag,advertiser,"advertising, analytics"
+cookie / pixel tag,we,"advertising, analytics, legal, services"
+credit / debit card number,we,"advertising, analytics, legal, services"
+customer datum,we,"advertising, analytics, legal, services"
+customer datum,we,"advertising, analytics, legal, services, security"
+data collect,UNSPECIFIED_ACTOR,advertising
+date time stamp,we,"advertising, analytics, legal, services"
+datum collect through interaction with third party website,we,"advertising, analytics, legal, services"
+datum from application,we,"advertising, analytics, legal, services"
+designation,UNSPECIFIED_ACTOR,advertising
+designation,group companies,
+designation,third party provider of social platforms,
+designation,we,"advertising, analytics, legal, services"
+designation,we,"advertising, analytics, legal, services, security"
+detail about product you view through site,we,"advertising, analytics, legal, services"
+detail of marketing preference you communicate to we,we,"advertising, analytics, legal, services"
+detail of services purchase from we,we,"advertising, analytics, legal, services"
+email address,UNSPECIFIED_ACTOR,advertising
+email address,group companies,
+email address,third party provider of social platforms,
+email address,we,"advertising, analytics, legal, services"
+email address,we,"advertising, analytics, legal, services, security"
+feedback response,UNSPECIFIED_ACTOR,advertising
+feedback response,we,"advertising, analytics, legal, services"
+file view on website,we,"advertising, analytics, legal, services"
+health record,UNSPECIFIED_ACTOR,advertising
+health record,group companies,
+health record,third party provider of social platforms,
+health record,we,"advertising, analytics, legal, services"
+health record,we,"advertising, analytics, legal, services, security"
+information about,UNSPECIFIED_ACTOR,advertising
+information about,we,"advertising, analytics, legal, services"
+information about food preference,we,"advertising, analytics, legal, services"
+information about this,we,"advertising, analytics, legal, services"
+information as,we,"advertising, analytics, legal, services"
+information contain personal data,we,"advertising, analytics, legal, services"
+information relate to criminal conviction,UNSPECIFIED_ACTOR,advertising
+information relate to criminal conviction,group companies,
+information relate to criminal conviction,third party provider of social platforms,
+information relate to criminal conviction,we,"advertising, analytics, legal, services"
+information relate to criminal conviction,we,"advertising, analytics, legal, services, security"
+information you volunteer,we,"advertising, analytics, legal, services"
+ip address,UNSPECIFIED_ACTOR,advertising
+ip address,we,"advertising, analytics, legal, services"
+job title,we,"advertising, analytics, legal, services"
+mac,UNSPECIFIED_ACTOR,advertising
+mac,we,"advertising, analytics, legal, services"
+medical condition,UNSPECIFIED_ACTOR,advertising
+medical condition,group companies,
+medical condition,third party provider of social platforms,
+medical condition,we,"advertising, analytics, legal, services"
+medical condition,we,"advertising, analytics, legal, services, security"
+open position,we,"advertising, analytics, legal, services"
+operate system,we,"advertising, analytics, legal, services"
+option,auth provider,
+organization you represent,we,"advertising, analytics, legal, services"
+password,UNSPECIFIED_ACTOR,advertising
+password,we,"advertising, analytics, legal, services"
+person name,UNSPECIFIED_ACTOR,advertising
+person name,group companies,
+person name,third party provider of social platforms,
+person name,we,"advertising, analytics, legal, services"
+person name,we,"advertising, analytics, legal, services, security"
+personal data you volunteer be,UNSPECIFIED_ACTOR,advertising
+personal data you volunteer be,group companies,
+personal data you volunteer be,third party provider of social platforms,
+personal data you volunteer be,we,"advertising, analytics, legal, services"
+personal data you volunteer be,we,"advertising, analytics, legal, services, security"
+personal datum about people,we,"advertising, analytics, legal, services"
+personal datum volunteer,we,"advertising, analytics, legal, services"
+personal information you make,UNSPECIFIED_ACTOR,advertising
+personal information you make,group companies,
+personal information you make,third party provider of social platforms,
+personal information you make,we,"advertising, analytics, legal, services"
+personal information you make,we,"advertising, analytics, legal, services, security"
+phone number,UNSPECIFIED_ACTOR,advertising
+phone number,group companies,
+phone number,third party provider of social platforms,
+phone number,we,"advertising, analytics, legal, services"
+phone number,we,"advertising, analytics, legal, services, security"
+postal address,UNSPECIFIED_ACTOR,advertising
+postal address,group companies,
+postal address,third party provider of social platforms,
+postal address,we,"advertising, analytics, legal, services"
+postal address,we,"advertising, analytics, legal, services, security"
+record of visitor,we,"advertising, analytics, legal, services, security"
+relevant personal datum,we,"advertising, analytics, legal, services, security"
+report,we,"advertising, analytics, legal, services, security"
+seminar,we,"advertising, analytics, legal, services, security"
+sensitive information about you,we,"advertising, analytics, legal, services, security"
+sensitive personal datum,we,"advertising, analytics, legal, services, security"
+social medium handle,UNSPECIFIED_ACTOR,advertising
+social medium handle,we,"advertising, analytics, legal, services"
+social medium handle,we,"advertising, analytics, legal, services, security"
+social networking profile,we,"advertising, analytics, legal, services"
+stock,we,"advertising, analytics, legal, services, security"
+testimonial,we,"advertising, analytics, legal, services, security"
+unique number assign to device,UNSPECIFIED_ACTOR,advertising
+unique number assign to device,we,"advertising, analytics, legal, services"
+unique number assign to device,we,"advertising, analytics, legal, services, security"
+username,UNSPECIFIED_ACTOR,advertising
+username,we,"advertising, analytics, legal, services"
+webinar,we,"advertising, analytics, legal, services, security"

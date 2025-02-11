@@ -1,0 +1,23 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,business partner,
+UNSPECIFIED_DATA,we,
+aggregated user statistic describe services to current business partner,we,
+cookie / pixel tag,UNSPECIFIED_ACTOR,analytics
+cookie / pixel tag,we,"advertising, services"
+customer content,we,"advertising, services"
+customer content you submit to we for service,we,"advertising, services"
+email address,we,"advertising, services"
+information you provide in message to we,we,"advertising, services"
+log file,we,"advertising, services, analytics, security"
+person name,we,"advertising, services"
+personal information,UNSPECIFIED_ACTOR,"analytics, advertising"
+personal information,acquire entity,
+personal information,business participate in program,"advertising, services"
+personal information,company under common control,advertising
+personal information,fabius,legal
+personal information,fabius technologies,
+personal information,fabius technologies inc.,services
+personal information,joint venture,advertising
+personal information,survive entity in merger,
+personal information,we,"advertising, services, analytics, security"

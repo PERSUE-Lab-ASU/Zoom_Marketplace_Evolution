@@ -1,0 +1,180 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,service providers,
+UNSPECIFIED_DATA,we,
+account information,UNSPECIFIED_ACTOR,
+account information,authorized service provider,
+account information,party involve in event,
+account information,service providers,analytics
+account information,we,"analytics, services, legal"
+activity log,UNSPECIFIED_ACTOR,
+activity log,authorized service provider,
+activity log,party involve in event,
+activity log,service providers,analytics
+activity log,we,"analytics, services, legal"
+advertiser,service providers,analytics
+aggregated extract of information,UNSPECIFIED_ACTOR,
+aggregated extract of information,we,
+billing service,service providers,analytics
+browser version,UNSPECIFIED_ACTOR,
+browser version,authorized service provider,
+browser version,party involve in event,
+browser version,service providers,analytics
+browser version,we,"analytics, services, legal"
+call conference provider,service providers,analytics
+cdn,service providers,analytics
+coarse geolocation,UNSPECIFIED_ACTOR,
+coarse geolocation,authorized service provider,
+coarse geolocation,party involve in event,
+coarse geolocation,service providers,analytics
+coarse geolocation,we,"analytics, services, legal"
+communication network,service providers,analytics
+connectivity,UNSPECIFIED_ACTOR,
+connectivity,authorized service provider,
+connectivity,party involve in event,
+connectivity,service providers,analytics
+connectivity,we,"analytics, services, legal"
+content of website chat,UNSPECIFIED_ACTOR,
+content of website chat,authorized service provider,
+content of website chat,party involve in event,
+content of website chat,service providers,analytics
+content of website chat,we,"analytics, services, legal"
+content provider,service providers,analytics
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,authorized service provider,
+cookie / pixel tag,party involve in event,
+cookie / pixel tag,service providers,analytics
+cookie / pixel tag,we,"analytics, services"
+cookie / pixel tag,we,"analytics, services, legal"
+crm,UNSPECIFIED_ACTOR,
+crm,authorized service provider,
+crm,party involve in event,
+crm,service providers,analytics
+crm,we,"analytics, services, legal"
+customer datum,we,"analytics, services"
+customer record information,UNSPECIFIED_ACTOR,
+customer record information,authorized service provider,
+customer record information,party involve in event,
+customer record information,service providers,analytics
+customer record information,we,"analytics, services"
+customer record information,we,"analytics, services, legal"
+data enrichment service,service providers,analytics
+data optimization service,service providers,analytics
+data security service,service providers,analytics
+device identifier,UNSPECIFIED_ACTOR,
+device identifier,authorized service provider,
+device identifier,party involve in event,
+device identifier,service providers,analytics
+device identifier,we,"analytics, services, legal"
+distributor,service providers,analytics
+email address,UNSPECIFIED_ACTOR,
+email address,authorized service provider,
+email address,party involve in event,
+email address,respective partner,
+email address,service providers,analytics
+email address,we,
+email address,we,"analytics, services, legal"
+email service provider,service providers,analytics
+enablement system,service providers,analytics
+event production service,service providers,analytics
+fraud detection service,service providers,analytics
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,authorized service provider,
+geolocation,party involve in event,
+geolocation,service providers,analytics
+geolocation,we,"analytics, services"
+geolocation,we,"analytics, services, legal"
+identifier,UNSPECIFIED_ACTOR,
+identifier,authorized service provider,
+identifier,party involve in event,
+identifier,service providers,analytics
+identifier,we,"analytics, services, legal"
+infer datum generate from use of portal,UNSPECIFIED_ACTOR,
+infer datum generate from use of portal,authorized service provider,
+infer datum generate from use of portal,party involve in event,
+infer datum generate from use of portal,service providers,analytics
+infer datum generate from use of portal,we,"analytics, services, legal"
+ip address,UNSPECIFIED_ACTOR,
+ip address,authorized service provider,
+ip address,party involve in event,
+ip address,service providers,analytics
+ip address,we,"analytics, services, legal"
+job recruiter,service providers,analytics
+legal advisor,service providers,analytics
+locale setting use,UNSPECIFIED_ACTOR,
+locale setting use,authorized service provider,
+locale setting use,party involve in event,
+locale setting use,service providers,analytics
+locale setting use,we,"analytics, services, legal"
+marketing tool,service providers,analytics
+non-personal information,we,"analytics, services, legal"
+person name,UNSPECIFIED_ACTOR,
+person name,authorized service provider,
+person name,party involve in event,
+person name,respective partner,
+person name,service providers,analytics
+person name,we,
+person name,we,"analytics, services, legal"
+personal datum associate with workramp account control,account administrator,
+personal datum we process on behalf as data processor,UNSPECIFIED_ACTOR,
+personal datum we process on behalf as data processor,authorized service provider,
+personal datum we process on behalf as data processor,party involve in event,
+personal datum we process on behalf as data processor,service providers,analytics
+personal datum we process on behalf as data processor,we,"analytics, services"
+personal datum we process on behalf as data processor,we,"analytics, services, legal"
+personal datum we process on behalf of customer submit to service,UNSPECIFIED_ACTOR,
+personal datum we process on behalf of customer submit to service,authorized service provider,
+personal datum we process on behalf of customer submit to service,party involve in event,
+personal datum we process on behalf of customer submit to service,service providers,analytics
+personal datum we process on behalf of customer submit to service,we,"analytics, services, legal"
+phone number,UNSPECIFIED_ACTOR,
+phone number,authorized service provider,
+phone number,party involve in event,
+phone number,respective partner,
+phone number,service providers,analytics
+phone number,we,
+phone number,we,"analytics, services, legal"
+pixel,UNSPECIFIED_ACTOR,
+pixel,authorized service provider,
+pixel,party involve in event,
+pixel,service providers,analytics
+pixel,we,"analytics, services, legal"
+professional information,UNSPECIFIED_ACTOR,
+professional information,authorized service provider,
+professional information,party involve in event,
+professional information,service providers,analytics
+professional information,we,"analytics, services, legal"
+relevant content,we,"analytics, services, legal"
+sale partner,service providers,analytics
+session recording,UNSPECIFIED_ACTOR,
+session recording,authorized service provider,
+session recording,party involve in event,
+session recording,service providers,analytics
+session recording,we,"analytics, services, legal"
+support,service providers,analytics
+title,UNSPECIFIED_ACTOR,
+title,authorized service provider,
+title,party involve in event,
+title,respective partner,
+title,service providers,analytics
+title,we,
+title,we,"analytics, services, legal"
+user agent,UNSPECIFIED_ACTOR,
+user agent,authorized service provider,
+user agent,party involve in event,
+user agent,service providers,analytics
+user agent,we,"analytics, services, legal"
+user datum,UNSPECIFIED_ACTOR,
+user datum,authorized service provider,
+user datum,party involve in event,
+user datum,service providers,analytics
+user datum,we,"analytics, services, legal"
+web analytic,service providers,analytics
+website chat,service providers,analytics
+website hosting service,service providers,analytics
+workplace,UNSPECIFIED_ACTOR,
+workplace,authorized service provider,
+workplace,party involve in event,
+workplace,respective partner,
+workplace,service providers,analytics
+workplace,we,
+workplace,we,"analytics, services, legal"

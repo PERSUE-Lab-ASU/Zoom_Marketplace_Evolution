@@ -1,0 +1,13 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"security, services"
+datum about use of services,we,"security, services"
+datum we collect,bettercloud subsidiary,
+datum we collect,corporate affiliate,
+datum we collect,we,"security, services, analytics, legal"
+end user personal information,bettercloud,
+machine readable copy of personal information,UNSPECIFIED_ACTOR,
+personal information,bettercloud,"legal, services"
+personal information,government,
+personal information,sub,services
+personal information,we,"security, services, analytics, legal"
+specific information,bettercloud,"legal, services, security"

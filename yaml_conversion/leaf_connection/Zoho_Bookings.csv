@@ -1,0 +1,132 @@
+data_type,collector,purpose
+Microsoft,social media,
+UNSPECIFIED_DATA,event organizer,
+UNSPECIFIED_DATA,party who adopt appropriate confidentiality measure,
+UNSPECIFIED_DATA,reselling partner,
+UNSPECIFIED_DATA,we,"advertising, analytics, legal, security, services"
+UNSPECIFIED_DATA,zoho,
+access time,we,"advertising, analytics, legal, security, services"
+account notification email,UNSPECIFIED_ACTOR,
+account notification email,advertiser,
+account notification email,analytic provider,
+account notification email,authorized reselling partner in region,"advertising, services"
+account notification email,developer of application,
+account notification email,event organizer,
+account notification email,payment processor,
+account notification email,reselling partner,
+account notification email,we,"advertising, analytics, legal, security, services"
+account notification email,zoho,
+account signup,zoho,
+aggregate / deidentified / pseudonymized information,advertiser,
+aggregate / deidentified / pseudonymized information,analytic provider,
+aggregate / deidentified / pseudonymized information,event organizer,
+aggregate / deidentified / pseudonymized information,payment processor,
+basic information like,we,"advertising, analytics, legal, security, services"
+beacon,we,"advertising, analytics, legal, security, services"
+browser type,we,"advertising, analytics, legal, security, services"
+choice in information use,zoho,
+company name,reselling partner,
+company name,zoho,
+configuration,we,"advertising, analytics, legal, security, services"
+cookie / pixel tag,we,"advertising, analytics, legal, security, services"
+credit / debit card number,we,"advertising, analytics, legal, security, services"
+date,we,"advertising, analytics, legal, security, services"
+demographic information about visitor,we,"advertising, analytics, legal, security, services"
+entity list,zoho,
+error generate,we,"advertising, analytics, legal, security, services"
+essential transactional email,UNSPECIFIED_ACTOR,
+essential transactional email,advertiser,
+essential transactional email,analytic provider,
+essential transactional email,authorized reselling partner in region,"advertising, services"
+essential transactional email,developer of application,
+essential transactional email,event organizer,
+essential transactional email,payment processor,
+essential transactional email,reselling partner,
+essential transactional email,we,"advertising, analytics, legal, security, services"
+essential transactional email,zoho,
+expiry date,we,"advertising, analytics, legal, security, services"
+first party local storage objects,we,"advertising, analytics, legal, security, services"
+frequency,we,"advertising, analytics, legal, security, services"
+geolocation,mapping provider,
+geolocation,we,"advertising, analytics, legal, security, services"
+information about you,we,"advertising, analytics, legal, security, services"
+information about you,zoho,
+information cover in part,zoho group entity list,
+information cover in part i,independent contractor,
+information from browser,zoho,
+information from reselling partner,zoho,
+information from social medium site,we,"advertising, analytics, legal, security, services"
+information from social medium site,zoho,
+information we collect,we,"advertising, analytics, legal, security, services"
+information we collect,zoho,
+information we collect from third party,zoho,
+information we need,we,"advertising, analytics, legal, security, services"
+information you provide we,zoho,
+interaction,we,"advertising, analytics, legal, security, services"
+ip address,social media,
+ip address,we,"advertising, analytics, legal, security, services"
+language,we,"advertising, analytics, legal, security, services"
+language preference,we,"advertising, analytics, legal, security, services"
+mobile device manufacturer,we,"advertising, analytics, legal, security, services"
+mobile network information,we,"advertising, analytics, legal, security, services"
+operating system,we,"advertising, analytics, legal, security, services"
+option,UNSPECIFIED_ACTOR,
+option opt of,we,"advertising, analytics, legal, security, services"
+password change,UNSPECIFIED_ACTOR,
+password change,advertiser,
+password change,analytic provider,
+password change,authorized reselling partner in region,"advertising, services"
+password change,developer of application,
+password change,event organizer,
+password change,payment processor,
+password change,reselling partner,
+password change,we,"advertising, analytics, legal, security, services"
+password change,zoho,
+payment account information,we,"advertising, analytics, legal, security, services"
+payment information,we,"advertising, analytics, legal, security, services"
+performance datum,we,"advertising, analytics, legal, security, services"
+person name,UNSPECIFIED_ACTOR,
+person name,advertiser,
+person name,analytic provider,
+person name,authorized reselling partner in region,"advertising, services"
+person name,developer of application,
+person name,event organizer,
+person name,payment processor,
+person name,reselling partner,
+person name,we,"advertising, analytics, legal, security, services"
+person name,zoho,
+phone number,UNSPECIFIED_ACTOR,
+phone number,we,"advertising, analytics, legal, security, services"
+photo,we,"advertising, analytics, legal, security, services"
+postal address,UNSPECIFIED_ACTOR,
+postal address,we,"advertising, analytics, legal, security, services"
+profile information,we,"advertising, analytics, legal, security, services"
+refer url,we,"advertising, analytics, legal, security, services"
+renewal reminder,UNSPECIFIED_ACTOR,
+renewal reminder,advertiser,
+renewal reminder,analytic provider,
+renewal reminder,authorized reselling partner in region,"advertising, services"
+renewal reminder,developer of application,
+renewal reminder,event organizer,
+renewal reminder,payment processor,
+renewal reminder,reselling partner,
+renewal reminder,we,"advertising, analytics, legal, security, services"
+renewal reminder,zoho,
+script,we,"advertising, analytics, legal, security, services"
+scroll,we,"advertising, analytics, legal, security, services"
+security update notification,UNSPECIFIED_ACTOR,
+security update notification,advertiser,
+security update notification,analytic provider,
+security update notification,authorized reselling partner in region,"advertising, services"
+security update notification,developer of application,
+security update notification,event organizer,
+security update notification,payment processor,
+security update notification,reselling partner,
+security update notification,we,"advertising, analytics, legal, security, services"
+security update notification,zoho,
+service datum,UNSPECIFIED_ACTOR,
+service datum,we,"advertising, analytics, legal, security, services"
+storage utilize,we,"advertising, analytics, legal, security, services"
+tag,we,"advertising, analytics, legal, security, services"
+time zone,we,"advertising, analytics, legal, security, services"
+user setting,we,"advertising, analytics, legal, security, services"

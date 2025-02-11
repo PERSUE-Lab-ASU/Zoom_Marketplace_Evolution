@@ -1,0 +1,22 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,glia,
+UNSPECIFIED_DATA,we,
+contact information,we,"analytics, services"
+cookie / pixel tag,we,analytics
+data modification,customer sites,
+device information,glia,
+feedback,we,"analytics, services"
+geolocation,UNSPECIFIED_ACTOR,
+geolocation,glia,
+geolocation,we,"analytics, services"
+information about,we,"analytics, services"
+information about previous visit to customer sites,we,"analytics, services"
+information about use of customer sites by user,glia,
+information collect from user,UNSPECIFIED_ACTOR,
+information collect from user,we,"analytics, services"
+information on instruction,glia,
+information on instruction,we,"analytics, services"
+information we collect from user,UNSPECIFIED_ACTOR,
+information we collect from user,we,"analytics, services"
+internet activity,UNSPECIFIED_ACTOR,"advertising, analytics"
+survey response,we,"analytics, services"

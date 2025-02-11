@@ -1,0 +1,28 @@
+data_type,collector,purpose
+aggregate client personal datum,UNSPECIFIED_ACTOR,"advertising, services"
+aggregate client personal datum,we,"advertising, services"
+aggregate personal datum of professional,UNSPECIFIED_ACTOR,"advertising, services, analytics"
+aggregate personal datum of professional,we,"advertising, services, analytics"
+cookie / pixel tag,HubSpot,
+cookie / pixel tag,we,"advertising, services, analytics"
+date of birth,UNSPECIFIED_ACTOR,"advertising, services, analytics"
+date of birth,professional,
+date of birth,service provider,services
+date of birth,we,"advertising, services, analytics"
+email address,UNSPECIFIED_ACTOR,"advertising, services, analytics"
+email address,professional,
+email address,service provider,services
+email address,we,"advertising, services, analytics"
+person name,UNSPECIFIED_ACTOR,"advertising, services, analytics"
+person name,professional,
+person name,service provider,services
+person name,we,"advertising, services, analytics"
+personal datum professional need,UNSPECIFIED_ACTOR,"advertising, services, analytics"
+personal datum professional need,professional,
+personal datum professional need,service provider,services
+personal datum professional need,we,"advertising, services, analytics"
+personal datum provide,we,"advertising, services, analytics"
+phone number,UNSPECIFIED_ACTOR,"advertising, services, analytics"
+phone number,professional,
+phone number,service provider,services
+phone number,we,"advertising, services, analytics"

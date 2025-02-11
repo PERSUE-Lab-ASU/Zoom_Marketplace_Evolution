@@ -1,0 +1,63 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,
+age,we,
+aggregate / deidentified / pseudonymized information,UNSPECIFIED_ACTOR,analytics
+aggregate / deidentified / pseudonymized information,we,analytics
+analytic datum,we,"analytics, advertising, services"
+anonymous traffic datum,we,"analytics, advertising, services"
+billing information,UNSPECIFIED_ACTOR,"analytics, security, services"
+browser type,we,"analytics, advertising, services"
+browsing / search history,we,"analytics, advertising, services, security"
+communication datum,we,"analytics, advertising, services"
+computer type,we,"analytics, advertising, services, security"
+consumer personal information,we,"analytics, advertising, services"
+cookie / pixel tag,we,"analytics, advertising, services"
+device manufacturer,we,"analytics, advertising, services, security"
+email address,UNSPECIFIED_ACTOR,"analytics, security, services"
+email address,company in kahoot ! group,
+email address,we,"analytics, advertising, services, security"
+email address,we,"analytics, advertising, services, security, legal"
+geolocation,we,
+information about,we,"analytics, advertising, services, security"
+information describe,service provider,
+information describe,we,"analytics, advertising, services, security"
+interaction with online property,we,"analytics, advertising, services, security"
+internet browser type,we,"analytics, advertising, services, security"
+job title of contact person of users,UNSPECIFIED_ACTOR,"analytics, security, services"
+job title of contact person of users,company in kahoot ! group,
+job title of contact person of users,we,"analytics, advertising, services, security, legal"
+language,we,"analytics, advertising, services, security"
+log datum,we,"analytics, advertising, services, security"
+mac address,we,"analytics, advertising, services, security"
+macintosh,we,"analytics, advertising, services, security, legal"
+metadata,we,"analytics, advertising, services, security"
+metric relate to deliverability of email you send through service,we,"analytics, advertising, services, security"
+model,we,"analytics, advertising, services, security"
+operating system name,we,"analytics, advertising, services, security"
+password,we,"analytics, advertising, services, security"
+payment information,we,"analytics, advertising, services, security"
+performance datum,we,"analytics, advertising, services, security"
+person name,UNSPECIFIED_ACTOR,"analytics, security, services"
+person name,company in kahoot ! group,
+person name,we,"analytics, advertising, services, security, legal"
+personal datum include in slide you choose,we,"analytics, advertising, services, security"
+personal information disclose through comment,kahoot,
+phone number,UNSPECIFIED_ACTOR,"analytics, security, services"
+phone number,company in kahoot ! group,
+phone number,we,"analytics, advertising, services, security, legal"
+picture,we,
+postal address,UNSPECIFIED_ACTOR,"analytics, security, services"
+postal address,company in kahoot ! group,
+postal address,we,"analytics, advertising, services, security, legal"
+recent login activity,we,"analytics, advertising, services, security, legal"
+request,we,"analytics, advertising, services, security, legal"
+screen resolution,we,"analytics, advertising, services, security"
+sensitive personal information,UNSPECIFIED_ACTOR,"analytics, security, services"
+sensitive personal information,company in kahoot ! group,
+sensitive personal information,we,"analytics, advertising, services, security, legal"
+troubleshooting data,we,"analytics, advertising, services, security, legal"
+user nickname,we,"analytics, advertising, services, security, legal"
+username,we,"analytics, advertising, services, security"
+username,we,"analytics, advertising, services, security, legal"
+version,we,"analytics, advertising, services, security, legal"
+windows,we,"analytics, advertising, services, security, legal"

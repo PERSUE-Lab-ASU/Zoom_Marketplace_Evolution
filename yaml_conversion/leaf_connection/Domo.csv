@@ -1,0 +1,109 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,Facebook,
+UNSPECIFIED_DATA,embedded analytics,
+UNSPECIFIED_DATA,we,"security, services"
+activity we display,we,"security, services, advertising, analytics, legal"
+aggregate / deidentified / pseudonymized information,we,"security, services"
+aggregate statistical information,we,"security, services"
+browser information,we,"security, services"
+browsing / search history,we,"security, services"
+buzz,we,"security, services, advertising, analytics, legal"
+card,we,"security, services"
+company event,we,"security, services, advertising, analytics, legal"
+computer information,we,"security, services"
+connection make,we,"security, services"
+cookie / pixel tag,advertiser,
+cookie / pixel tag,we,"security, services"
+desktop app link to privacy notice,we,"security, services, advertising, analytics, legal"
+device identifier,we,"security, services"
+device information,we,"security, services"
+diagnostic datum,we,"security, services"
+domo dojo,we,"security, services, advertising, analytics, legal"
+domo username,UNSPECIFIED_ACTOR,
+domo username,applicable partner,
+domo username,company provide service,
+domo username,domo,
+domo username,we,"security, services, advertising, analytics, legal"
+duration of session,we,"security, services"
+email address,UNSPECIFIED_ACTOR,
+email address,applicable partner,
+email address,company provide service,
+email address,domo,
+email address,we,"security, services"
+email address,we,"security, services, advertising, analytics, legal"
+feedback about service,we,"security, services"
+forum,we,"security, services, advertising, analytics, legal"
+geolocation,we,"security, services"
+information about,we,"security, services"
+information about use of feature,we,"security, services"
+information about you,we,"security, services"
+information from,UNSPECIFIED_ACTOR,
+information from,domo,
+information from,we,"security, services"
+information regard status of referral to individual who refer you,we,"security, services"
+information you make,we,"security, services"
+insight,domo,
+insight,social media,
+internet activity,we,"security, services"
+ip address,we,"security, services"
+language setting,we,"security, services"
+marketing communication,we,"security, services, advertising, analytics, legal"
+marketing email,we,"security, services, advertising, analytics, legal"
+newsletter,we,"security, services, advertising, analytics, legal"
+page on many social networking site,we,"security, services"
+password,UNSPECIFIED_ACTOR,
+password,applicable partner,
+password,company provide service,
+password,domo,
+password,we,"security, services"
+password,we,"security, services, advertising, analytics, legal"
+permanent record of request not send direct marketing,we,"security, services"
+person name,UNSPECIFIED_ACTOR,
+person name,applicable partner,
+person name,company provide service,
+person name,domo,
+person name,we,"security, services, advertising, analytics, legal"
+personal identifier,we,"security, services"
+personal information provide to domo,UNSPECIFIED_ACTOR,
+personal information provide to domo,applicable partner,
+personal information provide to domo,company provide service,
+personal information provide to domo,domo,
+personal information provide to domo,we,"security, services, advertising, analytics, legal"
+personal information upload into subscription services,UNSPECIFIED_ACTOR,
+personal information upload into subscription services,applicable partner,
+personal information upload into subscription services,company provide service,
+personal information upload into subscription services,domo,
+personal information upload into subscription services,we,"security, services, advertising, analytics, legal"
+phone number,UNSPECIFIED_ACTOR,
+phone number,applicable partner,
+phone number,company provide service,
+phone number,domo,
+phone number,we,"security, services, advertising, analytics, legal"
+position,UNSPECIFIED_ACTOR,
+position,applicable partner,
+position,company provide service,
+position,domo,
+position,we,"security, services, advertising, analytics, legal"
+postal address,UNSPECIFIED_ACTOR,
+postal address,applicable partner,
+postal address,company provide service,
+postal address,domo,
+postal address,we,"security, services, advertising, analytics, legal"
+proof of enrollment,we,"security, services"
+public information about you,we,"security, services, advertising, analytics, legal"
+relevant personal information,UNSPECIFIED_ACTOR,
+relevant personal information,sponsor of event,
+relevant personal information,we,"security, services, advertising, analytics, legal"
+statistic,domo,
+statistic,social media,
+student id,we,"security, services"
+system configuration information,we,"security, services"
+title,UNSPECIFIED_ACTOR,
+title,applicable partner,
+title,company provide service,
+title,domo,
+title,we,"security, services, advertising, analytics, legal"
+transcript,we,"security, services"
+user type,we,"security, services"
+username,we,"security, services"
+version status,we,"security, services"

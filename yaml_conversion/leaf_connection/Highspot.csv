@@ -1,0 +1,50 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,advertiser,"advertising, analytics, services"
+UNSPECIFIED_DATA,co,advertising
+UNSPECIFIED_DATA,we,"advertising, analytics, services"
+access time,analytic provider,
+access time,we,"advertising, analytics, services"
+activity,analytic provider,
+activity,we,"advertising, analytics, services"
+aggregate / deidentified / pseudonymized information,we,"advertising, analytics, services"
+company name,UNSPECIFIED_ACTOR,security
+company name,business partner,security
+company name,consultant,security
+company name,service provider,security
+company name,sponsor,security
+company name,we,"advertising, analytics, services, security"
+cookie / pixel tag,analytic provider,
+cookie / pixel tag,we,"advertising, analytics, services"
+device information,analytic provider,
+device information,we,"advertising, analytics, services"
+file read,analytic provider,
+file read,we,"advertising, analytics, services"
+information about device,we,"advertising, analytics, services"
+information you provide to we,we,"advertising, analytics, services, security"
+ip address,analytic provider,
+ip address,we,"advertising, analytics, services"
+link click,analytic provider,
+link click,we,"advertising, analytics, services"
+log information,we,"advertising, analytics, services, security"
+person name,UNSPECIFIED_ACTOR,security
+person name,business partner,security
+person name,consultant,security
+person name,service provider,security
+person name,sponsor,security
+person name,we,"advertising, analytics, services, security"
+personal identifier,we,"advertising, analytics, services, security"
+personal information,highspot,"advertising, analytics, legal, security, services"
+personal information,we,"advertising, analytics, services, security, legal"
+record,we,"advertising, analytics, services, security, legal"
+related activity information,we,"advertising, analytics, services, security, legal"
+search word,analytic provider,
+search word,we,"advertising, analytics, services"
+time date of access,we,"advertising, analytics, services, security, legal"
+title,UNSPECIFIED_ACTOR,security
+title,business partner,security
+title,consultant,security
+title,service provider,security
+title,sponsor,security
+title,we,"advertising, analytics, services, security"
+usage information,analytic provider,
+usage information,we,"advertising, analytics, services"

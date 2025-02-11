@@ -1,0 +1,189 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,services
+UNSPECIFIED_DATA,employer,
+UNSPECIFIED_DATA,netskope,services
+UNSPECIFIED_DATA,platform,
+UNSPECIFIED_DATA,representative of employer,
+UNSPECIFIED_DATA,tool,
+UNSPECIFIED_DATA,we,"security, services"
+address of website from you arrive at website,tool,
+affiliated company,netskope,services
+aggregate / deidentified / pseudonymized information,netskope,services
+analytic provider,advertiser,"advertising, analytics, services"
+area of expertise,we,"security, services"
+attribution,advertiser,"advertising, analytics, services"
+browser type,tool,
+business datum collect from website for own internal marketing purpose,we,"security, services, advertising"
+business detail,UNSPECIFIED_ACTOR,"services, advertising"
+business detail,advertiser,"advertising, analytics, services"
+business detail,authorized partner,"analytics, services"
+business detail,business partner,
+business detail,contractor,
+business detail,netskope,services
+business detail,netskope affiliate,
+business detail,netskope in united states of america,
+business detail,netskope subsidiary,
+business detail,professional service provider,
+business detail,reseller,"advertising, services"
+business detail,service provider,
+business detail,sponsor,
+business detail,we,"security, services, advertising, analytics, legal"
+content interest detail,UNSPECIFIED_ACTOR,"services, advertising"
+content interest detail,advertiser,"advertising, analytics, services"
+content interest detail,authorized partner,"analytics, services"
+content interest detail,business partner,
+content interest detail,contractor,
+content interest detail,netskope,services
+content interest detail,netskope affiliate,
+content interest detail,netskope in united states of america,
+content interest detail,netskope subsidiary,
+content interest detail,professional service provider,
+content interest detail,reseller,"advertising, services"
+content interest detail,service provider,
+content interest detail,sponsor,
+content interest detail,we,"security, services, advertising, analytics, legal"
+content interest information,sponsor,
+content interest information,we,"security, services, advertising"
+contract detail,we,"security, services, advertising"
+email address,UNSPECIFIED_ACTOR,"services, advertising"
+email address,advertiser,"advertising, analytics, services"
+email address,authorized partner,"analytics, services"
+email address,business partner,
+email address,contractor,
+email address,netskope,services
+email address,netskope affiliate,
+email address,netskope in united states of america,
+email address,netskope subsidiary,
+email address,professional service provider,
+email address,reseller,"advertising, services"
+email address,service provider,
+email address,sponsor,
+email address,we,"security, services, advertising"
+email address,we,"security, services, advertising, analytics, legal"
+feedback,we,"security, services, advertising"
+financial service provider,professional service provider,
+information about you,we,"security, services, advertising"
+information for purpose of security,we,"security, services, advertising"
+instruction for,we,"security, services, advertising"
+insurance provider,professional service provider,
+internet activity,sponsor,
+internet activity,we,"security, services, advertising"
+legal advisor,professional service provider,
+metadata,UNSPECIFIED_ACTOR,"services, advertising"
+metadata,advertiser,"advertising, analytics, services"
+metadata,authorized partner,"analytics, services"
+metadata,business partner,
+metadata,contractor,
+metadata,netskope,services
+metadata,netskope affiliate,
+metadata,netskope in united states of america,
+metadata,netskope subsidiary,
+metadata,professional service provider,
+metadata,reseller,"advertising, services"
+metadata,service provider,
+metadata,sponsor,
+metadata,we,"security, services, advertising, analytics, legal"
+metric,netskope,services
+netskope inc.,netskope,services
+occupation,we,"security, services, advertising"
+organization name,we,"security, services, advertising"
+payment information,UNSPECIFIED_ACTOR,"services, advertising"
+payment information,advertiser,"advertising, analytics, services"
+payment information,authorized partner,"analytics, services"
+payment information,business partner,
+payment information,contractor,
+payment information,netskope,services
+payment information,netskope affiliate,
+payment information,netskope in united states of america,
+payment information,netskope subsidiary,
+payment information,professional service provider,
+payment information,reseller,"advertising, services"
+payment information,service provider,
+payment information,sponsor,
+payment information,we,"security, services, advertising"
+payment information,we,"security, services, advertising, analytics, legal"
+person name,UNSPECIFIED_ACTOR,"services, advertising"
+person name,advertiser,"advertising, analytics, services"
+person name,authorized partner,"analytics, services"
+person name,business partner,
+person name,contractor,
+person name,netskope,services
+person name,netskope affiliate,
+person name,netskope in united states of america,
+person name,netskope subsidiary,
+person name,professional service provider,
+person name,reseller,"advertising, services"
+person name,service provider,
+person name,sponsor,
+person name,we,"security, services, advertising"
+person name,we,"security, services, advertising, analytics, legal"
+phone number,UNSPECIFIED_ACTOR,"services, advertising"
+phone number,advertiser,"advertising, analytics, services"
+phone number,authorized partner,"analytics, services"
+phone number,business partner,
+phone number,contractor,
+phone number,netskope,services
+phone number,netskope affiliate,
+phone number,netskope in united states of america,
+phone number,netskope subsidiary,
+phone number,professional service provider,
+phone number,reseller,"advertising, services"
+phone number,service provider,
+phone number,sponsor,
+phone number,we,"security, services, advertising"
+phone number,we,"security, services, advertising, analytics, legal"
+photo,we,"security, services, advertising, analytics, legal"
+pixel,UNSPECIFIED_ACTOR,services
+pixel,netskope,services
+postal address,UNSPECIFIED_ACTOR,"services, advertising"
+postal address,advertiser,"advertising, analytics, services"
+postal address,authorized partner,"analytics, services"
+postal address,business partner,
+postal address,contractor,
+postal address,netskope,services
+postal address,netskope affiliate,
+postal address,netskope in united states of america,
+postal address,netskope subsidiary,
+postal address,professional service provider,
+postal address,reseller,"advertising, services"
+postal address,service provider,
+postal address,sponsor,
+postal address,we,"security, services, advertising"
+postal address,we,"security, services, advertising, analytics, legal"
+preference set,UNSPECIFIED_ACTOR,"services, advertising"
+record,we,"security, services, advertising, analytics, legal"
+secure high performance access to remote user,sd,
+secure high performance access to remote user,we,"security, services, advertising, analytics, legal"
+signature,UNSPECIFIED_ACTOR,"services, advertising"
+signature,advertiser,"advertising, analytics, services"
+signature,authorized partner,"analytics, services"
+signature,business partner,
+signature,contractor,
+signature,netskope,services
+signature,netskope affiliate,
+signature,netskope in united states of america,
+signature,netskope subsidiary,
+signature,professional service provider,
+signature,reseller,"advertising, services"
+signature,service provider,
+signature,sponsor,
+signature,we,"security, services, advertising, analytics, legal"
+small data file,UNSPECIFIED_ACTOR,services
+small data file,netskope,services
+specific piece,UNSPECIFIED_ACTOR,"services, advertising"
+specific piece,advertiser,"advertising, analytics, services"
+specific piece,authorized partner,"analytics, services"
+specific piece,business partner,
+specific piece,contractor,
+specific piece,netskope,services
+specific piece,netskope affiliate,
+specific piece,netskope in united states of america,
+specific piece,netskope subsidiary,
+specific piece,professional service provider,
+specific piece,reseller,"advertising, services"
+specific piece,service provider,
+specific piece,sponsor,
+specific piece,we,"security, services, advertising, analytics, legal"
+username,we,"security, services, advertising"
+username,we,"security, services, advertising, analytics, legal"
+whitepaper,we,"security, services, advertising, analytics, legal"

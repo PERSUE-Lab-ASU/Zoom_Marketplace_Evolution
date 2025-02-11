@@ -1,0 +1,36 @@
+data_type,collector,purpose
+Google,analytic provider,
+Sixth Division,we,"analytics, security, services"
+UNSPECIFIED_DATA,social media,
+UNSPECIFIED_DATA,we,
+aggregate / deidentified / pseudonymized information,we,
+banner ad,we,
+broad demographic information,we,
+browsing / search history,advertiser,
+browsing / search history,analytic provider,
+cookie / pixel tag,UNSPECIFIED_ACTOR,advertising
+cookie / pixel tag,email,analytics
+cookie / pixel tag,newsletter,analytics
+cookie / pixel tag,we,
+credit / debit card number,we,"analytics, security, services"
+email address,we,
+email address,we,"analytics, security, services"
+email metric,email,"analytics, services"
+email metric,newsletter,"analytics, services"
+geolocation,email,"analytics, services"
+geolocation,newsletter,"analytics, services"
+information about customer,we,
+information on,we,
+internet activity,advertiser,
+internet activity,analytic provider,
+ip address,we,"analytics, security, services"
+non-personal information,we,"analytics, security, services"
+number of email open,email,"analytics, services"
+number of email open,newsletter,"analytics, services"
+person name,we,"analytics, security, services"
+personal information,we,"analytics, security, services"
+phone number,we,"analytics, security, services"
+postal address,we,"analytics, security, services"
+session log,we,"analytics, security, services"
+ssl encryption,we,"analytics, security, services"
+telephone,we,"analytics, security, services"

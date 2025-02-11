@@ -1,0 +1,39 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,teamplify,
+UNSPECIFIED_DATA,we,legal
+browser type,we,legal
+connect account in third party service,we,"legal, services"
+cookie / pixel tag,aws application load balancers,services
+cookie / pixel tag,teamplify,services
+cookie / pixel tag,we,"legal, services, security"
+country,teamplify,services
+country,we,"legal, services, security, analytics"
+credit / debit card number,teamplify,services
+customer support,we,"legal, services, security"
+data element,we,"legal, services, security"
+date,we,"legal, services, security"
+date of birth,teamplify,services
+date of birth,we,"legal, services, security, analytics"
+email address,teamplify,services
+email address,we,"legal, services, security"
+email address,we,"legal, services, security, analytics"
+information in user profile,we,"legal, services, security"
+information we collect about you,law enforcement,
+information we collect about you,teamplify,services
+information you choose,we,"legal, services, security"
+ip address,law enforcement,
+ip address,teamplify,services
+ip address,we,"legal, services, security, analytics"
+language preference,we,"legal, services, security"
+log of technical information,we,"legal, services, security"
+non-personal information,we,"legal, services, security, analytics"
+number of third party service provider,we,"legal, services, security, analytics"
+person name,teamplify,services
+person name,we,"legal, services, security, analytics"
+personal information about individual,teamplify,services
+same basic information most website collect,we,"legal, services, security, analytics"
+timezone,teamplify,services
+timezone,we,"legal, services, security, analytics"
+user session log,we,"legal, services, security, analytics"
+web server log,we,"legal, services, security, analytics"

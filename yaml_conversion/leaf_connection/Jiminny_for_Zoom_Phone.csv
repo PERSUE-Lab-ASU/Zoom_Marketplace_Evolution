@@ -1,0 +1,103 @@
+data_type,collector,purpose
+UNSPECIFIED_DATA,we,"advertising, analytics, security, services"
+access token,we,"advertising, analytics, security, services"
+activity log,UNSPECIFIED_ACTOR,
+activity log,authorized service provider,
+activity log,party involve in event,
+activity log,we,"advertising, analytics, security, services"
+advertiser,service providers,"analytics, services"
+affiliate company,we,"advertising, analytics, security, services"
+analytic provider,service providers,"analytics, services"
+attribute,UNSPECIFIED_ACTOR,
+attribute,authorized service provider,
+attribute,party involve in event,
+attribute,we,"advertising, analytics, security, services"
+billing processing service,service providers,"analytics, services"
+browser version,UNSPECIFIED_ACTOR,
+browser version,authorized service provider,
+browser version,party involve in event,
+browser version,we,"advertising, analytics, security, services"
+call recording,UNSPECIFIED_ACTOR,
+call recording,authorized service provider,
+call recording,party involve in event,
+call recording,we,"advertising, analytics, security, services"
+cdn,service providers,"analytics, services"
+communication network,service providers,"analytics, services"
+contact information,UNSPECIFIED_ACTOR,
+contact information,authorized service provider,
+contact information,party involve in event,
+contact information,service provider,
+contact information,we,"advertising, analytics, security, services"
+content provider,service providers,"analytics, services"
+cookie / pixel tag,UNSPECIFIED_ACTOR,
+cookie / pixel tag,authorized service provider,
+cookie / pixel tag,party involve in event,
+cookie / pixel tag,service providers,"analytics, services"
+cookie / pixel tag,we,"advertising, analytics, security, services"
+correspondence,UNSPECIFIED_ACTOR,
+correspondence,authorized service provider,
+correspondence,party involve in event,
+correspondence,we,"advertising, analytics, security, services"
+crm,service provider,
+crm,we,"advertising, analytics, security, services"
+data optimization service,service providers,"analytics, services"
+datum service,service providers,"analytics, services"
+device identifier,UNSPECIFIED_ACTOR,
+device identifier,authorized service provider,
+device identifier,party involve in event,
+device identifier,we,"advertising, analytics, security, services"
+email,service providers,"analytics, services"
+email address,service provider,
+email address,we,"advertising, analytics, security, services"
+email service provider,service providers,"analytics, services"
+fraud detection service,service providers,"analytics, services"
+hosting co - location service,service providers,"analytics, services"
+information about right,we,"advertising, analytics, security, services"
+insight,UNSPECIFIED_ACTOR,
+insight,authorized service provider,
+insight,party involve in event,
+insight,we,"advertising, analytics, security, services"
+ip address,UNSPECIFIED_ACTOR,
+ip address,authorized service provider,
+ip address,party involve in event,
+ip address,we,"advertising, analytics, security, services"
+legal advisor,service providers,"analytics, services"
+locale setting use,UNSPECIFIED_ACTOR,
+locale setting use,authorized service provider,
+locale setting use,party involve in event,
+locale setting use,we,"advertising, analytics, security, services"
+performance measurement,service providers,"analytics, services"
+person name,we,"advertising, analytics, security, services"
+personal datum contain in it,we,"advertising, analytics, security, services"
+personal datum provide to we,we,"advertising, analytics, security, services"
+phone number,we,"advertising, analytics, security, services"
+photo,we,"advertising, analytics, security, services"
+pixel,UNSPECIFIED_ACTOR,
+pixel,authorized service provider,
+pixel,party involve in event,
+pixel,service providers,"analytics, services"
+pixel,we,"advertising, analytics, security, services"
+preference,UNSPECIFIED_ACTOR,
+preference,authorized service provider,
+preference,party involve in event,
+preference,we,"advertising, analytics, security, services"
+prospect data,service provider,
+prospect data,we,"advertising, analytics, security, services"
+remote access service,service providers,"analytics, services"
+session recording,UNSPECIFIED_ACTOR,
+session recording,authorized service provider,
+session recording,party involve in event,
+session recording,we,"advertising, analytics, security, services"
+session service,service providers,"analytics, services"
+specific information about,we,"advertising, analytics, security, services"
+speech to text service,service providers,"analytics, services"
+support,service providers,"analytics, services"
+text message,service provider,
+text message,we,"advertising, analytics, security, services"
+user agent,UNSPECIFIED_ACTOR,
+user agent,authorized service provider,
+user agent,party involve in event,
+user agent,we,"advertising, analytics, security, services"
+user data,administrator of account to user belong,
+user data,service provider,
+website,service provider,

@@ -1,0 +1,95 @@
+data_type,collector,purpose
+Facebook,social media,
+Google,advertiser,advertising
+Twitter,social media,
+UNSPECIFIED_DATA,UNSPECIFIED_ACTOR,
+UNSPECIFIED_DATA,advertiser,
+UNSPECIFIED_DATA,ai service provider,services
+UNSPECIFIED_DATA,counterpartie,
+UNSPECIFIED_DATA,service provider,
+UNSPECIFIED_DATA,successor,
+UNSPECIFIED_DATA,we,
+aggregate / deidentified / pseudonymized information,social media,
+aggregate / deidentified / pseudonymized information,we,
+analytic provider,service provider,"advertising, services"
+characteristic,we,
+content of email you send,UNSPECIFIED_ACTOR,
+content of email you send,advertiser,advertising
+content of email you send,ai service provider provide enable feature of service,
+content of email you send,counterpartie,
+content of email you send,service provider,"advertising, services"
+content of email you send,successor,
+content of email you send,superhuman,
+content of email you send,we,"analytics, services, advertising, legal, security"
+content of email you send,website in united states,
+customer service provider,service provider,"advertising, services"
+database customer relationship management service,service provider,"advertising, services"
+datum broker,service provider,"advertising, services"
+detail about engagement with they,UNSPECIFIED_ACTOR,
+detail about engagement with they,advertiser,advertising
+detail about engagement with they,ai service provider provide enable feature of service,
+detail about engagement with they,counterpartie,
+detail about engagement with they,service provider,"advertising, services"
+detail about engagement with they,successor,
+detail about engagement with they,superhuman,
+detail about engagement with they,we,"analytics, services, advertising, legal, security"
+detail about engagement with they,website in united states,
+diversity information you provide,we,"analytics, services, advertising, legal, security"
+email address,we,"analytics, services, advertising, legal, security"
+email service provider,service provider,"advertising, services"
+encrypt google authentication token,we,"analytics, services, advertising, legal, security"
+general behavior,we,"analytics, services, advertising, legal, security"
+hosting debug service,service provider,"advertising, services"
+html5,local storage technology,
+image pixel,we,"analytics, services"
+information about email you send,we,"analytics, services, advertising, legal, security"
+information about non - user,we,"analytics, services, advertising, legal, security"
+information about user,advertiser,advertising
+information about user,we,"analytics, services, advertising, legal, security"
+information about visit,separate entity,
+information about visit,we,"analytics, services, advertising, legal, security"
+information not list,UNSPECIFIED_ACTOR,
+information not list,advertiser,advertising
+information not list,ai service provider provide enable feature of service,
+information not list,counterpartie,
+information not list,service provider,"advertising, services"
+information not list,successor,
+information not list,superhuman,
+information not list,we,"analytics, services, advertising, legal, security"
+information not list,website in united states,
+information you provide to we in connection with job application,we,"analytics, services, advertising, legal, security"
+javascript pixel,we,"analytics, services"
+large amount of datum,local storage technology,
+local weather report,UNSPECIFIED_ACTOR,
+mobile application,we,"analytics, services, advertising, legal, security"
+number of page view,we,
+number of visitor,we,
+payment information,Stripe,
+payment information,UNSPECIFIED_ACTOR,
+payment information,advertiser,advertising
+payment information,ai service provider provide enable feature of service,
+payment information,counterpartie,
+payment information,payment service provider,
+payment information,service provider,"advertising, services"
+payment information,successor,
+payment information,superhuman,
+payment information,we,"analytics, services, advertising, legal, security"
+payment information,website in united states,
+payment processor,service provider,"advertising, services"
+person name,we,"analytics, services, advertising, legal, security"
+phone number,we,"analytics, services, advertising, legal, security"
+preference for,UNSPECIFIED_ACTOR,
+preference for,advertiser,advertising
+preference for,ai service provider provide enable feature of service,
+preference for,counterpartie,
+preference for,service provider,"advertising, services"
+preference for,successor,
+preference for,superhuman,
+preference for,we,"analytics, services, advertising, legal, security"
+preference for,website in united states,
+relate information,we,"analytics, services, advertising, legal, security"
+related service provide,we,"analytics, services, advertising, legal, security"
+survey provider,service provider,"advertising, services"
+time spend on page,we,
+traffic news,UNSPECIFIED_ACTOR,
+type of content,we,"analytics, services, advertising, legal, security"
